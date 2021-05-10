@@ -1,436 +1,436 @@
 ,unique_identifier,text,sentiment_polarity,sentiment_subjectivity,lda_topics
-0,1.1.1,"Controversies over video games often center on topics such as video game graphic violence , sex and sexism , violent and gory scenes , partial or full nudity , portrayal of criminal behavior , racism , and other provocative and objectionable material .",skip,skip,None
-1,2.1.1,Video games have been studied for links to addiction and aggression .,skip,skip,None
-2,2.2.1,Earlier meta - analyses -LRB- an analysis of several studies -RRB- were conflicting .,skip,skip,None
-3,2.3.1,A 2001 study found that exposure to violent video games causes at least a temporary increase in aggression and that this exposure correlates with aggression in the real world.,skip,skip,None
-4,2.4.1,A decrease in prosocial behavior -LRB- caring about the welfare and rights of others -RRB- was also noted .,skip,skip,None
-5,2.5.1,Another 2001 meta-analyses using similar methods and a more recent 2009 study focusing specifically on serious aggressive behavior concluded that video game violence is not related to serious aggressive behavior in real life.,skip,skip,None
-6,3.1.1,Many potential positive effects have been proposed .,skip,skip,None
-7,3.2.1,Recent research has suggested,skip,skip,None
-8,3.2.2,"some violent video games may actually have a prosocial effect in some contexts , for example , team play",skip,skip,None
-9,4.1.1,It has been argued there is generally a lack of quality studies which can be relied upon and that the video game industry has become an easy target for the media to blame for many modern day problems.,skip,skip,None
-10,4.2.1,"The most recent large scale meta-anlysis-- examining 130 studies with over 130,000 subjects worldwide-- concluded that exposure to violent video games causes both short term and long term aggression in players and decreases empathy and prosocial behavior.",skip,skip,None
-11,4.3.1,"However, this meta-analysis was severely criticized in the same issue of the same journal for a number of methodological flaws, including failure to distinguish clinically valid from unstandardized aggression measures and for failing to solicit studies from researchers who have questioned whether causal links exist, thus biasing the sample of included studies.",skip,skip,None
-12,5.1.1,"The Entertainment Software Association states that 20% of video game players are boys under the age of 17, 26% are over 50 (regardless of gender), and that the average game player is 37.",skip,skip,None
-13,6.1.1,"In a survey of 1,102 teenagers aged 12 to 17, 97% of them said that they play video games; moreover, half of the survey respondents said that they had played a video game in the last day.",skip,skip,None
-14,6.2.1,Three-quarters of parents who were surveyed said that they check the ratings on their kid's games.,skip,skip,None
-15,6.3.1,"However , half of the boys",skip,skip,None
-16,6.3.2,were asked about their favorite game,skip,skip,None
-17,7.1.1,"The adult demographic is the fastest - growing segment of the American video games market with 32 % of adults playing video games ,",skip,skip,None
-18,7.1.2,critics have suggested,skip,skip,None
-19,7.1.3,such statistics are often used,skip,skip,None
-20,7.1.4,to deflect from the fact,skip,skip,None
-21,7.1.5,almost all American children are exposed to video games,skip,skip,None
-22,8.1.1,"As of 2011 , over 40 % of players are female .",skip,skip,None
-23,8.2.1,"However, a 1998 study conducted at the University of Central Florida found that of the 33 games sampled, 41% do not feature female characters, 28% portrayed women as sex objects, 21% depicted violence against women, and 30% did not represent the female population at all.",skip,skip,None
-24,8.3.1,"Furthermore, characterizations of women tended to be stereotypical: highly sexualized (""visions of beauty with large breasts and hips""), dependent (""victim or as the proverbial 'Damsel in Distress'""), opposed (""evil or as obstacles to the goal of the game""), and trivial (""females depicted [..] in fairly non-significant roles"").",skip,skip,None
-25,9.1.1,"However, this report has been criticized for not representing a wide range of video games, and that the games analysed, being up to 20 years old, do not represent the current status of the video game industry, and that strong female characters are now increasingly more prevalent.",skip,skip,None
-26,10.1.1,One of the most common criticisms of video games is,skip,skip,None
-27,10.1.2,they increase the violent tendencies among youth,skip,skip,None
-28,10.2.1,"However , several major studies by groups such as The Harvard Medical School Center for Mental Health , The Journal of Adolescent Health , and The British Medical Journal have shown no conclusive link between video game usage and violent activity . """,skip,skip,None
-29,10.3.1,"One study did find an increase in reports of bullying, noting, ""Our research found that certain patterns of video game play were much more likely to be associated with these types of behavioral problems than with major violent crime such as school shootings.",skip,skip,None
-30,10.4.1,"One of the first widely accepted controversial video games was developer Exidy 's 1976 title Death Race ,",skip,skip,None
-31,10.4.2,in which,skip,skip,None
-32,10.4.3,players controlled cars,skip,skip,None
-33,10.4.4,"ran over pixelated representations of "" gremlins """,skip,skip,None
-34,10.5.1,The game caused such an outcry,skip,skip,None
-35,10.5.2,it was pulled from store shelves and profiled on 60 Minutes,skip,skip,None
-36,10.6.1,Long Island PTA president Ronnie Lamm pushed for legislation in the early 1980s,skip,skip,None
-37,10.6.2,to place restrictions on,skip,skip,None
-38,10.6.3,how close video,skip,skip,None
-39,10.6.4,"game arcades could be to schools ,",skip,skip,None
-40,10.6.5,they caused children,skip,skip,None
-41,10.6.6,to fight,skip,skip,None
-42,10.7.1,"Portrayals of violence allegedly became more realistic with time , and so politicians such as U.S.",skip,skip,None
-43,10.8.1,Senator Joe Lieberman conducted hearings during the 1990s regarding,skip,skip,None
-44,10.8.2,"he referred to as "" violent video games """,skip,skip,None
-45,10.8.3,", in his opinion , included such games as Mortal Kombat",skip,skip,None
-46,10.9.1,"His sentiments have been echoed by certain researchers, such as Dr. Craig A. Anderson who testified before the Senate, ""Some studies have yielded nonsignificant video game effects, just as some smoking studies failed to find a significant link to lung cancer.",skip,skip,None
-47,10.10.1,"But when one combines all relevant empirical studies using meta-analytic techniques it shows that violent video games are significantly associated with: increased aggressive behavior, thoughts, and affect; increased physiological arousal; and decreased pro-social (helping) behavior.""",skip,skip,None
-48,10.11.1,Anderson himself was later criticized in a 2005 video game court case for,skip,skip,None
-49,10.11.2,to cite research,skip,skip,None
-50,10.11.3,differed from his view,skip,skip,None
-51,11.1.1,"Grand Theft Auto: Vice City is an example of a video game that caused controversy, over and above the debate surrounding the violent gameplay, for allegedly encouraging racist hate crimes.",skip,skip,None
-52,11.2.1,"The game takes place in "" Vice City "" , a fictionalized Miami , in 1986 , and involves a gang war between Haitians and Cuban refugees , with the player 's character",skip,skip,None
-53,11.2.2,getting involved and encouraging the inter-ethnic violence,skip,skip,None
-54,11.3.1,the Haitian - American Coalition threatened,skip,skip,None
-55,11.3.2,to sue,skip,skip,None
-56,12.1.1,Our Kids to Kill,skip,skip,None
-57,12.2.1,"During heights of video game controversy he has been interviewed on the content of his books , and has repeatedly used",skip,skip,None
-58,12.2.2,"the term "" murder simulator "" to describe first - person shooter games",skip,skip,None
-59,12.3.1,"He argues that video game publishers unethically train children in the use of weapons and, more importantly, harden them emotionally to the act of murder by simulating the killing of hundreds or thousands of opponents in a single typical video game.",skip,skip,None
-60,12.4.1,"Grossman 's conclusions have been criticized by some scholars , however , as highly selective and misleading .",skip,skip,None
-61,13.1.1,violent video games may increase mild forms of aggressive behavior in children and young adults,skip,skip,None
-62,13.2.1,Analyses also showed,skip,skip,None
-63,13.2.2,"exposure to violent video games results in increased physiological arousal , aggression - related thoughts and feelings as well as decreased prosocial behavior",skip,skip,None
-64,13.3.1,"The research comprised a meta analysis , laboratory and field studies .",skip,skip,None
-65,13.4.1,However meta-analyses by other groups have not replicated these findings  and these other groups have been critical of attempts to link violent games with aggression.,skip,skip,None
-66,13.5.1,"For instance John Sherry has said -LRB- 2007 -RRB- "" Further ,",skip,skip,None
-67,13.5.2,do some researchers -LRB- e.g.,skip,skip,None
-68,13.6.1,"Gentile & Anderson , 2003 -RRB- continue",skip,skip,None
-69,13.6.2,to argue,skip,skip,None
-70,13.6.3,video games are dangerous despite evidence to the contrary ? ”,skip,skip,None
-71,14.2.1,"compared the effects of violent video games to those of smoking on lung cancer This view has been challenged , however .",skip,skip,None
-72,14.3.1,"For instance, Ferguson (2010) has ruled out a relationship between video game violence and serious aggression, concluding ""Taken together these meta-analyses range from those which argue against meaningful effects to those which find weak effects.",skip,skip,None
-73,14.4.1,Thus the debate on video game violence has been reduced to,skip,skip,None
-74,14.4.2,video game violence produces no effects … or almost no effects,skip,skip,None
-75,14.5.1,""" .",skip,skip,None
-76,15.1.1,Other studies reach the conclusion,skip,skip,None
-77,15.1.2,violence in video games is not causally linked with aggressive tendencies,skip,skip,None
-78,15.2.1,"to say , "" We",skip,skip,None
-79,15.3.1,But the impact was very small compared to other things .,skip,skip,None
-80,15.4.1,"Some may not be happy with that, but that’s where the science is.""",skip,skip,None
-81,15.5.1,"A meta - analysis by psychologist Jonathan Freedman ,",skip,skip,None
-82,15.5.2,reviewed over 200 published studies and found,skip,skip,None
-83,15.5.3,"that the "" vast and overwhelming majority "" did not find a causal link",skip,skip,None
-84,15.6.1,violent books and 27 % were attracted to violent films,skip,skip,None
-85,15.7.1,An Australian study found,skip,skip,None
-86,15.7.2,only children already predisposed to violence were affected by violent games,skip,skip,None
-87,15.8.1,A recent long - term outcome study of youth found no long - term relationship between,skip,skip,None
-88,15.8.2,playing violent video game and youth violence or bullying,skip,skip,None
-89,16.1.1,A recent longitudinal study of youth in Germany found,skip,skip,None
-90,16.1.2,aggressive children tend,skip,skip,None
-91,16.1.3,"to select more violent video games , not the inverse",skip,skip,None
-92,16.2.1,violent games are psychologically harmful to minors,skip,skip,None
-93,16.3.1,other studies may have found spurious effects due to,skip,skip,None
-94,16.3.2,"focusing on youth self - report of aggression rather than reports by parents or teachers , the so called "" single responder bias """,skip,skip,None
-95,17.1.1,In Grand Theft Childhood : The Surprising Truth About Violent Video Games and,skip,skip,None
-96,17.1.2,"Parents Can Do , researchers / authors Lawrence Kutner , PhD , and Cheryl K. Olson , ScD",skip,skip,None
-97,17.2.1,"The researchers' study shows that adolescents that don't play video games at all are most at-risk for violent behavior (but without statistical significance), claiming that video game play is part of an adolescent boy's normal social setting.",skip,skip,None
-98,17.3.1,"However , they do not completely deny violent -LRB- M - rated -RRB- video games ' negative influences on pre-teens and teenagers .",skip,skip,None
-99,17.4.1,Kutner and Olson say the views of both alarmists and the video game industry are often supported by flawed or misconstrued studies.,skip,skip,None
-100,17.5.1,"The real risks according to them are not just about exposure to violence ,",skip,skip,None
-101,17.5.2,gore and sex but are more subtle with some children at greater risk than others,skip,skip,None
-102,18.1.1,Official records show,skip,skip,None
-103,18.1.2,"violent crime rates have declined dramatically since the early 1990s in the USA , among both juveniles and adults",skip,skip,None
-104,18.2.1,This is despite sales of violent video games exploding and their content becoming increasingly graphic during the same period .,skip,skip,None
-105,18.3.1,"Video game violence is not the primary contributor to societal violence , however ,",skip,skip,None
-106,18.3.2,there are many other factors at play,skip,skip,None
-107,19.1.1,According to media,skip,skip,None
-108,20.1.1,Fears have been expressed about exposure to violent video games .,skip,skip,None
-109,20.2.1,"For example, politicians and other people and organizations have considered video games effects on society, where the causative factor was not clear, ""there has been some fears specially from UK news service that hijackers may have used flight simulator software to practice flying jet planes, also, Beam Breakers removed all references to the World Trade Center already used in the game 1"".",skip,skip,None
-110,21.1.1,"Some researchers believe that while playing violent video games leads to violent actions, there are also biological influences that impact a person's choices.",skip,skip,None
-111,21.2.1,"According to Sean P. Neubert of Rochester Institute of Technology, a person who is biologically predisposed to aggression will be more strongly influenced by violent scenes and thus will have a greater risk for carrying out destructive actions.",skip,skip,None
-112,21.3.1,For example someone with antisocial personality disorder has a greater risk of,skip,skip,None
-113,21.3.2,going out and shooting someone after,skip,skip,None
-114,21.3.3,playing hours of Grand Theft Auto or a game of a similar nature,skip,skip,None
-115,22.1.1,Other biological theories of aggression and violence have specifically excluded video game and other media effects .,skip,skip,None
-116,22.2.1,a factor to have much influence,skip,skip,None
-117,23.1.1,Sexual themes in video games are much less tolerated in the US than violent themes; the most well-known example of this is the Hot Coffee controversy.,skip,skip,None
-118,23.2.1,"In June 2005 , an entire portion of unused code was found within the main script of Grand Theft Auto : San Andreas , allowing the player",skip,skip,None
-119,23.2.2,to simulate sex with the main character 's girlfriends,skip,skip,None
-120,23.3.1,"The game could be accessed in the PC version via a mod , and through Action Replay codes in the PS2 and Xbox versions .",skip,skip,None
-121,23.4.1,"The fact that the scene was left on the disc, and could be accessed by altering a few bytes of the game's code via a hex editor, prompted the Entertainment Software Rating Board (ESRB) to change the rating of San Andreas to ""Adults Only"" on July 20, 2005.",skip,skip,None
-122,23.5.1,The game was pulled from many stores; Rockstar Games posted a loss of $28.8 million that quarter.,skip,skip,None
-123,23.6.1,"The most controversial video game of this nature was Rapelay , a game revolving around rape .",skip,skip,None
-124,23.7.1,Worldwide public campaigns against it led to the game being banned .,skip,skip,None
-125,24.1.1,Almost no North American video games display full frontal nudity .,skip,skip,None
-126,24.2.1,"Sexual themes are more common in Japanese PC games, but console companies such as Microsoft, Nintendo and Sony do not license adult-only content games for their systems.",skip,skip,None
-127,25.1.1,Bias of gender exists in games .,skip,skip,None
-128,25.2.1,Terry Flew writes,skip,skip,None
-129,25.2.2,generally representations of gender in digital games are stereotyped,skip,skip,None
-130,25.3.1,"In many games, male characters are portrayed as hard bodied, muscled men, and female characters are portrayed as soft bodied, nearly naked women with large breasts.",skip,skip,None
-131,25.4.1,"In addition , Flew also believes",skip,skip,None
-132,25.4.2,female characters in games are usually portrayed in a narrowly stereotypical manner,skip,skip,None
-133,25.5.1,Females are usually constructed as visual objects,skip,skip,None
-134,25.5.2,wait for male rescue and need,skip,skip,None
-135,25.5.3,"to be protected ,",skip,skip,None
-136,25.5.4,men are portrayed with more power,skip,skip,None
-137,25.6.1,Such depiction of females in games reflects underlying social ideas of dominance of male over female and themes of masculinity .,skip,skip,None
-138,25.7.1,"Although not all video games contain such stereotypes, there are enough to make it a general trait.",skip,skip,None
-139,25.8.1,"Ultimately , Flew ends with the statement of the broad demographic 's excessive demands , in that ' . .",skip,skip,None
-140,25.8.2,different genders have different gaming,skip,skip,None
-141,25.9.1,' .,skip,skip,None
-142,26.1.1,"However , some video games do not conform to traditional gender roles such as the male being dominant and the female being submissive .",skip,skip,None
-143,26.2.1,"One such example would be the protagonist Lara Croft in the Tomb Raider video game series ,",skip,skip,None
-144,26.2.2,"is presented as a beautiful , clever , athletic , and brave English archaeologist - adventurer",skip,skip,None
-145,26.3.1,"Croft has achieved popularity with both males and females as an action heroine ,",skip,skip,None
-146,26.3.2,depending on,skip,skip,None
-147,26.3.3,feminist perspective is applied,skip,skip,None
-148,26.4.1,"Recently the emergence of female gamers and developers in the industry has led to changes in video games to accommodate this demographic; where Lara Croft is concerned, this has led to games developer Eidos remodelling the character for Tomb Raider: Legend, so that the character has a more believable figure and less skimpy outfits so as not to offend female gamers.",skip,skip,None
-149,26.5.1,"Although many video games emphasize a hypermasculine identity for male characters, this may in fact reflect current gender roles and stereotypes found in Western society; whereas, video games originating from Asia often include androgynous male characters, influenced by anime, with thinner bodies, softer faces, big eyes and long hair, such as the iconic characters of Sephiroth in Final Fantasy VII and Link in the Legend of Zelda.",skip,skip,None
-150,27.1.1,Reinforcement of sexist stereotypes has also been claimed as an effect of violent video games .,skip,skip,None
-151,28.1.1,"Lesbian , gay , bisexual , and transgender -LRB- LGBT -RRB- characters have been depicted in some video games since the 1980s .",skip,skip,None
-152,28.2.1,"LGBT content has been subject to changing rules and regulations by game companies, which are generally examples of heterosexism in that heterosexuality is normalized while homosexuality is subject to additional censorship or ridicule.",skip,skip,None
-153,28.3.1,"Sexual orientation and gender identity have served a significant role in some console and personal computer games , with",skip,skip,None
-154,28.3.2,the trend being toward greater visibility of LGBT identities,skip,skip,None
-155,29.1.1,Over two hundred studies have been published which examine the effects of violence in entertainment media and which at least partially focus on violence in video games in particular.,skip,skip,None
-156,29.2.1,"Some psychological studies have shown a correlation between children playing violent video games and suffering psychological effects ,",skip,skip,None
-157,29.2.2,many other studies find no such link causation,skip,skip,None
-158,30.1.1,"In 2004 the American Psychological Association summarized the issue as ""Psychological research confirms that violent video games can increase children's aggression, but that parents moderate the negative effects.""",skip,skip,None
-159,30.2.1,"A more recent press release by the APA in 2010 summarized recent research findings as ""Bad effects depend on certain personality traits; games can offer learning opportunities for others"".",skip,skip,None
-160,30.3.1,"Craig Anderson has conducted meta-analysis of previous studies and claimed they have demonstrated five effects: ""increased aggressive behavior, thoughts, and affect; increased physiological arousal; and decreased pro-social (helping) behavior"".",skip,skip,None
-161,30.4.1,other studies have explicitly denied,skip,skip,None
-162,30.4.2,such a connection exists,skip,skip,None
-163,30.6.1,"More recently , Block and Crain -LRB- 2007 -RRB- claim",skip,skip,None
-164,30.6.2,"in a critical paper by Anderson -LRB- and his co-author , Bushman -RRB- , data was improperly calculated and produced fallacious results",skip,skip,None
-165,30.7.1,"Other meta-analyses by other groups, such as by Ferguson and Kilburn (2009) and Sherry (2007) have repudiated any links between video game violence and aggression, as have recent reviews by the Australian Government (2010) and the US Supreme Court (June, 2011).",skip,skip,None
-166,31.1.1,"After conducting a two-year study of more than 1,200 Middle School children about their attitudes towards video games, Harvard Medical School researchers Lawrence Kutner and Cheryl Olson found that playing video games did not have a particularly negative effect on the researched group.",skip,skip,None
-167,32.1.1,"The portrayal of race in video games has also recently become an issue , seen in games such as the Grand Theft Auto series , 50 Cent : Bulletproof , and Def Jam : Fight for NY .",skip,skip,None
-168,32.2.1,"In 2009, the issue of race emerged with the release of Resident Evil 5, which has the player kill numerous African enemies, resulting in arguments from both sides of the issue.",skip,skip,None
-169,32.3.1,censor the portrayal of black antagonists,skip,skip,None
-170,32.4.1,A similar outrage also occurred,skip,skip,None
-171,32.4.2,it was revealed,skip,skip,None
-172,32.4.3,""" Left 4 Dead 2 "" , set in New Orleans , would include African - American zombies",skip,skip,None
-173,32.5.1,These and other games demonstrate an interesting trend towards the increased presence of racial differences in video games .,skip,skip,None
-174,32.6.1,"Indeed , it is true",skip,skip,None
-175,32.6.2,that “,skip,skip,None
-176,32.6.3,"Significantly , these games , and particularly their questionable claims of authenticity , establish compelling learning environments",skip,skip,None
-177,32.6.4,help facilitate,skip,skip,None
-178,32.6.5,young gamers develop their knowledge of and familiarity with popular views of race and urban culture . ”,skip,skip,None
-179,33.1.1,Video game addiction is excessive or compulsive use of computer and video games,skip,skip,None
-180,33.1.2,interferes with daily life,skip,skip,None
-181,33.2.1,Instances have been reported in,skip,skip,None
-182,33.2.2,"users play compulsively ,",skip,skip,None
-183,33.2.3,isolating themselves from family and friends or from other forms of social contact,skip,skip,None
-184,33.3.1,"to attract political controversy for its "" addictive properties """,skip,skip,None
-185,34.1.1,to be related to video games in recent decades,skip,skip,None
-186,35.1.1,"On November 22 , 1997 , thirteen - year - old Noah Wilson died",skip,skip,None
-187,35.1.2,his friend Yancy stabbed him in the chest with a kitchen knife,skip,skip,None
-188,35.2.1,"The mother of Noah , Andrea Wilson , alleged",skip,skip,None
-189,35.2.2,her son was stabbed to death because of an obsession with the Midway game Mortal Kombat,skip,skip,None
-190,35.3.1,She alleged,skip,skip,None
-191,35.3.2,Yancy S. was so obsessed with the game,skip,skip,None
-192,35.3.3,he believed himself,skip,skip,None
-193,35.3.4,to be the character Cyrax,skip,skip,None
-194,35.4.1,This character purportedly uses a finishing move,skip,skip,None
-195,35.4.2,getting the opponent in a headlock and stabbing them in the chest,skip,skip,None
-196,35.5.1,Wilson alleged,skip,skip,None
-197,35.5.2,this was the reason for her son 's death,skip,skip,None
-198,35.6.1,"The conclusion of Wilson v. Midway Games, Inc. was, according to the court case report, ""Wilson's complaint fails to state a claim upon which relief can be granted.""",skip,skip,None
-199,36.1.1,"On April 20 , 1999 , 18 - year - old Eric Harris and 17 - year - old Dylan Klebold killed 12 students and a teacher in the Columbine High School massacre .",skip,skip,None
-200,36.2.1,The two were allegedly obsessed with the video game Doom .,skip,skip,None
-201,36.3.1,"Harris also created WADs for the game , and created a large mod named "" Tier """,skip,skip,None
-202,36.3.2,"he called his "" life 's work",skip,skip,None
-203,36.4.1,the pair practiced the massacre in Doom,skip,skip,None
-204,37.1.1,"In April 2000 , 16 - year - old Spanish teenager José Rabadán Pardo murdered his father , mother and his sister with a katana ,",skip,skip,None
-205,37.1.2,"he was on an "" avenging mission "" by Squall Leonhart , the main character of the video game Final Fantasy VIII",skip,skip,None
-206,38.1.1,after what,skip,skip,None
-207,38.1.2,his mother claimed,skip,skip,None
-208,38.2.1,"Woolley's mother stated, ""I think the way the game is written is that when you first start playing it, it is fun, and you make great accomplishments.",skip,skip,None
-209,38.3.1,"And then the further you get into it, the higher level you get, the longer you have to stay on it to move onward, and then it isn't fun anymore.",skip,skip,None
-210,38.4.1,"But by then you're addicted, and you can't leave it.""",skip,skip,None
-211,39.1.1,"In February 2003 , 16 - year - old American Dustin Lynch was charged with aggravated murder and made an insanity defense",skip,skip,None
-212,39.1.2,"he was "" obsessed "" with Grand Theft Auto III",skip,skip,None
-213,39.2.1,"Long time video game opponent and former attorney Jack Thompson encouraged the father of victim JoLynn Mishne to pass a note to the judge that said ""the attorneys had better tell the jury about the violent video game that trained this kid [and] showed him how to kill our daughter, JoLynn.",skip,skip,None
-214,39.3.1,they do n't,skip,skip,None
-215,39.4.1,"Lynch later retracted his insanity plea, and his mother Jerrilyn Thomas commented, ""It has nothing to do with video games or Paxil, and my son's no murderer.""",skip,skip,None
-216,40.1.1,"On June 7 , 2003 , 18 - year - old American Devin Moore shot and killed two policemen and a dispatcher after",skip,skip,None
-217,40.1.2,grabbing one of the officers ' weapons following an arrest for the possession of a stolen vehicle,skip,skip,None
-218,40.2.1,"At trial , the defense claimed",skip,skip,None
-219,40.2.2,Moore had been inspired by the video game Grand Theft Auto : Vice City,skip,skip,None
-220,41.1.1,"On June 25 , 2003 , two American step brothers , Joshua and William Buckner , aged 14 and 16 , respectively , used a rifle to fire at vehicles on Interstate 40 in Tennessee ,",skip,skip,None
-221,41.1.2,killing a 45 - year - old man and wounding a 19 - year - old woman,skip,skip,None
-222,41.2.1,they had been inspired by Grand,skip,skip,None
-223,42.1.1,"On February 27 , 2004 in Leicester , UK , 17 - year - old Warren Leblanc lured 14 - year - old Stefan Pakeerah into a park and murdered him by",skip,skip,None
-224,42.1.2,stabbing him repeatedly with a claw hammer and knife,skip,skip,None
-225,42.2.1,"Leblanc was reportedly obsessed with Manhunt ,",skip,skip,None
-226,42.2.2,investigation quickly revealed,skip,skip,None
-227,42.2.3,the killer did not even own a copy of the game,skip,skip,None
-228,42.3.1,The victim 's mother Giselle Pakeerah has been campaigning against violent video games in the UK ever since .,skip,skip,None
-229,42.4.1,"The police investigating the case have dismissed any link ,",skip,skip,None
-230,42.4.2,discussed in the relevant articles,skip,skip,None
-231,43.1.1,Qiu Chengwei stabbed 26 - year - old Zhu Caoyuan to death over a dispute regarding the sale of a virtual weapon the two,skip,skip,None
-232,44.1.1,"On December 27, 2004, 13-year-old Xiao Yi committed suicide by jumping from a twenty-four story building in Tianjin, China, as a result of the effects of his addiction, hoping to be ""reunited"" with his fellow gamers in the afterlife, according to his suicide notes.",skip,skip,None
-233,44.2.1,"Prior to his death , he had spent 36 consecutive hours",skip,skip,None
-234,44.2.2,playing Warcraft III,skip,skip,None
-235,45.1.1,"In August 2005 , 28 - year - old South Korean Lee Seung Seop died after",skip,skip,None
-236,45.1.2,playing StarCraft for 50 hours straight,skip,skip,None
-237,46.1.1,"In June 2007, 22-year-old Alejandro Garcia from Texas shot dead his cousin after arguing over whose turn it was to play the game Scarface: The World Is Yours.",skip,skip,None
-238,46.2.1,"He pleaded guilty for murder at his trial on April 6 , 2011 , and will serve 15 to 30 years in prison .",skip,skip,None
-239,47.1.1,"In September 2007 , a Chinese man in Guangzhou , China , died after",skip,skip,None
-240,47.1.2,playing Internet video games for three consecutive days in an Internet cafe,skip,skip,None
-241,48.1.1,"In September 2007 in Ohio, 16-year-old Daniel Petric snuck out of his bedroom window to purchase the game Halo 3 against the orders of his father, a minister at New Life Assembly of God in Wellington, Ohio, U.S. His parents eventually banned him from the game after he spent up to 18 hours a day with it, and secured it in a lockbox in a closet where the father also kept a 9mm handgun, according to prosecutors.",skip,skip,None
-242,48.2.1,"In October 2007 , Daniel used his father 's key",skip,skip,None
-243,48.2.2,to open the lockbox and remove the gun and the game,skip,skip,None
-244,48.3.1,"He then entered the living room of his house and shot both of them in the head ,",skip,skip,None
-245,48.3.2,killing his mother and wounding his father,skip,skip,None
-246,48.4.1,"Petric is sentenced to life in prison without parole ,",skip,skip,None
-247,48.4.2,was later commuted to 23 years in imprisonment,skip,skip,None
-248,48.5.1,Defense attorneys argued,skip,skip,None
-249,48.5.2,Petric was influenced by video game addiction,skip,skip,None
-250,48.6.1,he killed his parents,skip,skip,None
-251,49.1.1,"In December 2007 , 17 - year - old Lamar Roberts and 16 - year - old Heather Trujillo were accused of",skip,skip,None
-252,49.1.2,beating a seven - year - old girl to death,skip,skip,None
-253,49.2.1,They are said,skip,skip,None
-254,49.2.2,"to have been imitating the moves taken from the game "" Mortal Kombat """,skip,skip,None
-255,50.1.1,"In December 2007 , a Russian man was beaten to death over an argument in the MMORPG Lineage II .",skip,skip,None
-256,50.2.1,The man was killed,skip,skip,None
-257,50.2.2,his guild and a rival one challenged each other to a real - life brawl,skip,skip,None
-258,51.1.1,False reports initially claimed,skip,skip,None
-259,51.1.2,"Seung - Hui Cho , the killer in the 2007 Virginia Tech massacre was an avid Counter-Strike player",skip,skip,None
-260,51.2.1,"However , police reports said",skip,skip,None
-261,51.2.2,roommates of Cho had never seen,skip,skip,None
-262,51.2.3,him play any video games,skip,skip,None
-263,51.3.1,"Despite these discoveries, disbarred attorney Jack Thompson continued to erroneously claim that video games were to blame.",skip,skip,None
-264,52.1.1,"In June 2008 , four teens allegedly obsessed with Grand Theft Auto IV went on a crime spree after",skip,skip,None
-265,52.1.2,"being in New Hyde Park , New York",skip,skip,None
-266,52.2.1,"They first robbed a man, knocking his teeth out and then they stopped a woman driving a black BMW and stole her car and her cigarettes.",skip,skip,None
-267,53.1.1,"On August 2 , 2008 , Polwat Chinno , a 19 - year - old Thai teenager , stabbed a Bangkok taxi driver to death during an attempt",skip,skip,None
-268,53.1.2,to steal the driver 's cab in order,skip,skip,None
-269,53.1.3,to obtain money,skip,skip,None
-270,53.1.4,to buy a copy of Grand Theft Auto IV,skip,skip,None
-271,53.2.1,A police official said,skip,skip,None
-272,53.2.2,the teen was trying,skip,skip,None
-273,53.2.3,to copy a similar act in the game,skip,skip,None
-274,53.3.1,"As a consequence , officials ordered the banning of the game itself and later the series ,",skip,skip,None
-275,53.3.2,"led its distributor , New Era Interactive Media ,",skip,skip,None
-276,53.3.3,to withdraw it,skip,skip,None
-277,54.1.1,"On October 13 , 2008 , the disappearance of Brandon Crisp and his subsequent death involving , according to his parents , obsessive playing of Call of Duty 4 : Modern Warfare has been referenced in discussions about video game obsession and spawned a report aired by CBC 's the fifth estate on video game addiction and Brandon 's story titled "" Top Gun "" , subtitled",skip,skip,None
-278,54.1.2,""" When a video",skip,skip,None
-279,54.1.3,gaming obsession turns to addiction and tragedy,skip,skip,None
-280,55.1.1,"In January 2010 , 9 - year - old Anthony Maldonado was stabbed by relative Alejandro Morales after an argument regarding Maldonado 's recently purchased copy of Tony Hawk : Ride and PlayStation 3 console .",skip,skip,None
-281,56.1.1,"In January 2010 , Gary Alcock punched , slapped and pinched his partner 's 15 - month - old daughter in the three weeks leading up to her death",skip,skip,None
-282,56.1.2,he delivered a fatal blow to the stomach,skip,skip,None
-283,56.1.3,tore her internal organs,skip,skip,None
-284,56.1.4,she interrupted him,skip,skip,None
-285,56.1.5,playing his Xbox,skip,skip,None
-286,56.2.1,She died from internal bleeding after,skip,skip,None
-287,56.2.2,"suffering 35 separate injuries including multiple bruises , rib fractures and brain damage ,",skip,skip,None
-288,56.2.3,were comparable to injuries suffered in a car crash,skip,skip,None
-289,56.3.1,Alcock was jailed for life and must serve at least 21 years .,skip,skip,None
-290,57.1.1,"In May 2010 , French gamer Julien Barreaux located and stabbed a fellow player",skip,skip,None
-291,57.1.2,had stabbed Barreaux on the game Counter-Strike,skip,skip,None
-292,57.2.1,The judge at his trial called him,skip,skip,None
-293,57.2.2,""" a menace to society",skip,skip,None
-294,58.1.1,"On November 29 , 2010 in South Philadelphia , Pennsylvania , 16 - year - old boy Kendall Anderson bludgeoned his mother to death in her sleep with a claw hammer",skip,skip,None
-295,58.1.2,she took away his PlayStation,skip,skip,None
-296,59.1.1,"On April 9 , 2011 in Alphen Aan Den Rijn , The Netherlands , 24 - year - old Tristan van der Vlis opened fire in a shopping mall ,",skip,skip,None
-297,59.1.2,"releasing more than a hundred bullets with a semi-automatic rifle and a handgun , killing 6 people and wounding 17 others ,",skip,skip,None
-298,59.1.3,after which,skip,skip,None
-299,59.1.4,he also killed himself,skip,skip,None
-300,59.2.1,"A fair amount of attention was given to the fact that Van Der Vlis had been playing Call of Duty: Modern Warfare 2 and to the alleged similarities between the events in Alphen a/d Rijn and the controversial ""No Russian"" mission in the game (also known as the 'Airport Massacre') where the player can choose to (or choose not to) partake in the killing of a large group of innocent people inside an airport terminal.",skip,skip,None
-301,60.1.1,Several theoretical approaches have been applied to potential video game violence effects -LRB- or lack of effects -RRB- .,skip,skip,None
-302,60.2.1,"These models compete ,",skip,skip,None
-303,60.2.2,to explain,skip,skip,None
-304,60.2.3,video games may or may not have effects on players,skip,skip,None
-305,61.1.1,"For example the Catalyst Model of aggression comes from a diathesis - stress perspective ,",skip,skip,None
-306,61.1.2,aggression is due to a combination of genetic risk and environmental strain,skip,skip,None
-307,61.2.1,The Catalyst Model suggests,skip,skip,None
-308,61.2.2,"stress , coupled with antisocial personalities is most salient in the creation of aggression",skip,skip,None
-309,61.3.1,The Catalyst Model does allow that proximal influences,skip,skip,None
-310,61.3.2,such as,skip,skip,None
-311,61.3.3,family or peers may influence aggressiveness,skip,skip,None
-312,61.4.1,However the Catalyst Model specifically states,skip,skip,None
-313,61.4.2,media influences are too weak and distant,skip,skip,None
-314,61.4.3,to have much influence,skip,skip,None
-315,62.1.1,"having an influence on people , proposing",skip,skip,None
-316,62.1.2,"a participant 's thoughts , feelings and physical arousal can be affected by simulated violence",skip,skip,None
-317,62.2.1,this creates an effect on an individual 's interpretation of an aggressive or violent act,skip,skip,None
-318,63.1.1,The GAM claims,skip,skip,None
-319,63.1.2,video games have both short - and long - term effects,skip,skip,None
-320,63.3.1,"violent video games promote violent behavior , attitudes and beliefs by",skip,skip,None
-321,63.3.2,desensitizing an individual to aggression,skip,skip,None
-322,64.1.1,"In response to concerns about video games , governments around the globe have enacted or attempted",skip,skip,None
-323,64.1.2,to enact legislation,skip,skip,None
-324,64.1.3,"regulating , prohibiting , or outright banning video games",skip,skip,None
-325,64.2.1,"Similarly , support for video game and media regulation has been linked to moral panic .",skip,skip,None
-326,64.3.1,"To that end , different video game content rating systems have been introduced across the globe .",skip,skip,None
-327,65.1.1,Psychology professor Chris Ferguson discusses in an interview,skip,skip,None
-328,65.1.2,these myths are perpetuated,skip,skip,None
-329,65.2.1,"When asked to describe the nature of how negative propaganda is spread by activist against video games, Ferguson explained that many respected academics and elected officials develop apprehension towards the media in question and formulate disproportionate accusations of harm.",skip,skip,None
-330,65.3.1,Those claims are out in the public,skip,skip,None
-331,65.3.2,expert evidence proves,skip,skip,None
-332,65.3.3,"them to be invalid ,",skip,skip,None
-333,65.3.4,it difficult,skip,skip,None
-334,65.3.5,to withdraw from such allegations,skip,skip,None
-335,65.4.1,Possible motivations for why activist claims are not retracted are “…there are certain financial incentives and political incentives.,skip,skip,None
-336,65.5.1,It’s hard to get grant money arguing that something *isn’t* a problem…and some scholars take money from anti-media lobbying groups.,skip,skip,None
-337,65.6.1,censorship regimen naturally intend,skip,skip,None
-338,65.6.2,to be in charge of that regimen themselves ”,skip,skip,None
-339,65.7.1,"Ferguson adds that present research on violence in video games confirms no valid link, “The best studies now coming out — those which take care to use well-validated clinical outcome measures and which carefully control for other important risk factors — provide no support for the belief that VVG contributes to youth violence”.",skip,skip,None
-340,66.1.1,"Voluntary rating systems adopted by the video game industry, such as the ESRB rating system in the United States and Canada, as well as the Pan European Game Information (PEGI) rating system in Europe, that are aimed at informing parents about the types of games their children are playing (or are asking to play).",skip,skip,None
-341,66.2.1,Certain game publishers’ decision to have controversial games rated seems to show that they are not targeted at young children.,skip,skip,None
-342,66.3.1,"They are rated by the ESRB as "" Mature "" -LRB- M -RRB- or "" Adults Only "" -LRB- AO -RRB- in the US , or given British Board of Film Classification -LRB- BBFC -RRB- ratings of 15 or 18 in the UK .",skip,skip,None
-343,66.4.1,The packaging notes,skip,skip,None
-344,66.4.2,these games should not be sold to children,skip,skip,None
-345,66.5.1,"In the US, ESRB ratings are not legally binding, but many retailers take it upon themselves to refuse the sale of these games to minors.",skip,skip,None
-346,66.6.1,"In the United Kingdom (UK), the BBFC ratings are backed up by law, so it is actually illegal to sell the game to anyone under the indicated age, and many UK retailers go beyond that and also enforce the PEGI ratings, which are not backed up by law.",skip,skip,None
-347,66.7.1,No video game console manufacturer has yet,skip,skip,None
-348,66.7.2,to allow any game,skip,skip,None
-349,66.7.3,"to be published in North America with the harshest ESRB rating , "" Adults Only "" , signaling",skip,skip,None
-350,66.7.4,the game is only appropriate for ages 18 years and up,skip,skip,None
-351,66.8.1,"Additionally , no major retailers are willing",skip,skip,None
-352,66.8.2,to set aside shelf space for AO - rated games,skip,skip,None
-353,66.9.1,"Although Grand Theft Auto San Andreas was given a rating of AO after widespread surfacing of an add-on originally deleted from the game, ""Hot Coffee,"" in which the player controls a fully clothed sexual encounter.",skip,skip,None
-354,66.10.1,It was later fully removed and the game retained the M rating.,skip,skip,None
-355,66.11.1,GTA San Andreas is the best selling game,skip,skip,None
-356,66.11.2,to ever receive the AO rating,skip,skip,None
-357,67.1.1,Ratings Enforcement Act introduced to the US House of Representatives in both the 109th Congress and 110th Congress,skip,skip,None
-358,67.2.1,The proposed legislation would require an ID check for M - and AO - rated game purchases .,skip,skip,None
-359,67.3.1,"The bill was not passed into law, and other proposed bills were stopped because of First Amendment violations.",skip,skip,None
-360,68.1.1,"Although no law mandates ID checking for games with adult content, a 2008 secret shopper survey done by the Federal Trade Commission shows that video game retailers have voluntarily increased ID verification for M- and AO-rated games, and sales of those games to underage potential buyers have been reduced from 83% in 2000 to only 20% in 2008.",skip,skip,None
-361,69.1.1,"In April 2011 , the Federal Trade Commission undercover shopper survey found",skip,skip,None
-362,69.1.2,video game retailers continue,skip,skip,None
-363,69.1.3,to enforce the ratings by,skip,skip,None
-364,69.1.4,allowing only 13 % of underage teenage shoppers,skip,skip,None
-365,69.1.5,"to buy M - rated video games , a statistically significant improvement from the 20 % purchase rate in 2009",skip,skip,None
-366,69.2.1,"By contrast , underage shoppers purchased R - rated movies 38 % of the time , and unrated movies 47 % of the time .",skip,skip,None
-367,70.1.1,"On January 7 , 2009 , Representative Joe Baca of California ’s 43rd District introduced H.R.",skip,skip,None
-368,70.3.1,This bill called for labels to be placed in a “clear and conspicuous location on the packaging” which states “WARNING: Excessive exposure to violent video games and other violent media has been linked to aggressive behaviour.” The proposed legislation mandated that all video games with an ESRB rating of T (Teen) or higher be subjected to the compulsory labelling.,skip,skip,None
-369,70.4.1,"The press release accompanying the introduction of the bill referred to scientific studies from the Pediatrics Journal, Indiana University, University of Missouri and Michigan State University which pointed to a “neurological link between playing violent video games and aggressive behaviour in children and teenagers.” The proposed legislation was referred on to the Subcommittee on Commerce, Trade and Consumer Protection.",skip,skip,None
-370,70.5.1,"On January 24 , 2011 ; Rep. Joe Baca reintroduced the Video Game Health Labelling Act as H.R.",skip,skip,None
-371,70.7.1,The bill was once again passed onto the Subcommittee .,skip,skip,None
-372,71.1.1,"On June 27 , 2011 , the Supreme Court of the United States ruled on Brown v. Entertainment Merchants Association , cited video games as protected speech under the First Amendment .",skip,skip,None
-373,71.2.1,The case centered on a California law,skip,skip,None
-374,71.2.2,to restrict sales of violent video games to minors,skip,skip,None
-375,71.3.1,"The video game industry , led by the Entertainment Merchants Association and the Entertainment Software Association successfully obtained an injunction on the bill ,",skip,skip,None
-376,71.3.2,definition of violence defined by the California law was too vague,skip,skip,None
-377,71.4.1,"This opinion was upheld in lower courts , and supported by the Supreme Court 's decision .",skip,skip,None
-378,71.5.1,"In the decision, the Court determined that there was no direct link between violent video games and their influence on children, in as much as compared to other types of media like television and pictures, and that they could not create a new class of restricted speech that is not applied to other forms of media.",skip,skip,None
-379,72.2.1,It has been shown,skip,skip,None
-380,72.2.2,"action video game players have better hand - eye coordination and visuo - motor skills , such as their resistance to distraction , their sensitivity to information in the peripheral vision and their ability",skip,skip,None
-381,72.2.3,"to count briefly presented objects , than non-players",skip,skip,None
-382,73.1.1,"Video games also develop the individual 's intelligence , and in social games develop the social capabilities of the individual .",skip,skip,None
-383,74.1.1,Another way,skip,skip,None
-384,74.1.2,in which,skip,skip,None
-385,74.1.3,the usage of video games might provide a benefit,skip,skip,None
-386,74.2.1,There is a study being conducted by Dr.Cheryl Olson and her team at Massachusetts General Hospital ’s -LRB- MGH -RRB- Center for Mental Health and Media and Harvard,skip,skip,None
-387,74.2.2,to prove,skip,skip,None
-388,74.2.3,violent games help,skip,skip,None
-389,74.2.4,students deal with stress and aggression,skip,skip,None
-390,74.3.1,She has found,skip,skip,None
-391,74.3.2,over 49 % of boys and 25 % of girls use violent games such as Grand Theft Auto IV as an outlet for their anger,skip,skip,None
-392,74.4.1,Dr. Olson has come to the conclusion,skip,skip,None
-393,74.4.2,violent games affect students positively and not,skip,skip,None
-394,74.4.3,negatively because,skip,skip,None
-395,74.4.4,the violent crime rate is going down,skip,skip,None
-396,74.4.5,the popularity of M - rated video games has increased,skip,skip,None
-397,74.5.1,"She suggests that instead of stopping children from playing M-rated games completely, parents should just monitor how much time their children spend playing games; parents should take responsibility.",skip,skip,None
-398,75.1.1,Several studies have explored the possible benefits of multiplayer video games in a family setting .,skip,skip,None
-399,75.2.1,"The most recent study found that girls 11-16 who played video games with their parents had better mental health and less aggressive behavior, with a stronger connection if they played age-appropriate games.",skip,skip,None
-400,76.1.1,Many studies have been done on gaming and its integration into the classroom in order,skip,skip,None
-401,76.1.2,to support the educator,skip,skip,None
-402,76.2.1,""" The use of gaming has the ability",skip,skip,None
-403,76.2.2,to actively involve students in learning,skip,skip,None
-404,76.3.1,students build collaborative skills while,skip,skip,None
-405,76.3.2,completing given tasks,skip,skip,None
-406,77.1.1,"To date , video game training appears",skip,skip,None
-407,77.1.2,to be one of the more interesting and promising means,skip,skip,None
-408,77.1.3,"to improve perceptual , attentional , and cognitive abilities",skip,skip,None
-409,77.2.1,One of its promises is,skip,skip,None
-410,77.2.2,", compared to traditional training , it can be engaging and entertaining",skip,skip,None
-411,77.3.1,This has led some companies,skip,skip,None
-412,77.3.2,to begin,skip,skip,None
-413,77.3.3,to market video games for the specific purpose of,skip,skip,None
-414,77.3.4,improving cognition,skip,skip,None
-415,77.4.1,"For example , Nintendo advertises "" Big Brain Academy "" as a game",skip,skip,None
-416,77.4.2,"that """,skip,skip,None
-417,77.4.3,"trains your brain with a course load of mind - bending activities across five categories : think , memorize , analyze , compute , and identify",skip,skip,None
-418,78.1.1,It enables players,skip,skip,None
-419,78.1.2,to explore various aspects of their identity in a virtual world,skip,skip,None
-420,79.1.1,"children gain problem solving abilities , perseverance , pattern recognition , hypothesis testing , estimating skills , inductive skills , resources management , logistics mapping , memory , quick thinking and reasonable judgements """,skip,skip,None
-421,80.1.1,playing video games,skip,skip,None
-422,80.1.2,contain high levels of action,skip,skip,None
-423,81.1.1,"Many authors disagree with the notion that suggests that the media can cause violence, they propose media cannot cause violence because humans have the ability to recognize what is wrong, and what is right.",skip,skip,None
-424,81.2.1,people are not going,skip,skip,None
-425,81.2.2,to mistake fiction for reality,skip,skip,None
-426,81.3.1,Some people,skip,skip,None
-427,81.3.2,criticize the proposed negative effects based their research,skip,skip,None
-428,82.1.1,J.C. Herz argued,skip,skip,None
-429,82.1.2,"many so - called negative effects of video games , such as aggression and lack of pro-social behavior , are both necessary and useful traits",skip,skip,None
-430,82.1.3,to have in a capitalistic society,skip,skip,None
-431,82.2.1,"Specifically , Herz argued",skip,skip,None
-432,82.2.2,"many academic researchers have an anti-capitalist bias , and thus failed",skip,skip,None
-433,82.2.3,to notice the benefits of such traits,skip,skip,None
-434,83.1.1,they can be a safe outlet for aggression and frustration,skip,skip,None
+0,1.1.1,"Controversies over video games often center on topics such as video game graphic violence , sex and sexism , violent and gory scenes , partial or full nudity , portrayal of criminal behavior , racism , and other provocative and objectionable material .",-0.2075,0.5175,4 6 11 13 16 18 
+1,2.1.1,Video games have been studied for links to addiction and aggression .,0.0,0.0,4 6 11 13 16 18 
+2,2.2.1,Earlier meta - analyses -LRB- an analysis of several studies -RRB- were conflicting .,0.0,0.25,4 6 11 13 16 18 
+3,2.3.1,A 2001 study found that exposure to violent video games causes at least a temporary increase in aggression and that this exposure correlates with aggression in the real world.,-0.3,0.5666666666666667,4 6 11 13 16 18 
+4,2.4.1,A decrease in prosocial behavior -LRB- caring about the welfare and rights of others -RRB- was also noted .,0.0,0.0,4 6 11 13 16 18 
+5,2.5.1,Another 2001 meta-analyses using similar methods and a more recent 2009 study focusing specifically on serious aggressive behavior concluded that video game violence is not related to serious aggressive behavior in real life.,-0.0458333333333333,0.4479166666666666,4 6 11 13 16 18 
+6,3.1.1,Many potential positive effects have been proposed .,0.2424242424242424,0.6818181818181818,4 6 11 13 16 18 
+7,3.2.1,Recent research has suggested,0.0,0.25,4 6 11 13 16 18 
+8,3.2.2,"some violent video games may actually have a prosocial effect in some contexts , for example , team play",-0.4,0.55,4 6 11 13 16 18 
+9,4.1.1,It has been argued there is generally a lack of quality studies which can be relied upon and that the video game industry has become an easy target for the media to blame for many modern day problems.,0.1566666666666666,0.5066666666666666,4 6 11 13 16 18 
+10,4.2.1,"The most recent large scale meta-anlysis-- examining 130 studies with over 130,000 subjects worldwide-- concluded that exposure to violent video games causes both short term and long term aggression in players and decreases empathy and prosocial behavior.",-0.0226190476190476,0.4797619047619048,4 6 11 13 16 18 
+11,4.3.1,"However, this meta-analysis was severely criticized in the same issue of the same journal for a number of methodological flaws, including failure to distinguish clinically valid from unstandardized aggression measures and for failing to solicit studies from researchers who have questioned whether causal links exist, thus biasing the sample of included studies.",-0.1055555555555555,0.1833333333333333,4 6 11 13 16 18 
+12,5.1.1,"The Entertainment Software Association states that 20% of video game players are boys under the age of 17, 26% are over 50 (regardless of gender), and that the average game player is 37.",-0.3166666666666667,0.4000000000000001,4 6 11 13 16 18 
+13,6.1.1,"In a survey of 1,102 teenagers aged 12 to 17, 97% of them said that they play video games; moreover, half of the survey respondents said that they had played a video game in the last day.",-0.1666666666666666,0.2583333333333333,4 6 11 13 16 18 
+14,6.2.1,Three-quarters of parents who were surveyed said that they check the ratings on their kid's games.,0.0,0.0,4 6 11 13 16 18 
+15,6.3.1,"However , half of the boys",-0.1666666666666666,0.1666666666666666,4 6 11 13 16 18 
+16,6.3.2,were asked about their favorite game,0.0499999999999999,0.7,4 6 11 13 16 18 
+17,7.1.1,"The adult demographic is the fastest - growing segment of the American video games market with 32 % of adults playing video games ,",0.05,0.15,4 6 11 13 16 18 
+18,7.1.2,critics have suggested,0.0,0.0,4 6 11 13 16 18 
+19,7.1.3,such statistics are often used,0.0,0.5,4 6 11 13 16 18 
+20,7.1.4,to deflect from the fact,0.0,0.0,4 6 11 13 16 18 
+21,7.1.5,almost all American children are exposed to video games,0.0,0.0,4 6 11 13 16 18 
+22,8.1.1,"As of 2011 , over 40 % of players are female .",0.0,0.1666666666666666,4 6 11 13 16 18 
+23,8.2.1,"However, a 1998 study conducted at the University of Central Florida found that of the 33 games sampled, 41% do not feature female characters, 28% portrayed women as sex objects, 21% depicted violence against women, and 30% did not represent the female population at all.",0.0,0.1944444444444444,4 6 11 13 16 18 
+24,8.3.1,"Furthermore, characterizations of women tended to be stereotypical: highly sexualized (""visions of beauty with large breasts and hips""), dependent (""victim or as the proverbial 'Damsel in Distress'""), opposed (""evil or as obstacles to the goal of the game""), and trivial (""females depicted [..] in fairly non-significant roles"").",-0.1188392857142857,0.5398214285714286,4 6 11 13 16 18 
+25,9.1.1,"However, this report has been criticized for not representing a wide range of video games, and that the games analysed, being up to 20 years old, do not represent the current status of the video game industry, and that strong female characters are now increasingly more prevalent.",0.0761904761904761,0.3999999999999999,4 6 11 13 16 18 
+26,10.1.1,One of the most common criticisms of video games is,0.1,0.5,4 6 11 13 16 18 
+27,10.1.2,they increase the violent tendencies among youth,-0.8,1.0,4 6 11 13 16 18 
+28,10.2.1,"However , several major studies by groups such as The Harvard Medical School Center for Mental Health , The Journal of Adolescent Health , and The British Medical Journal have shown no conclusive link between video game usage and violent activity . """,-0.13375,0.27,4 6 11 13 16 18 
+29,10.3.1,"One study did find an increase in reports of bullying, noting, ""Our research found that certain patterns of video game play were much more likely to be associated with these types of behavioral problems than with major violent crime such as school shootings.",-0.0604591836734694,0.6387755102040816,4 6 11 13 16 18 
+30,10.4.1,"One of the first widely accepted controversial video games was developer Exidy 's 1976 title Death Race ,",0.2333333333333333,0.5611111111111111,4 6 11 13 16 18 
+31,10.4.2,in which,0.0,0.0,4 6 11 13 16 18 
+32,10.4.3,players controlled cars,0.0,0.0,4 6 11 13 16 18 
+33,10.4.4,"ran over pixelated representations of "" gremlins """,0.0,0.0,4 6 11 13 16 18 
+34,10.5.1,The game caused such an outcry,-0.2,0.45,4 6 11 13 16 18 
+35,10.5.2,it was pulled from store shelves and profiled on 60 Minutes,0.0,0.0,4 6 11 13 16 18 
+36,10.6.1,Long Island PTA president Ronnie Lamm pushed for legislation in the early 1980s,0.025,0.35,4 6 11 13 16 18 
+37,10.6.2,to place restrictions on,0.0,0.0,4 6 11 13 16 18 
+38,10.6.3,how close video,0.0,0.0,4 6 11 13 16 18 
+39,10.6.4,"game arcades could be to schools ,",-0.4,0.4,4 6 11 13 16 18 
+40,10.6.5,they caused children,0.0,0.0,4 6 11 13 16 18 
+41,10.6.6,to fight,0.0,0.0,4 6 11 13 16 18 
+42,10.7.1,"Portrayals of violence allegedly became more realistic with time , and so politicians such as U.S.",0.1416666666666666,0.3583333333333333,4 6 11 13 16 18 
+43,10.8.1,Senator Joe Lieberman conducted hearings during the 1990s regarding,0.0,0.0,4 6 11 13 16 18 
+44,10.8.2,"he referred to as "" violent video games """,-0.8,1.0,4 6 11 13 16 18 
+45,10.8.3,", in his opinion , included such games as Mortal Kombat",0.0,0.5,4 6 11 13 16 18 
+46,10.9.1,"His sentiments have been echoed by certain researchers, such as Dr. Craig A. Anderson who testified before the Senate, ""Some studies have yielded nonsignificant video game effects, just as some smoking studies failed to find a significant link to lung cancer.",-0.0621428571428571,0.5292857142857142,4 6 11 13 16 18 
+47,10.10.1,"But when one combines all relevant empirical studies using meta-analytic techniques it shows that violent video games are significantly associated with: increased aggressive behavior, thoughts, and affect; increased physiological arousal; and decreased pro-social (helping) behavior.""",-0.065,0.7150000000000001,4 6 11 13 16 18 
+48,10.11.1,Anderson himself was later criticized in a 2005 video game court case for,-0.2,0.2,4 6 11 13 16 18 
+49,10.11.2,to cite research,0.0,0.0,4 6 11 13 16 18 
+50,10.11.3,differed from his view,0.0,0.0,4 6 11 13 16 18 
+51,11.1.1,"Grand Theft Auto: Vice City is an example of a video game that caused controversy, over and above the debate surrounding the violent gameplay, for allegedly encouraging racist hate crimes.",-0.2666666666666666,0.5833333333333334,4 6 11 13 16 18 
+52,11.2.1,"The game takes place in "" Vice City "" , a fictionalized Miami , in 1986 , and involves a gang war between Haitians and Cuban refugees , with the player 's character",-0.4,0.4,4 6 11 13 16 18 
+53,11.2.2,getting involved and encouraging the inter-ethnic violence,0.0,0.0,4 6 11 13 16 18 
+54,11.3.1,the Haitian - American Coalition threatened,0.0,0.0,4 6 11 13 16 18 
+55,11.3.2,to sue,0.0,0.0,4 6 11 13 16 18 
+56,12.1.1,Our Kids to Kill,0.0,0.0,4 6 11 13 16 18 
+57,12.2.1,"During heights of video game controversy he has been interviewed on the content of his books , and has repeatedly used",-0.4,0.4,4 6 11 13 16 18 
+58,12.2.2,"the term "" murder simulator "" to describe first - person shooter games",0.25,0.3333333333333333,4 6 11 13 16 18 
+59,12.3.1,"He argues that video game publishers unethically train children in the use of weapons and, more importantly, harden them emotionally to the act of murder by simulating the killing of hundreds or thousands of opponents in a single typical video game.",-0.0197278911564625,0.523469387755102,4 6 11 13 16 18 
+60,12.4.1,"Grossman 's conclusions have been criticized by some scholars , however , as highly selective and misleading .",0.16,0.5399999999999999,4 6 11 13 16 18 
+61,13.1.1,violent video games may increase mild forms of aggressive behavior in children and young adults,-0.1222222222222222,0.6333333333333333,4 6 11 13 16 18 
+62,13.2.1,Analyses also showed,0.0,0.0,4 6 11 13 16 18 
+63,13.2.2,"exposure to violent video games results in increased physiological arousal , aggression - related thoughts and feelings as well as decreased prosocial behavior",-0.4000000000000001,0.6999999999999998,4 6 11 13 16 18 
+64,13.3.1,"The research comprised a meta analysis , laboratory and field studies .",0.0,0.0,4 6 11 13 16 18 
+65,13.4.1,However meta-analyses by other groups have not replicated these findings  and these other groups have been critical of attempts to link violent games with aggression.,-0.2625,0.6375,4 6 11 13 16 18 
+66,13.5.1,"For instance John Sherry has said -LRB- 2007 -RRB- "" Further ,",0.0,0.5,4 6 11 13 16 18 
+67,13.5.2,do some researchers -LRB- e.g.,0.0,0.0,4 6 11 13 16 18 
+68,13.6.1,"Gentile & Anderson , 2003 -RRB- continue",0.0,0.0,4 6 11 13 16 18 
+69,13.6.2,to argue,0.0,0.0,4 6 11 13 16 18 
+70,13.6.3,video games are dangerous despite evidence to the contrary ? ”,-0.6,0.9,4 6 11 13 16 18 
+71,14.2.1,"compared the effects of violent video games to those of smoking on lung cancer This view has been challenged , however .",-0.8,1.0,4 6 11 13 16 18 
+72,14.3.1,"For instance, Ferguson (2010) has ruled out a relationship between video game violence and serious aggression, concluding ""Taken together these meta-analyses range from those which argue against meaningful effects to those which find weak effects.",-0.1520833333333333,0.5479166666666666,4 6 11 13 16 18 
+73,14.4.1,Thus the debate on video game violence has been reduced to,-0.4,0.4,4 6 11 13 16 18 
+74,14.4.2,video game violence produces no effects … or almost no effects,-0.4,0.4,4 6 11 13 16 18 
+75,14.5.1,""" .",0.0,0.0,4 6 11 13 16 18 
+76,15.1.1,Other studies reach the conclusion,-0.125,0.375,4 6 11 13 16 18 
+77,15.1.2,violence in video games is not causally linked with aggressive tendencies,0.0,0.0,4 6 11 13 16 18 
+78,15.2.1,"to say , "" We",0.0,0.0,4 6 11 13 16 18 
+79,15.3.1,But the impact was very small compared to other things .,-0.225,0.4475,4 6 11 13 16 18 
+80,15.4.1,"Some may not be happy with that, but that’s where the science is.""",0.8,1.0,4 6 11 13 16 18 
+81,15.5.1,"A meta - analysis by psychologist Jonathan Freedman ,",0.0,0.0,4 6 11 13 16 18 
+82,15.5.2,reviewed over 200 published studies and found,0.0,0.0,4 6 11 13 16 18 
+83,15.5.3,"that the "" vast and overwhelming majority "" did not find a causal link",0.25,1.0,4 6 11 13 16 18 
+84,15.6.1,violent books and 27 % were attracted to violent films,-0.8,1.0,4 6 11 13 16 18 
+85,15.7.1,An Australian study found,0.0,0.0,4 6 11 13 16 18 
+86,15.7.2,only children already predisposed to violence were affected by violent games,-0.4,1.0,4 6 11 13 16 18 
+87,15.8.1,A recent long - term outcome study of youth found no long - term relationship between,-0.0083333333333333,0.35,4 6 11 13 16 18 
+88,15.8.2,playing violent video game and youth violence or bullying,-0.6000000000000001,0.7,4 6 11 13 16 18 
+89,16.1.1,A recent longitudinal study of youth in Germany found,0.0,0.25,4 6 11 13 16 18 
+90,16.1.2,aggressive children tend,0.0,0.0,4 6 11 13 16 18 
+91,16.1.3,"to select more violent video games , not the inverse",-0.15,0.75,4 6 11 13 16 18 
+92,16.2.1,violent games are psychologically harmful to minors,-0.4,0.55,4 6 11 13 16 18 
+93,16.3.1,other studies may have found spurious effects due to,-0.125,0.375,4 6 11 13 16 18 
+94,16.3.2,"focusing on youth self - report of aggression rather than reports by parents or teachers , the so called "" single responder bias """,-0.0714285714285714,0.2142857142857142,4 6 11 13 16 18 
+95,17.1.1,In Grand Theft Childhood : The Surprising Truth About Violent Video Games and,0.1333333333333333,0.8333333333333334,4 6 11 13 16 18 
+96,17.1.2,"Parents Can Do , researchers / authors Lawrence Kutner , PhD , and Cheryl K. Olson , ScD",0.0,0.0,4 6 11 13 16 18 
+97,17.2.1,"The researchers' study shows that adolescents that don't play video games at all are most at-risk for violent behavior (but without statistical significance), claiming that video game play is part of an adolescent boy's normal social setting.",-0.1033333333333333,0.5233333333333333,4 6 11 13 16 18 
+98,17.3.1,"However , they do not completely deny violent -LRB- M - rated -RRB- video games ' negative influences on pre-teens and teenagers .",-0.3833333333333333,0.6,4 6 11 13 16 18 
+99,17.4.1,Kutner and Olson say the views of both alarmists and the video game industry are often supported by flawed or misconstrued studies.,-0.45,0.45,4 6 11 13 16 18 
+100,17.5.1,"The real risks according to them are not just about exposure to violence ,",0.2,0.3,4 6 11 13 16 18 
+101,17.5.2,gore and sex but are more subtle with some children at greater risk than others,0.2222222222222222,0.5,4 6 11 13 16 18 
+102,18.1.1,Official records show,0.0,0.0,4 6 11 13 16 18 
+103,18.1.2,"violent crime rates have declined dramatically since the early 1990s in the USA , among both juveniles and adults",-0.35,0.65,4 6 11 13 16 18 
+104,18.2.1,This is despite sales of violent video games exploding and their content becoming increasingly graphic during the same period .,-0.0875,0.59375,4 6 11 13 16 18 
+105,18.3.1,"Video game violence is not the primary contributor to societal violence , however ,",0.0,0.45,4 6 11 13 16 18 
+106,18.3.2,there are many other factors at play,0.1875,0.4375,4 6 11 13 16 18 
+107,19.1.1,According to media,0.0,0.0,4 6 11 13 16 18 
+108,20.1.1,Fears have been expressed about exposure to violent video games .,-0.8,1.0,4 6 11 13 16 18 
+109,20.2.1,"For example, politicians and other people and organizations have considered video games effects on society, where the causative factor was not clear, ""there has been some fears specially from UK news service that hijackers may have used flight simulator software to practice flying jet planes, also, Beam Breakers removed all references to the World Trade Center already used in the game 1"".",-0.0635714285714285,0.365952380952381,4 6 11 13 16 18 
+110,21.1.1,"Some researchers believe that while playing violent video games leads to violent actions, there are also biological influences that impact a person's choices.",-0.8,1.0,4 6 11 13 16 18 
+111,21.2.1,"According to Sean P. Neubert of Rochester Institute of Technology, a person who is biologically predisposed to aggression will be more strongly influenced by violent scenes and thus will have a greater risk for carrying out destructive actions.",0.0066666666666666,0.6666666666666667,4 6 11 13 16 18 
+112,21.3.1,For example someone with antisocial personality disorder has a greater risk of,0.5,0.5,4 6 11 13 16 18 
+113,21.3.2,going out and shooting someone after,0.0,0.0,4 6 11 13 16 18 
+114,21.3.3,playing hours of Grand Theft Auto or a game of a similar nature,0.0333333333333333,0.6,4 6 11 13 16 18 
+115,22.1.1,Other biological theories of aggression and violence have specifically excluded video game and other media effects .,-0.2166666666666666,0.3833333333333333,4 6 11 13 16 18 
+116,22.2.1,a factor to have much influence,0.2,0.2,4 6 11 13 16 18 
+117,23.1.1,Sexual themes in video games are much less tolerated in the US than violent themes; the most well-known example of this is the Hot Coffee controversy.,0.0566666666666666,0.65,4 6 11 13 16 18 
+118,23.2.1,"In June 2005 , an entire portion of unused code was found within the main script of Grand Theft Auto : San Andreas , allowing the player",0.2222222222222222,0.6527777777777778,4 6 11 13 16 18 
+119,23.2.2,to simulate sex with the main character 's girlfriends,0.1666666666666666,0.3333333333333333,4 6 11 13 16 18 
+120,23.3.1,"The game could be accessed in the PC version via a mod , and through Action Replay codes in the PS2 and Xbox versions .",-0.0333333333333333,0.3,4 6 11 13 16 18 
+121,23.4.1,"The fact that the scene was left on the disc, and could be accessed by altering a few bytes of the game's code via a hex editor, prompted the Entertainment Software Rating Board (ESRB) to change the rating of San Andreas to ""Adults Only"" on July 20, 2005.",-0.15,0.375,4 6 11 13 16 18 
+122,23.5.1,The game was pulled from many stores; Rockstar Games posted a loss of $28.8 million that quarter.,0.0499999999999999,0.45,4 6 11 13 16 18 
+123,23.6.1,"The most controversial video game of this nature was Rapelay , a game revolving around rape .",0.0625,0.5625,4 6 11 13 16 18 
+124,23.7.1,Worldwide public campaigns against it led to the game being banned .,-0.2,0.2333333333333333,4 6 11 13 16 18 
+125,24.1.1,Almost no North American video games display full frontal nudity .,0.175,0.275,4 6 11 13 16 18 
+126,24.2.1,"Sexual themes are more common in Japanese PC games, but console companies such as Microsoft, Nintendo and Sony do not license adult-only content games for their systems.",0.1399999999999999,0.4666666666666667,4 6 11 13 16 18 
+127,25.1.1,Bias of gender exists in games .,0.0,0.0,4 6 11 13 16 18 
+128,25.2.1,Terry Flew writes,0.0,0.0,4 6 11 13 16 18 
+129,25.2.2,generally representations of gender in digital games are stereotyped,-0.0166666666666666,0.4666666666666666,4 6 11 13 16 18 
+130,25.3.1,"In many games, male characters are portrayed as hard bodied, muscled men, and female characters are portrayed as soft bodied, nearly naked women with large breasts.",0.0746598639455782,0.3552721088435374,4 6 11 13 16 18 
+131,25.4.1,"In addition , Flew also believes",0.0,0.0,4 6 11 13 16 18 
+132,25.4.2,female characters in games are usually portrayed in a narrowly stereotypical manner,-0.25,0.4722222222222221,4 6 11 13 16 18 
+133,25.5.1,Females are usually constructed as visual objects,-0.125,0.125,4 6 11 13 16 18 
+134,25.5.2,wait for male rescue and need,0.0,0.1,4 6 11 13 16 18 
+135,25.5.3,"to be protected ,",0.0,0.0,4 6 11 13 16 18 
+136,25.5.4,men are portrayed with more power,0.5,0.5,4 6 11 13 16 18 
+137,25.6.1,Such depiction of females in games reflects underlying social ideas of dominance of male over female and themes of masculinity .,0.0083333333333333,0.2083333333333333,4 6 11 13 16 18 
+138,25.7.1,"Although not all video games contain such stereotypes, there are enough to make it a general trait.",0.0166666666666666,0.5,4 6 11 13 16 18 
+139,25.8.1,"Ultimately , Flew ends with the statement of the broad demographic 's excessive demands , in that ' . .",-0.0625,0.7708333333333334,4 6 11 13 16 18 
+140,25.8.2,different genders have different gaming,0.0,0.6,4 6 11 13 16 18 
+141,25.9.1,' .,0.0,0.0,4 6 11 13 16 18 
+142,26.1.1,"However , some video games do not conform to traditional gender roles such as the male being dominant and the female being submissive .",0.0,0.3791666666666667,4 6 11 13 16 18 
+143,26.2.1,"One such example would be the protagonist Lara Croft in the Tomb Raider video game series ,",-0.2,0.45,4 6 11 13 16 18 
+144,26.2.2,"is presented as a beautiful , clever , athletic , and brave English archaeologist - adventurer",0.4541666666666666,0.7083333333333334,4 6 11 13 16 18 
+145,26.3.1,"Croft has achieved popularity with both males and females as an action heroine ,",0.1,0.1,4 6 11 13 16 18 
+146,26.3.2,depending on,0.0,0.0,4 6 11 13 16 18 
+147,26.3.3,feminist perspective is applied,0.0,0.0,4 6 11 13 16 18 
+148,26.4.1,"Recently the emergence of female gamers and developers in the industry has led to changes in video games to accommodate this demographic; where Lara Croft is concerned, this has led to games developer Eidos remodelling the character for Tomb Raider: Legend, so that the character has a more believable figure and less skimpy outfits so as not to offend female gamers.",0.1388888888888889,0.2749999999999999,4 6 11 13 16 18 
+149,26.5.1,"Although many video games emphasize a hypermasculine identity for male characters, this may in fact reflect current gender roles and stereotypes found in Western society; whereas, video games originating from Asia often include androgynous male characters, influenced by anime, with thinner bodies, softer faces, big eyes and long hair, such as the iconic characters of Sephiroth in Final Fantasy VII and Link in the Legend of Zelda.",0.095,0.36,4 6 11 13 16 18 
+150,27.1.1,Reinforcement of sexist stereotypes has also been claimed as an effect of violent video games .,-0.8,1.0,4 6 11 13 16 18 
+151,28.1.1,"Lesbian , gay , bisexual , and transgender -LRB- LGBT -RRB- characters have been depicted in some video games since the 1980s .",0.4166666666666667,0.5833333333333334,4 6 11 13 16 18 
+152,28.2.1,"LGBT content has been subject to changing rules and regulations by game companies, which are generally examples of heterosexism in that heterosexuality is normalized while homosexuality is subject to additional censorship or ridicule.",-0.1708333333333333,0.3916666666666666,4 6 11 13 16 18 
+153,28.3.1,"Sexual orientation and gender identity have served a significant role in some console and personal computer games , with",0.2916666666666667,0.6694444444444444,4 6 11 13 16 18 
+154,28.3.2,the trend being toward greater visibility of LGBT identities,0.5,0.5,4 6 11 13 16 18 
+155,29.1.1,Over two hundred studies have been published which examine the effects of violence in entertainment media and which at least partially focus on violence in video games in particular.,-0.0777777777777777,0.3444444444444444,4 6 11 13 16 18 
+156,29.2.1,"Some psychological studies have shown a correlation between children playing violent video games and suffering psychological effects ,",-0.2666666666666666,0.4000000000000001,4 6 11 13 16 18 
+157,29.2.2,many other studies find no such link causation,0.125,0.4583333333333333,4 6 11 13 16 18 
+158,30.1.1,"In 2004 the American Psychological Association summarized the issue as ""Psychological research confirms that violent video games can increase children's aggression, but that parents moderate the negative effects.""",-0.1833333333333333,0.3833333333333333,4 6 11 13 16 18 
+159,30.2.1,"A more recent press release by the APA in 2010 summarized recent research findings as ""Bad effects depend on certain personality traits; games can offer learning opportunities for others"".",0.0028571428571428,0.4476190476190476,4 6 11 13 16 18 
+160,30.3.1,"Craig Anderson has conducted meta-analysis of previous studies and claimed they have demonstrated five effects: ""increased aggressive behavior, thoughts, and affect; increased physiological arousal; and decreased pro-social (helping) behavior"".",-0.2833333333333333,0.4333333333333333,4 6 11 13 16 18 
+161,30.4.1,other studies have explicitly denied,-0.125,0.375,4 6 11 13 16 18 
+162,30.4.2,such a connection exists,0.0,0.5,4 6 11 13 16 18 
+163,30.6.1,"More recently , Block and Crain -LRB- 2007 -RRB- claim",0.25,0.375,4 6 11 13 16 18 
+164,30.6.2,"in a critical paper by Anderson -LRB- and his co-author , Bushman -RRB- , data was improperly calculated and produced fallacious results",0.0,0.8,4 6 11 13 16 18 
+165,30.7.1,"Other meta-analyses by other groups, such as by Ferguson and Kilburn (2009) and Sherry (2007) have repudiated any links between video game violence and aggression, as have recent reviews by the Australian Government (2010) and the US Supreme Court (June, 2011).",-0.1083333333333333,0.3166666666666666,4 6 11 13 16 18 
+166,31.1.1,"After conducting a two-year study of more than 1,200 Middle School children about their attitudes towards video games, Harvard Medical School researchers Lawrence Kutner and Cheryl Olson found that playing video games did not have a particularly negative effect on the researched group.",0.05,0.225,4 6 11 13 16 18 
+167,32.1.1,"The portrayal of race in video games has also recently become an issue , seen in games such as the Grand Theft Auto series , 50 Cent : Bulletproof , and Def Jam : Fight for NY .",0.1666666666666666,0.5833333333333334,4 6 11 13 16 18 
+168,32.2.1,"In 2009, the issue of race emerged with the release of Resident Evil 5, which has the player kill numerous African enemies, resulting in arguments from both sides of the issue.",-0.3333333333333333,0.5,4 6 11 13 16 18 
+169,32.3.1,censor the portrayal of black antagonists,-0.1666666666666666,0.4333333333333333,4 6 11 13 16 18 
+170,32.4.1,A similar outrage also occurred,0.0,0.4,4 6 11 13 16 18 
+171,32.4.2,it was revealed,0.0,0.0,4 6 11 13 16 18 
+172,32.4.3,""" Left 4 Dead 2 "" , set in New Orleans , would include African - American zombies",-0.0127272727272727,0.1709090909090909,4 6 11 13 16 18 
+173,32.5.1,These and other games demonstrate an interesting trend towards the increased presence of racial differences in video games .,0.1875,0.4375,4 6 11 13 16 18 
+174,32.6.1,"Indeed , it is true",0.35,0.65,4 6 11 13 16 18 
+175,32.6.2,that “,0.0,0.0,4 6 11 13 16 18 
+176,32.6.3,"Significantly , these games , and particularly their questionable claims of authenticity , establish compelling learning environments",0.0854166666666666,0.7020833333333333,4 6 11 13 16 18 
+177,32.6.4,help facilitate,0.0,0.0,4 6 11 13 16 18 
+178,32.6.5,young gamers develop their knowledge of and familiarity with popular views of race and urban culture . ”,0.2333333333333333,0.4333333333333333,4 6 11 13 16 18 
+179,33.1.1,Video game addiction is excessive or compulsive use of computer and video games,-0.325,0.7,4 6 11 13 16 18 
+180,33.1.2,interferes with daily life,0.0,0.0,4 6 11 13 16 18 
+181,33.2.1,Instances have been reported in,0.0,0.0,4 6 11 13 16 18 
+182,33.2.2,"users play compulsively ,",0.0,0.0,4 6 11 13 16 18 
+183,33.2.3,isolating themselves from family and friends or from other forms of social contact,-0.0458333333333333,0.2208333333333333,4 6 11 13 16 18 
+184,33.3.1,"to attract political controversy for its "" addictive properties """,0.0,0.5,4 6 11 13 16 18 
+185,34.1.1,to be related to video games in recent decades,0.0,0.325,4 6 11 13 16 18 
+186,35.1.1,"On November 22 , 1997 , thirteen - year - old Noah Wilson died",0.1,0.2,4 6 11 13 16 18 
+187,35.1.2,his friend Yancy stabbed him in the chest with a kitchen knife,0.0,0.0,4 6 11 13 16 18 
+188,35.2.1,"The mother of Noah , Andrea Wilson , alleged",-0.1,0.1,4 6 11 13 16 18 
+189,35.2.2,her son was stabbed to death because of an obsession with the Midway game Mortal Kombat,-0.4,0.4,4 6 11 13 16 18 
+190,35.3.1,She alleged,-0.1,0.1,4 6 11 13 16 18 
+191,35.3.2,Yancy S. was so obsessed with the game,-0.45,0.7,4 6 11 13 16 18 
+192,35.3.3,he believed himself,0.0,0.0,4 6 11 13 16 18 
+193,35.3.4,to be the character Cyrax,0.0,0.0,4 6 11 13 16 18 
+194,35.4.1,This character purportedly uses a finishing move,0.0,0.0,4 6 11 13 16 18 
+195,35.4.2,getting the opponent in a headlock and stabbing them in the chest,-0.6,0.8,4 6 11 13 16 18 
+196,35.5.1,Wilson alleged,-0.1,0.1,4 6 11 13 16 18 
+197,35.5.2,this was the reason for her son 's death,0.0,0.0,4 6 11 13 16 18 
+198,35.6.1,"The conclusion of Wilson v. Midway Games, Inc. was, according to the court case report, ""Wilson's complaint fails to state a claim upon which relief can be granted.""",-0.4,0.25,4 6 11 13 16 18 
+199,36.1.1,"On April 20 , 1999 , 18 - year - old Eric Harris and 17 - year - old Dylan Klebold killed 12 students and a teacher in the Columbine High School massacre .",0.04,0.235,4 6 11 13 16 18 
+200,36.2.1,The two were allegedly obsessed with the video game Doom .,-0.45,0.7,4 6 11 13 16 18 
+201,36.3.1,"Harris also created WADs for the game , and created a large mod named "" Tier """,0.0047619047619047,0.4095238095238095,4 6 11 13 16 18 
+202,36.3.2,"he called his "" life 's work",0.0,0.0,4 6 11 13 16 18 
+203,36.4.1,the pair practiced the massacre in Doom,0.0,0.0,4 6 11 13 16 18 
+204,37.1.1,"In April 2000 , 16 - year - old Spanish teenager José Rabadán Pardo murdered his father , mother and his sister with a katana ,",0.05,0.1,4 6 11 13 16 18 
+205,37.1.2,"he was on an "" avenging mission "" by Squall Leonhart , the main character of the video game Final Fantasy VIII",-0.0777777777777777,0.5777777777777778,4 6 11 13 16 18 
+206,38.1.1,after what,0.0,0.0,4 6 11 13 16 18 
+207,38.1.2,his mother claimed,0.0,0.0,4 6 11 13 16 18 
+208,38.2.1,"Woolley's mother stated, ""I think the way the game is written is that when you first start playing it, it is fun, and you make great accomplishments.",0.2375,0.4208333333333333,4 6 11 13 16 18 
+209,38.3.1,"And then the further you get into it, the higher level you get, the longer you have to stay on it to move onward, and then it isn't fun anymore.",0.1833333333333333,0.3999999999999999,4 6 11 13 16 18 
+210,38.4.1,"But by then you're addicted, and you can't leave it.""",-0.4,0.6,4 6 11 13 16 18 
+211,39.1.1,"In February 2003 , 16 - year - old American Dustin Lynch was charged with aggravated murder and made an insanity defense",0.05,0.1,4 6 11 13 16 18 
+212,39.1.2,"he was "" obsessed "" with Grand Theft Auto III",0.0,1.0,4 6 11 13 16 18 
+213,39.2.1,"Long time video game opponent and former attorney Jack Thompson encouraged the father of victim JoLynn Mishne to pass a note to the judge that said ""the attorneys had better tell the jury about the violent video game that trained this kid [and] showed him how to kill our daughter, JoLynn.",-0.175,0.3928571428571428,4 6 11 13 16 18 
+214,39.3.1,they do n't,0.0,0.0,4 6 11 13 16 18 
+215,39.4.1,"Lynch later retracted his insanity plea, and his mother Jerrilyn Thomas commented, ""It has nothing to do with video games or Paxil, and my son's no murderer.""",0.0,0.0,4 6 11 13 16 18 
+216,40.1.1,"On June 7 , 2003 , 18 - year - old American Devin Moore shot and killed two policemen and a dispatcher after",-0.0333333333333333,0.0666666666666666,4 6 11 13 16 18 
+217,40.1.2,grabbing one of the officers ' weapons following an arrest for the possession of a stolen vehicle,-0.025,0.05,4 6 11 13 16 18 
+218,40.2.1,"At trial , the defense claimed",0.0,0.0,4 6 11 13 16 18 
+219,40.2.2,Moore had been inspired by the video game Grand Theft Auto : Vice City,0.0499999999999999,0.7,4 6 11 13 16 18 
+220,41.1.1,"On June 25 , 2003 , two American step brothers , Joshua and William Buckner , aged 14 and 16 , respectively , used a rifle to fire at vehicles on Interstate 40 in Tennessee ,",-0.0333333333333333,0.1666666666666666,4 6 11 13 16 18 
+221,41.1.2,killing a 45 - year - old man and wounding a 19 - year - old woman,0.1,0.2,4 6 11 13 16 18 
+222,41.2.1,they had been inspired by Grand,0.5,1.0,4 6 11 13 16 18 
+223,42.1.1,"On February 27 , 2004 in Leicester , UK , 17 - year - old Warren Leblanc lured 14 - year - old Stefan Pakeerah into a park and murdered him by",0.1,0.2,4 6 11 13 16 18 
+224,42.1.2,stabbing him repeatedly with a claw hammer and knife,-0.6,0.8,4 6 11 13 16 18 
+225,42.2.1,"Leblanc was reportedly obsessed with Manhunt ,",-0.5,1.0,4 6 11 13 16 18 
+226,42.2.2,investigation quickly revealed,0.3333333333333333,0.5,4 6 11 13 16 18 
+227,42.2.3,the killer did not even own a copy of the game,0.0999999999999999,0.7,4 6 11 13 16 18 
+228,42.3.1,The victim 's mother Giselle Pakeerah has been campaigning against violent video games in the UK ever since .,-0.4375,0.525,4 6 11 13 16 18 
+229,42.4.1,"The police investigating the case have dismissed any link ,",0.0,0.0,4 6 11 13 16 18 
+230,42.4.2,discussed in the relevant articles,0.4,0.9,4 6 11 13 16 18 
+231,43.1.1,Qiu Chengwei stabbed 26 - year - old Zhu Caoyuan to death over a dispute regarding the sale of a virtual weapon the two,0.1,0.2,4 6 11 13 16 18 
+232,44.1.1,"On December 27, 2004, 13-year-old Xiao Yi committed suicide by jumping from a twenty-four story building in Tianjin, China, as a result of the effects of his addiction, hoping to be ""reunited"" with his fellow gamers in the afterlife, according to his suicide notes.",0.0,0.0,4 6 11 13 16 18 
+233,44.2.1,"Prior to his death , he had spent 36 consecutive hours",-0.05,0.05,4 6 11 13 16 18 
+234,44.2.2,playing Warcraft III,0.0,0.0,4 6 11 13 16 18 
+235,45.1.1,"In August 2005 , 28 - year - old South Korean Lee Seung Seop died after",0.1,0.2,4 6 11 13 16 18 
+236,45.1.2,playing StarCraft for 50 hours straight,0.2,0.4,4 6 11 13 16 18 
+237,46.1.1,"In June 2007, 22-year-old Alejandro Garcia from Texas shot dead his cousin after arguing over whose turn it was to play the game Scarface: The World Is Yours.",-0.3,0.4,4 6 11 13 16 18 
+238,46.2.1,"He pleaded guilty for murder at his trial on April 6 , 2011 , and will serve 15 to 30 years in prison .",-0.5,1.0,4 6 11 13 16 18 
+239,47.1.1,"In September 2007 , a Chinese man in Guangzhou , China , died after",0.0,0.0,4 6 11 13 16 18 
+240,47.1.2,playing Internet video games for three consecutive days in an Internet cafe,0.0,0.0,4 6 11 13 16 18 
+241,48.1.1,"In September 2007 in Ohio, 16-year-old Daniel Petric snuck out of his bedroom window to purchase the game Halo 3 against the orders of his father, a minister at New Life Assembly of God in Wellington, Ohio, U.S. His parents eventually banned him from the game after he spent up to 18 hours a day with it, and secured it in a lockbox in a closet where the father also kept a 9mm handgun, according to prosecutors.",-0.1909090909090909,0.3386363636363636,4 6 11 13 16 18 
+242,48.2.1,"In October 2007 , Daniel used his father 's key",0.0,1.0,4 6 11 13 16 18 
+243,48.2.2,to open the lockbox and remove the gun and the game,-0.2,0.45,4 6 11 13 16 18 
+244,48.3.1,"He then entered the living room of his house and shot both of them in the head ,",0.0,0.0,4 6 11 13 16 18 
+245,48.3.2,killing his mother and wounding his father,0.0,0.0,4 6 11 13 16 18 
+246,48.4.1,"Petric is sentenced to life in prison without parole ,",0.0,0.0,4 6 11 13 16 18 
+247,48.4.2,was later commuted to 23 years in imprisonment,0.0,0.0,4 6 11 13 16 18 
+248,48.5.1,Defense attorneys argued,0.0,0.0,4 6 11 13 16 18 
+249,48.5.2,Petric was influenced by video game addiction,-0.4,0.4,4 6 11 13 16 18 
+250,48.6.1,he killed his parents,-0.2,0.0,4 6 11 13 16 18 
+251,49.1.1,"In December 2007 , 17 - year - old Lamar Roberts and 16 - year - old Heather Trujillo were accused of",0.1,0.2,4 6 11 13 16 18 
+252,49.1.2,beating a seven - year - old girl to death,0.1,0.2,4 6 11 13 16 18 
+253,49.2.1,They are said,0.0,0.0,4 6 11 13 16 18 
+254,49.2.2,"to have been imitating the moves taken from the game "" Mortal Kombat """,-0.4,0.4,4 6 11 13 16 18 
+255,50.1.1,"In December 2007 , a Russian man was beaten to death over an argument in the MMORPG Lineage II .",0.0,0.0,4 6 11 13 16 18 
+256,50.2.1,The man was killed,-0.2,0.0,4 6 11 13 16 18 
+257,50.2.2,his guild and a rival one challenged each other to a real - life brawl,0.0375,0.3375,4 6 11 13 16 18 
+258,51.1.1,False reports initially claimed,-0.2,0.3,4 6 11 13 16 18 
+259,51.1.2,"Seung - Hui Cho , the killer in the 2007 Virginia Tech massacre was an avid Counter-Strike player",0.25,1.0,4 6 11 13 16 18 
+260,51.2.1,"However , police reports said",0.0,0.0,4 6 11 13 16 18 
+261,51.2.2,roommates of Cho had never seen,0.0,0.0,4 6 11 13 16 18 
+262,51.2.3,him play any video games,0.0,0.0,4 6 11 13 16 18 
+263,51.3.1,"Despite these discoveries, disbarred attorney Jack Thompson continued to erroneously claim that video games were to blame.",-0.5,0.6,4 6 11 13 16 18 
+264,52.1.1,"In June 2008 , four teens allegedly obsessed with Grand Theft Auto IV went on a crime spree after",0.0,1.0,4 6 11 13 16 18 
+265,52.1.2,"being in New Hyde Park , New York",0.1363636363636363,0.4545454545454545,4 6 11 13 16 18 
+266,52.2.1,"They first robbed a man, knocking his teeth out and then they stopped a woman driving a black BMW and stole her car and her cigarettes.",0.0416666666666666,0.3833333333333333,4 6 11 13 16 18 
+267,53.1.1,"On August 2 , 2008 , Polwat Chinno , a 19 - year - old Thai teenager , stabbed a Bangkok taxi driver to death during an attempt",0.1,0.2,4 6 11 13 16 18 
+268,53.1.2,to steal the driver 's cab in order,0.0,0.0,4 6 11 13 16 18 
+269,53.1.3,to obtain money,0.0,0.0,4 6 11 13 16 18 
+270,53.1.4,to buy a copy of Grand Theft Auto IV,0.5,1.0,4 6 11 13 16 18 
+271,53.2.1,A police official said,0.0,0.0,4 6 11 13 16 18 
+272,53.2.2,the teen was trying,0.0,0.0,4 6 11 13 16 18 
+273,53.2.3,to copy a similar act in the game,-0.2,0.4,4 6 11 13 16 18 
+274,53.3.1,"As a consequence , officials ordered the banning of the game itself and later the series ,",-0.2,0.2,4 6 11 13 16 18 
+275,53.3.2,"led its distributor , New Era Interactive Media ,",0.1363636363636363,0.4545454545454545,4 6 11 13 16 18 
+276,53.3.3,to withdraw it,0.0,0.0,4 6 11 13 16 18 
+277,54.1.1,"On October 13 , 2008 , the disappearance of Brandon Crisp and his subsequent death involving , according to his parents , obsessive playing of Call of Duty 4 : Modern Warfare has been referenced in discussions about video game obsession and spawned a report aired by CBC 's the fifth estate on video game addiction and Brandon 's story titled "" Top Gun "" , subtitled",0.0357142857142857,0.3952380952380952,4 6 11 13 16 18 
+278,54.1.2,""" When a video",0.0,0.0,4 6 11 13 16 18 
+279,54.1.3,gaming obsession turns to addiction and tragedy,0.0,0.0,4 6 11 13 16 18 
+280,55.1.1,"In January 2010 , 9 - year - old Anthony Maldonado was stabbed by relative Alejandro Morales after an argument regarding Maldonado 's recently purchased copy of Tony Hawk : Ride and PlayStation 3 console .",0.0333333333333333,0.15,4 6 11 13 16 18 
+281,56.1.1,"In January 2010 , Gary Alcock punched , slapped and pinched his partner 's 15 - month - old daughter in the three weeks leading up to her death",0.1,0.2,4 6 11 13 16 18 
+282,56.1.2,he delivered a fatal blow to the stomach,0.0,0.0,4 6 11 13 16 18 
+283,56.1.3,tore her internal organs,0.0,0.0,4 6 11 13 16 18 
+284,56.1.4,she interrupted him,0.0,0.0,4 6 11 13 16 18 
+285,56.1.5,playing his Xbox,0.0,0.0,4 6 11 13 16 18 
+286,56.2.1,She died from internal bleeding after,0.0,0.0,4 6 11 13 16 18 
+287,56.2.2,"suffering 35 separate injuries including multiple bruises , rib fractures and brain damage ,",0.0,0.0,4 6 11 13 16 18 
+288,56.2.3,were comparable to injuries suffered in a car crash,0.0,0.0,4 6 11 13 16 18 
+289,56.3.1,Alcock was jailed for life and must serve at least 21 years .,-0.3,0.4,4 6 11 13 16 18 
+290,57.1.1,"In May 2010 , French gamer Julien Barreaux located and stabbed a fellow player",0.0,0.0,4 6 11 13 16 18 
+291,57.1.2,had stabbed Barreaux on the game Counter-Strike,-0.4,0.4,4 6 11 13 16 18 
+292,57.2.1,The judge at his trial called him,0.0,0.0,4 6 11 13 16 18 
+293,57.2.2,""" a menace to society",0.0,0.0,4 6 11 13 16 18 
+294,58.1.1,"On November 29 , 2010 in South Philadelphia , Pennsylvania , 16 - year - old boy Kendall Anderson bludgeoned his mother to death in her sleep with a claw hammer",0.1,0.2,4 6 11 13 16 18 
+295,58.1.2,she took away his PlayStation,0.0,0.0,4 6 11 13 16 18 
+296,59.1.1,"On April 9 , 2011 in Alphen Aan Den Rijn , The Netherlands , 24 - year - old Tristan van der Vlis opened fire in a shopping mall ,",0.1,0.2,4 6 11 13 16 18 
+297,59.1.2,"releasing more than a hundred bullets with a semi-automatic rifle and a handgun , killing 6 people and wounding 17 others ,",0.5,0.5,4 6 11 13 16 18 
+298,59.1.3,after which,0.0,0.0,4 6 11 13 16 18 
+299,59.1.4,he also killed himself,-0.2,0.0,4 6 11 13 16 18 
+300,59.2.1,"A fair amount of attention was given to the fact that Van Der Vlis had been playing Call of Duty: Modern Warfare 2 and to the alleged similarities between the events in Alphen a/d Rijn and the controversial ""No Russian"" mission in the game (also known as the 'Airport Massacre') where the player can choose to (or choose not to) partake in the killing of a large group of innocent people inside an airport terminal.",0.2080357142857143,0.4723214285714285,4 6 11 13 16 18 
+301,60.1.1,Several theoretical approaches have been applied to potential video game violence effects -LRB- or lack of effects -RRB- .,-0.1,0.375,4 6 11 13 16 18 
+302,60.2.1,"These models compete ,",0.0,0.0,4 6 11 13 16 18 
+303,60.2.2,to explain,0.0,0.0,4 6 11 13 16 18 
+304,60.2.3,video games may or may not have effects on players,0.0,0.0,4 6 11 13 16 18 
+305,61.1.1,"For example the Catalyst Model of aggression comes from a diathesis - stress perspective ,",0.0,0.0,4 6 11 13 16 18 
+306,61.1.2,aggression is due to a combination of genetic risk and environmental strain,-0.125,0.375,4 6 11 13 16 18 
+307,61.2.1,The Catalyst Model suggests,0.0,0.0,4 6 11 13 16 18 
+308,61.2.2,"stress , coupled with antisocial personalities is most salient in the creation of aggression",0.5,0.5,4 6 11 13 16 18 
+309,61.3.1,The Catalyst Model does allow that proximal influences,0.0,0.0,4 6 11 13 16 18 
+310,61.3.2,such as,0.0,0.5,4 6 11 13 16 18 
+311,61.3.3,family or peers may influence aggressiveness,0.0,0.0,4 6 11 13 16 18 
+312,61.4.1,However the Catalyst Model specifically states,0.0,0.0,4 6 11 13 16 18 
+313,61.4.2,media influences are too weak and distant,-0.2375,0.4875,4 6 11 13 16 18 
+314,61.4.3,to have much influence,0.2,0.2,4 6 11 13 16 18 
+315,62.1.1,"having an influence on people , proposing",0.0,0.0,4 6 11 13 16 18 
+316,62.1.2,"a participant 's thoughts , feelings and physical arousal can be affected by simulated violence",0.0,0.1428571428571428,4 6 11 13 16 18 
+317,62.2.1,this creates an effect on an individual 's interpretation of an aggressive or violent act,-0.4,0.7,4 6 11 13 16 18 
+318,63.1.1,The GAM claims,0.0,0.0,4 6 11 13 16 18 
+319,63.1.2,video games have both short - and long - term effects,-0.025,0.35,4 6 11 13 16 18 
+320,63.3.1,"violent video games promote violent behavior , attitudes and beliefs by",-0.8,1.0,4 6 11 13 16 18 
+321,63.3.2,desensitizing an individual to aggression,0.0,0.4,4 6 11 13 16 18 
+322,64.1.1,"In response to concerns about video games , governments around the globe have enacted or attempted",0.0,0.0,4 6 11 13 16 18 
+323,64.1.2,to enact legislation,0.0,0.0,4 6 11 13 16 18 
+324,64.1.3,"regulating , prohibiting , or outright banning video games",0.0,0.0,4 6 11 13 16 18 
+325,64.2.1,"Similarly , support for video game and media regulation has been linked to moral panic .",-0.1333333333333333,0.35,4 6 11 13 16 18 
+326,64.3.1,"To that end , different video game content rating systems have been introduced across the globe .",-0.2,0.5,4 6 11 13 16 18 
+327,65.1.1,Psychology professor Chris Ferguson discusses in an interview,0.0,0.0,4 6 11 13 16 18 
+328,65.1.2,these myths are perpetuated,0.0,0.0,4 6 11 13 16 18 
+329,65.2.1,"When asked to describe the nature of how negative propaganda is spread by activist against video games, Ferguson explained that many respected academics and elected officials develop apprehension towards the media in question and formulate disproportionate accusations of harm.",0.0333333333333333,0.3333333333333333,4 6 11 13 16 18 
+330,65.3.1,Those claims are out in the public,0.0,0.0666666666666666,4 6 11 13 16 18 
+331,65.3.2,expert evidence proves,0.3,0.0,4 6 11 13 16 18 
+332,65.3.3,"them to be invalid ,",0.0,0.0,4 6 11 13 16 18 
+333,65.3.4,it difficult,-0.5,1.0,4 6 11 13 16 18 
+334,65.3.5,to withdraw from such allegations,0.0,0.5,4 6 11 13 16 18 
+335,65.4.1,Possible motivations for why activist claims are not retracted are “…there are certain financial incentives and political incentives.,0.0535714285714285,0.4178571428571428,4 6 11 13 16 18 
+336,65.5.1,It’s hard to get grant money arguing that something *isn’t* a problem…and some scholars take money from anti-media lobbying groups.,-0.2916666666666667,0.5416666666666666,4 6 11 13 16 18 
+337,65.6.1,censorship regimen naturally intend,0.1,0.4,4 6 11 13 16 18 
+338,65.6.2,to be in charge of that regimen themselves ”,0.0,0.0,4 6 11 13 16 18 
+339,65.7.1,"Ferguson adds that present research on violence in video games confirms no valid link, “The best studies now coming out — those which take care to use well-validated clinical outcome measures and which carefully control for other important risk factors — provide no support for the belief that VVG contributes to youth violence”.",0.235,0.5349999999999999,4 6 11 13 16 18 
+340,66.1.1,"Voluntary rating systems adopted by the video game industry, such as the ESRB rating system in the United States and Canada, as well as the Pan European Game Information (PEGI) rating system in Europe, that are aimed at informing parents about the types of games their children are playing (or are asking to play).",-0.2,0.325,4 6 11 13 16 18 
+341,66.2.1,Certain game publishers’ decision to have controversial games rated seems to show that they are not targeted at young children.,0.1160714285714285,0.5803571428571428,4 6 11 13 16 18 
+342,66.3.1,"They are rated by the ESRB as "" Mature "" -LRB- M -RRB- or "" Adults Only "" -LRB- AO -RRB- in the US , or given British Board of Film Classification -LRB- BBFC -RRB- ratings of 15 or 18 in the UK .",0.0333333333333333,0.3666666666666667,4 6 11 13 16 18 
+343,66.4.1,The packaging notes,0.0,0.0,4 6 11 13 16 18 
+344,66.4.2,these games should not be sold to children,0.0,0.0,4 6 11 13 16 18 
+345,66.5.1,"In the US, ESRB ratings are not legally binding, but many retailers take it upon themselves to refuse the sale of these games to minors.",0.2,0.35,4 6 11 13 16 18 
+346,66.6.1,"In the United Kingdom (UK), the BBFC ratings are backed up by law, so it is actually illegal to sell the game to anyone under the indicated age, and many UK retailers go beyond that and also enforce the PEGI ratings, which are not backed up by law.",-0.1333333333333333,0.4666666666666666,4 6 11 13 16 18 
+347,66.7.1,No video game console manufacturer has yet,-0.4,0.4,4 6 11 13 16 18 
+348,66.7.2,to allow any game,-0.4,0.4,4 6 11 13 16 18 
+349,66.7.3,"to be published in North America with the harshest ESRB rating , "" Adults Only "" , signaling",0.0,1.0,4 6 11 13 16 18 
+350,66.7.4,the game is only appropriate for ages 18 years and up,0.0333333333333333,0.6333333333333333,4 6 11 13 16 18 
+351,66.8.1,"Additionally , no major retailers are willing",0.109375,0.625,4 6 11 13 16 18 
+352,66.8.2,to set aside shelf space for AO - rated games,0.0,0.0,4 6 11 13 16 18 
+353,66.9.1,"Although Grand Theft Auto San Andreas was given a rating of AO after widespread surfacing of an add-on originally deleted from the game, ""Hot Coffee,"" in which the player controls a fully clothed sexual encounter.",0.245,0.7666666666666667,4 6 11 13 16 18 
+354,66.10.1,It was later fully removed and the game retained the M rating.,-0.2,0.2,4 6 11 13 16 18 
+355,66.11.1,GTA San Andreas is the best selling game,0.3,0.35,4 6 11 13 16 18 
+356,66.11.2,to ever receive the AO rating,0.0,0.0,4 6 11 13 16 18 
+357,67.1.1,Ratings Enforcement Act introduced to the US House of Representatives in both the 109th Congress and 110th Congress,0.0,0.0,4 6 11 13 16 18 
+358,67.2.1,The proposed legislation would require an ID check for M - and AO - rated game purchases .,-0.4,0.4,4 6 11 13 16 18 
+359,67.3.1,"The bill was not passed into law, and other proposed bills were stopped because of First Amendment violations.",0.0625,0.3541666666666666,4 6 11 13 16 18 
+360,68.1.1,"Although no law mandates ID checking for games with adult content, a 2008 secret shopper survey done by the Federal Trade Commission shows that video game retailers have voluntarily increased ID verification for M- and AO-rated games, and sales of those games to underage potential buyers have been reduced from 83% in 2000 to only 20% in 2008.",-0.14,0.6799999999999999,4 6 11 13 16 18 
+361,69.1.1,"In April 2011 , the Federal Trade Commission undercover shopper survey found",0.0,0.0,4 6 11 13 16 18 
+362,69.1.2,video game retailers continue,-0.4,0.4,4 6 11 13 16 18 
+363,69.1.3,to enforce the ratings by,0.0,0.0,4 6 11 13 16 18 
+364,69.1.4,allowing only 13 % of underage teenage shoppers,0.0,0.5,4 6 11 13 16 18 
+365,69.1.5,"to buy M - rated video games , a statistically significant improvement from the 20 % purchase rate in 2009",0.375,0.875,4 6 11 13 16 18 
+366,69.2.1,"By contrast , underage shoppers purchased R - rated movies 38 % of the time , and unrated movies 47 % of the time .",0.0,0.0,4 6 11 13 16 18 
+367,70.1.1,"On January 7 , 2009 , Representative Joe Baca of California ’s 43rd District introduced H.R.",0.0,0.0,4 6 11 13 16 18 
+368,70.3.1,This bill called for labels to be placed in a “clear and conspicuous location on the packaging” which states “WARNING: Excessive exposure to violent video games and other violent media has been linked to aggressive behaviour.” The proposed legislation mandated that all video games with an ESRB rating of T (Teen) or higher be subjected to the compulsory labelling.,-0.2321428571428571,0.6083333333333333,4 6 11 13 16 18 
+369,70.4.1,"The press release accompanying the introduction of the bill referred to scientific studies from the Pediatrics Journal, Indiana University, University of Missouri and Michigan State University which pointed to a “neurological link between playing violent video games and aggressive behaviour in children and teenagers.” The proposed legislation was referred on to the Subcommittee on Commerce, Trade and Consumer Protection.",-0.8,1.0,4 6 11 13 16 18 
+370,70.5.1,"On January 24 , 2011 ; Rep. Joe Baca reintroduced the Video Game Health Labelling Act as H.R.",-0.4,0.4,4 6 11 13 16 18 
+371,70.7.1,The bill was once again passed onto the Subcommittee .,0.0,0.0,4 6 11 13 16 18 
+372,71.1.1,"On June 27 , 2011 , the Supreme Court of the United States ruled on Brown v. Entertainment Merchants Association , cited video games as protected speech under the First Amendment .",0.25,0.3333333333333333,4 6 11 13 16 18 
+373,71.2.1,The case centered on a California law,0.0,0.0,4 6 11 13 16 18 
+374,71.2.2,to restrict sales of violent video games to minors,-0.8,1.0,4 6 11 13 16 18 
+375,71.3.1,"The video game industry , led by the Entertainment Merchants Association and the Entertainment Software Association successfully obtained an injunction on the bill ,",0.175,0.675,4 6 11 13 16 18 
+376,71.3.2,definition of violence defined by the California law was too vague,-0.5,0.5,4 6 11 13 16 18 
+377,71.4.1,"This opinion was upheld in lower courts , and supported by the Supreme Court 's decision .",0.0,0.0,4 6 11 13 16 18 
+378,71.5.1,"In the decision, the Court determined that there was no direct link between violent video games and their influence on children, in as much as compared to other types of media like television and pictures, and that they could not create a new class of restricted speech that is not applied to other forms of media.",-0.1272727272727273,0.4674242424242423,4 6 11 13 16 18 
+379,72.2.1,It has been shown,0.0,0.0,4 6 11 13 16 18 
+380,72.2.2,"action video game players have better hand - eye coordination and visuo - motor skills , such as their resistance to distraction , their sensitivity to information in the peripheral vision and their ability",0.0499999999999999,0.375,4 6 11 13 16 18 
+381,72.2.3,"to count briefly presented objects , than non-players",0.0,0.3333333333333333,4 6 11 13 16 18 
+382,73.1.1,"Video games also develop the individual 's intelligence , and in social games develop the social capabilities of the individual .",0.0166666666666666,0.2333333333333333,4 6 11 13 16 18 
+383,74.1.1,Another way,0.0,0.0,4 6 11 13 16 18 
+384,74.1.2,in which,0.0,0.0,4 6 11 13 16 18 
+385,74.1.3,the usage of video games might provide a benefit,0.0,0.0,4 6 11 13 16 18 
+386,74.2.1,There is a study being conducted by Dr.Cheryl Olson and her team at Massachusetts General Hospital ’s -LRB- MGH -RRB- Center for Mental Health and Media and Harvard,-0.0499999999999999,0.2666666666666666,4 6 11 13 16 18 
+387,74.2.2,to prove,0.0,0.0,4 6 11 13 16 18 
+388,74.2.3,violent games help,-0.8,1.0,4 6 11 13 16 18 
+389,74.2.4,students deal with stress and aggression,0.0,0.0,4 6 11 13 16 18 
+390,74.3.1,She has found,0.0,0.0,4 6 11 13 16 18 
+391,74.3.2,over 49 % of boys and 25 % of girls use violent games such as Grand Theft Auto IV as an outlet for their anger,-0.25,0.675,4 6 11 13 16 18 
+392,74.4.1,Dr. Olson has come to the conclusion,0.0,0.0,4 6 11 13 16 18 
+393,74.4.2,violent games affect students positively and not,-0.2863636363636364,0.7727272727272727,4 6 11 13 16 18 
+394,74.4.3,negatively because,-0.3,0.4,4 6 11 13 16 18 
+395,74.4.4,the violent crime rate is going down,-0.4777777777777778,0.6444444444444445,4 6 11 13 16 18 
+396,74.4.5,the popularity of M - rated video games has increased,0.0,0.0,4 6 11 13 16 18 
+397,74.5.1,"She suggests that instead of stopping children from playing M-rated games completely, parents should just monitor how much time their children spend playing games; parents should take responsibility.",0.15,0.3,4 6 11 13 16 18 
+398,75.1.1,Several studies have explored the possible benefits of multiplayer video games in a family setting .,0.0,0.5,4 6 11 13 16 18 
+399,75.2.1,"The most recent study found that girls 11-16 who played video games with their parents had better mental health and less aggressive behavior, with a stronger connection if they played age-appropriate games.",0.1466666666666666,0.3033333333333333,4 6 11 13 16 18 
+400,76.1.1,Many studies have been done on gaming and its integration into the classroom in order,0.5,0.5,4 6 11 13 16 18 
+401,76.1.2,to support the educator,0.0,0.0,4 6 11 13 16 18 
+402,76.2.1,""" The use of gaming has the ability",0.0,0.0,4 6 11 13 16 18 
+403,76.2.2,to actively involve students in learning,-0.1333333333333333,0.6,4 6 11 13 16 18 
+404,76.3.1,students build collaborative skills while,0.0,0.0,4 6 11 13 16 18 
+405,76.3.2,completing given tasks,0.0,0.0,4 6 11 13 16 18 
+406,77.1.1,"To date , video game training appears",-0.4,0.4,4 6 11 13 16 18 
+407,77.1.2,to be one of the more interesting and promising means,0.3999999999999999,0.5,4 6 11 13 16 18 
+408,77.1.3,"to improve perceptual , attentional , and cognitive abilities",0.0,0.0,4 6 11 13 16 18 
+409,77.2.1,One of its promises is,0.0,0.0,4 6 11 13 16 18 
+410,77.2.2,", compared to traditional training , it can be engaging and entertaining",0.3,0.7166666666666667,4 6 11 13 16 18 
+411,77.3.1,This has led some companies,0.0,0.0,4 6 11 13 16 18 
+412,77.3.2,to begin,0.0,0.0,4 6 11 13 16 18 
+413,77.3.3,to market video games for the specific purpose of,0.0,0.125,4 6 11 13 16 18 
+414,77.3.4,improving cognition,0.0,0.0,4 6 11 13 16 18 
+415,77.4.1,"For example , Nintendo advertises "" Big Brain Academy "" as a game",-0.2,0.25,4 6 11 13 16 18 
+416,77.4.2,"that """,0.0,0.0,4 6 11 13 16 18 
+417,77.4.3,"trains your brain with a course load of mind - bending activities across five categories : think , memorize , analyze , compute , and identify",0.0,0.0,4 6 11 13 16 18 
+418,78.1.1,It enables players,0.0,0.0,4 6 11 13 16 18 
+419,78.1.2,to explore various aspects of their identity in a virtual world,0.0,0.5,4 6 11 13 16 18 
+420,79.1.1,"children gain problem solving abilities , perseverance , pattern recognition , hypothesis testing , estimating skills , inductive skills , resources management , logistics mapping , memory , quick thinking and reasonable judgements """,0.2666666666666666,0.55,4 6 11 13 16 18 
+421,80.1.1,playing video games,0.0,0.0,4 6 11 13 16 18 
+422,80.1.2,contain high levels of action,0.13,0.3199999999999999,4 6 11 13 16 18 
+423,81.1.1,"Many authors disagree with the notion that suggests that the media can cause violence, they propose media cannot cause violence because humans have the ability to recognize what is wrong, and what is right.",0.0952380952380952,0.6452380952380952,4 6 11 13 16 18 
+424,81.2.1,people are not going,0.0,0.0,4 6 11 13 16 18 
+425,81.2.2,to mistake fiction for reality,0.0,0.0,4 6 11 13 16 18 
+426,81.3.1,Some people,0.0,0.0,4 6 11 13 16 18 
+427,81.3.2,criticize the proposed negative effects based their research,-0.3,0.4,4 6 11 13 16 18 
+428,82.1.1,J.C. Herz argued,0.0,0.0,4 6 11 13 16 18 
+429,82.1.2,"many so - called negative effects of video games , such as aggression and lack of pro-social behavior , are both necessary and useful traits",0.1,0.48,4 6 11 13 16 18 
+430,82.1.3,to have in a capitalistic society,0.0,0.0,4 6 11 13 16 18 
+431,82.2.1,"Specifically , Herz argued",0.0,0.0,4 6 11 13 16 18 
+432,82.2.2,"many academic researchers have an anti-capitalist bias , and thus failed",0.0,0.2666666666666666,4 6 11 13 16 18 
+433,82.2.3,to notice the benefits of such traits,0.0,0.5,4 6 11 13 16 18 
+434,83.1.1,they can be a safe outlet for aggression and frustration,0.5,0.5,4 6 11 13 16 18 

@@ -1,0 +1,27 @@
+RAW ARTICLE TEXT          :
+--------------------------
+
+- A 2001 study found that exposure to violent video games causes at least a temporary increase in aggression and that this exposure correlates with aggression in the real world.
+
+
+CLAIM "ORIGINAL"          :
+--------------------------
+
+-                         Exposure to violent video games causes at least a temporary increase in aggression and this exposure correlates with aggression in the real world
+
+
+CLAIM "CORRECTED"         :
+--------------------------
+
+-                         exposure to violent video games causes at least a temporary increase in aggression and that this exposure correlates with aggression in the real world
+
+
+EVIDENCE "CORRECTED"      :
+--------------------------
+
+-                         Exposure to violent video games causes at least a temporary increase in aggression and this exposure correlates with aggression in the real world
+
+EVIDENCE "RAW / ORIGINAL":
+--------------------------
+
+- A 2001 study found that exposure to violent video games causes at least a temporary increase in aggression and that this exposure correlates with aggression in the real world

@@ -1,1 +1,3 @@
-Many econometric studies in recent years have supported the view that development aid has no effect on the speed with which countries develop aid is ineffective
+version https://git-lfs.github.com/spec/v1
+oid sha256:38c9d258b6f57707401d0937d550a51365349ed18f257e66ab711ba38cb9c234
+size 160

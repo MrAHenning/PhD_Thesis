@@ -1,1 +1,3 @@
-In January 2008, Israel curtailed travel from Gaza, the entry of goods, and cut fuel supplies, resulting in power shortages. This brought charges that Israel was inflicting collective punishment on the Gaza population, leading to international condemnation Israel is inflicting collective punishment on the Gaza population
+version https://git-lfs.github.com/spec/v1
+oid sha256:48778c97e976fd9d45c7ac00d6817c382134f7b0371941ef1baa1b08a5a5c8ef
+size 322

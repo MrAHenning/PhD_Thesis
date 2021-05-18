@@ -1,1 +1,3 @@
-According to SIECUS, the Sexuality Information and Education Council of the United States, an organization that promotes comprehensive sex education[REF] in the United States,[REF] a "..study, conducted by Mathematica Policy Research Inc. on behalf of the U.S. Department of Health and Human Services, found that abstinence-only-until-marriage programs are ineffective."[REF Evidence has not supported the effective use of abstinence-only sex education
+version https://git-lfs.github.com/spec/v1
+oid sha256:255434c00afb0a45a18da8e624a8cd6b711cbe4a08bab6faea927df583e3c3fb
+size 452

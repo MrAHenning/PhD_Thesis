@@ -1,1 +1,3 @@
-At the 6060th UN Security Council meeting the Egyptian representative stated that the "crippling blockade imposed by Israel" is in "flagrant violation" of Israel's responsibilities under international law, international humanitarian law and its specific obligations as an "occupying power" [REF nothing justifies the suffering inflicted to civilian populations who live trapped in the Gaza strip
+version https://git-lfs.github.com/spec/v1
+oid sha256:d547c9b622959f4400391596385e87dae4a9151602b96ceee8d6689c3123c57a
+size 395

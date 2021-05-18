@@ -1,1 +1,3 @@
-In September 2011, a United Nations report, after analysis of both Turkey and Israeli national investigations, concluded that the Israeli blockade was legal The naval blockade's implementation complied with the requirements of international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d51757086202e2cde5c678e9966ad8af36522cc5b03a26b47a22705294926e0
+size 244

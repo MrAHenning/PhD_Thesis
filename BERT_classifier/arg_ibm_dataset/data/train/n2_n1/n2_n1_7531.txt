@@ -1,1 +1,3 @@
-Rennie et al. note that using circumcision as a way of preventing HIV in high prevalence, low-income countries in sub-Saharan Africa, is controversial, but argue that "it would be unethical to not seriously consider one of the most promising [. .] new approaches to HIV-prevention in the 25-year history of the epidemic" [REF circumcision should be presented as an option for health benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:53501a6994edc3087f65b4cbe984e082f88d3a591253cbeb712930bead1c5cf7
+size 391

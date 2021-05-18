@@ -1,1 +1,3 @@
-In February 2010, a Jewish couple were fined for causing bodily harm to their then infant son who was circumcised in 2008 by a mohel brought in from the UK. Normal procedure for persons of Jewish faith in Finland is to have a locally certified mohel who work in Finnish healthcare perform the operation. In the 2008 case, the infant was not anesthetized and developed complications that required immediate hospital care Traditional circumcision causes the death or mutilation of many youths
+version https://git-lfs.github.com/spec/v1
+oid sha256:53dda66e18e1ac0c93d29b511f7a4c8144f9077b1666740ad0ee0b99b6c13b42
+size 490

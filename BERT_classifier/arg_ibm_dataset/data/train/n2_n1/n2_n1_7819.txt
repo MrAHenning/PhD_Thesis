@@ -1,1 +1,3 @@
-The 2008 instruction Dignitas Personae reiterates Church opposition to contraception, mentioning new methods of interception and contragestion, notably female condoms and morning-after pills birth control, in all forms, is sin
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc6080a4dbb746bc35fa9b131683fd9bde77e58b831add3b9cbf831287e9bca8
+size 226

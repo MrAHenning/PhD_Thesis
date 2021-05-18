@@ -1,1 +1,3 @@
-A 2006 meta-analysis of observational data from twenty-six studies found that circumcision was associated with lower rates of syphilis, chancroid and possibly genital herpes [REF circumcision should be presented as an option for health benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:f788a4decf23504ef15e09522c3ee42cb9137ad057092db94dfb0adaaa862200
+size 244

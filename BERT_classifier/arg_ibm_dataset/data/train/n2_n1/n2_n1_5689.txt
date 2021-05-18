@@ -1,1 +1,3 @@
-Following the communist takeovers in Vietnam, Cambodia, and Laos in 1975, about three million people attempted to escape in the subsequent decades. With massive influx of refugees daily, the resources of the receiving countries were severely strained. The plight of the boat people became an international humanitarian crisis Frequently, countries of asylum are some of the world?s poorest nations and cannot handle the large influx of persons
+version https://git-lfs.github.com/spec/v1
+oid sha256:f95a4540e4df1e734fdc60e1294bfd20ecd498aea1caf5f3e94bcb668395e252
+size 443

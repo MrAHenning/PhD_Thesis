@@ -1,1 +1,3 @@
-According to the APP, the country's official news agency, the Pakistani foreign minister Shah Mehmood Qureshi condemned Fitna as being anti-Islamic. He said that the film was part of a series of incitingly discriminatory actions against Islam, made by the Western media. Quereshi said that the Pakistani government, and its people, are highly sensitive towards such actions made in the name of freedom of expression [REF freedom of speech and disseminating ideas do not amount to the right to insult
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aebbd9a6bb2a9f16840db39e347af9608aee5fd81aced59289bc84138a7f7f3
+size 499

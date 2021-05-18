@@ -1,1 +1,3 @@
-David Smith said: "the historic Crown with its anthem, emblems, and symbolism made accessible a past the government of the day rejected"[REF Monarchy is viewed as outdated and irrelevant
+version https://git-lfs.github.com/spec/v1
+oid sha256:2143e1dd3cad4ec5042c39d0a2c3717a32124bfc74e9d083f5a0464427c5b69b
+size 186

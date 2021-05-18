@@ -1,1 +1,3 @@
-According to Tolstoy, the model of ideal education is that which occurs when people go on their own initiative to discover things in museums, libraries, laboratories, meetings, public lectures, or simply talk with wise men. In all these cases, there is no constraint exercised the model of ideal education is that which occurs when people go on their own initiative to discover things
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a7b854b043f7a4e458b56abea56b63f35cc99a4a0b04927e1f14c1a4a77026e
+size 384

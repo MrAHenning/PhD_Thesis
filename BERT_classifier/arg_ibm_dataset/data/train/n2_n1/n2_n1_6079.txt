@@ -1,1 +1,3 @@
-unlike conventional weapons, nuclear weapons successfully deter all-out war between states, and they are said to have done this during the Cold War between the U.S. and the Soviet Union [REF]. Political scientist Kenneth Waltz is the most prominent advocate of this argument [REF Nuclear proliferation is desirable
+version https://git-lfs.github.com/spec/v1
+oid sha256:7162a01d96ef17bff2364a0725f315d2f0a49dd70da156b1ec3fe12e24895097
+size 314

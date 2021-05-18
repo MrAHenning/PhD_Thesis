@@ -1,1 +1,3 @@
-the Bolsheviks (in Soviet Russia), who, inspired by "an ideological creed which professed that all religion would atrophy", "resolved to eradicate Christianity as such". In 1918 "[t]en Orthodox hierarchs were summarily shot" and "[c]hildren were deprived of any religious education outside the home."[REF] Increasingly draconian measures were employed. In addition to direct state persecution, the League of the Militant Godless was founded in 1925, churches were closed and vandalized and "by 1938 eighty bishops had lost their lives, while thousands of clerics were sent to labour camps."[REF atheism systematically influences people to do bad things
+version https://git-lfs.github.com/spec/v1
+oid sha256:13df7b1e47f8d5a42b4184cc3094479223c6266a68c6f8ee91e65b97afda70cc
+size 652

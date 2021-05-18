@@ -1,1 +1,3 @@
-In 2011 Conservation International listed the top 10 most endangered forests, characterized by having all lost 90% or more of their original habitat, and each harboring at least 1500 endemic plant species (species found nowhere else in the world) [REF as the forest declines species diversity will decline
+version https://git-lfs.github.com/spec/v1
+oid sha256:e00af8b6b0c87197a0807a363fd5e8806904e0149df994ad3a202b11c3b9b2a1
+size 305

@@ -1,1 +1,3 @@
-In Switzerland, 69.7% of prison population had no Swiss citizenship, compared to 22.1% of total resident population (as of 2008 immigrants have high rates of criminality
+version https://git-lfs.github.com/spec/v1
+oid sha256:55c680c5952c992c2f5086e1efef00a8fa3f9a6f389c533e63fae80a5bc78201
+size 169

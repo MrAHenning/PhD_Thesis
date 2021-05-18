@@ -1,1 +1,3 @@
-Arthur Caplan, director of the Center for Bioethics at the University of Pennsylvania, argues that abstinence-only sex education leads to the opposite of the intended results by spreading ignorance regarding sexually transmitted diseases and the proper use of contraceptives to prevent both infections and pregnancy [REF abstinence-only programs deprive teenagers of critical information about sexuality
+version https://git-lfs.github.com/spec/v1
+oid sha256:17abfd5ecfc428c69eaa49b5a2b89cf9329effbb9fa235521c71f37ae7b06c25
+size 403

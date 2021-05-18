@@ -1,1 +1,3 @@
-Eleven Palestinian human rights organizations, including two based in Israel, called on the Palestinian Authority and the Hamas government in Gaza to investigate Palestinian violations of international law allegedly committed during the Gaza War. Alleged violations include Palestinian attacks on civilians in Israel and instances of internal repression, such as summary executions in the Gaza Strip and arrests and torture in the West Bank Palestinian armed groups committed war crimes and possibly crimes against humanity
+version https://git-lfs.github.com/spec/v1
+oid sha256:29fce321f8394996a4d628fdeaa925a1709d5722668dd9379d57351229c35eaf
+size 523

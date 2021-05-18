@@ -1,1 +1,3 @@
-The Chilean government formulates a call to an immediate cease of hostilities and provocations, "and deeply regrets the disproportionate use of force by Israel in the Palestinian territories. The Government of Chile reiterates its most absolute conviction that the military solution won't conduct to peace, to which Israelis as well as Palestinians have rights."[REF This cycle of violence and retaliation impedes efforts to broker lasting peace in the region
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a4bf8a6dd3eb361b6fca30e1732116e53631ec22c2cd016cf096fc3f653424e
+size 459

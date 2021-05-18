@@ -1,1 +1,3 @@
-The WIPO treaty and several related international agreements are premised on the notion that the protection of intellectual property rights are essential to maintaining economic growth intellectual property rights are essential to maintaining economic growth
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bdfcdeb10c23a18de98c5016759f215a63a4d57347eeae7df4fc472754b2e66
+size 258

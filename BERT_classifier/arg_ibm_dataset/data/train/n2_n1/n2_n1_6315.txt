@@ -1,1 +1,3 @@
-In 1917, a number of radicals and anarchists, including Emma Goldman, challenged the new draft law in federal court arguing that it was a direct violation of the Thirteenth Amendment's prohibition against slavery and involuntary servitude The military draft is an abrogation of rights
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dc006f8e76ec14311576c6bab5c5a114d8f8cc32584a7ca819d68e37033e05d
+size 284

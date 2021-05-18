@@ -1,1 +1,3 @@
-One year after the ceasefire approximately 20,000 people remained displaced [REF the livelihoods and assets of tens of thousands of Gaza civilians have been affected
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc335c754f0cfa17ec56165479af50b4cc971d9b6979ff4f5344c8a5c8b2f85b
+size 165

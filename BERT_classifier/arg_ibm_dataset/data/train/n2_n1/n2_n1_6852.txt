@@ -1,1 +1,3 @@
-In September 2011, a UN investigative committee concluded in the Palmer Report that the naval blockade is legal the blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:c20791069776f12c7892bc1814c02ca678fdbb3990b95af9c26047beb1c3bf5b
+size 133

@@ -1,1 +1,3 @@
-Mill argued that an opinion only carries intrinsic value to the owner of that opinion, thus silencing the expression of that opinion is an injustice to a basic human right the expression of dissent or subversive views should be tolerated
+version https://git-lfs.github.com/spec/v1
+oid sha256:093bd88c65ecd806b563539913663e802473f4dfd38fcc1d6cd79accaba8d637
+size 237

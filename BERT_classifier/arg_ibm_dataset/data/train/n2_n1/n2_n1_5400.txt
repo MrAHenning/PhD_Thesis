@@ -1,1 +1,3 @@
-The Court found that the University of Michigan Law School's narrowly-tailored policy which considered race and other factors, with no quota or predetermined weight associated with the factors, was constitutional and appropriate "to further a compelling interest in obtaining the educational benefits that flow from a diverse student body Race-conscious affirmative action remains necessary to address race-based obstacles
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c1173a073bf06bf75c565a9c6ddaccb9b2d317aa5410a540929687dfc0d3f2f
+size 422

@@ -1,1 +1,3 @@
-Marxists believe economic equality is necessary for political freedom—saying that when there is economic inequality then political inequality is assured when there is economic inequality then political inequality is assured
+version https://git-lfs.github.com/spec/v1
+oid sha256:1080bae2c10dc105155b76edaa012059aaea4eea91fce16f317070dc6e5dcf59
+size 225

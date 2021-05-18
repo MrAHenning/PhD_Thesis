@@ -1,1 +1,3 @@
-According to Advocates for Youth, abstinence-only sex education distorts information about contraceptives, including only revealing failure rates associated with their use, and ignoring discussion of their benefits [REF such programs fail to provide adequate information to protect the health of adolescents
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d6f077c80b4acb1e636bfd066414b2d45db57018a3baca8c673b6f70f65fc8a
+size 307

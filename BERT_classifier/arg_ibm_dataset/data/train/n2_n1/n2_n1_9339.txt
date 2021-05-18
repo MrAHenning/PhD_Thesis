@@ -1,1 +1,3 @@
-Lombroso theorized that people were born criminals or in other words, less evolved humans who were biologically more related to our more primitive and animalistic urges Genetic reasons are claimed to be largely responsible for social deviance
+version https://git-lfs.github.com/spec/v1
+oid sha256:afab541e702f123ea8c86cf034aefdac3e978116578f247e82f1d59e8d4a80ba
+size 242

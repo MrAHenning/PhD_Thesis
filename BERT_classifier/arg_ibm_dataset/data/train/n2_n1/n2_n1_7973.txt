@@ -1,1 +1,3 @@
-A case in Alberta challenged the violation of freedom of expression and an issue of group libel. James Keegstra, an anti-Semite, taught Holocaust revisionism to schoolchildren in Alberta—in which Keegstra challenged his violation of new freedom of expression. Keegstra was convicted and prosecuted for violation of the laws of group libel which promotes the disadvantage of unequal groups through hate propaganda the right to freedom of speech can be subjected to limitations such as hate speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:13f5388106088983bb7b5d5700607552d29bcc0e55724643fec3ca859180889f
+size 497

@@ -1,1 +1,3 @@
-The First Amendment specifically disallows the abridgment of "speech," but the court reiterated its long recognition that its protection does not end at the spoken or written word. This was an uncontroversial conclusion in light of cases such as Stromberg v. California (display of a red flag as speech) and Tinker v. Des Moines Independent Community School District (wearing of a black armband as speech The First Amendment's protection does not end at the spoken or written word
+version https://git-lfs.github.com/spec/v1
+oid sha256:12093acf23d4cda104b10f2f66653c11076861e0777aa16bc9c6811d0e964bfa
+size 480

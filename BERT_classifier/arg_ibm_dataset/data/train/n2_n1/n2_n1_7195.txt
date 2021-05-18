@@ -1,1 +1,3 @@
-According to Scott Lasensky, "throughout the follow-up talks to the  DoP that produced the Gaza-Jericho Agreement (May 1994), the Early Empowerment Agreement (August 1994), the Interim Agreement (September 1995), and the Hebron Accord (January 1997), [..] economic aid hovered over the process and remained the single most critical external component buttressing the PNA."[REF deteriorating economic conditions could result in a derailment of the peace process
+version https://git-lfs.github.com/spec/v1
+oid sha256:8090744250463bc4469de61fbe490c81ff1a2d825935120ec5c553272a40d813
+size 460

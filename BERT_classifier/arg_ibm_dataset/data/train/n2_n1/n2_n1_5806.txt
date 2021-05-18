@@ -1,1 +1,3 @@
-Peter Singer argued that something can only be a person if it is self-aware and has temporal awareness. Therefore, abortion is morally acceptable, because a fetus does not meet this definition of personhood while the fetus is innocent and biologically human, it is not a person with a right to life
+version https://git-lfs.github.com/spec/v1
+oid sha256:e11bcac1348f18b9805325c16a2bea294b8e11031edc22c51d611dce670c8392
+size 298

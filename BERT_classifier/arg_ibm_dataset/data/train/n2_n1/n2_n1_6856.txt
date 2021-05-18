@@ -1,1 +1,3 @@
-According to Tel Aviv NGO Gisha, the amount of food entering Gaza is as of May 2009, about 25% of the pre-June 2007 figures The blockade amounts to a flagrant contravention of international human rights and humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:cef902e29581345b46d8496a84ef4560b44be8e712009308d9f33c01fa2b1502
+size 223

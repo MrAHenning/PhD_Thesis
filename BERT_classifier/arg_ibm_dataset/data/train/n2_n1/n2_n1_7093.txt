@@ -1,1 +1,3 @@
-Amnesty International, in a report dated June 1, 2010, included the opinion that "As a form of collective punishment, Israel’s continuing blockade of Gaza is a flagrant violation of international law."[REF As a form of collective punishment, Israel’s continuing blockade of Gaza is a flagrant violation of international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:f15fd90fd126bbed08bd9dca894b79d75622fa409f931775be6e0eb05ad32085
+size 327

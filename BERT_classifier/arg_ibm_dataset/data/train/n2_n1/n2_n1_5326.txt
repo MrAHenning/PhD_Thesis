@@ -1,1 +1,3 @@
-The International Convention on the Elimination of All Forms of Racial Discrimination stipulates (in Article 2.2) that affirmative action programs may be required of countries that ratified the convention, in order to rectify systematic discrimination Affirmative action counters the effects of a history of discrimination
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b952c72d8fb6df9b00636c2d2e4e7a04192ff1dd965bc48ccc1a4ab6ae7caa3
+size 322

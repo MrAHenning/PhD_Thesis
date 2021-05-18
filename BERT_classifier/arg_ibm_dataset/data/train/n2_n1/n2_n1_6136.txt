@@ -1,1 +1,3 @@
-the Oath Against Modernism formulated by Pius X, a Pope of the Catholic Church, says: "Deum .. naturali rationis lumine per ea quae facta sunt, hoc est per visibilia creationis opera, tanquam causam per effectus certo cognosci adeoque demostrari etiam posse, profiteor." ("I declare that by the natural light of reason, God can be certainly known and therefore his existence demonstrated through the things that are made, i.e., through the visible works of creation, as the cause is known through its effects God's existence can be demonstrated
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5e2f67a895dde306c1be9d954b40529ebeec2b57ba0a221b84e22c08897b80e
+size 544

@@ -1,1 +1,3 @@
-Retired U.S. General Stanley McChrystal was quoted as saying, "I think it's sad. The decision to leak classified information is something that is illegal, and individuals are making judgments about threats and information they are not qualified to make individuals are making judgments about threats and information they are not qualified to make
+version https://git-lfs.github.com/spec/v1
+oid sha256:58dbf3b6e39b9b3475f526adb3942b99b6affd2b7a34e2d8a233e385a2482076
+size 346

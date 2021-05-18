@@ -1,1 +1,3 @@
-President of the United States George W. Bush, a former co-owner of the Texas Rangers, stated that "we can jump to this conclusion: that steroids have sullied the game The use of performance-enhancing substances by players is illegal and ethically "wrong
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b97839c72b78b947249b3a07e5641c70737f0d64b067a2615c2c2958c6e8bf7
+size 254

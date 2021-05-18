@@ -1,1 +1,3 @@
-The mortality rate for gunshot wounds to the heart is 84%, compared to 30% for people who sustain stab wounds to the heart [REF the likelihood that a death will result is significantly increased when either the victim or the attacker has a firearm
+version https://git-lfs.github.com/spec/v1
+oid sha256:a736cfde58afcda4c6de13b27577af24529b25b250647aa40efb1a43844b7797
+size 247

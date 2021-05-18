@@ -1,1 +1,3 @@
-A recent American Psychological Association (APA) press release supported the inclusion of information about condoms in sex education, saying "comprehensive sexuality education programs.. discuss the appropriate use of condoms", and "promote condom use for those who are sexually active."[REF education on condom use reduces behaviors that increase the risk of breakage and slippage
+version https://git-lfs.github.com/spec/v1
+oid sha256:2753868178ae1513f78ebe944021753aa1229810e3d8d204972d658bfb9c9420
+size 382

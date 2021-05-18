@@ -1,1 +1,3 @@
-At the same time, leaders of B’Tselem and Breaking the Silence think that the Goldstone accusation of an assault on civilians is incorrect [REF Israel violated the Fourth Geneva Convention by targeting civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:a43c2fcc0c27969b7b2939ca3a07f993737fb926128c633e77538a8952dd34b4
+size 213

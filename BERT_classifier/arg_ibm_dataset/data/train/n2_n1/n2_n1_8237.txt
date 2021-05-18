@@ -1,1 +1,3 @@
-Colonel Richard Kemp, former commander of British forces in Afghanistan, addressed the UNHRC at October 2009, speaking on behalf of UN Watch. He said that Hamas is "adept at staging and distorting incidents" and asserted that during the conflict the Israel Defense Forces "did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare" and that Palestinian civilian casualties were a consequence of Hamas' way of fighting, which involved using human shields as a matter of policy, and deliberate attempts to sacrifice their own civilians the IDF was forced to deal with the lowest form of terrorists
+version https://git-lfs.github.com/spec/v1
+oid sha256:079163e3ae8d6934b1ad1099de8c4bbce7cb0e891da6aafae54de4e562c0b637
+size 646

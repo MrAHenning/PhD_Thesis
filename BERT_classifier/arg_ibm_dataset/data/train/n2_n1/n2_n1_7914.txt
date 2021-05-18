@@ -1,1 +1,3 @@
-smokers are only half as likely as non-smokers to survive to the age of 80 [REF Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:85b47195712e48ac7210a5b9ea08cacbcd6da2300477539bdaeb2d411f86ccb1
+size 166

@@ -1,1 +1,3 @@
-Professor Donald A. Berry has argued that the closed systems used by anti-doping agencies do not allow scientific (statistical) validation of the tests [REF]. This argument was seconded by an accompanying editorial in the magazine Nature (7 August 2008) [REF drug testing can be wildly inconsistent and, in some instances, has gone unenforced
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2ad0867756038076613ad059b4fc59cc7b9322a079951053f8ddf07ee1ed428
+size 342

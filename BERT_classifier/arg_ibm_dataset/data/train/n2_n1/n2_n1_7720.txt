@@ -1,1 +1,3 @@
-Jared Diamond gives an extensive look into the collapse of the ancient Easter Islanders in his book Collapse. The disappearance of the island's trees seems to coincide with a decline of its civilization around the 17th and 18th century. He attributed the collapse to deforestation and over-exploitation of all resources [REF deforestation can cause environmental damage sufficient in some cases to cause societies to collapse
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5499cc1f4320b631b00983ce8ab26ff24d63a72dc0840f9deead3fd745e4340
+size 425

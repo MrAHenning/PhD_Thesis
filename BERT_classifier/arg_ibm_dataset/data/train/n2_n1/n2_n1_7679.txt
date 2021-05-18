@@ -1,1 +1,3 @@
-Since the tropical rainforests are the most diverse ecosystems on Earth[REF][REF] and about 80% of the world's known biodiversity could be found in tropical rainforests,[REF][REF] removal or destruction of significant areas of forest cover has resulted in a degraded[REF] environment with reduced biodiversity [REF The removal of trees without sufficient reforestation has resulted in damage to habitat
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2ee67f18fd939044015f6a7f9f1f3daa0a79741a3309a7bd49fb4faf88deb3
+size 402

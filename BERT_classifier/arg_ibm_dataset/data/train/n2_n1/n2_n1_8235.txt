@@ -1,1 +1,3 @@
-The report also stated there is evidence that Palestinian armed groups committed war crimes and possibly crimes against humanity by deliberately launching rockets and firing mortars into Israel, calculated to kill civilians and damage civilian structures [REF the IDF was forced to deal with the lowest form of terrorists
+version https://git-lfs.github.com/spec/v1
+oid sha256:24492437b661180d97c7088b171a9ed17f9eecfeda8c9d868b5073f370e80a38
+size 321

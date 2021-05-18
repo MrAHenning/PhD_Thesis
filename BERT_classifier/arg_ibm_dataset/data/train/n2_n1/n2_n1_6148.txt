@@ -1,1 +1,3 @@
-According to the French Catholic philosopher Étienne Borne, "Practical atheism is not the denial of the existence of God, but complete godlessness of action; it is a moral evil, implying not the denial of the absolute validity of the moral law but simply rebellion against that law."[REF atheism systematically influences people to do bad things
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eb2414cf795bf507cb3b2b3012a1a204243f67ea174dbb425430cf7d0163191
+size 346

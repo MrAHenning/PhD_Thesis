@@ -1,1 +1,3 @@
-Milton Mankoff asserts that there is much less crime in Western Europe than in the U.S. because Europe is more ‘Socialist’ than America The poor would commit crime out of need or out of a sense of injustice
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc69ac3b45df527ca212961019b5759daf9f785e13dbac87bdaea69cbbccd895
+size 210

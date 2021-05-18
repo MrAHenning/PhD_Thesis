@@ -1,1 +1,3 @@
-Biodiversity provides critical support for drug discovery and the availability of medicinal resources [REF]. A significant proportion of drugs are derived, directly or indirectly, from biological sources: at least 50% of the pharmaceutical compounds on the US market are derived from plants, animals, and micro-organisms, while about 80% of the world population depends on medicines from nature (used in either modern or traditional medical practice) for primary healthcare [REF]. Only a tiny fraction of wild species has been investigated for medical potential Earth's surviving biodiversity provides resources for increasing the range of food and other products suitable for human use
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bb774a12e16f8a681a3617b43b70430ff1f7da55f99c2341e1e9f4bb8bc5f0e
+size 686

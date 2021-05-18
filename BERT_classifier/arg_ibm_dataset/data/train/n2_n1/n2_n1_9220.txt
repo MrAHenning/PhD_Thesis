@@ -1,1 +1,3 @@
-recent polls suggest that a majority of Americans still support a ban on flag-burning [REF A majority of Americans support a ban on flag-burning
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d7cf89efe424673f193d6f24cd30475ee6455ca431311bed14c06f67ca79cb8
+size 144

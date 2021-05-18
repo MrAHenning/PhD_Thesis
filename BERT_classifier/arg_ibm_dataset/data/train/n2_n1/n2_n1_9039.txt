@@ -1,1 +1,3 @@
-On 15 May 2002 the House of Lords appointed a select committee “to consider and report on the law relating to religious offences”. The committee's first report was published in April 2003; it summarised the state of the law in this area, and found that the present law on blasphemy was unlikely to result in successful prosecution the offence of blasphemy is a dead letter
+version https://git-lfs.github.com/spec/v1
+oid sha256:6054c6364c8d3f27c9a1d4d6c2601e65226f7404b4d269ef2e1b69e94b2eaa99
+size 376

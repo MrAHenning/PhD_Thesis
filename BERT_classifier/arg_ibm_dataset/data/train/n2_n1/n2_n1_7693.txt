@@ -1,1 +1,3 @@
-Scientists also state that, Tropical deforestation releases 1.5 billion tons of carbon each year into the atmosphere [REF Deforestation is often cited as one of the major causes of the enhanced greenhouse effect
+version https://git-lfs.github.com/spec/v1
+oid sha256:904b656d035445af721bd9b1546dae7a5d57a24fae0081e78440de5e0687a99f
+size 211

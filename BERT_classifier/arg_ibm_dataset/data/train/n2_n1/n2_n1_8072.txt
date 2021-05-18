@@ -1,1 +1,3 @@
-Opinion polls have consistently revealed that public opinion is overwhelmingly opposed to nuclearization[REF public opinion is overwhelmingly opposed to nuclearization
+version https://git-lfs.github.com/spec/v1
+oid sha256:19992f8ee58a25650d36a8ebdc8302b0738b751e52ebaf14ceb49c81e67494ef
+size 167

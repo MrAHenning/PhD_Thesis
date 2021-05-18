@@ -1,1 +1,3 @@
-The rape of a 12-year-old girl by U.S. servicemen in 1995 triggered large protests in Okinawa Okinawans oppose the presence of the U.S. military
+version https://git-lfs.github.com/spec/v1
+oid sha256:c364453b1d30365f88ab543e90c5ffd5cbf6a9aa03cc06229db1a0e795e9e35a
+size 144

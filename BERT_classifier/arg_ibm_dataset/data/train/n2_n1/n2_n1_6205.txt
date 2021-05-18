@@ -1,1 +1,3 @@
-religion is reported as having a positive effect on human well-being by 79% of recent studies in the field religion is a positive civilizing influence on society
+version https://git-lfs.github.com/spec/v1
+oid sha256:702897ca8f5e1e30be1e5724c5aaa353a1a80131560c7b1698bd92b8def6a759
+size 161

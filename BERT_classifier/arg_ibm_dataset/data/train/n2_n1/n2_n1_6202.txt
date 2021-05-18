@@ -1,1 +1,3 @@
-Nobel Peace laureate, Muslim, and human rights activist Shirin Ebadi has criticized dogmatic Islam as morally deficient, arguing that it elevates to moral status many ancient and ill-informed rules that may have been designed for reasons of hygiene, politics, or other reasons in a bygone era [REF]. An example of this would be the idea that women and men must be kept separate, or that women who do not cover themselves up modestly have tendencies for immorality, or are in some way responsible for sexual assault [REF theistic religions devalue human compassion and morality
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e9b180525ef3a3d2fbbb15a8bb79d4a9a46875cc0103bbd942ddcbbf60eb63c
+size 576

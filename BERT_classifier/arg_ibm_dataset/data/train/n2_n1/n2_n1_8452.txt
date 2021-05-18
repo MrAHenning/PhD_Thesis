@@ -1,1 +1,3 @@
-An official statement by the Lithuanian government said that he "is aware of Israel's right to defend its citizens from the terrorist attacks of Hamas Israel's right to self-defence is recognized
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c170053784baab6a476ff47fa116b2b2eef2632a0f999b9f86e44b4e38b5088
+size 195

@@ -1,1 +1,3 @@
-With wins over Clemson, BYU, and Utah, some journalists, including Football Writers Association of America Past-President Dennis Dodd, have cited the 2009 TCU team as an example of a non-AQ team, excluded from consideration for the national championship in spite of their performance against strong competition [REF Unfair competition is inherent in the structure of the BCS
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cd4a93352961585006fd3753e75b0e61e96db7fab8e7abf938f3016c65c112e
+size 374

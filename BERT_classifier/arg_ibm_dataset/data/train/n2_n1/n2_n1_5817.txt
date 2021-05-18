@@ -1,1 +1,3 @@
-modern embryology shows that the embryo begins to exist at conception and has a natural capacity for complex mental qualities, therefore the right to life begins at conception the embryo has a right to life
+version https://git-lfs.github.com/spec/v1
+oid sha256:a35d5b8647b9f6664617f8e5addd263817b75c47392f0fd50416e56edbacaa33
+size 206

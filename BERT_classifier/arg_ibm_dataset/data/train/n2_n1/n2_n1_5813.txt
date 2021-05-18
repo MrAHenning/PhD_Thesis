@@ -1,1 +1,3 @@
-The Roman Catholic Church believes that human life begins at conception as does the right to life; thus, abortion is considered immoral [REF Abortion is considered to be morally wrong
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c26f10028a3e22d2ecec7bc9955515fc51c7037b4fb1946cf0ca32cdb25752b
+size 183

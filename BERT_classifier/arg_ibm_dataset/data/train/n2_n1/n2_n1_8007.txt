@@ -1,1 +1,3 @@
-The Friedman Foundation for Educational Choice, founded by Milton and Rose Friedman in 1996, is a non-profit organization that promotes universal school vouchers and other forms of school choice. In defense of vouchers, it cites empirical research showing that students who were randomly assigned to receive vouchers had higher academic outcomes than students who applied for vouchers but lost a random lottery and did not receive them; and that vouchers improve academic outcomes at public schools, reduce racial segregation, deliver better services to special education students School voucher and education tax credit systems incentivize schools to increase accountability and school performance
+version https://git-lfs.github.com/spec/v1
+oid sha256:71f861572bae2c8b558b2bb2d01037ff3ae48c797a87bf2715f5584ccb60c122
+size 698

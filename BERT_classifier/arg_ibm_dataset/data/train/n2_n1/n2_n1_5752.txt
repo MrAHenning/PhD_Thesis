@@ -1,1 +1,3 @@
-48% of Canadians said that "the constitutional monarchy is outmoded and would prefer a republican system of government with an elected head of state, like in the United States,"[REF Constitutional monarchy is outdated
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2c5ae4006c6f55bb755bddf4235166c12b83d3facade2e72cf74cfc4b4fa289
+size 217

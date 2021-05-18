@@ -1,1 +1,3 @@
-Official JVP statement reads "We condemn Israel's assault on Gaza. As of today, more than 1,000 Palestinians have been killed by the Israeli assault, including at least 335 children and many more civilians."[REF Israel`s unproportionally all-out war on Hamas with a great number of fatalities is an unforgettable human tragedy
+version https://git-lfs.github.com/spec/v1
+oid sha256:14b41511b1036da01ba3d5a902a5a1091319295aec304f8f103907c9c8a0b16f
+size 326

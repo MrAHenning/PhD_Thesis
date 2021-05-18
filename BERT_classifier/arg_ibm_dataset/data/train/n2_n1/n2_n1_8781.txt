@@ -1,1 +1,3 @@
-Foreign Minister Sergei Lavrov added that "the disproportionate use of force by Israel, which causes suffering to the civilian population, can be neither understood nor justified" [REF the reaction of the armed forces of Israel was condemned as "disproportional
+version https://git-lfs.github.com/spec/v1
+oid sha256:847e9f3ba85544b61bf75073ae11125c41f7ccdf5dc683bcf8c02a6296dd6836
+size 261

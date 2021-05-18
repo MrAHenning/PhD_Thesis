@@ -1,1 +1,3 @@
-Research has shown that most weapons and arms trafficked into Mexico are from gun dealers in the United States [REF The majority of illegal guns in Mexico come from the United States
+version https://git-lfs.github.com/spec/v1
+oid sha256:3094aeaa17e1ec83eeb6297e678bea045f66f6628f1bea67867132b404414e63
+size 182

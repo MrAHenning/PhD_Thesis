@@ -1,1 +1,3 @@
-Sowell concludes: "Despite sweeping claims made for affirmative action programs, an examination of their actual consequences makes it hard to support those claims, or even to say that these programs have been beneficial on net balance."[REF Affirmative action programs have at best a negligible impact on the groups they are intended to assist
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd68f991dfdd0116333dfd230df0df079a012f939ce74cfc8a84698a778c558f
+size 343

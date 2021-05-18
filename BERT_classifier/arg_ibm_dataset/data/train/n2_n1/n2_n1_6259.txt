@@ -1,1 +1,3 @@
-According to Aquinas, the universe cannot, at any particular moment, be causing itself. Even if causes and effects in the universe looped back on themselves, they would still, at any particular moment, be contingent and thus would have to be caused by God. They could not be causing themselves [REF the existence of the Universe requires an explanation, and the creation of the Universe by a First Cause, generally assumed to be God, is that explanation
+version https://git-lfs.github.com/spec/v1
+oid sha256:39bb196306d0ddf744231f4b47b059db1a5830e4365563a34b21e73e6adf9483
+size 453

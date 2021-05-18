@@ -1,1 +1,3 @@
-The "no reason" argument tries to show that an omnipotent and omniscient being would not have any reason to act in any way, specifically by creating the universe, because it would have no needs, wants, or desires since these very concepts are subjectively human. Since the universe exists, there is a contradiction, and therefore, an omnipotent god cannot exist. This argument is expounded upon by Scott Adams in the book God's Debris The combination of attributes which God may be asserted to have are logically contradictory
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7babbe7ed2963712f9e1f2e3cb916c4605b6f14db6716448c1c14bf3d6a60c1
+size 526

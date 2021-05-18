@@ -1,1 +1,3 @@
-In 2008, a senior senator of the legislature of Nebraska blamed Rich and term limits for his "forced retirement," but Rich responded in a letter to the editor of The New York Times that "term limits have never been aimed at any one individual, but rather at an underlying culture of abuse that invariably tends to place the voracious appetites of government institutions over the best interests of the people they are there to serve."[REF The longer politicians are in office, the more likely they are to rip us off for their own benefit
+version https://git-lfs.github.com/spec/v1
+oid sha256:d501e68111b8bdb152f5042b5964e0f8dae1ec77c57e7a46d1fe0adf29c1f65b
+size 537

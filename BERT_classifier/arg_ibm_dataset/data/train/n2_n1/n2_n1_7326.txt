@@ -1,1 +1,3 @@
-A comprehensive review of 115 program evaluations published in November 2007 by the National Campaign to Prevent Teen and Unplanned Pregnancy found that two-thirds of sex education programs focusing on both abstinence and contraception had a positive effect on teen sexual behavior. The same study found no strong evidence that abstinence-only programs delayed the initiation of sex, hastened the return to abstinence, or reduced the number of sexual partners [REF Abstinence-only programs have not demonstrated successful outcomes
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d957988531d14393438aa39826db42cb708aa6cb06a687ccccc9f70b2c19949
+size 531

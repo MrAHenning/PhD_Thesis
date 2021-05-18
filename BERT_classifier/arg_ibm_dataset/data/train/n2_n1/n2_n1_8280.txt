@@ -1,1 +1,3 @@
-The Associated Press noted that "Hamas fired hundreds of rockets toward Israeli towns and cities during the fighting, killing three Israeli civilians" [REF Israelis have been killed by the unlawful rocket and mortar attacks from Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:603caf01eeb0b04ffa7e3878829d42858347f253698df030b9880f5c247ff983
+size 233

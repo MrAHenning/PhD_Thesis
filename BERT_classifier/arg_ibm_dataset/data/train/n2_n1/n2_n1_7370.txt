@@ -1,1 +1,3 @@
-In purely sexual relationships, adolescents pick up "a lot of bad habits" and don't learn "to trust or share or know how to disagree and make up", according to Laura Sessions Stepp, author of Unhooked: How Young Women Pursue Sex, Delay Love, and Lose at Both [REF]. They become jaded and as a result later in life, they have trouble forming adult relationships, according to Levy-Warren [REF]. "They don't learn to build that emotional intimacy before they get physically intimate. In the long term, that develops bad relationship habits," according to adolescent gynecologist Melisa Holmes, author of Girlology: Hang-Ups, Hook-Ups and Holding Out[REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:76f464a247c30c1e2ce4f525258fa1d0635e245e5ad6b9f411e54a096a1e208a
+size 751

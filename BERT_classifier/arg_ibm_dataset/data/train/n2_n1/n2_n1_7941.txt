@@ -1,1 +1,3 @@
-The Declaration of the Rights of Man and of the Citizen, of constitutional value, states, in its article 11: .   The free communication of thoughts and of opinions is one of the most precious rights of man The free communication of thoughts and of opinions is one of the most precious rights of man
+version https://git-lfs.github.com/spec/v1
+oid sha256:f936da927b1fde1bd039073a6560b7cfdc7070c481186902b03faa06284ea328
+size 298

@@ -1,1 +1,3 @@
-One confounding factor, which has been the subject of many studies, is residential self-selection[REF]: people who prefer to drive tend to move towards low density suburbs, whereas people who prefer to walk, cycle or use transit tend to move towards higher density urban areas, better served by public transport. Some studies have found that, when self-selection is controlled for, the built environment has no significant effect on travel behaviour [REF Planning policies that increase population densities in urban areas tend to reduce car use
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea62fc75aefdbf772e3a6fe95e49f48ac3c5fc2ad1ce4d45fd79441ff31608de
+size 545

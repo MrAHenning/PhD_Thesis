@@ -1,1 +1,3 @@
-The Times argued that higher education has been a closed shop in the UK for too long, that all over the world there are excellent universities run independently of the state all over the world there are excellent universities run independently of the state
+version https://git-lfs.github.com/spec/v1
+oid sha256:df7ad48e87c0221effe0606dfce6ecbd2f6f52c6e25b1ad424089ea11d5d81c3
+size 256

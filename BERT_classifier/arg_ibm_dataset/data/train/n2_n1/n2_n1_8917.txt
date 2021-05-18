@@ -1,1 +1,3 @@
-Turkish Prime Minister Recep Erdogan said "the attacks are killing children and civilians and that the attacks can have no humanitarian justification Israel's right to defend itself is recognized
+version https://git-lfs.github.com/spec/v1
+oid sha256:2973a51e8b08dc6a1a931d4908294cb3c1f0f3c3554539a85d8bbbf4e4a8fe7a
+size 195

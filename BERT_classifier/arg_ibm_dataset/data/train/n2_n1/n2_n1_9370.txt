@@ -1,1 +1,3 @@
-Social disorganization theory: States that crime is more likely to occur in areas where social institutions are unable to directly control groups of individuals a weak bond between an individual and society itself allows the individual to defy societal norms and adopt behaviors that are deviant in nature
+version https://git-lfs.github.com/spec/v1
+oid sha256:d352ee1c20447384439dfdf5be110999898fbf0e35b675bec4820da00f767b17
+size 305

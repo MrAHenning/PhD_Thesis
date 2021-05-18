@@ -1,1 +1,3 @@
-Saudi Arabia has blamed divisions amongst the Palestinians for the conflict, as well as Hamas for provoking Israel [REF it was Hamas that broke the truce
+version https://git-lfs.github.com/spec/v1
+oid sha256:832b026c0263fe50e437a24fda6a344e33cb8c1a8a82656a8e4fcb431a4492f1
+size 153

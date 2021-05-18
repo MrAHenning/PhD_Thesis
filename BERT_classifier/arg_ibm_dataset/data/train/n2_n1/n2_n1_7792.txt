@@ -1,1 +1,3 @@
-Cardinal Godfried Danneels is seen as one of the leaders of the "reformist party" within the Church. For instance, he has said that, although abstinence is preferable, condoms are acceptable as a means of preventing AIDS condoms are acceptable as a means of preventing AIDS
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb91d2f7e57c348466bed802e07ba1bc495a15eb5b99f8a4b335b3f5b35caaf9
+size 273

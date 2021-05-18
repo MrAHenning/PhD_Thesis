@@ -1,1 +1,3 @@
-U.S. Representative Charles Rangel argued in 2004 that poor men were far more apt to enlist for military service. He called for a reinstatement of the draft to ensure service in the Iraq War was spread equally among the rich and poor the draft should be reinstated to make the military more equal
+version https://git-lfs.github.com/spec/v1
+oid sha256:8672ec26b7b735afa76699de7fabd8fd8dee35e5ef3d4cfe43a25e4f9dc8d5ee
+size 296

@@ -1,1 +1,3 @@
-The Sankhya- tattva-kaumudi, commenting on Karika 57, argues that a perfect God can have no need to create a world a perfect God can have no need to create a world
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6c631c970d9f959e91caed5aca254a371ae16d955cf7d6de6a555ec8e129cb2
+size 163

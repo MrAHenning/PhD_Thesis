@@ -1,1 +1,3 @@
-economics generally holds that subsidies may distort the market and produce inefficiencies Subsidies may distort markets, and can impose large economic costs
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7f5575aad963d84f02d2db31d81045136b5658b23659d47b376da620682cb33
+size 157

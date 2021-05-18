@@ -1,1 +1,3 @@
-IP-intensive industries" are estimated to generate 72 percent more value added (price minus material cost) per employee than "non-IP-intensive industries" [REF A positive correlation between the strengthening of the IP system and subsequent economic growth was found
+version https://git-lfs.github.com/spec/v1
+oid sha256:99ece3556622b2026cd773b264591315a7972b5d9744d242632b9cfacb341438
+size 266

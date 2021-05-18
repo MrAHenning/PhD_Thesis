@@ -1,1 +1,3 @@
-June 28, 2010, Chicago gun control law struck down 5 to 4. "The Fourteenth Amendment makes the Second Amendment right to keep and bear arms fully applicable to the States the right to bear arms is absolute and unqualified
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd57881284e7771b9b9db3e5b6588d0d5e28ae8c3e64fee666f71096c64ed27
+size 221

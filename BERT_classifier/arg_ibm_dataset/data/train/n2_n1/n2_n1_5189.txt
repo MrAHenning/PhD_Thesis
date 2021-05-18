@@ -1,1 +1,3 @@
-Voice of America cites critics who argue that it contributes to forced abortions China's birth control policy contributes to forced abortions
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ec57b90f771ebaac7e53ce8bfe6aa5ade2fc873f39c2a700d68233a446ca8e
+size 141

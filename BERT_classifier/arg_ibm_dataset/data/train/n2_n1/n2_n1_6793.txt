@@ -1,1 +1,3 @@
-In August 2009, U.N. human rights chief Navi Pillay criticised Israel for the blockade in a 34-page report, calling it a violation of the rules of war [REF The blockade is considered illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:a96c728bebee31d4e37c979b2705d792e3cee19c51e24a1c5c02c98b3d3ce1ae
+size 190

@@ -1,1 +1,3 @@
-In an op-ed published in the Wall Street Journal on January 11, 2011, Rhee endorsed vouchers when she supported, "giving poor families access to publicly funded scholarships to attend private schools," adding that "All children deserve the chance to get a great education; no family should be forced to send kids to a school they know is failing."[REF no family should be forced to send kids to a school they know is failing
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbecf40619a7cbac4725d45858e752e093d2d9cbe21b07dde166a4bc5fc75480
+size 424

@@ -1,1 +1,3 @@
-On November 8, Attorney General Holder stated for the first time in Congressional testimony that "gunwalking" was used in Fast and Furious the ATF knowingly allowed thousands of guns to be bought by suspected arms traffickers ("gunrunners") working through straw purchasers on behalf of Mexican drug cartels
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c44f222301f42204da9064b0c4a67711ad292fb01f512912b111c077729157f
+size 307

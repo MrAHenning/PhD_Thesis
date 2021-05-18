@@ -1,1 +1,3 @@
-Rep. Ed Whitfield, a member of the House Committee on Energy and Commerce concurred, saying "this is the most technologically advanced and safest pipeline ever proposed."[REF this is the most technologically advanced and safest pipeline ever proposed
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfcfa34ea2e01c6067c33edd11c28e1be66d577395553a0230c33b8a88feefce
+size 250

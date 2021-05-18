@@ -1,1 +1,3 @@
-Minister of Foreign Affairs, Cristian Diaconescu, pointed out Romania's concern about the current situation and has expressed his belief that the cessation of violence and identification of solutions for the humanitarian issues from the Gaza Strip are absolutely necessary in view of resumption of political dialogue. He said that from Romania's point of view, the solution to this crisis may be found only by political means the military solution won't conduct to peace
+version https://git-lfs.github.com/spec/v1
+oid sha256:db9f101b5a9e5140575c19a721ee8dff9498574acfd42edd94bfbaefd3c47d90
+size 470

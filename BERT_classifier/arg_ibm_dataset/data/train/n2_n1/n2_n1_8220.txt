@@ -1,1 +1,3 @@
-The report focused on 36 cases that it said constituted a representative sample. In 11 of these episodes, it said the Israeli military carried out direct attacks against civilians, including some in which civilians were shot “while they were trying to leave their homes to walk to a safer place, waving white flags” [REF]. Talking to Bill Moyers Journal, Goldstone said that the committee chose 36 incidents that represented the highest death toll, where there seemed to be little or no military justification for what happened [REF Israel violated the Fourth Geneva Convention by targeting civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa180cce9837f2aa50e6af4ffe5470d20fa712a76037386ba42eec8aaf3849ec
+size 604

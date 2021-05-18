@@ -1,1 +1,3 @@
-Hoxby's research has found that both private and public schools improved through the use of vouchers [REF vouchers improve academic outcomes at public schools
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd2410930cdb937427b918ff6f7821fe6fb567464d785633939fdfa0c4e26e63
+size 158

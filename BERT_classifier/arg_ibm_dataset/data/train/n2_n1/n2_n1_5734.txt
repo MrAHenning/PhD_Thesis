@@ -1,1 +1,3 @@
-Thomas Aquinas also stated that the ideal monarchical system would also have at lower levels of government both an aristocracy and elements of democracy in order to created a balance of power a morally-based, balanced monarchy is stressed as the ideal form of government
+version https://git-lfs.github.com/spec/v1
+oid sha256:f53fb2038b7501f42dd177e31cd94266af94ebe374f08875a77b48117e067139
+size 270

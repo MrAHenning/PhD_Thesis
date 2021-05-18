@@ -1,1 +1,3 @@
-The Ministry of Foreign Affairs released the following statement on 4 January: "The Italian government, with the broad consensus of its parliament, recently reasserted Israel's right to defend itself but, at the same time, launched an appeal to its Israeli friends that they do everything possible to ensure the protection of civilians and the dispatch of humanitarian aid. Once again the gravity and irresponsibility of Hamas’ violation of the truce is clear."[REF it was Hamas that broke the truce
+version https://git-lfs.github.com/spec/v1
+oid sha256:cddb68bac0a7b632f0e1150b7eda90840952243338b157e5a7855f33c177f2e9
+size 501

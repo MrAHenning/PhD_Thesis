@@ -1,1 +1,3 @@
-In 2004, U.S. Congressman Henry Waxman of California released a report that provides several examples of inaccurate information being included in federally funded abstinence-only sex education programs. This report bolstered the claims of those arguing that abstinence-only programs deprive teenagers of critical information about sexuality [REF abstinence-only sex education leads to the opposite of the intended results by spreading ignorance regarding sexually transmitted diseases and the proper use of contraceptives
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0f4dbf7f05a3f4f44f9fd42ad3a9368efcf41e1a5ab09939b50e337412a41a8
+size 521

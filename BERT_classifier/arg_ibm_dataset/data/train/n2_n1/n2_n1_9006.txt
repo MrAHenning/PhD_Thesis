@@ -1,1 +1,3 @@
-The Vatican issued a statement saying "The right to freedom of thought and expression, sanctioned by the Declaration of the Rights of Man, cannot imply the right to offend the religious sentiment of believers. This principle applies obviously for any religion."[REF It's better to publish too much than not to have freedom
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc798ccbe07b2180c8dbd13523c4a15101963b11e0ee22be3108a92663fa5074
+size 322

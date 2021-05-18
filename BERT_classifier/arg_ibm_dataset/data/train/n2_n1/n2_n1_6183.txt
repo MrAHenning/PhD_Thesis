@@ -1,1 +1,3 @@
-Neuropsychology Professor John Bradshaw also says: Some forms of temporal lobe tumours or epilepsy are associated with extreme religiosity. Recent brain imaging of devotees engaging in prayer or transcendental meditation has more precisely identified activation in such sites&nbsp;— God-spots, as Vilayanur Ramachandran calls them. Psilocybin from mushrooms contacts the serotonergic system, with terminals in these and other brain regions, generating a sense of cosmic unity, transcendental meaning and religious ecstasy. Certain physical rituals can generate both these feelings and corresponding serotonergic activity [REF religious belief is a delusion
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0912e87ddec4ff566521070b2f67d61bc2d14429a12ba56a4c7adec2ad79068
+size 658

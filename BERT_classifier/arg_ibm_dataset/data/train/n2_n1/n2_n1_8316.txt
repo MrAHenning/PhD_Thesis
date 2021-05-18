@@ -1,1 +1,3 @@
-Senior Hamas official Mahmoud al-Zahar stated during the operation "they [Israeli forces] shelled everyone in Gaza.. They shelled children and hospitals and mosques During Operation Cast Lead, the Israeli Defense Forces did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d3cb7dc0711cbd967650d24cfb718884dd9568401d7d242e3be4e0b19fd1c19
+size 328

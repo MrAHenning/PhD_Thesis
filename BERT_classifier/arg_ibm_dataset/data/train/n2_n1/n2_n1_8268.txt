@@ -1,1 +1,3 @@
-The report says that IDF's mortar shelling near a United Nations-run Al-Fakhura school in the Jabaliya refugee camp, which was sheltering some 1,300 people, killed 35 and wounded up to 40 people. The investigation did not exclude the possibility that Israeli forces were responding to fire from an armed Palestinian group, as Israel said, but said that this and similar attacks "cannot meet the test of what a reasonable commander would have determined to be an acceptable loss of civilian life for the military advantage sought" [REF]. The mission criticized IDF for the choice of the weapons for the supposed counterstrike and concluded that the IDF fire at the Al-Fakhura street violated the law of proportionality [REF Israel disproportionately attacked civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:1295a36a45d566bb04a1c9e90ef1670fc217151cc70e6b9aab6c3cf8c493860b
+size 767

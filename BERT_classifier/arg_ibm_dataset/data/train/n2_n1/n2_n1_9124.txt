@@ -1,1 +1,3 @@
-Other academics favor criminalization. Holocaust denial, they contend, is "the worst form of racism and its most respectable version because it pretends to be a research."[REF Holocaust denial is a convenient polemical substitute for anti-semitism
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ff858666d626fe45120f599ea050ba946a6f30184da9a50ddd99d4778a720e1
+size 247

@@ -1,1 +1,3 @@
-Czech prime minister Mirek Topolánek, the current boss of the EU presidency, said through his spokesman for the presidency issues, Mr Jiří Potužník, that he understood the Israeli actions the disproportionate use of force by Israel, which causes suffering to the civilian population, can be neither understood nor justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e278366bd45d98041a74ee79048fde60aea6e701ed90462145da2b741640119
+size 328

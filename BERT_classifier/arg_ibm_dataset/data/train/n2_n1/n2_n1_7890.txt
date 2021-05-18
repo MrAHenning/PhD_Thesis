@@ -1,1 +1,3 @@
-The National Institutes of Health, through the National Cancer Institute, determined in 1998 that "cigar smoking causes a variety of cancers including cancers of the oral cavity (lip, tongue, mouth, throat), esophagus, larynx, and lung."[REF Tobacco is the single greatest cause of preventable death globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:07772ead5df9c09293f320942b19dbdb243dbfaee0b2d52c60743589c977236d
+size 308

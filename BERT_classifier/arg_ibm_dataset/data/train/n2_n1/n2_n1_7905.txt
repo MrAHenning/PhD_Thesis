@@ -1,1 +1,3 @@
-According to the results of a 50 year study of 34,486 male British doctors, at least half of all life-long smokers die earlier as a result of smoking [REF Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:d436b348b1e467cc49da3d540c1b81be5a6dd7e7ea57b3138a14d8123ee4ad54
+size 241

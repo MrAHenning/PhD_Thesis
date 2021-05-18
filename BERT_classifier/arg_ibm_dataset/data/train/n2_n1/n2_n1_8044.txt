@@ -1,1 +1,3 @@
-In an interview with CNN's Christiane Amanpour, Ahmadinejad said that Iran was "against 'nuclear apartheid,' which means some have the right to possess it, use the fuel, and then sell it to another country for 10 times its value The effective prohibition on nuclear proliferation has been characterised as a form of technological apartheid
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7ba12cd85974bc4815474fda65f409603b6129b41ae4af368f1ed5d1899ec8e
+size 339

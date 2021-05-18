@@ -1,1 +1,3 @@
-In the early 1960s, President Lyndon B. Johnson began his War on Poverty by introducing many new elements to welfare, including Medicare, Medicaid, increases in subsidized public housing, and more. David Frum (2002) believed such increases in government programs were counterproductive, because he found positive correlations between government aid and those who could not stay above the poverty line without such aid. Frum concluded that welfare only bred dependence on the government [REF Welfare only breeds dependence on the government
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed8ee8a230a61b80ba033abbf759a11dc521e12ee7888fe06ceb8c51f7e27e6c
+size 539

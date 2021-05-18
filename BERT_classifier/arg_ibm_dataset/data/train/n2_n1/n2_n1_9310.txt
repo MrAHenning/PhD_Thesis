@@ -1,1 +1,3 @@
-As working and middle class people leave deteriorating neighborhoods, the most disadvantaged portions of the population may remain. William Julius Wilson suggested a poverty "concentration effect", which may cause neighborhoods to be isolated from the mainstream of society and become prone to violence [REF crime rates are associated with poverty
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c78f172f5c49226bdd77ba31bcf23f51b243c2c9575a221607d6736d2d65c3
+size 347

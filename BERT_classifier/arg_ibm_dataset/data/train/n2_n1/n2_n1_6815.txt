@@ -1,1 +1,3 @@
-According to US diplomatic cables obtained by the Wikileaks organization, diplomats stationed in the US embassy in Tel Aviv were briefed by Israelis on the blockade of the Gaza Strip. One of the cables states that "as part of their overall embargo plan against Gaza, Israeli officials have confirmed (..) on multiple occasions that they intend to keep the Gazan economy on the brink of collapse without quite pushing it over the edge" [REF the Israeli blockade and closures had pushed the Palestinian economy into a stage of de-development
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe8d3815f6beea559a72d0366f9e164913712a793af6aed64c8f7d94122e07aa
+size 539

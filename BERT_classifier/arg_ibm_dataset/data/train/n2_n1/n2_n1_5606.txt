@@ -1,1 +1,3 @@
-Community is not built simply on consensus but on, as Paulo Freire put it, unity in diversity. In a multiethnic society that respects but does not essentialize differences, great gains can be realized in the cultivation of critical thinking and ethical reasoning Reform of cultural pathology often comes from the recognition of difference
+version https://git-lfs.github.com/spec/v1
+oid sha256:397dcf18579e1d6c87f62722d299dad3b51631147121d24992792f5afac758f6
+size 338

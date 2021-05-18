@@ -1,1 +1,3 @@
-The American Psychological Association task force in 2007 found that an early emphasis on sexuality stunts girls' development in other areas [REF]. "When kids are about defining themselves, if you give them this idea that sexy is the be-all and end-all, they drop other things," says Sharon Maxwell, a psychologist who specializes in adolescent sexuality [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:28d03f777b4c73961e9baf3e2904a8822483f09637525241068833ae70a7d99a
+size 459

@@ -1,1 +1,3 @@
-In July 2010, British prime minister David Cameron criticized the blockade, saying "Humanitarian goods and people must flow in both directions. Gaza cannot and must not be allowed to remain a prison camp." [REF Gaza cannot and must not be allowed to remain a prison camp
+version https://git-lfs.github.com/spec/v1
+oid sha256:f55f4320ecc7b6e8dc2b2c9180aef5059310f7dbb94f0c9af631b0f5c92eb05d
+size 270

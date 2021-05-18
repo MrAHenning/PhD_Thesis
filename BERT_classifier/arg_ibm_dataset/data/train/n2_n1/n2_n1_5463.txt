@@ -1,1 +1,3 @@
-Frank Lotierzo, a critic of the 12-round limit, pointed out that fatalities are rare in heavyweight matches, instead attributing deaths to dehydration from the pressure of "making weight" for lower weight classes:[REF fatalities are rare in heavyweight matches
+version https://git-lfs.github.com/spec/v1
+oid sha256:d52a1fc1592b57ed5c97fc25d15f4034e27c79ef29a849ff24d33b601cf00a1c
+size 260

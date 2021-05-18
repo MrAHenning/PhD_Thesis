@@ -1,1 +1,3 @@
-In 2007, a study ordered by Congress found that middle school students who took part in abstinence-only sex education programs were just as likely to have sex in their teenage years as those who did not [REF Abstinence-only programs have not demonstrated successful outcomes
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa6b6dcf4b289ff4c9cc208fb11c1b051f2b36a84b9f2909d7629912ff448057
+size 274

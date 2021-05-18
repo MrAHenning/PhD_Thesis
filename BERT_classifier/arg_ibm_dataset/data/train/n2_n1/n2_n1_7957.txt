@@ -1,1 +1,3 @@
-Justice Edward Terry Sanford declared that "utterances inciting to the overthrow of organized government by unlawful means, present a sufficient danger of substantive evil to bring their punishment within the range of legislative discretion..Such utterances, by their very nature, involve danger to the public peace and to the security of the state."[REF Punishment of dangerous or offensive writings is necessary for the preservation of peace and good order
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ccfa14ac7ceb668a38aa6875e41482e1dd32ffc8dd71faadc52edf4b2192c0f
+size 458

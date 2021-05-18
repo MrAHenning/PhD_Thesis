@@ -1,1 +1,3 @@
-the National Center for Policy Analysis, a non-profit conservative think tank, reported the following statistics:[REF] .   New Jersey adopted what sponsors described as "the most stringent gun law" in the nation in 1966; two years later the murder rate was up 46% and the reported robbery rate had nearly doubled Laws that forbid the carrying of arms make things worse for the assaulted and better for the assailants
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4a9a74e50e16b6b2fa31323a3d380a469b3eed100bfde6136b5c803c060e280
+size 416

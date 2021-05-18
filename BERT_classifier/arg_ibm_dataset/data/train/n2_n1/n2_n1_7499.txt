@@ -1,1 +1,3 @@
-Benatar and Benatar argue that circumcision can be beneficial to a male before he would be able to otherwise provide consent it is reasonable for parents to weigh the benefits and risks of circumcision and to make the decision whether or not to circumcise their sons
+version https://git-lfs.github.com/spec/v1
+oid sha256:31249714a29bbb73ad05c2aecdaa3537373df2394f9d26f7e389a32a2f9b9c4f
+size 266

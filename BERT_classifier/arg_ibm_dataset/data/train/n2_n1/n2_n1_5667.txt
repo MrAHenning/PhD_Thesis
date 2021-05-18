@@ -1,1 +1,3 @@
-A UK government-funded review of previous research [REF] noted a small scale patient survey leading to press reports claiming that 75% of people who gamble online are "problem" or "pathological" gamblers, compared to just 20% of people who visit legitimate land-based casinos [REF the high-speed instant gratification of Internet games and the high level of privacy they offer may exacerbate problem and pathological gambling
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c0ca26c944995b91cde685458fbc9a6b92349d75884fab8af3f86c8530d706d
+size 425

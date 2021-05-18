@@ -1,1 +1,3 @@
-Micali et al describe penile cancer as an "emerging problem", noting that "public health measures, such as prophylactic use of circumcision, have proven successful" [REF circumcision should be presented as an option for health benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcd44f03b7eb51e465dfd0dabf64a68b622ab151f8bfa0c25deea841ea437666
+size 235

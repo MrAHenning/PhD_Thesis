@@ -1,1 +1,3 @@
-Thomas Aquinas says that “it is clear that blasphemy, which is a sin committed directly against God, is more grave than murder, which is a sin against one's neighbor. … it is called the most grievous sin, for as much as it makes every sin more grievous.”[REF Blasphemy has been condemned as a serious, or even the most serious, sin by the major creeds and Church theologians
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2bad200279eacae3a1cb7b97c915f83d7b95e598b5795fd406bc6d7516c26af
+size 380

@@ -1,1 +1,3 @@
-Scientists also state that, Tropical deforestation releases 1.5 billion tons of carbon each year into the atmosphere [REF Deforestation is a contributor to global warming
+version https://git-lfs.github.com/spec/v1
+oid sha256:b08f079e53e9fc64641d0ceb04232b0538621670b7fd79bbbb5cd6d3c125a5b5
+size 170

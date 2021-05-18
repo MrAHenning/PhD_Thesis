@@ -1,1 +1,3 @@
-Opponents to intellectual property rights include Wendy McElroy, Tom G. Palmer, Lepage, Boudewijn Bouckaert, and N. Stephan Kinsella [REF]. The latter argues that patents may be inefficient in that they divert resources from research and development to patent filing and lawsuits Patents divert resources from research and development to patent filing and lawsuits
+version https://git-lfs.github.com/spec/v1
+oid sha256:f34c8b5894ce508b4ce16499171157d772ee4cceb1bc272e2497e143e8ebe4ae
+size 364

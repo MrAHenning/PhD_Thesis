@@ -1,1 +1,3 @@
-In Washington, recess and physical education are being removed from the curricula youth do not get the physical outlet needed not only for their cognitive development but for their physical health
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b6b4cf3158677f7568607e98edd5b4856ec3d3abca54d63e6ede4862caac0ca
+size 196

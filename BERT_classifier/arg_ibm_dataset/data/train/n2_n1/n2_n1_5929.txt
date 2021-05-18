@@ -1,1 +1,3 @@
-A study by Perotti (1996) examines of the channels through which inequality may affect economic growth. He shows that in accordance with the credit market imperfection approach, inequality is associated with lower level of human capital formation (education, experience, apprenticeship) and higher level of fertility, while lower level of human capital is associated with lower growth and lower levels of economic growth inequality is harmful for economic development
+version https://git-lfs.github.com/spec/v1
+oid sha256:905dba40e321fbbf97a5c07bf8a68250f63486f8bdce62841fba7f936d4ff432
+size 467

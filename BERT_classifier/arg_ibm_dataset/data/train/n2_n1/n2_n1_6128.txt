@@ -1,1 +1,3 @@
-In Emile, Jean-Jacques Rousseau asserted that when a person's understanding ponders over the existence of God it encounters nothing but contradictions the idea of God is inconceivable and self-contradictory
+version https://git-lfs.github.com/spec/v1
+oid sha256:080462ece99a32c017c4d3e8666de3aa739afb7156ec4f06a6c7d16a3e266274
+size 206

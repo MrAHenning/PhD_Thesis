@@ -1,1 +1,3 @@
-Nigeria’s wide biodiversity of 899 species of birds, 274 mammals, 154 reptiles, 53 amphibians and 4,715 species of higher plants will also be strongly affected by the negative impacts of deforestation. The numbers of the rare Cross River gorilla have decreased to around 300 individuals because of poaching by locals and mass habitat destruction [REF Deforestation has negative implications on the environment
+version https://git-lfs.github.com/spec/v1
+oid sha256:f708b23a13d42e00c5e62868d80cec526d65959c0bb707321c6096f2d56af716
+size 411

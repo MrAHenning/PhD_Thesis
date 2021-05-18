@@ -1,1 +1,3 @@
-On 7 March 2008, several international aid groups, including Amnesty International, CARE International UK, and Oxfam, issued a report saying that the humanitarian situation in the Gaza Strip was more acute than at any time since the beginning of the Israeli occupation in 1967. While critical of Palestinian militants firing rockets from Gaza into Israel, and acknowledging that "Israel has the right and obligation to protect its citizens", they said that as the "occupying power in Gaza" it also has a legal duty to ensure Gaza civilians have access to food, clean water, electricity and medical care. They urged Israel to lift the blockade, characterizing it as collective punishment against the 1.5&nbsp;million residents of the territory [REF The blockade amounts to a flagrant contravention of international human rights and humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f27a7206267aaebadd6f551ddc856c2e6da04410a6e63cc2e7bfe0a664e9bb
+size 847

@@ -1,1 +1,3 @@
-According to the Intergovernmental Panel on Climate Change deforestation, mainly in tropical areas, could account for up to one-third of total anthropogenic carbon dioxide emissions [REF Deforestation is a contributor to global warming
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e03f4609d17e5b6d85142f1e5ed52ff72ec8a2a91b61cdb444062e9202fc61e
+size 235

@@ -1,1 +1,3 @@
-Canada's foreign affairs minister, Lawrence Cannon, issued a statement in which he pointed to Israel's "clear right to defend itself" against continuing attacks by militants Israel's right to defend itself against attacks from Gaza is recognised
+version https://git-lfs.github.com/spec/v1
+oid sha256:31035316ee40e5bbae51af8a112d06fedec361718952cbf497b6f44a5c7cb1d9
+size 245

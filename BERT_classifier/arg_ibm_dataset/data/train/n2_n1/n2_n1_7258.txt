@@ -1,1 +1,3 @@
-Burt defined sex education as the study of the characteristics of beings; a male and female [REF]. Such characteristics make up the person's sexuality. Sexuality is an important aspect of the life of a human being and almost all the people including children want to know about it sex education is necessary to prepare the young for the task ahead
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6ce24bf6214c7aa7926b33b4a55df41392105a03cd23bd5505868b7108fa6ee
+size 347

@@ -1,1 +1,3 @@
-The risk of dying from lung cancer before age 85 is 22.1% for a male smoker and 11.9% for a female smoker, in the absence of competing causes of death. The corresponding estimates for lifelong nonsmokers are a 1.1% probability of dying from lung cancer before age 85 for a man of European descent, and a 0.8% probability for a woman [REF Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:18d47c0f3ae8e0a2457171424251659236686fa9df134f86b5fdde5b24404d97
+size 424

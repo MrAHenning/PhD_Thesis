@@ -1,1 +1,3 @@
-The First Amendment specifically disallows the abridgment of "speech," but the court reiterated its long recognition that its protection does not end at the spoken or written word. This was an uncontroversial conclusion in light of cases such as Stromberg v. California (display of a red flag as speech) and Tinker v. Des Moines Independent Community School District (wearing of a black armband as speech The First Amendment reaches non-speech acts
+version https://git-lfs.github.com/spec/v1
+oid sha256:60475c7fd5c41f273925d432f4b96f7b924fc050500215afc52f9383bdc2fd23
+size 448

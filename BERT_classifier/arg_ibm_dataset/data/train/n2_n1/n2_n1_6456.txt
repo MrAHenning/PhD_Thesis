@@ -1,1 +1,3 @@
-Ayn Rand, founder of Objectivism, also supported copyrights and patents, noting in Capitalism: The Unknown Ideal: "Patents and copyrights are the legal implementation of the base of all property rights: a man's right to the product of his mind Patents and copyrights are the legal implementation of the base of all property rights: a man's right to the product of his mind
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f873941e98b680ff85321c64a851a47e87636a60d458abb1cfad7bd0cda6596
+size 372

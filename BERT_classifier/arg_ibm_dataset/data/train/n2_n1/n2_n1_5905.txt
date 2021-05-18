@@ -1,1 +1,3 @@
-Conservative Party co-chairman Sayeeda Warsi, also criticise the "'something for nothing' culture" of the welfare state, claiming that the high extent of the welfare state "discourages the unemployed from finding jobs" [REF the welfare state has produced a generation of dependents who, instead of working, rely solely upon the state for income
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb085d66c78cec92293534af10db19b91c85cdc3149b223175ed178ed25238a4
+size 344

@@ -1,1 +1,3 @@
-A study by military analyst Anthony H. Cordesman of the Center for Strategic and International Studies concluded that Israel did not violate the laws of war during its operation in Gaza. In his report he says that Israel used "decisive force to enhance regional deterrence", which he determined to be a "legitimate military objective" [REF Israel used "decisive force to enhance regional deterrence
+version https://git-lfs.github.com/spec/v1
+oid sha256:73b7a3b8adfe5df6a8cc92b04a0e588a45abadda7274542706aeb057a9e9e8f7
+size 398

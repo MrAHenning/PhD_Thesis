@@ -1,1 +1,3 @@
-The Church stands by its doctrines on sexual intercourse as defined by the Natural law: intercourse must at once be both the renewal of the consummation of marriage and open to procreation. If each of these postulates are not met, the act of intercourse is, according to Natural Law, an objective mortal sin intercourse must at once be both the renewal of the consummation of marriage and open to procreation
+version https://git-lfs.github.com/spec/v1
+oid sha256:8472bfe26b1db6c42f0df83d313de50b42334f092b1ff48da511162b494c8337
+size 408

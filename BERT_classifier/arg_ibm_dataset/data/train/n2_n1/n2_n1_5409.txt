@@ -1,1 +1,3 @@
-In 2009, Princeton sociologist Thomas Espenshade and researcher Alexandria Walton Radford, in their book 'No Longer Separate, Not Yet Equal', examined data on students applying to college in 1997 and calculated that Asian-Americans needed nearly perfect SAT scores of 1550 to have the same chance of being accepted at a top private university as whites who scored 1410 and African-Americans who got 1100. Whites were three times, Hispanics six times, and blacks more than 15 times as likely to be accepted at a US university as Asian-Americans. These results were after controlling for grades, scores, family background (legacy status) and athletic status (whether or not the student was a recruited athlete) [REF affirmative action requires the very discrimination it is seeking to eliminate
+version https://git-lfs.github.com/spec/v1
+oid sha256:06b5e93dae1c1cd0cc7c0af4a8cc04a84db4ec769d6872584c895377d7a92375
+size 792

@@ -1,1 +1,3 @@
-The Bahraini Parliament Council strongly condemned "the barbaric massacre by the Israeli enemy against the unarmed Palestinians in Gaza that clashes clearly with all religions, ethics and international accords" [REF Israel's attacks represent a severe and massive violation of the International Humanitarian Law
+version https://git-lfs.github.com/spec/v1
+oid sha256:f286a488d471c8015a398fd5458f02626a7fb274173b0e6680ec6f80d994ac52
+size 311

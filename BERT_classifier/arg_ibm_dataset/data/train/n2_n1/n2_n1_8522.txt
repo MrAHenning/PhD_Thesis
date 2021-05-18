@@ -1,1 +1,3 @@
-The Ministry of Foreign Affairs of the Republic of Tajikistan stresses that the problem of the Gaza Strip, the Arab-Israeli conflict and the whole Middle East crisis can not have a military solution the military solution won't conduct to peace
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbb91a921013c536ff856b32ec4657215936192d64d0729c328da6a3e563a245
+size 243

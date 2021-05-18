@@ -1,1 +1,3 @@
-According to a 2000 report by the National Institutes of Health (NIH), correct and consistent use of latex condoms reduces the risk of HIV/AIDS transmission by approximately 85% relative to risk when unprotected, putting the seroconversion rate (infection rate) at 0.9 per 100 person-years with condom, down from 6.7 per 100 person-years. [REF] Analysis published in 2007 from the University of Texas Medical Branch [REF] and the World Health Organization[REF] found similar risk reductions of 80–95 The use of condoms is encouraged to prevent transmission of HIV
+version https://git-lfs.github.com/spec/v1
+oid sha256:36e89da93f6123a925ad8418f5ab43a5a529bb5f05c908093de7b6666b2e4417
+size 565

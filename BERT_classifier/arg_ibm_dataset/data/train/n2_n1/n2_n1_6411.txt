@@ -1,1 +1,3 @@
-Collectively, countries in Africa have received over $400 billion in aid over the past 30 years, but reports show that as aid increased, domestic growth fell pouring vast amounts of money into development aid without any concern for results has failed
+version https://git-lfs.github.com/spec/v1
+oid sha256:16302bffd6754e24242a1a6f0a609666bc8fb64fdf5eb21f36f0e5473234735d
+size 251

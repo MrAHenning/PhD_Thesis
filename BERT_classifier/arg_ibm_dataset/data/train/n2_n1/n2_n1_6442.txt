@@ -1,1 +1,3 @@
-A joint research project of the WIPO and the United Nations University measuring the impact of IP systems on six Asian countries found "a positive correlation between the strengthening of the IP system and subsequent economic growth."[REF Intellectual property laws encourage fair trading which would contribute to economic and social development
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ff4b531d51ab400bc4a00aa92df7bb5313585d64973b7a0f5012c313c7e59a7
+size 346

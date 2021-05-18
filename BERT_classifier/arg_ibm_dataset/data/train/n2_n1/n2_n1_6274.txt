@@ -1,1 +1,3 @@
-David Hume's formulation of the problem of evil in Dialogues Concerning Natural Religion: "Is he willing to prevent evil, but not able? Then is he impotent. Is he able, but not willing? Then is he malevolent. Is he both able and willing? Whence then is evil?"[REF God cannot exist with, or would want to prevent, all evils
+version https://git-lfs.github.com/spec/v1
+oid sha256:4332735c8cfa2cf564bc3446c34752c90f07376c3708bf07aa8c6b4c07b37d2d
+size 322

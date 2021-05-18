@@ -1,1 +1,3 @@
-According to Blainey, such a policy, with its "emphasis on what is different and on the rights of the new minority rather than the old majority," was unnecessarily creating division and threatened national cohesion Multiculturalism is divisive
+version https://git-lfs.github.com/spec/v1
+oid sha256:4209780c72c7425af2551186b5c5561b366dc42c33ae19dc42d7ef1052220f81
+size 243

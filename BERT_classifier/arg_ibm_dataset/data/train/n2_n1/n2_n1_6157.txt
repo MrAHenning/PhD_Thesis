@@ -1,1 +1,3 @@
-Dawkins discusses what he considers as the divisive influence of sectarian education, with children segregated and labelled by their religion. He describes the Hasidic Jewish community of North London as cloistered away from external influences such as television, with children attending exclusive religious schools Faith is divisive and dangerous
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb5288fa7aae585f8f0e360e136c437aa822179bddba59e19ad891bf6304cb6b
+size 348

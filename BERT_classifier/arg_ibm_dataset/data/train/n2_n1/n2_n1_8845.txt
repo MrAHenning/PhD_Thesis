@@ -1,1 +1,3 @@
-In February 2010, Palestinian Authority security forces in the West Bank arrested a Hamas cell preparing to test-fire a Qassam rocket near Ramallah and handed the rocket over to Israel Palestinian security forces do little or nothing to prevent rocket attacks
+version https://git-lfs.github.com/spec/v1
+oid sha256:917269ae016073a8b66fdfe1c84e059438616c60c549e35faa2378d1f2818c23
+size 259

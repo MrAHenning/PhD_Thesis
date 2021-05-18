@@ -1,1 +1,3 @@
-The 1996 report of the Oireachtas Constitution Review Group agreed that "The retention of the present constitutional offence of blasphemy is not appropriate."[REF there is no place for the offence of blasphemous libel in a society which respects freedom of speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:92dedd4ce3dfdef81c1fdca676dc78997b75ae2a0c0cb6fc96a9b4842c24ad32
+size 263

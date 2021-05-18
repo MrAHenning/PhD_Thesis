@@ -1,1 +1,3 @@
-In 1953, at a big competition in the northern city of Tianjin, a boxer died after a bout Boxing is very brutal
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b505e6deb4cdfe323100ac19f157c9de47b489c455d71c2f257ec9c9aa7dea8
+size 110

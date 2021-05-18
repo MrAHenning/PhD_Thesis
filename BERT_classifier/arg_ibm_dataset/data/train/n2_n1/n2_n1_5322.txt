@@ -1,1 +1,3 @@
-Neill founded Summerhill with the belief that "the function of a child is to live his own life — not the life that his anxious parents think he should live, not a life according to the purpose of an educator who thinks he knows best."[REF][REF school should be made to fit the child, rather than the other way around
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a1ad8fad145b55b59de6b1720f0620cd44deb7d0736647ddaa0dce42d697993
+size 318

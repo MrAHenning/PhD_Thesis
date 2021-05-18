@@ -1,1 +1,3 @@
-Male and female smokers lose an average of 13.2 to 14.5 years of life, respectively [REF Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:61b6d30aca15ba994e2da4a47e156994fc0157e7c422085bc0a20826b8442370
+size 175

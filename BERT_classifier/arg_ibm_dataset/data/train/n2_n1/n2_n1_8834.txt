@@ -1,1 +1,3 @@
-Chris Mullin, a former Foreign Office minister, said "These are war crimes that we are witnessing in Gaza Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:fee0d96a4f1b82cacc3e5507147e2b7a035a78d7cb775d2ea6ad23e156d12f09
+size 173

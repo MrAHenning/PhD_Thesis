@@ -1,1 +1,3 @@
-Croatian President Stjepan Mesić expressed deep concern over the escalation of violence in the Middle East and said that a "solution cannot be reached with wars or shelling civilian targets in Israel, or actions by suicide bombers in which innocent people are killed without exception, or massive military retaliation operations such as the attack on Gaza. Peace and coexistence with the recognition of reality are the only perspective of the Middle East the military solution won't conduct to peace
+version https://git-lfs.github.com/spec/v1
+oid sha256:29fa6157046e2e16e95a8bce27a5b8851ce541b6829247cafb9866a54c120d3b
+size 500

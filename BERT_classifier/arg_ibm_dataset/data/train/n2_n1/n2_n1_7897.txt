@@ -1,1 +1,3 @@
-In 1912, American Dr. Isaac Adler was the first to strongly suggest that lung cancer is related to smoking [REF Tobacco is the single greatest cause of preventable death globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:48b9c5ec97ae0fec2fda367aec018ad13401a3515e5ec62f60a39b6d91400bcd
+size 178

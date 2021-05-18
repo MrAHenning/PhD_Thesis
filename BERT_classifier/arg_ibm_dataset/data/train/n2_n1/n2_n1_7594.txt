@@ -1,1 +1,3 @@
-physician, P.C. Remondino [REF], added that 'circumcision is like a substantial and well-secured life annuity..it insures better health, greater capacity for labor, longer life, less nervousness, sickness, loss of time, and less doctor bills.' No wonder it became a popular remedy."[REF Circumcision insures better health
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e290b87cee9b69e74f4c45111299387dc443ee061babb56daec0c9cf067a405
+size 321

@@ -1,1 +1,3 @@
-A 2009 poll conducted by Portland-based Critical Insights shows that 90% of Maine people support the development of wind power as a source of electricity. Nearly nine in ten Mainers agree that "wind power can improve energy security and reduce Maine’s dependence on fossil fuels, and eight in ten agree that wind power will produce jobs and other forms of economic benefits" [REF wind power will produce jobs and other forms of economic benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fae0669c686761750d6694a2713f5f1d910921bd4f4c055c2f608d658fb67a7
+size 447

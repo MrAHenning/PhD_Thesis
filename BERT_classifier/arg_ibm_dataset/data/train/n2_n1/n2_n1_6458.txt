@@ -1,1 +1,3 @@
-Kinsella argues that property rights can only apply to scarce resources;[REF] thus, if a new lawnmower could be magically conjured up out of nothing in the blink of an eye, it would not be theft to steal one. Since ideas are not naturally scarcei.e., copying a book does not prevent anyone else from copying the same bookthey are not a legitimate subject of property rights Ideas are not a legitimate subject of property rights
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17c47dd65bbf381b84186660bb854a8f025a55fca0b47391c74dec6b9320d24
+size 427

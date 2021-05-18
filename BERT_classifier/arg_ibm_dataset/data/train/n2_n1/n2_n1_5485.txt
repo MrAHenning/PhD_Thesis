@@ -1,1 +1,3 @@
-It was banned in Albania from 1965 till the fall of Communism in 1991 Boxing is an obscenity that should not be sanctioned by any civilized society
+version https://git-lfs.github.com/spec/v1
+oid sha256:acb68922e59854ac15aeebfd58ebe1d649d999f803802994e0f2e9e3ff7c2864
+size 147

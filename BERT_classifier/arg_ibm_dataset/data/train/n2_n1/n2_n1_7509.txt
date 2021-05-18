@@ -1,1 +1,3 @@
-The British Medical Association (BMA) states that "it is now widely accepted, including by the BMA, that this surgical procedure has medical and psychological risks."[REF there are as good reasons for legal prohibition of male circumcision as exist for female genital mutilation
+version https://git-lfs.github.com/spec/v1
+oid sha256:59f14ce636231f7b6d461b44d34f7444de39205ed930fd444cad59c999a28bbc
+size 278

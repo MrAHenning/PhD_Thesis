@@ -1,1 +1,3 @@
-In July 2010, Cameron called on Israel to relax the blockade. He said "Humanitarian goods and people must flow in both directions. Gaza cannot and must not be allowed to remain a prison camp."[REF][REF Gaza cannot and must not be allowed to remain a prison camp
+version https://git-lfs.github.com/spec/v1
+oid sha256:56f3ce00b7a9bb315a1ace46767f1f8bab47beb7d97760c9fdca74b4105ceb2a
+size 261

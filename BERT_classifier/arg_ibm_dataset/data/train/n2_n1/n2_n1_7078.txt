@@ -1,1 +1,3 @@
-Eric Posner, international law professor at the University of Chicago Law School, noting that the raid had "led to wild accusations of illegality", wrote that blockades are lawful during times of armed conflict (such as the Coalition blockade of Iraq during the first Gulf War), and that "war-like conditions certainly exist between Israel and Hamas" [REF]. He compared Israel's blockade to the Union blockade by the Union against the Confederacy (a non-state) during the U.S. Civil War [REF]. The U.S. Supreme Court later affirmed the legitimacy of that blockade [REF the blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:1099b8f23b4c7ded92177a2e2bf87248b3179f15e8bb1874c6298bf63cfc680a
+size 590

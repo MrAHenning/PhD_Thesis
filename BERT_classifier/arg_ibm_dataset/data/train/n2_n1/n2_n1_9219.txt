@@ -1,1 +1,3 @@
-a 1984 Supreme Court decision in City Council of Los Angeles v. Taxpayers for Vincent, where the majority stated that, "the First Amendment does not guarantee the right to employ every conceivable method of communication at all times and in all places the First Amendment does not guarantee the right to employ every conceivable method of communication at all times and in all places
+version https://git-lfs.github.com/spec/v1
+oid sha256:9776b41a70f07b9a4902318668e6f43df7401363503221dff75ec0dea2e6db8c
+size 383

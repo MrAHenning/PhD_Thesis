@@ -1,1 +1,3 @@
-An article from the World Health Organization calls safe, legal abortion a "fundamental right of women, irrespective of where they live Control over reproduction is a basic need and a basic right for all women
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddfd57884dff894f4207425dd0e05fc01b347ed453a323ee355909626582859e
+size 209

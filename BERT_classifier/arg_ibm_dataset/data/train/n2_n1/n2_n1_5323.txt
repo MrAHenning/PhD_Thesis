@@ -1,1 +1,3 @@
-No one is wise enough or good enough to mould the character of any child. What is wrong with our sick, neurotic world is that we have been moulded, and an adult generation that has seen two great wars and seems about to launch a third should not be trusted to mould the character of a rat" -- A.S. Neill school should be made to fit the child, rather than the other way around
+version https://git-lfs.github.com/spec/v1
+oid sha256:e11a4455ea52a4aeb7d79ed82cf29cc011e62f741dc01e27f29ea4e7ac963f15
+size 376

@@ -1,1 +1,3 @@
-Drug cartels in Mexico control approximately 70% of the foreign narcotics that flow into the United States [REF The root cause of the problem is U.S. demand
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fc2c944cea90d307ea68388052bf3ff50116545dd9ecb876eac1213cd80a87e
+size 156

@@ -1,1 +1,3 @@
-U.N. Undersecretary-General for Humanitarian Affairs, John Holmes, described the blockade as "collective punishment The blockade constitutes collective punishment under international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b9a63efceb7be912caedb65af51b4cfa82ecadf2e97a6cb4f9befe1a9baebff
+size 186

@@ -1,1 +1,3 @@
-Compulsive gambling is often very detrimental to personal relationships. In a 1991 study of relationships of American men, it was found that 10% of compulsive gamblers had been married more than twice. Only 2% of men who did not gamble were married more than twice Problem gambling leads to adverse consequences for the gambler, others, or for the community
+version https://git-lfs.github.com/spec/v1
+oid sha256:0535f5c37d42be62887593ab72e106dbdb750f25b5113ee26235b0704664ca19
+size 357

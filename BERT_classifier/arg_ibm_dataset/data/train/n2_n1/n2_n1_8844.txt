@@ -1,1 +1,3 @@
-Palestinian security forces say that they do little or nothing to prevent rocket attacks or to hold responsible the militants who launch them, according to a 2007 report by Human Rights Watch[REF Palestinian security forces do little or nothing to prevent rocket attacks
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b4c510decd807a896c06f1073fd8ca61f873f489b941b59d131d0cbf8523757
+size 270

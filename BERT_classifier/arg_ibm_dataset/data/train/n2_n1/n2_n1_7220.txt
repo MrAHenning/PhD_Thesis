@@ -1,1 +1,3 @@
-The First Amendment states that "Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof." The Supreme Court did not consider the question of how this applied to the states until 1947; when they did, in Everson v. Board of Education, all nine justices agreed that there was a wall of separation between church and state the government is not to interfere with religion
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cadd62ae38f9bebd187d6461e5dd0afef4305fb14a2400227d2db58429db806
+size 421

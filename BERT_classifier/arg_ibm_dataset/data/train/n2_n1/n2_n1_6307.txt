@@ -1,1 +1,3 @@
-On December 21, 2006, Veterans Affairs Secretary Jim Nicholson, when asked by a reporter whether the draft should be reinstated to make the military more equal, said, "I think that our society would benefit from that, yes sir." Nicholson proceeded to relate his experience as a company commander in an infantry unit which brought together soldiers of different socioeconomic backgrounds and education levels, noting that the draft "does bring people from all quarters of our society together in the common purpose of serving the draft "does bring people from all quarters of our society together in the common purpose of serving
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f3b8f728e6d1800dd4fb44cd10088a4b86bd276e0a5e65b357e365732959673
+size 628

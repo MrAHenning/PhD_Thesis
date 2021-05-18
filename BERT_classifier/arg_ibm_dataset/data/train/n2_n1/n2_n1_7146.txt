@@ -1,1 +1,3 @@
-the spokesman for the Israeli embassy in London said "The people of Gaza are the prisoners of the terrorist organisation Hamas. The situation in Gaza is the direct result of Hamas' rule and priorities The situation in Gaza is the direct result of Hamas' rule and priorities
+version https://git-lfs.github.com/spec/v1
+oid sha256:29345475d07478690eacb34bca870028cc3fc9a7da77bacd9c2d8d125071fbe8
+size 273

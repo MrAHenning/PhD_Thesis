@@ -1,1 +1,3 @@
-In 1997, the Vatican's Pontifical Council for the Family stated: "The Church has always taught the intrinsic evil of contraception, that is, of every marital act intentionally rendered unfruitful. This teaching is to be held as definitive and irreformable. Contraception is gravely opposed to marital chastity; it is contrary to the good of the transmission of life (the procreative aspect of matrimony), and to the reciprocal self-giving of the spouses (the unitive aspect of matrimony); it harms true love and denies the sovereign role of God in the transmission of human life."[REF birth control, in all forms, is sin
+version https://git-lfs.github.com/spec/v1
+oid sha256:187effb635e460b7c980a365be885fe0db1c9592863a453a02198d72959407fc
+size 620

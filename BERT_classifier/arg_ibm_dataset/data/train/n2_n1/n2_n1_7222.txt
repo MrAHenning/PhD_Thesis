@@ -1,1 +1,3 @@
-Madison contended "Because if Religion be exempt from the authority of the Society at large, still less can it be subject to that of the Legislative Body."[REF] Several years later he wrote of "total separation of the church from the state."[REF the government is not to interfere with religion
+version https://git-lfs.github.com/spec/v1
+oid sha256:546ecb1fd10d8e5384c9339e039cd82de773b2a4aefcbc1efb50dcef95f9a87b
+size 294

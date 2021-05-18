@@ -1,1 +1,3 @@
-Justice Edward Terry Sanford declared that "utterances inciting to the overthrow of organized government by unlawful means, present a sufficient danger of substantive evil to bring their punishment within the range of legislative discretion..Such utterances, by their very nature, involve danger to the public peace and to the security of the state."[REF liberty of expression 'is not absolute
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c55896f8972d75a78300d3476cb83e9552132e092af397cb9145e43948a8e3e
+size 393

@@ -1,1 +1,3 @@
-Ginsburg stated plainly that a state could not force physicians to use procedures other than what they felt in their own judgment to be the safest, that this was part of the "life and liberty" protected under the Constitution Government has no right to force doctors to perform any procedure other than what they felt would be the safest
+version https://git-lfs.github.com/spec/v1
+oid sha256:865efb5365ed94326fbee1b4c1bdcc16993552ead10da23c92b7cfdf3f091e5f
+size 337

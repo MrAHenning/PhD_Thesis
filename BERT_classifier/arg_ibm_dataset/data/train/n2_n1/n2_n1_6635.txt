@@ -1,1 +1,3 @@
-Thomas Jefferson also stated that the right to bear arms is necessary for the citizens to protect themselves from the "tyranny in government"[REF the people have a right to "keep and bear arms" as a protection from the government
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b6ed94872a391b54b40976f3580f60c58a6d5c5cddcd5e3de49b646f945d3bd
+size 229

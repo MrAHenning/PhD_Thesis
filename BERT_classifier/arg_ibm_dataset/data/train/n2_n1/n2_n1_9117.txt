@@ -1,1 +1,3 @@
-In the Belgian Senate the Minister of Justice Laurette Onkelinx compared laws criminalizing Holocaust denial with those condemning incitement to ethnic or racial hatred in the United Kingdom and the Netherlands Holocaust denial is generally viewed as antisemitic
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d8ada872a0e0b7bd8d9050f99c48107a445920a962fb0c7a07849e8eae4893f
+size 262

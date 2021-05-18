@@ -1,1 +1,3 @@
-CSIS report notes that Israel planned its air and air-land campaigns in ways that clearly discriminated between military and civilian targets and that were intended to limit civilian casualties and collateral damage, by systematic and comprehensive use of its IS&R assets, careful mapping, GPS abilities and guidance from targeting experts briefed in the laws and conventions of war during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fca38c4beffd594c3bad988714dc6b6f9c8e4fcfd9844d0f07a753df6fff143
+size 527

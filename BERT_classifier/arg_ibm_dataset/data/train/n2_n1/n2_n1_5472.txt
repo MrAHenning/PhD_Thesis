@@ -1,1 +1,3 @@
-Floyd Mayweather, Jr. employed the use of a check hook against Ricky Hatton, which sent Hatton flying head first into the corner post and being knocked down. Hatton managed to get himself to his feet after the knockdown but was clearly dazed and it was only a matter of moments before Mayweather landed a flurry of punches which sent Hatton crashing to the canvas Headgear is not permitted in professional bouts, and boxers are generally allowed to take much more damage before a fight is halted
+version https://git-lfs.github.com/spec/v1
+oid sha256:df0d7cf7b8e51d702ab223a4a6055adb39f68b833622a7f990556b27e2295724
+size 495

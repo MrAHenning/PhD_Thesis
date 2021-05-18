@@ -1,1 +1,3 @@
-In March 2010, United Nations Secretary-General Ban Ki-Moon stated that the blockade of Gaza is causing "unacceptable suffering" and that families were living in "unacceptable, unsustainable conditions" [REF Gaza cannot and must not be allowed to remain a prison camp
+version https://git-lfs.github.com/spec/v1
+oid sha256:aee7581d28a55057592f88b60795f4ddc91113766e1a73743553ce45d120f445
+size 267

@@ -1,1 +1,3 @@
-Dawkins concludes that evolution by natural selection can explain apparent design in nature [REF evolution can explain the apparent design in nature
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea7e7d6aab832cc230e4c08f97f8ab0e48b6a8341ead1daf6a2b11ae10848dbf
+size 148

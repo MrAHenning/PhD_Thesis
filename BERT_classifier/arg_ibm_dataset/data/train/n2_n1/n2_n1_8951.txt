@@ -1,1 +1,3 @@
-Within cities studies from across many countries (mainly in the developed world) have shown that denser urban areas with greater mixture of land use and better public transport tend to have lower car use than less dense suburban and ex-urban residential areas Planning policies which increase population densities in urban areas do tend to reduce car use
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e39e297f996d3fa47a69dfdb7654d2f9681169e5489826074e30d455fba86a0
+size 354

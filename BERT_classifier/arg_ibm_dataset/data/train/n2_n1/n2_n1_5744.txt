@@ -1,1 +1,3 @@
-A 2002 poll by EKOS Research Associates found that the majority 52% of Canadians think that "the monarchy is an outdated and regressive institution that has no real relevance to most of Canadians today the monarchy is an outdated and regressive institution
+version https://git-lfs.github.com/spec/v1
+oid sha256:89afc5f7e10dd635dd7813f2810d18cc7ebd39a8fcbda21a4688b9fc7219a0d6
+size 256

@@ -1,1 +1,3 @@
-A 2010 Australian hospital study found that 17% of suicidal patients admitted to the Alfred Hospital's emergency department were problem gamblers problem gambling increases the lifetime risk of suicide
+version https://git-lfs.github.com/spec/v1
+oid sha256:69eb13ed79626e1301b2dfef73706de60eaac0bae92dae144ce7e355e31ce998
+size 201

@@ -1,1 +1,3 @@
-In his paper, Understanding Why Crime Fell in the 1990s: Four Factors that Explain the Decline and Six that Do not,[REF] University of Chicago economist Steven Levitt argues that available data indicate that neither stricter gun control laws nor more liberal concealed carry laws have had any significant effect on the decline in crime in the 1990s Gun laws generally have no significant effect on violent crime rates or suicide rates
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b64288460112bb09aa33db80f46856d3176ddc9b5c9aaf25426c264315a591a
+size 434

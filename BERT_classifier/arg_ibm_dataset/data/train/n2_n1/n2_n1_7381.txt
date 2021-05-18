@@ -1,1 +1,3 @@
-All kids who have sex, even if they are in a relationship, are more likely to skip school or just drop out altogether [REF]. Additionally, adolescents who start having sex before they reach age 16 are much less likely to go to college [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:4401e0b196f44388fc5015eb0ba5861c1b9ba7751cd57d16a431a89155770b4d
+size 339

@@ -1,1 +1,3 @@
-In order to contain disruptive behaviour, local authorities began to place 'problem families' in the same blocks; Hanley argues that this policy only led to 'further alienation …nihilism and a creeping sense of lawlessness' [REF]. Dunleavy seconds this, suggesting that the mental health of long term tower block residents may have been detrimentally affected [REF Tower Blocks grew a reputation for being undesirable low cost housing
+version https://git-lfs.github.com/spec/v1
+oid sha256:6266d2edbc29b1751e6e1da9356c7d0d01a0adba68e372be803c310a96e0c6c6
+size 436

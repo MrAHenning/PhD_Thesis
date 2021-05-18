@@ -1,1 +1,3 @@
-EU Commissioner for Humanitarian Aid Kristalina Georgieva, said that she believes that the "humanitarian crisis..was artificially created because of the [Israeli] blockade What is going on in Gaza is a humanitarian catastrophe
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c1379b5e3b57155641454a9f4f5ec19d081869dcb99f9e6cfbd4624dfeceb19
+size 226

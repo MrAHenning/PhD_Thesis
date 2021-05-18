@@ -1,1 +1,3 @@
-Michael Martin was the first EU foreign minister to enter Gaza in over a year. He said that all that is being achieved through the blockade is to "enrich Hamas and marginalize even further the voices of moderation."[REF Israel's inhuman blockade of Gaza represents a threat to regional peace and stability
+version https://git-lfs.github.com/spec/v1
+oid sha256:78563d5c680e47fb8c638ec84d99b58ede224e59fd7d987a79721b98cc5ac84d
+size 305

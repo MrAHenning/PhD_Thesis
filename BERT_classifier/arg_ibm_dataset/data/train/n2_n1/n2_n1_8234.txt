@@ -1,1 +1,3 @@
-The report also says that Israel’s military assault on Gaza was designed to "humiliate and terrorize a civilian population, radically diminish its local economic capacity both to work and to provide for itself, and to force upon it an ever increasing sense of dependency and vulnerability” [REF The IDF's operations allowed Gazans to resume normalcy
+version https://git-lfs.github.com/spec/v1
+oid sha256:52ac9737ceb9a363d74852a23dadd62a8977824ec06e6be978a9a19a7707eae1
+size 353

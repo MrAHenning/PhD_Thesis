@@ -1,1 +1,3 @@
-According to the American Academy of Pediatrics' 1999 Circumcision Policy Statement, "There is considerable evidence that newborns who are circumcised without analgesia experience pain and physiologic stress."[REF circumcision without anesthetic is painful
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a8fa13a0ee2801010696de26fb71271c719e74b1793344c0db93c95412b30d7
+size 256

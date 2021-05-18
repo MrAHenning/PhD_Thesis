@@ -1,1 +1,3 @@
-A study by Rich et al. on suicide rates in Toronto and Ontario and psychiatric patients from San Diego reached the conclusion that increased gun restrictions, while reducing suicide-by-gun, resulted in no net decline in suicides, because of substitution of another method&nbsp;— namely leaping [REF Gun laws generally have no significant effect on violent crime rates or suicide rates
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d8e4f589fd7c9670b8780dec5af20aa1883b9f0c205c74cfe5dc6b22993771f
+size 386

@@ -1,1 +1,3 @@
-Research has shown an inverse link between income inequality and social cohesion. In more equal societies, people are much more likely to trust each other, measures of social capital suggest greater community involvement, and homicide rates are consistently lower in societies where inequality is lower, population-wide satisfaction and happiness tend to be higher
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c1f9fadcb3e05ea5e6c010434b27e6c6535034236e4201d88c68fd922169486
+size 364

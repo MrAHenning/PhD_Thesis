@@ -1,1 +1,3 @@
-The economist William Easterly and others have argued that aid can often distort incentives in poor countries in various harmful ways foreign aid causes harm to the recipient nations
+version https://git-lfs.github.com/spec/v1
+oid sha256:29aac7ff3d840ec6df9d737d86e59efa08a5fd4d7863edba26c99e2762397e3a
+size 182

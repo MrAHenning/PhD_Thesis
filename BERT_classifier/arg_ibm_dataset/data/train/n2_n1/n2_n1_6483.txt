@@ -1,1 +1,3 @@
-Pope Leo XIII wrote "It is surely undeniable that, when a man engages in remunerative labor, the impelling reason and motive of his work is to obtain property, and thereafter to hold it as his very own property rights encourage their holders to develop the property
+version https://git-lfs.github.com/spec/v1
+oid sha256:d741c0d67c755c81e68185edaf983f2395df51fe7c6b466ba81c296b6066c369
+size 265

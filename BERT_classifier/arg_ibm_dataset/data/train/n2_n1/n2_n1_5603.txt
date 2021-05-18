@@ -1,1 +1,3 @@
-the history of a number of ongoing experiments in multiculturalism, such as in the European Union, India, South Africa, Canada and the United States, suggests that workable, if not perfected, integrative models exist. Each is built on the idea that tolerance is crucial to social well-being, and each at times has been threatened by both intolerance and a heightened emphasis on cultural distinctions. The greater public good warrants eliminating those cultural characteristics that promote conflict or prevent harmony, even as less-divisive, more personally observed cultural distinctions are celebrated and preserved [REF The greater public good warrants eliminating those cultural characteristics that promote conflict or prevent harmony
+version https://git-lfs.github.com/spec/v1
+oid sha256:443ab1721ac5f5a98b80dcd81b36b7d2bcca4f0336ce91485513dd21d3c688cd
+size 740

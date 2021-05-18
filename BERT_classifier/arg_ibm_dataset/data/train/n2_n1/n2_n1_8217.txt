@@ -1,1 +1,3 @@
-On April 1, 2011 Goldstone published a piece in the Washington Post titled 'Reconsidering the Goldstone Report on Israel and war crimes'. Goldstone noted that the subsequent investigations by Israel and recognized in the U.N. committee’s report "indicate that civilians were not intentionally targeted as a matter of policy Israel’s military assault on Gaza was designed to "humiliate and terrorize a civilian population
+version https://git-lfs.github.com/spec/v1
+oid sha256:adca0eb44401a60207a64e9106b70b29e42aff94c215024993d8fa500a949100
+size 424

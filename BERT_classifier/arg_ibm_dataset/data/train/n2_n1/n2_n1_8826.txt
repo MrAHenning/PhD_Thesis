@@ -1,1 +1,3 @@
-Jordan has stated in the course of UN meetings that "the military operations were a flagrant violation of international humanitarian law and the Fourth Geneva Convention" [REF Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:99c266ce5ff444f302dc16b57495ba09b46615c962c16455fa50d6e186abc8c3
+size 243

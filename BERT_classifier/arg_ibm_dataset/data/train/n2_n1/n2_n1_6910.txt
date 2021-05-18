@@ -1,1 +1,3 @@
-In July 2010, Cameron called on Israel to relax the blockade. He said "Humanitarian goods and people must flow in both directions. Gaza cannot and must not be allowed to remain a prison camp."[REF][REF the blockade of Gaza is causing "unacceptable suffering
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b6b40fd07041789b238cad4e0dabf98851437520272f2576e62c7969439c222
+size 257

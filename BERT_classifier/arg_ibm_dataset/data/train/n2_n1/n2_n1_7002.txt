@@ -1,1 +1,3 @@
-In March 2010, United Nations Secretary-General Ban Ki-Moon stated that the blockade of Gaza is causing "unacceptable suffering" and that families were living in "unacceptable, unsustainable conditions" [REF What is going on in Gaza is a humanitarian catastrophe
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2f0282dbaac4921162dbce2db48ba3f280d55f2c3f70f2d09503eae6755ed69
+size 262

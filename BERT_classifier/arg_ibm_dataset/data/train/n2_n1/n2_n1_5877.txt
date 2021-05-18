@@ -1,1 +1,3 @@
-Summer loss for all students is estimated to be equal to about 1 month (Cooper 1996), but this varies across subject matter:  Mathematics - 2.6 months of grade-level equivalency loss  Reading- Varies across SES. Low income students generally lose about 2 months of reading achievement summer vacation is a period when students’ rate of academic development declines relative to the school year
+version https://git-lfs.github.com/spec/v1
+oid sha256:33fa3b6461167fdfd267f4c6bd3c8cc1769e17ebf4c0c4894483f707d3b8ad4a
+size 395

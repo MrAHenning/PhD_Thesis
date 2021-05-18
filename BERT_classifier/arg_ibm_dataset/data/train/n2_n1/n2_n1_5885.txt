@@ -1,1 +1,3 @@
-A meta-analysis of 39 studies conducted since 1978 found that in the absence of school, all students score lower on standardized math tests at the end of the summer as compared to their performance on the same tests at the beginning of summer [REF]. This loss was most acute in factual and procedural learning such as mathematical computation, where an average setback of more than two months of grade-level equivalency was observed among both middle- and lower-class students All children lose academic skills during the summer months
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed103dbb506ca6c1eef31558a28be0aa8e4dc9da1e18735f5d86bfb5cba51ef
+size 535

@@ -1,1 +1,3 @@
-From 1981 to 1997, the United States Department of Agriculture discriminated against tens of thousands of African American farmers, denying loans provided to white farmers in similar circumstances Historical racism continues to be reflected in socio-economic inequality
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e8909888edd2f7aca94bd79e6c0cd66d0b4ea3658cf76cae3a40d7cdd61ee30
+size 269

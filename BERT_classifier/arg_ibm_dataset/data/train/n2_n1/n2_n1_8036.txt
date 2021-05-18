@@ -1,1 +1,3 @@
-According to an advisory opinion issued by the International Court of Justice in 1996, the use of (or threat of use of) such weapons would generally be contrary to the rules of international law applicable in armed conflict The use of (or threat of use of) nuclear weapons would generally be contrary to the rules of international law applicable in armed conflict
+version https://git-lfs.github.com/spec/v1
+oid sha256:b19d59a326620e26bb7a9861d2f06bb245d1b1014a8faa0f6e962f1b0eed87e5
+size 363

@@ -1,1 +1,3 @@
-the Encyclopedia of Genocide and Crimes Against Humanity, for example, defines Holocaust denial as "a new form of anti-Semitism, but one that hinges on age-old motifs",[REF The primary motivation for most deniers is anti-Semitism
+version https://git-lfs.github.com/spec/v1
+oid sha256:6da1905347d791759779712c3523397a379c7adaef7aa696092bbe23d44335b3
+size 229

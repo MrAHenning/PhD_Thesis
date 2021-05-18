@@ -1,1 +1,3 @@
-In a 2008 study conducted by YouGov for Channel 4 it was revealed that almost three in ten teenagers say they need more sex and relationships education [REF Adolescents want both to talk to their parents about sex and to have comprehensive in-school sex education
+version https://git-lfs.github.com/spec/v1
+oid sha256:019557f1c49d0b2bdd70f57e5d121dd02e5e4e3b209449dcc087acd4d7a4c09f
+size 263

@@ -1,1 +1,3 @@
-The U.S. Supreme Court ruled that the University of Michigan's undergraduate admissions system, which granted extra "points" to minorities based on race, and which determined admissions status based on cumulative points, was unconstitutional Affirmative action is often contested on constitutional grounds
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ea2b6f4afa05dbd3bbbaac0bcc0e3e592f6f2b7be88dfd97b9f1df0b67b66c8
+size 305

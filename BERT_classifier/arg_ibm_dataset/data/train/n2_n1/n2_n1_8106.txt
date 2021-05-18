@@ -1,1 +1,3 @@
-In June 2009, HRW issued a report entitled "Precisely wrong", presenting an investigation of six UAV attacks that resulted in large civilian death [REF]. HRW concluded that in the cases probed, Israeli forces either failed to take all feasible precautions to verify that the targets were combatants, or failed to distinguish between combatants and civilians and to target only the former; as a result, HRW deduce that these attacks were a violation of International Humanitarian Law [REF Israel's UAV attacks were a violation of International Humanitarian Law
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d73974ec2737c8f237ba1ad368684e73885d0782442e20e03000e08557ad115
+size 559

@@ -1,1 +1,3 @@
-Making liquid fuels from oil sands requires energy for steam injection and refining. This process generates two to four times the amount of greenhouse gases per barrel of final product as the "production" of conventional oil [REF]. If combustion of the final products is included, the so-called "Well to Wheels" approach, oil sands extraction, upgrade and use emits 10 to 45% more greenhouse gases than conventional crude [REF The production of bitumen and synthetic crude oil emits more greenhouse gases than the production of conventional crude oil
+version https://git-lfs.github.com/spec/v1
+oid sha256:a30d4c6515e4992a1bab8f102e120ab8fb77d1b4d8911a8ec32b9f381ddb6a44
+size 550

@@ -1,1 +1,3 @@
-John Paul II's position against artificial birth control, including the use of condoms to prevent the spread of HIV,[REF] was harshly criticised by doctors and AIDS activists, who said that it led to countless deaths and millions of AIDS orphans [REF the Church's ban on condoms has "caused the death of millions
+version https://git-lfs.github.com/spec/v1
+oid sha256:d94a15a13f108f07fa539932f1361c7d5eb68f2940e99024c818cb1e3f9bf734
+size 312

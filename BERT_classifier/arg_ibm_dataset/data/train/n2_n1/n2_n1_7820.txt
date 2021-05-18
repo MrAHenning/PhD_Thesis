@@ -1,1 +1,3 @@
-in 1990 the Lutheran Churches of the Reformation passed a resolution titled "Procreation" stating that birth control, in all forms, is sin birth control, in all forms, is sin
+version https://git-lfs.github.com/spec/v1
+oid sha256:820076107fa13e420b427d287295699bcc6cc3566fb9e7220584980ef656e536
+size 174

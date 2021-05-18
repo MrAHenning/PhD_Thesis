@@ -1,1 +1,3 @@
-Donolo wrote in Maclean's that "it's the institution of the monarchy that is incompatible with the values of a modern, democratic, pluralistic state."[REF][REF The monarchy remains a symbol of imperialism and colonialism
+version https://git-lfs.github.com/spec/v1
+oid sha256:e628ea0b6112b4206de4dc5cfb231737b1e323179c0507db7aa62dff9bc58e33
+size 220

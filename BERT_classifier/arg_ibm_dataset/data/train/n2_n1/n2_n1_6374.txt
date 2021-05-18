@@ -1,1 +1,3 @@
-According to Thalif Deen's [REF] Tied Aid Strangling Nations,Washington conditioned African governments to purchase anti- HIV/AIDS drugs only from American companies which costs $15,000 annually to a patient who lives below a $1.00 a day compared to purchasing South African made generic drugs that would cost $350 annually. This ultimately makes the poor country worse off foreign assistance, especially foreign capitalism, has been somewhat deleterious to African development
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d02140813d03c1c3dec55df84ec3c4552a86acfc45309390f3b24a4067ee973
+size 477

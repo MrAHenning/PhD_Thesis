@@ -1,1 +1,3 @@
-In 2011 Conservation International listed the top 10 most endangered forests, characterized by having all lost 90% or more of their original habitat, and each harboring at least 1500 endemic plant species (species found nowhere else in the world) [REF Deforestation is known to cause the extinction of many species
+version https://git-lfs.github.com/spec/v1
+oid sha256:317dfba1326d840c4334791a0849182875c38e32b83f214803f62e9895b3869f
+size 314

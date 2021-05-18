@@ -1,1 +1,3 @@
-Starting in spring, 2011, environmental and global warming activist Bill McKibben took the question of the pipeline to NASA scientist James Hansen, who told McKibben the pipeline would be "game over for the planet" [REF building this pipeline has the potential to undermine America's clean energy future and international leadership on climate change
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e16a222d81b8f965b00a897857c2f8623106506af5b5181762810e4fb8bd457
+size 350

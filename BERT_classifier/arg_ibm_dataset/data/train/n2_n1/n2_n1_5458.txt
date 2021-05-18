@@ -1,1 +1,3 @@
-Even though usage of illegal drugs are roughly the same along racial lines, the Drug Policy Alliance Network shows that blacks constitute 13 percent of drug users, but are 38 percent of people arrested for drug offenses, and 59 percent of those convicted [REF Racial stratification continues to occur
+version https://git-lfs.github.com/spec/v1
+oid sha256:a576616b02687dd593ced489df47ee7228e41289074f94eb5ab230cb0ccf696d
+size 300

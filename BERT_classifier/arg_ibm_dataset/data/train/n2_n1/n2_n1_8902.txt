@@ -1,1 +1,3 @@
-Human Rights Watch has also condemned the attackers for firing from near residential structures, thus putting Gazan civilians at unnecessary risk [REF Hamas attacks are violations of basic humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1666fde49bd4b0baab0e16bf9318de35a08ee552f126003a69526cc2130ca03
+size 205

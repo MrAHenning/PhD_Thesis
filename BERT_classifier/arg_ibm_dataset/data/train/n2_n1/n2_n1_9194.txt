@@ -1,1 +1,3 @@
-Texas v. Johnson, , was an important decision by the Supreme Court of the United States that invalidated prohibitions on desecrating the American flag enforced in 48 of the 50 states. Justice William Brennan wrote for a five-justice majority in holding that the defendant Gregory Lee Johnson's act of flag burning was protected speech under the First Amendment to the United States Constitution Flag burning is protected speech under the First Amendment to the United States Constitution
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a0ce7a9e8bb500ba53f9f70a3d51d8f7472039a3a84149f5d39fde0cb9db09d
+size 487

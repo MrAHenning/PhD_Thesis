@@ -1,1 +1,3 @@
-A new Carbon Trust study into the potential of small-scale wind energy has found that small wind turbines could provide up to 1.5 terawatt hours (TW·h) per year of electricity (0.4% of total UK electricity consumption), saving 0.6 million tonnes of carbon dioxide (Mt CO2) emission savings Compared to the environmental impact of traditional energy sources, the environmental impact of wind power is relatively minor
+version https://git-lfs.github.com/spec/v1
+oid sha256:05688abaf829d16cb17b1c4604b8a0cbd96c38b7423068bb5719cbb8d70dea5a
+size 417

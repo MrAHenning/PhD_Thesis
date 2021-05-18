@@ -1,1 +1,3 @@
-Foreign born Canadian, Neil Bissoondath in his book Selling Illusions: The Cult of Multiculturalism in Canada, argues that official multiculturalism limits the freedom of minority members, by confining them to cultural and geographic ethnic enclaves [REF multiculturalism works better in theory than in practice
+version https://git-lfs.github.com/spec/v1
+oid sha256:28b1874744a4bf2416b307b9a5e15a2d09089c6df6a11b3c5b3f88b6b62ed73c
+size 311

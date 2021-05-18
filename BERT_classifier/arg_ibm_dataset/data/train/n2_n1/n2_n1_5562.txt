@@ -1,1 +1,3 @@
-According to Auster: .   Since multiculturalism claims to stand for the sanctity and worth of each culture, the discovery that its real tendency is to dismantle the existing, European-based culture of the United States should have instantly discredited it [REF multiculturalism works better in theory than in practice
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f88d92ad503d23dff6fdd14128f43fe68ebc7878fddb97f2faf416a9f306b47
+size 317

@@ -1,1 +1,3 @@
-More than a third of all chlamydia cases occur in those aged 15 to 19 [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f453492f61983d2733de1dc0b405557097ff2a85567af4ecc54739d4f014ecd
+size 174

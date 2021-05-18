@@ -1,1 +1,3 @@
-The Vatican issued a statement saying "The right to freedom of thought and expression, sanctioned by the Declaration of the Rights of Man, cannot imply the right to offend the religious sentiment of believers. This principle applies obviously for any religion."[REF freedom of speech ends when sacred values are offended
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec798d1bc488b52325de100126bbb8a3aee4c0334ab89696be933cc4cbcf95d7
+size 320

@@ -1,1 +1,3 @@
-According to a 2008 research brief published by the World Bank as part of its Trade Costs and Facilitation Project,[REF] ASEAN members have the potential to reap significant benefits from investments in further trade facilitation reform, due to the comprehensive tariff reform already realised through the ASEAN Free Trade Agreement ASEAN members have the potential to reap significant benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:330f2709ad06561887169b70d3be8ad4dbc13a16dbc63c1c946eca4d71d39fc4
+size 394

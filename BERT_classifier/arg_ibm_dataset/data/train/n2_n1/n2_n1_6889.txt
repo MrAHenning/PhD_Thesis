@@ -1,1 +1,3 @@
-According to the UN Conference on Trade and Development (UNCTAD), in January 2003, the Israeli blockade and closures had pushed the Palestinian economy into a stage of de-development and drained as much as US $2.4&nbsp;billion out of the economy of the West Bank and the Gaza Strip [REF the blockade of Gaza is causing "unacceptable suffering
+version https://git-lfs.github.com/spec/v1
+oid sha256:10245896e0362f4af01ef0eacba9a7a651bfd30f43b764930b6ee15fa2d4ad0f
+size 342

@@ -1,1 +1,3 @@
-Prime Minister Kevin Rudd said that Australia recognises Israel's right to self-defence The right of Israel to defend itself against rockets and terrorist attacks is acknowledged
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb3a5d9ae015c9f47dbf7349d752a885a2c1b7a23449ba281f99913150730bf0
+size 178

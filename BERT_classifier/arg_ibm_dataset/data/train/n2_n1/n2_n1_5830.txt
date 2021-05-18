@@ -1,1 +1,3 @@
-In deciding Roe v. Wade, the Supreme Court ruled that a Texas statute forbidding abortion except when necessary to save the life of the mother was unconstitutional. The Court arrived at its decision by concluding that the issue of abortion and abortion rights falls under the right to privacy the right of personal privacy includes the abortion decision
+version https://git-lfs.github.com/spec/v1
+oid sha256:6757ba8b28b01382e5b675ba0f45787911dba5def456b69506ad9f54ee23c66b
+size 353

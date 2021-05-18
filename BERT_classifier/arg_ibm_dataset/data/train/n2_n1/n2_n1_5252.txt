@@ -1,1 +1,3 @@
-In 1960, the Danish rider Knud Enemark Jensen collapsed during the 100&nbsp;km team time trial at the Olympic Games in Rome and died later in hospital. The autopsy showed he had taken amphetamine and another drug, Ronicol, which dilates the blood vessels There are harmful long-term effects of many doping agents
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1c2a221ff63373ae831260984c258b7934092b4cf03bdf1c873d3e8320a4b9c
+size 312

@@ -1,1 +1,3 @@
-In 2007, one study of amateur boxers showed that protective headgear did not prevent brain damage,[REF] and another found that amateur boxers faced a high risk of brain damage [REF Knocking a person unconscious or even causing concussion may cause permanent brain damage
+version https://git-lfs.github.com/spec/v1
+oid sha256:caa15af2f4c336a18f406dde702a268f67d831b393120e483e56482279b80e6b
+size 270

@@ -1,1 +1,3 @@
-Amnesty International expressed that "It is utterly unacceptable for Israel to continue to purposefully deprive 1.5 million people of food and other basic necessities. Such a policy cannot be justified on any security or other grounds and must end immediately", said Amnesty International Israel's attacks represent a severe and massive violation of the International Humanitarian Law
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8741d61992f2478a77aa5fd506d47c82d32d0338a4d09dc837889b19e21de52
+size 384

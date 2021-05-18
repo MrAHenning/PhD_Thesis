@@ -1,1 +1,3 @@
-The Government of Chile reiterates its most absolute conviction that the military solution won't conduct to peace, to which Israelis as well as Palestinians have rights."[REF War has never brought any solution to problems
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b434ba69eed2dab34f33203ebf9f2091be0ed71fd2573e36cd7585766eb8159
+size 221

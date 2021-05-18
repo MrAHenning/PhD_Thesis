@@ -1,1 +1,3 @@
-Base-related revenue makes up 5% of the total economy The bases provide revenue
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4db539f68f365e85700f74c6f8b62013fd5d5a707b3cafe0699295d791a38f2
+size 79

@@ -1,1 +1,3 @@
-In "On Liberty" (1859) John Stuart Mill argued that "..there ought to exist the fullest liberty of professing and discussing, as a matter of ethical conviction, any doctrine, however immoral it may be considered."[REF] Mill argues that the fullest liberty of expression is required to push arguments to their logical limits, rather than the limits of social embarrassment there must be no constraints on the free flow of information and ideas
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e87dd659f4f335d50af010857973a1748f9e832fbacc21690f267c194ce5bf5
+size 442

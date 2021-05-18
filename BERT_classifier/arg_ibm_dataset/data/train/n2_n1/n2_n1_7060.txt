@@ -1,1 +1,3 @@
-Indonesian president Susilo Bambang Yudhoyono condemned Israeli action [REF]. Foreign Minister Marty Natalegawa also condemned the action and said that the Israeli blockade in Gaza is a violation of international law [REF Israeli blockade in Gaza is a violation of international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bcb0404714a0722f572aee611ca10648b8c95f1094494327d6f83cb8bed6fb4
+size 282

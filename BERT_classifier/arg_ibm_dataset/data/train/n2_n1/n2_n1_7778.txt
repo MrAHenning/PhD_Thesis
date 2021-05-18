@@ -1,1 +1,3 @@
-According to laboratory testing, female condoms are effective in preventing the leakage of body fluids and therefore the transmission of STIs and HIV Condoms (male or female) are used to protect against STIs
+version https://git-lfs.github.com/spec/v1
+oid sha256:3037696b9a008fbf6318785719d5f0622d02b2129b52e5632fb711d0a9ff8b97
+size 207

@@ -1,1 +1,3 @@
-According to Mikhail Bakunin, "the idea of God implies the abdication of human reason and justice; it is the most decisive negation of human liberty, and necessarily ends in the enslavement of mankind, in theory and practice the idea of God implies the abdication of human reason and justice
+version https://git-lfs.github.com/spec/v1
+oid sha256:36290b93810d9b907da7dee6c08598a53e1142f42e815ff642c2ea818acff40f
+size 291

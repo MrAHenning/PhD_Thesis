@@ -1,1 +1,3 @@
-In his 1984 book All for Australia, Blainey criticized multiculturalism for tending to "emphasize the rights of ethnic minorities at the expense of the majority of Australians" and also for tending to be "anti-British Multiculturalism undermines national unity
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c49a4557f052d9c6f543bb7bd3e015ce42806d3cd274c5513cdb9a984bfb970
+size 260

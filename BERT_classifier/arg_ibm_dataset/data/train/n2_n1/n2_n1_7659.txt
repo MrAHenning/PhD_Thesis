@@ -1,1 +1,3 @@
-In June 2004 the College of Physicians and Surgeons of British Columbia said:  "Infant male circumcision was once considered a preventive health measure and was therefore adopted extensively in Western countries. Current understanding of the benefits, risks and potential harm of this procedure, however, no longer supports this practice for prophylactic health benefit. Routine infant male circumcision performed on a healthy infant is now considered a non-therapeutic and medically unnecessary intervention."[REF this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7cdce2eee22ee3510438800f1c591f074fa74b965f748be5dcc9912fb640cef
+size 574

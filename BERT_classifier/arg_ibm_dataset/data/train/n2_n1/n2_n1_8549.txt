@@ -1,1 +1,3 @@
-Foreign Minister Urmas Paet emphasised that Estonia is calling upon Israel and the Palestinian Authority to make an effort to resume talks. He said, "Estonia condemns Hamas's decision not to extend the cease-fire agreement and to continue using terrorist methods to achieve its goals Hamas started the conflict by firing rockets on Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbb035c21a84f6e7f042c95b2e24010f1d077123e349542501d00f3da1a0de3c
+size 338

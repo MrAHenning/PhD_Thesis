@@ -1,1 +1,3 @@
-The UK newspaper The Guardian conducted an investigation of its own which, according to the paper, uncovered evidence of war crimes including the use of Palestinian children as human shields and the targeting of medics and hospitals. The paper also found evidence of attacks on clearly distinguishable civilian targets [REF the Israeli Defence Force breached laws of armed conflict by attacking indiscriminately civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:67b2e8bde70ef77f7ff13dcab7056aa7c9240d949b02f91e4d372781ac8b2096
+size 421

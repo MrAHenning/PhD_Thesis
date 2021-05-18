@@ -1,1 +1,3 @@
-The escalation of tensions in the Gaza Strip […] has been triggered by rocket attacks launched by Hamas against innocent Israeli civilians", read a Georgian foreign ministry statement [REF Hamas started the conflict by firing rockets on Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:f06a4b9cc32f6081b42e792b81da7a7b7b2719a6981fbb9e1106c2fd5cee2821
+size 245

@@ -1,1 +1,3 @@
-God is not part of the natural order, but the ultimate creator of nature and of the scientific laws. Thus, in Aristotelian philosophy, God is viewed as part of the explanatory structure needed to support scientific conclusions, and any powers God possesses are, strictly speaking, of the natural order—that is, derived from God's place as originator of nature there was a "first cause", or "prime mover" who is identified as God
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb7ce7378ec89875ad75e2e216d36e566a87f2b8ed638b7863e124e293505c68
+size 430

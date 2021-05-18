@@ -1,1 +1,3 @@
-In a 1995 survey of 184 Gamblers Anonymous members in Illinois, Illinois State Professor Henry Lesieur found that 56 percent admitted to some illegal act to obtain money to gamble. Fifty-eight percent admitted they wrote bad checks, while 44 percent said they stole or embezzled money from their employer Problem gambling leads to adverse consequences for the gambler, others, or for the community
+version https://git-lfs.github.com/spec/v1
+oid sha256:940d374658ea7e20764fc1f1f69a9aad73169524dec932b41aa115e7b974bfd5
+size 397

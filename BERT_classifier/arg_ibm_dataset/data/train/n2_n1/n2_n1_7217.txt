@@ -1,1 +1,3 @@
-In a letter to Edward Livingston Madison further expanded, "We are teaching the world the great truth that Govts. do better without Kings & Nobles than with them. The merit will be doubled by the other lesson that Religion flourishes in greater purity, without than with the aid of Govt." [REF a separation of church and state—no state-run or state-established church—is good for both the church and the state
+version https://git-lfs.github.com/spec/v1
+oid sha256:700d6ce77b46250e710f3f5cb446d4660090f1ba25c1480e0710b0ef35a1e01f
+size 413

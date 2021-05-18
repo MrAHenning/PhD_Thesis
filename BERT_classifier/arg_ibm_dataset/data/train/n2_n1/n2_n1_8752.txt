@@ -1,1 +1,3 @@
-Foreign Minister Michael Spindelegger said, "We demand an immediate stop to the rocket attacks against Israel from within the Gaza Strip. The right of the Israeli people to a life in peace and security without permanent threat from rocket attacks must be guaranteed. […] Israel's legitimate right to self-defence is undisputable Israel's right to self defence was acknowledged
+version https://git-lfs.github.com/spec/v1
+oid sha256:833000bfe3561db4322e57bcb7d420469412a4dc880e471cea59ab0588a2d198
+size 378

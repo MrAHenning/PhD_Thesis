@@ -1,1 +1,3 @@
-The American Academy of Pediatrics' policy states: .   Some common painful minor procedures, such as circumcision, do not always receive the warranted attention to comfort issues. Available research indicates that newborn circumcisions are a significant source of pain during the procedure and are associated with irritability and feeding disturbances during the days afterward newborn circumcisions are a significant source of pain
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4e1c9d083bdf21e8fddb6495f435d93209a606ff5135f49ae87c633149056d9
+size 432

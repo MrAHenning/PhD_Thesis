@@ -1,1 +1,3 @@
-In a defense of professor of literature and Holocaust denier Robert Faurisson, and of having an essay of his included in the introduction of one of Faurisson's books, linguist and political activist Noam Chomsky stated "I see no antisemitic implications in denial of the existence of gas chambers, or even denial of the holocaust" [REF The primary motivation for most deniers is anti-Semitism
+version https://git-lfs.github.com/spec/v1
+oid sha256:2663a7eded62a7b7242e77b4174172c91f9340423b2366921d820a6837f8f81a
+size 392

@@ -1,1 +1,3 @@
-According to Israeli human rights group B'Tselem, Palestinian organizations that fire Qassam rockets openly declare that they intend to strike, among other targets, Israeli civilians. Attacks aimed at civilians are immoral and illegal, and the intentional killing of civilians is a grave breach under the Fourth Geneva Convention, a war crime, and cannot be justified, whatever the circumstances Hamas attacks are violations of basic humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:32f266e86e295e79a5e9688425beeda3da49c42ea1c2c18985d242f83b57774c
+size 450

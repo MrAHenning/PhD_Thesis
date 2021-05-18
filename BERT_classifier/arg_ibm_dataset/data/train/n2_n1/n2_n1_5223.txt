@@ -1,1 +1,3 @@
-David Pimentel,[REF] Professor Emeritus at Cornell University, has stated that "With the imbalance growing between population numbers and vital life sustaining resources, humans must actively conserve cropland, freshwater, energy, and biological resources. There is a need to develop renewable energy resources. Humans everywhere must understand that rapid population growth damages the Earth's resources and diminishes human well-being."[REF][REF rapid population growth damages the Earth's resources and diminishes human well-being
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a4a69521bbba6fa9ddbbd56725cb84bd754300178091cee76c22082c0cd15b1
+size 533

@@ -1,1 +1,3 @@
-As with obesity in adults, many different factors contribute to the rising rates of childhood obesity. Changing diet and decreasing physical activity are believed to be the two most important in causing the recent increase in the rates [REF A sedentary lifestyle plays a significant role in obesity [REF
+version https://git-lfs.github.com/spec/v1
+oid sha256:b60cc60afb13cff871af10fd85d2ceb8282273df7bc812e75d4aecc20086f24d
+size 303

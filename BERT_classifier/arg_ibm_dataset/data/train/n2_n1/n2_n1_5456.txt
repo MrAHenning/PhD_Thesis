@@ -1,1 +1,3 @@
-Massive racial differentials in account of wealth remain in the United States: between whites and African Americans, the gap is a factor of twenty [REF]. An analyst of the phenomenon, Thomas Shapiro, professor of law and social policy at Brandeis University argues, “The wealth gap is not just a story of merit and achievement, it’s also a story of the historical legacy of race in the United States.”[REF Historical racism continues to be reflected in socio-economic inequality
+version https://git-lfs.github.com/spec/v1
+oid sha256:724a4628373a28a60db576c61a823b1b93af961cdaa90a3b9759927b7ca3f2a8
+size 484

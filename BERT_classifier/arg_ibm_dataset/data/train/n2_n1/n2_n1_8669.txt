@@ -1,1 +1,3 @@
-Hamas Ismail Haniyeh, Hamas' leader in Gaza and head of the democratically elected Palestinian government, called Israel's attacks an "ugly massacre" [REF Israel`s unproportionally all-out war on Hamas with a great number of fatalities is an unforgettable human tragedy
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c02fa4ed75473416e437103909accbd7e7e06583156f6e502cfbbb98fa48005
+size 269

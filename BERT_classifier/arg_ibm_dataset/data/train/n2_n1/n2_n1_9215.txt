@@ -1,1 +1,3 @@
-Stevens argued that the flag "is more than a proud symbol of the courage, the determination, and the gifts of nature that transformed 13 fledgling Colonies into a world power. It is a symbol of freedom, of equal opportunity, of religious tolerance, and of good will for other peoples who share our aspirations..The value of the flag as a symbol cannot be measured the "uniqueness" of the flag "justifies a governmental prohibition against flag burning
+version https://git-lfs.github.com/spec/v1
+oid sha256:f09de0d750de6d5148e5eb938c60451ddfd4ce28b5d22ac37d2e1aa5ed8ea7a7
+size 451

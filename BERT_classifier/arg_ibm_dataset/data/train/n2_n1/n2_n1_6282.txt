@@ -1,1 +1,3 @@
-Agnostic thought, in the form of skepticism, emerged as a formal philosophical position in ancient Greece. Its proponents included Protagoras, Pyrrho, and Carneades [REF]. Such thinkers rejected the idea that certainty was possible human reason is incapable of providing sufficient rational grounds to justify the belief that deities either do or do not exist
+version https://git-lfs.github.com/spec/v1
+oid sha256:b422320bb9da7dc28541cebbd8a023b14428a623e68f92e7db8fe078af08c9c0
+size 359

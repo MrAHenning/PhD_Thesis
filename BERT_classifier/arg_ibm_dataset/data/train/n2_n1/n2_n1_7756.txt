@@ -1,1 +1,3 @@
-Statistics show that voter participation in the United States was higher when people could only vote in the primary for their own party With the open primary more voters become independent and are less likely to participate in the nominating or election processes
+version https://git-lfs.github.com/spec/v1
+oid sha256:438f152153a8ddb21805f3bfd2987fce8a55168c5d4c415990558c75629af60f
+size 263

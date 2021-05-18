@@ -1,1 +1,3 @@
-Harvard Law School Professor Alan Dershowitz, Chicago Law School Professor Eric Posner, and Johns Hopkins international law Professor Ruth Wedgwood, said that the naval blockade and the boarding in international waters were in accord with long-standing international law, and comparable to other blockades in unrelated, historical conflicts [REF Israel's blockade of the Gaza Strip was determined to be legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c48dc0f793964d7cd047e450061d39663480f483772c9e77685f308a2e07af2
+size 408

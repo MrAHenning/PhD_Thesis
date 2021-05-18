@@ -1,1 +1,3 @@
-Some scientists estimate that a war between two countries that resulted in 100 Hiroshima-size atomic explosions would cause significant loss of life, in the tens of millions. There would also be much soot thrown up into the atmosphere which would blanket the earth, causing the disruption of food chains [REF no issue carries more importance to the long-term health and security of humanity than the effort to reduce, and perhaps one day, rid the world of nuclear weapons
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad6794d0087ba3168921d30c1f6ec5af18d0e1df44ea3f6c657a5627bc82e28f
+size 471

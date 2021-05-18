@@ -1,1 +1,3 @@
-On 7 March 2008, several international aid groups, including Amnesty International, CARE International UK, and Oxfam, issued a report saying that the humanitarian situation in the Gaza Strip was more acute than at any time since the beginning of the Israeli occupation in 1967 The situation in Gaza is unsustainable and unacceptable
+version https://git-lfs.github.com/spec/v1
+oid sha256:46fd00ce3603ff12b5555bcef7e7c25f061a43b6a6e3ff2be6bc858ced49f1b6
+size 332

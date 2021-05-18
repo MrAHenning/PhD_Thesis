@@ -1,1 +1,3 @@
-In his differential association theory, Edwin Sutherland posited that criminals learn criminal and deviant behaviors and that deviance is not inherently a part of a particular individual's nature. When an individual's significant others engage in deviant and/or criminal behavior, criminal behavior will be learned as a result to this exposure [REF Genetic reasons are claimed to be largely responsible for social deviance
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3c231a9be14e6a2fbaaf2a0853179c5c52d0054ecf66e62ec0f024212ea14f
+size 422

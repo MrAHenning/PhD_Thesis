@@ -1,1 +1,3 @@
-According to Talbot,[REF] diversity is an environment that consists of the tangible presence of individuals all of which represent unique and different attitudes, characteristics, attributes, and beliefs. Multiculturalism is a developmental journey through which an individual enhances knowledge and skills about different cultures so that he/she can feel comfortable in any situation and can communicate effectively with other individuals from any culture [REF Multiculturalism is a developmental journey through which an individual enhances knowledge and skills about different cultures
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ab5aa8818fbd3accfb604d4750d9b3dd938227e4061e25d672932c45e296ee6
+size 588

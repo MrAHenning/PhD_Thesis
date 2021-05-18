@@ -1,1 +1,3 @@
-On 23 October 2008, the Venice Commission, the Council of Europe's advisory body on constitutional matters, issued a report about blasphemy, religious insult, and incitement to religious hatred [REF]. The report noted that, in Europe, blasphemy is an offence only in Austria, Denmark, Finland, Greece, Italy, Liechtenstein, the Netherlands, and San Marino. In its conclusions, the report stated "it is neither necessary nor desirable to create an offence of religious insult" and "the offence of blasphemy should be abolished the state has no legitimate interest in protecting any or all religions from views distasteful to them
+version https://git-lfs.github.com/spec/v1
+oid sha256:25115d80dca60a3a58c084426d8ef82cee3e592bee78b604ef36e3273bf7d682
+size 628

@@ -1,1 +1,3 @@
-Academic research has shown that in many instances, aid is conditionally tied due to political motives, rather than notions of proper policy and implementation Aid to underdeveloped countries has sometimes been criticized as being more in the interest of the donor than the recipient
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd1c136688266704f06214fd65097e0c7bea46110fef3d31f6653ee41138fafe
+size 283

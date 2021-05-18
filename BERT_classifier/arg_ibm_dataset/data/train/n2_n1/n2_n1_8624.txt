@@ -1,1 +1,3 @@
-The Chilean government formulates a call to an immediate cease of hostilities and provocations, "and deeply regrets the disproportionate use of force by Israel in the Palestinian territories Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:1880b76b538dfa055214c09a1a9554b0b36081fecd7a164fe8872a70a6424496
+size 230

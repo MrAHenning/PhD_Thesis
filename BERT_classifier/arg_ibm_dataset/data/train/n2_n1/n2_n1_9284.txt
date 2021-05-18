@@ -1,1 +1,3 @@
-In 2001, for example, Oregon, second ranked in the AP poll, was bypassed in favor of Nebraska despite Nebraska's loss in its final regular season game to the University of Colorado Controversies concerning inclusion in the BCS National Championship Game are numerous
+version https://git-lfs.github.com/spec/v1
+oid sha256:d332bb70746a1b197bcab16df7c5a3e1e388ba7343faf4e4fb21ae0a0f2e7679
+size 266

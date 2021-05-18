@@ -1,1 +1,3 @@
-Article 14 of the Universal Declaration of Human Rights states that "Everyone has the right to seek and to enjoy in other countries asylum from persecution Everyone has the right to seek and to enjoy in other countries asylum from persecution
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffc000b35c030344434b08900ccf91342b68aa22399da971ae199a6b5baeb0af
+size 242

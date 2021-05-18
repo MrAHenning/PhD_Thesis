@@ -1,1 +1,3 @@
-A 2004 study concluded that school results in public schools improved due to the increased competition [REF vouchers improve academic outcomes at public schools
+version https://git-lfs.github.com/spec/v1
+oid sha256:8930410ad4a737f52084b05872d9c668c382683e0db4fea1abb1d983ba83d60b
+size 160

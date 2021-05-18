@@ -1,1 +1,3 @@
-Critias viewed religion as a human invention used to frighten people into following moral order [REF Religion is viewed as a human invention used to frighten people into following moral order
+version https://git-lfs.github.com/spec/v1
+oid sha256:b27fc27a7909230679368a0d9622cf5f14c9d8dc13b4a16673e6671b9971b9cc
+size 191

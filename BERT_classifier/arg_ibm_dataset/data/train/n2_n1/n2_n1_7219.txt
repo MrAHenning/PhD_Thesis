@@ -1,1 +1,3 @@
-Jefferson reflected his frequent speaking theme that the government is not to interfere with religion [REF the government is not to interfere with religion
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d7f5caadfd2612659cb1116d2423df080be85d2a5503a7aa4a6266fb573b69c
+size 155

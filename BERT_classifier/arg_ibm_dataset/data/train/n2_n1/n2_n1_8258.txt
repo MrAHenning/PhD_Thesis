@@ -1,1 +1,3 @@
-Shelley Berkley of Nevada and Eliot Engel of New York wrote in a joint statement: "Israel took every reasonable step to avoid civilian casualties .. It is ridiculous to claim that Israel did not take appropriate actions to protect civilian populations" [REF during the conflict the Israel Defense Forces "did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ae87ec4b1cd0c1bc20539487b9aab262a29b75125f9b9a63ff1eb4da60abd37
+size 413

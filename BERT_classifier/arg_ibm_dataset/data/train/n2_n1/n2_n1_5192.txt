@@ -1,1 +1,3 @@
-In 2010, Amnesty International accused authorities in Puning of compelling people to be sterilized by imprisoning their elderly relatives [REF Coercive sterilization to enforce the one child policy has occurred in China
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a56a29deeb6e5fbeac03cefc3e30683a61ac226102e6a6421de0b9e7e1da475
+size 219

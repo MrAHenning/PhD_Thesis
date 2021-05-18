@@ -1,1 +1,3 @@
-B'Tselem describes Israel's reasoning as being "legally flawed," stating that simple Hamas' affiliation does not make such locations legitimate targets [REF anything affiliated with Hamas is a legitimate target
+version https://git-lfs.github.com/spec/v1
+oid sha256:e659710fe6d1859f0f29cfb368fbe08b3ecb267cd0d293e51139b8132ab9cbea
+size 210

@@ -1,1 +1,3 @@
-James Wilson, a framer of the U.S. Constitution, explained as follows: .   "With consistency, beautiful and undeviating, human life, from its commencement to its close, is protected by the common law. In the contemplation of law, life begins when the infant is first able to stir in the womb Unborn children have an inherent right to life
+version https://git-lfs.github.com/spec/v1
+oid sha256:800b7026f7c80642864b176fd5ba731a4257925ed512c42679a1b8b4fded1260
+size 338

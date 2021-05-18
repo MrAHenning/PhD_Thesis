@@ -1,1 +1,3 @@
-For example, “only about one fifth of U.S. aid goes to countries classified by the OECD as ‘least developed.’”[REF] This “pro-rich” trend is not unique to the United States [REF aid is not targeting the most extreme poverty
+version https://git-lfs.github.com/spec/v1
+oid sha256:addc5e814c95ba3109ca3fb62fb68f88a67db99a6b76757b5549bca8ff4f1a32
+size 235

@@ -1,1 +1,3 @@
-In 2007, the National Campaign to Prevent Teen Pregnancy published an overview of policy and research on "programs designed to prevent teen pregnancy and STD/HIV" titled Emerging Answers 2007 [REF]. The report included a comprehensive metastudy examining research on the efficacy of abstinence-only as well as comprehensive sex education. Despite "[t]wo less rigorous studies suggest[ing] that abstinence programs may have some positive effects on sexual behavior", Emerging Answers concluded that "studies of abstinence programs have not produced sufficient evidence to justify their widespread dissemination studies of abstinence programs have not produced sufficient evidence to justify their widespread dissemination
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e7b1aab407f7d39db8ae831d64cfcf20dba0d26e3feb126cd677d86f6deabca
+size 720

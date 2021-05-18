@@ -1,1 +1,3 @@
-In response to criticism of using disproportionate force, OC Southern Command Maj.-Gen. Yoav Galant said, "800 terrorists and 300 civilians, who we did not want to harm, were killed .. This ratio of almost a quarter [of the individuals] uninvolved [in the fighting] is an achievement unmatched in the history of this kind of combat."[REF the Israeli Defence Force breached laws of armed conflict by attacking indiscriminately civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:98f46df3d59e1d7e8d6f05b7486244729142e4349f867ad4232c58dd3b1b85c0
+size 435

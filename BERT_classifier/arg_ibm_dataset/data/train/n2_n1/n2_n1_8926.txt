@@ -1,1 +1,3 @@
-The European Union demanded an immediate end to Palestinian militant rocket attacks on Israel and also criticised what they called Israel's "disproportionate use of force."[REF][REF Israel's response was excessive
+version https://git-lfs.github.com/spec/v1
+oid sha256:7585a708733c817666671a4c610e51e4bd87363cd9979112c077e3c2c49d98a4
+size 213

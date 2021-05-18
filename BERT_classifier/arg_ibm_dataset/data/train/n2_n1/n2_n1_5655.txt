@@ -1,1 +1,3 @@
-Internet gambling has become one of the most popular and lucrative business present on the Internet. In 2007 the gambling commission stated that the gambling industry achieved a turnover of over £84 billion according to the UK Gambling Commission. This is partly due to the wide range of gambling options that are available to facilitate many different types of people [REF Gambling is now a diverse, vibrant and innovative industry
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2f6fcc17957a7b80cb90a8b2487dcc7e9a06a23d3d5bae47665d52f025f7f1a
+size 433

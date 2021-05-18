@@ -1,1 +1,3 @@
-Fan Hong, a scholar who specializes in China's athletic history, commented, "People believed that boxing was very brutal Boxing is very brutal
+version https://git-lfs.github.com/spec/v1
+oid sha256:48e398232242814292fb3c72093a33fc27fe29d1ab51fec061df0e42a343c09a
+size 142

@@ -1,1 +1,3 @@
-Sir James Goldsmith attacked free trade for causing the conversion of small-scale agriculture to large-scale agribusiness across the developing world: "The loss of rural employment and migration from the countryside to the cities causes a fundamental and irreversible shift. It has contributed throughout the world to the destabilization of rural society and to the growth of vast urban concentrations. In the urban slums congregate uprooted individuals whose families have been splintered, whose cultural traditions have been extinguished and who have been reduced to dependence on welfare from the state."[REF Individuals can be made worse off by an opening of trade
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bb1c6bfd8c25a55d37ac203f5f5aec08d48ebd4c31d90616777c8482fc3b0b3
+size 668

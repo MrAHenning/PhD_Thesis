@@ -1,1 +1,3 @@
-From 1990 to 2010 Nigeria nearly halved their amount of Forest Cover, moving from 17,234 to 9041 hectares. The combination of extremely high deforestation rates, increased temperatures and decreasing rainfall are all contributing to the desertification of the country Deforestation has negative implications on the environment
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f9f854d20ea1d3a3253cbd8fcf5323ff3f9f1d016d844bd02384a540fa09cee
+size 326

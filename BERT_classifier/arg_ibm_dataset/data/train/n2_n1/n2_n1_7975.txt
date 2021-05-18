@@ -1,1 +1,3 @@
-However, the Post argued that: .   "No human right is more basic than freedom of expression, not even the "right" to live one's life free from offence by remarks about one's ethnicity, gender, culture or orientation No human right is more basic than freedom of expression
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ce70be437c3bf13cc8617722ba071ea4faa00013df9545a5bb8c6eac496a504
+size 271

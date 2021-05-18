@@ -1,1 +1,3 @@
-On February 5, Swedish Minister of Foreign Affairs, Laila Freivalds stated the following in an interview:[REF] We support the freedom of speech, that I think is very clear. But at the same time it is important to say that with this freedom comes a certain responsibility, and it could be objectionable to act in a way that insults people The right to freedom of thought and expression, sanctioned by the Declaration of the Rights of Man, cannot imply the right to offend the religious sentiment of believers
+version https://git-lfs.github.com/spec/v1
+oid sha256:2813a69e528856511771d459787c147cd4faae689c26af518f5ca3217c74ed5f
+size 507

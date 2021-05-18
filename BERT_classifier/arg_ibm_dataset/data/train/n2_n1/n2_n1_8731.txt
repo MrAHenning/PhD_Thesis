@@ -1,1 +1,3 @@
-The Kingdom of Morocco calls for the immediate halt of the hostilities which, beyond the significant loss of life, exposes the region once again to escalation, violence and divisions", the document added [REF aggression and disproportionate use of force by Israel is unfortunate and only leads to further escalation of violence
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff97ddb81e54492fa3f2ec2edfef637a2cc5924ed3ab54f7ff2ea1edece516b5
+size 327

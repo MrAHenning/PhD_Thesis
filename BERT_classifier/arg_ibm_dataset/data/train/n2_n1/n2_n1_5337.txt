@@ -1,1 +1,3 @@
-According to Stefan Zillich, quotas should be "a possibility" to help working class children who did not do well in school gain access to a Gymnasium (University-preparatory school Affirmative action is intended to ensure that minority groups within a society are included in all programs
+version https://git-lfs.github.com/spec/v1
+oid sha256:944fe65fad10b43e44e5b8a45179d43155be828d42405178ed41846ba0ec2fc0
+size 288

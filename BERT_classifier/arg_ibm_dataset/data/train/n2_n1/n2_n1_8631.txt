@@ -1,1 +1,3 @@
-The Kingdom of Morocco strongly condemns the massive Israeli military operations which have claimed, this morning, the lives of dozens of Palestinian brothers in Gaza strip, and strongly condemns the disproportionate use of force and the tragic escalation of violence", a communiqué of the Foreign ministry said Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:f471e81843aab9a4e806c9848a365b263f77ed8d1f9405d3be5a4e761a7295f0
+size 352

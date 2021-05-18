@@ -1,1 +1,3 @@
-Another event in February 2000 also put asylum seekers of the newspaper front pages. A group of nine Afghan nationals hijacked an aircraft and forced it to fly to Stansted Airport whereupon they eventually surrendered themselves. They and 79 of the passengers claimed asylum [REF]. The Afghan hijackers case was to become a political headache that highlighted the lack of powers the Home Office actually had Social and political issues surround the issue of immigration
+version https://git-lfs.github.com/spec/v1
+oid sha256:33a39b4aac7cc2451d1bbc819a3b33b096d5fe28a032feaf4340ed68a4ac191d
+size 469

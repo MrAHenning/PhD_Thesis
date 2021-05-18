@@ -1,1 +1,3 @@
-Minister of Foreign Affairs, Marko Hausiku said "The Government of Namibia condemns the Israeli bombardments and ground assault on the Gaza Strip. This naked aggression and disproportionate use of force by Israel is unfortunate and only leads to further escalation of violence the reaction of the armed forces of Israel was condemned as "disproportional
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bbddd29cee0bb2ac717eb365782a2b6c6472849643b3c0de03e4746875372f0
+size 353

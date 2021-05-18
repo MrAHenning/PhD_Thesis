@@ -1,1 +1,3 @@
-Dr. Gary Kleck, a criminologist at Florida State University, estimated that approximately 2.5 million people used their gun in self-defense or to prevent crime each year, often by merely displaying a weapon a well-armed citizenry prevents crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:980c6580a828ff544d985ddb8176653feaed8d4f12b1dbfc40fc1515cbb5011e
+size 244

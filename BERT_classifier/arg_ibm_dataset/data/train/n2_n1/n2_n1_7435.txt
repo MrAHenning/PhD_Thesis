@@ -1,1 +1,3 @@
-In early 2008, the US secretary of state, Condoleezza Rice, apologized after a series of crimes involving American troops in Japan, including the rape of a young girl of 14 by a marine on Okinawa accidents and crimes committed by U.S. servicemen have reduced the local population's support for the U.S. military bases
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9047b3ee7400eb8956a12df0f3bf6020634989957e1ef34012b446df981c5aa
+size 317

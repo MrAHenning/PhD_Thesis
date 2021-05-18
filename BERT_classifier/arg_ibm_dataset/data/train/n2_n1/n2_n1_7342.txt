@@ -1,1 +1,3 @@
-A 2010 report by the Guttmacher Institute pointed out that pregnancy rates for teens 15-19 reversed their decline in 2006, near the peak of the Abstinence Only campaign in the United States [REF Evidence has not supported the effective use of abstinence-only sex education
+version https://git-lfs.github.com/spec/v1
+oid sha256:d17fb1d4ca307549cda34ef94be5cc7430b8fd0fd00eadb24bd4da6adc3589cf
+size 272

@@ -1,1 +1,3 @@
-Boyle et al. (2002) state that circumcision may result in psychological harm, including post-traumatic stress disorder (PTSD), citing a study that shows an incidence rate of PTSD (measured according to DSM-IV) of almost 70% among Filipino boys subjected to ritual circumcision, and 51% among boys subjected to medical circumcision (with local anaesthetic) [REF this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:05bc39b962497fb2dac08b787a09b0eda04fdf7d9317ba2d4134e5c060a744b1
+size 420

@@ -1,1 +1,3 @@
-On December 30, India released a second statement condemning what it called Israel's "disproportionate" and "indiscriminate" use of force, and expressed disappointment at the large number of civilian casualties [REF Israel's actions in Gaza are both disproportionate and clearly contrary to international humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:7409c32c4a0beebea05e5cb7d31867161ebe182ddf9ae4d7b9b2e51b95da3b59
+size 321

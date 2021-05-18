@@ -1,1 +1,3 @@
-In 2005, the European Monitoring Centre on Racism and Xenophobia (now the Fundamental Rights Agency) published a "working definition" of antisemitism which gave as an example of the way that antisemitism might manifest itself, "denying the fact, scope, mechanisms (e.g. gas chambers) or intentionality of the genocide of the Jewish people at the hands of National Socialist Germany and its supporters and accomplices during World War II (the Holocaust)" [REF Holocaust denial is a convenient polemical substitute for anti-semitism
+version https://git-lfs.github.com/spec/v1
+oid sha256:182eb10c156f11ccd3d790a9c6e7a03e0f46cb9dd5bb06bcf88cfd8746d4e9e8
+size 530

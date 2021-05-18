@@ -1,1 +1,3 @@
-In 1971 the Standardization policy of Sri Lankan universities was introduced as an affirmative action program for students from areas which had poor educational facilities due to 200 years purposeful discrimination by British colonialists Affirmative action helps to compensate for past discrimination, persecution or exploitation by the ruling class of a culture
+version https://git-lfs.github.com/spec/v1
+oid sha256:436d4995f4ae928f17b425ea5f3456853581e8500439fedefb0c619499d586ef
+size 363

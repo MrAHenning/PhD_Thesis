@@ -1,1 +1,3 @@
-Thomas Shapiro, professor of law and social policy at Brandeis University argues, “The wealth gap is not just a story of merit and achievement, it’s also a story of the historical legacy of race in the United States.”[REF Racial stratification continues to occur
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b6257db2ecfd6e3a49261060dd59cb53d84db9de6c66822564039db8d705049
+size 268

@@ -1,1 +1,3 @@
-Cost per unit of energy produced was estimated in 2006 to be comparable to the cost of new generating capacity in the US for coal and natural gas: wind cost was estimated at $55.80 per MW·h, coal at $53.10/MW·h and natural gas at $52.50 [REF Wind power has low ongoing costs
+version https://git-lfs.github.com/spec/v1
+oid sha256:24f8067a264f45ea80b32d08752f87f5e7ca0d307329b5b7a0b1f52df5d314ff
+size 276

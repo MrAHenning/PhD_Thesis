@@ -1,1 +1,3 @@
-Congress declared that collective bargaining is "in the public interest" because, among other things, it "contributes to the effective conduct of public business Collective bargaining contributes to the effective conduct of public business
+version https://git-lfs.github.com/spec/v1
+oid sha256:a81b840998dccd5044dccf97fc543710083e913efdff7dc9a8d8d20070098591
+size 239

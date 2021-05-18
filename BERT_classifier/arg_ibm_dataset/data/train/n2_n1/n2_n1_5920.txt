@@ -1,1 +1,3 @@
-Economist Arthur Cecil Pigou discussed the impact of inequality in The Economics of Welfare. He wrote: Nevertheless, it is evident that any transference of income from a relatively rich man to a relatively poor man of similar temperament, since it enables more intense wants, to be satisfied at the expense of less intense wants, must increase the aggregate sum of satisfaction. The old "law of diminishing utility" thus leads securely to the proposition: Any cause which increases the absolute share of real income in the hands of the poor, provided that it does not lead to a contraction in the size of the national dividend from any point of view, will, in general, increase economic welfare a society with more equality will have higher aggregate utility
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0045566cbe1219515382d0077a0f0f66a0c603ac99715df6cffa32483308ce8
+size 758

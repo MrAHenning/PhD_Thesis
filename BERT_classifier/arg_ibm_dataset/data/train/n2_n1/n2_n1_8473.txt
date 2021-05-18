@@ -1,1 +1,3 @@
-Caritas Internationalis described the "devastating consequences" of Israeli actions in Gaza highlighting the desperate need for beds, medicines and medical staff. It expressed concern over the difficulty Gazan medical personnel were having in reaching the wounded and commented on the high number of women and children being wounded Israel's attacks represent a severe and massive violation of the International Humanitarian Law
+version https://git-lfs.github.com/spec/v1
+oid sha256:30056d927a8678e4f96e3af0d22a4d9b3b6de844f252a14f7b28fd7ab1892adc
+size 428

@@ -1,1 +1,3 @@
-Two bishops share the beliefs of Condoms4Life,[REF][REF] and have come out in support of condom use when one partner has AIDS condoms are acceptable as a means of preventing AIDS
+version https://git-lfs.github.com/spec/v1
+oid sha256:acdef87bfd56dac561b54bd155c942ad42004be07cbc1d0a40fd1c20d9a43c99
+size 178

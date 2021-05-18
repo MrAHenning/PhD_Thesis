@@ -1,1 +1,3 @@
-some physicians and acoustic engineers have reported problems from wind turbine noise, including sleep deprivation, headaches, dizziness, anxiety, and vertigo [REF Wind turbines may cause physiological problems
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cd2478ad025db00179356f051d5ce8e17b53662b64dc7a5244a29d7a6a2da35
+size 210

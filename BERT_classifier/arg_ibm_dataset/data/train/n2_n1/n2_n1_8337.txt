@@ -1,1 +1,3 @@
-In a 2009 interview, Major General Ido Nehushtan said that the only use of non-precision-guided munitions from the Israeli Air Force was in open areas [REF]. He went on to say: "We had to find ways to do things as precisely and proportionately as possible, while focusing on how to differentiate between terrorists and uninvolved civilians [REF the Israeli military operation was directed at the people of Gaza as a whole
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bb14c702241cae7217acc887e683e6e05035433d0880fab0775e7783eec2c6f
+size 421

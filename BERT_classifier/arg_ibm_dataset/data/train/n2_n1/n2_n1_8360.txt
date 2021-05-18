@@ -1,1 +1,3 @@
-two Givati Brigade Staff Sergeants were convicted by the Southern Command Military Court of using a Palestinian boy as a human shield. The soldiers had been accused of forcing nine year-old Majed R. at gunpoint to open bags suspected of containing bombs in the Tel al-Hawa neighborhood during the conflict, the Israel Defense Forces "did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:79930f9c3ca06900b47a24ea4d71d7772bbd789981fb9b415ff520cd77b389ad
+size 442

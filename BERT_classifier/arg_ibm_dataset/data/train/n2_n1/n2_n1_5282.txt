@@ -1,1 +1,3 @@
-According to the World Health Organization, lack of physical activity contributes to approximately 17% of heart disease and diabetes, 12% of falls in the elderly, and 10% of breast cancer and colon cancer [REF Frequent and regular aerobic exercise has been shown to help prevent or treat serious and life-threatening chronic conditions
+version https://git-lfs.github.com/spec/v1
+oid sha256:60b648febc89c665e888bf2594de0d40e0033a7d40da31c71ef839604fa46ca1
+size 335

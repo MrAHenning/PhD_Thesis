@@ -1,1 +1,3 @@
-Account Services lawyer Jeff Ifrah said that the government “has never seized an account that belongs to players who are engaged in what [Ifrah] would contend is a lawful act of playing peer-to-peer poker online.”[REF Internet gambling is a legitimate activity that citizens have the right to engage in
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9056500ca94239ff2c8c09f22c2ed7f1b0d745f3218d3e4dfafc11d43ca3d99
+size 306

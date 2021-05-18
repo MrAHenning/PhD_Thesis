@@ -1,1 +1,3 @@
-UN envoy Desmond Tutu, United Nations Human Rights Council head Navi Pillay, the International Committee of the Red Cross and, according to Richard Falk, most experts on international law[REF] consider the blockade illegal [REF Even if the blockade is eased it remains illegal under international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4a766e96e915ce816903bf33aa6254293a709f826bca73eb2bc2a71ea94ae40
+size 300

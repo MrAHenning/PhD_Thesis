@@ -1,1 +1,3 @@
-Deputy Prime Minister Sayyid Fahd bin Mahm-oud Al Said said "We condemn the Israeli aggression on the Palestinian people and the excessive use of force by Israel the reaction of the armed forces of Israel was condemned as "disproportional
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a76fb52556730c4429b573a5a93d9587236bcad25359764de81a1fdfbd4befc
+size 238

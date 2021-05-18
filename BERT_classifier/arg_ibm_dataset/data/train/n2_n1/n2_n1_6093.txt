@@ -1,1 +1,3 @@
-Karl Marx and Friedrich Engels, influenced by the work of Feuerbach, argued that belief in God and religion are social functions, used by those in power to oppress the working class The idea of God is the most decisive negation of human liberty
+version https://git-lfs.github.com/spec/v1
+oid sha256:e12727a812a16948ceff784bf22f90a176ddd16a21881000f1d978c42a8c94b7
+size 244

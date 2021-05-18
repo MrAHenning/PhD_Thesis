@@ -1,1 +1,3 @@
-Linda M. Yelland and William F. Stone, in particular, show that Denial essays decrease readers’ belief in the Holocaust, regardless of their prior Holocaust awareness [REF Holocaust denial propaganda in all forms has shown to influence the audiences that it reaches
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fa697d9c2eb4459d740703f12cc01625dbee07bc16c11849cec5e8a84ca3759
+size 267

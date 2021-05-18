@@ -1,1 +1,3 @@
-Justice William J. Brennan, Jr. asserted that "if there is a bedrock principle underlying the First Amendment, it is that government may not prohibit the expression of an idea simply because society finds the idea offensive or disagreeable."[REF government may not prohibit the expression of an idea simply because society finds the idea offensive or disagreeable
+version https://git-lfs.github.com/spec/v1
+oid sha256:d34c08ec9226bffddb59f319321bb44dd3a7a96d29dfedab17243d6a9f716361
+size 363

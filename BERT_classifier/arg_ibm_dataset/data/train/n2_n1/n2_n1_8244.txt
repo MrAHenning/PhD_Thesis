@@ -1,1 +1,3 @@
-According to the report, another alleged war crime committed by IDF include “wanton” destruction of food production, water and sewerage facilities disproportionate destruction and violence against civilians were part of a deliberate policy" by Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:46733f4be193eff67cf654975cd20f1a63632c1af77953d8501b23c49eefa1ac
+size 254

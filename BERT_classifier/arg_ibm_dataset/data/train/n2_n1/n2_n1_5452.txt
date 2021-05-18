@@ -1,1 +1,3 @@
-Public opinion researchers polled White Americans in the early 1970s on their backing for racial equality and their support for government intervention that would enforce equality. The results revealed high levels of support from White Americans, ranging from 75 percent to nearly 100 percent, regarding the principles for school integration, equal opportunity employment, and open housing Racial prejudice and discrimination no longer exists
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c7711d3276080c439061a3cda84e41c506080106982dcd8e832ad2e92d9e8a7
+size 442

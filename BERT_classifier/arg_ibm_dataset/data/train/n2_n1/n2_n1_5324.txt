@@ -1,1 +1,3 @@
-When my first wife and I began the school, we had one main idea: to make the school fit the child - instead of making the child fit the school" -- A.S. Neill school should be made to fit the child, rather than the other way around
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c21be41fd31914dc47bea4031c01c456ba84223c5b8ff732ee6c0597ace7c66
+size 230

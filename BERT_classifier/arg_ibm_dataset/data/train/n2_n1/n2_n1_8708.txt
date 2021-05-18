@@ -1,1 +1,3 @@
-A foreign ministry spokesman of the DPRK "resolutely denounces Israel's killing of unarmed civilians as a crime against humanity, a serious provocation against the Palestinians and other Arab people and an open challenge to the Middle East peace process" [REF This cycle of violence and retaliation impedes efforts to broker lasting peace in the region
+version https://git-lfs.github.com/spec/v1
+oid sha256:7209998d53207bec6af5fccf918c989d719723e728cd42e9d3c18796ab49e10e
+size 352

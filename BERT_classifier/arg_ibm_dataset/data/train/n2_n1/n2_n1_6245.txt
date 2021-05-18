@@ -1,1 +1,3 @@
-Plato posited a basic argument in The Laws (Book X), in which he argued that motion in the world and the Cosmos was "imparted motion" that required some kind of "self-originated motion" to set it in motion and to maintain that motion [REF existence must be due to an agent cause
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3ea015374234d1416a66c3b8c3123aa7f2ca9e88ec7108e1c95b05826a086ed
+size 278

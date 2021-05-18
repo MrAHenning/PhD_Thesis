@@ -1,1 +1,3 @@
-The AMA "urges schools to implement comprehensive.. sexuality education programs that.. include an integrated strategy for making condoms available to students and for providing both factual information and skill-building related to reproductive biology, sexual abstinence, sexual responsibility, contraceptives including condoms, alternatives in birth control, and other issues aimed at prevention of pregnancy and sexual transmission of diseases.. [and] opposes the sole use of abstinence-only education.."[REF sex education needs to be comprehensive to be effective
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b09f2c262cce6b2650fb5d0abe3d124b19d846c0fc04e4957299432ffb7b92c
+size 568

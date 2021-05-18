@@ -1,1 +1,3 @@
-the National Organization for Women, a feminist organization, passed a resolution in 1980 opposing males-only draft registration as discriminatory the draft is fundamentally unfair
+version https://git-lfs.github.com/spec/v1
+oid sha256:73af3676c9ac147c4577f5913767bf09d18f30dfe92b1b671fbc49a13faa6815
+size 180

@@ -1,1 +1,3 @@
-The Bolivian government strongly condemned the Israeli air strikes of Palestinian territory of Gaza. Its statement said the- successive Israeli air strikes against -civilians in the Gaza Strip were crimes and the attacks represent a severe and massive violation of the International Humanitarian Law [REF the military operations were a flagrant violation of international humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:60883f091ffba60563d706d9dd5a5b70e291d252ec6ec5056ceef56b0feb44d7
+size 388

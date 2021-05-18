@@ -1,1 +1,3 @@
-This changed though, following the death of lightweight Duk Koo Kim in 1982[REF] after his fourteen-round fight with Ray Mancini, which was so shocking that two people committed suicide as a result [REF]. Almost immediately, the World Boxing Council (WBC) issued a statement saying that WBC world title bouts would be set for 12 rounds [REF rule changes have made certain kinds of boxing deaths far rarer
+version https://git-lfs.github.com/spec/v1
+oid sha256:298701858cae395be23205fa1424da00d005289b7bb917dada87553f48703704
+size 404

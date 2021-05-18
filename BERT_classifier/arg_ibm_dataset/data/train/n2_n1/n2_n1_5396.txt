@@ -1,1 +1,3 @@
-In 2010 Arizona voters passed a constitutional ban on government-sponsored affirmative action known as Proposition 107 [REF no one has a legal right to have any demographic characteristic they possess be considered a favorable point on their behalf
+version https://git-lfs.github.com/spec/v1
+oid sha256:858f673821b7515797a5af64b767b999341c551681c694891678c801da5a9608
+size 248

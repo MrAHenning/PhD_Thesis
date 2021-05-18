@@ -1,1 +1,3 @@
-An analysis of over 200 social studies contends that "high religiousness predicts a rather lower risk of depression and drug abuse and fewer suicide attempts, and more reports of satisfaction with sex life and a sense of well-being,"[REF religion is a positive civilizing influence on society
+version https://git-lfs.github.com/spec/v1
+oid sha256:12b85821e5587f0b717ceab1a92c7641c43cb01dc0d348727cdde33fad0995a3
+size 292

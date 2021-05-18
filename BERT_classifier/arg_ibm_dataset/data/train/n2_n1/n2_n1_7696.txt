@@ -1,1 +1,3 @@
-It has been estimated that we are losing 137 plant, animal and insect species every single day due to rainforest deforestation, which equates to 50,000 species a year [REF Deforestation on a human scale results in decline in biodiversity
+version https://git-lfs.github.com/spec/v1
+oid sha256:10a3b109db638bfdc730f6fe336b0697f73f62e78a3fd64a0eaa3b1881c364bf
+size 237

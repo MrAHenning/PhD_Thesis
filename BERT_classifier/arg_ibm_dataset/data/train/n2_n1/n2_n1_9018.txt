@@ -1,1 +1,3 @@
-José Manuel Barroso, the President of the European Commission, supported the Danish government saying that freedom of speech cannot be compromised: "It's better to publish too much than not to have freedom."[REF freedom of speech ends when sacred values are offended
+version https://git-lfs.github.com/spec/v1
+oid sha256:d54f6347f74cdb799b3967af319d140b177c76f471b4bd59a47ba1ce72f5903f
+size 267

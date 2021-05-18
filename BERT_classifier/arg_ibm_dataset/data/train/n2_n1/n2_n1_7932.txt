@@ -1,1 +1,3 @@
-Article 19 of the Universal Declaration of Human Rights, adopted in 1948, states that: "Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers."[REF there must be no constraints on the free flow of information and ideas
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed112ebe5a845549b42aa8fdce962c12bb30d514744094e66cf1fc6ea5392b98
+size 391

@@ -1,1 +1,3 @@
-Some copyright scholars believe that, regardless of contemporary advances in technology, copyright remains the fundamental way by which authors, sculptors, artists, musicians and others can fund the creation of new works, and that without a significant period of legal protection of their future income, many valuable books and artworks would not be created [REF copyright remains the fundamental way by which authors, sculptors, artists, musicians and others can fund the creation of new works
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ff523d21b9bc683fb8135af81a83991f4fffdf0995cd8a94a4d37707714e79c
+size 494

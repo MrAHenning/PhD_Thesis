@@ -1,1 +1,3 @@
-The World Nuclear Association states that: "Obviously sun, wind, tides and waves cannot be controlled to provide directly either continuous base-load power, or peak-load power when it is needed Wind power is "highly non-dispatchable
+version https://git-lfs.github.com/spec/v1
+oid sha256:33221d28b90233a305f142bc4dfe506abbfc646327aece44bff6db7a3ecd8c4a
+size 232

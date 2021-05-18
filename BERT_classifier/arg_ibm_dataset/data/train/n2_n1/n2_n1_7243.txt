@@ -1,1 +1,3 @@
-studies have argued that in addition to increased operating efficiency, daily petty corruption is, or would be, larger without privatization, and that corruption is more prevalent in non-privatized sectors A state-monopolized function is prone to corruption
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb9c0597ac8749b33cf3f00ff546bccc12fe459b018124f45be7d9fd0bbf0dd5
+size 257

@@ -1,1 +1,3 @@
-Lord Denning, in his famous book Road to Justice, observed that press is the watchdog to see that every trial is conducted fairly, openly and above board, but the watchdog may sometimes break loose and has to be punished for misbehaviour [REF The freedom of speech and of the press does not confer an absolute right to express without any responsibility
+version https://git-lfs.github.com/spec/v1
+oid sha256:fba89072cb856bb541fb963526ab382b61b7e04db47948560cc40ab2aa3af36a
+size 353

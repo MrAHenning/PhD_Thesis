@@ -1,1 +1,3 @@
-Næss states that from an ecological point of view "the right of all forms [of life] to live is a universal right which cannot be quantified. No single species of living being has more of this particular right to live and unfold than any other species like humanity, the living environment as a whole has the same right to live and flourish
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d14990b8c25ae72e49ab86e1d834a8cca96cdb539427aea8428ddf3cd4d512b
+size 340

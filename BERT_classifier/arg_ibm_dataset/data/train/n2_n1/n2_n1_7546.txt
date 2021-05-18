@@ -1,1 +1,3 @@
-The Society for the Friends of Reform, a group that attacked traditional Jewish practices, said that brit milah was not a mitzvah but an outworn legacy from Israel's earlier phases, an obsolete throwback to primitive religion [REF Ritual circumcision has been criticized as barbaric
+version https://git-lfs.github.com/spec/v1
+oid sha256:238b86ca534d908d2a9a91f25ffe403e493abeb30abd8704d24874cd0bfdf546
+size 282

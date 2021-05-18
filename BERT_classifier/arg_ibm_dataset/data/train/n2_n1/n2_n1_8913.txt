@@ -1,1 +1,3 @@
-Israeli military spokeswoman Maj. Avital Leibovich called Saturday's action a "pinpoint operation" provoked by the rocket attack on Ashkelon earlier in the week Israel was "compelled to continue to take these defensive measures" to protect more than 200,000 Israelis living under the threat of Palestinian rocket barrages.Militants
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a6d60bfd28acf4a9b6424ef2286e85da5ef688862f1e39bef02be77c11230e3
+size 331

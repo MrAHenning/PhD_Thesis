@@ -1,1 +1,3 @@
-Thomas Jefferson also stated that the right to bear arms is necessary for the citizens to protect themselves from the "tyranny in government"[REF an armed citizenry is the population's last line of defense against tyranny by their own government
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8933932022eb53a53740acb632a6842195c404481b1371b68710e0d4703f0fa
+size 245

@@ -1,1 +1,3 @@
-Studies have shown that the comprehensive programs work for youth population across the spectrum. Inexperienced, experienced, male, female, the majority of ethnic groups, and different communities all benefitted from this type of curriculum sex education programs focusing on both abstinence and contraception had a positive effect on teen sexual behavior
+version https://git-lfs.github.com/spec/v1
+oid sha256:23b2bb123f749533468fc06100ed6975077e510058753a1ae725209f98806713
+size 355

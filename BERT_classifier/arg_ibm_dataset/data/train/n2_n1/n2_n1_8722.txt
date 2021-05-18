@@ -1,1 +1,3 @@
-Following the escalation of the violence in Gaza, it added: "The Brazilian Government deplores the continued disproportionate actions by the Israeli Government in the Gaza Strip, which have caused, in only 3 days, the deaths of over 300 Palestinians, many of whom were civilians and children the military operations were a flagrant violation of international humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:db6508d766dab7f1c081371bae658fc1d6df1e3fd17dff7b8abba005a074cbe9
+size 375

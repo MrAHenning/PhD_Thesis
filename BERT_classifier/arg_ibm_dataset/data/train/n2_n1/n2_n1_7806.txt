@@ -1,1 +1,3 @@
-The Catholic Church's position on contraception was formally explained and expressed by Pope Paul VI's Humanae Vitae in 1968. Artificial contraception is considered intrinsically evil,[REF Contraception is always seriously evil
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4e874433a1a95a230bb61436087b98589bc061b8c79d8199e6fa8762b172c8b
+size 227

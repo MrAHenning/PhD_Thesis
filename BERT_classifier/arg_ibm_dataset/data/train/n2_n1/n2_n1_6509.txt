@@ -1,1 +1,3 @@
-The Japanese Environment Ministry will begin a "major study into the influence of sounds of wind turbines on people's health" in April 2010, because "people living near wind power facilities are increasingly complaining of health problems people living near wind power facilities are increasingly complaining of health problems
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf500212ac76d3af3228875691b98541768531c4bbd283e6afc2c5612b2994c8
+size 327

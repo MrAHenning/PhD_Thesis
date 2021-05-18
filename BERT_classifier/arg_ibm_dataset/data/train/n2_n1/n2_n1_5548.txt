@@ -1,1 +1,3 @@
-The earliest academic critics of multiculturalism in Australia were the philosophers Lachlan Chipman[REF] and Frank Knopfelmacher,[REF] sociologist Tanya Birrell[REF] and the political scientist Raymond Sestito [REF]. Chipman and Knopfelmacher were concerned with threats to social cohesion Multiculturalism threatens social cohesion
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd8c5cd5a2abd84ee18e7c5d1352a6171ba53d5e9a5f72346ebfa2de9549e9ec
+size 333

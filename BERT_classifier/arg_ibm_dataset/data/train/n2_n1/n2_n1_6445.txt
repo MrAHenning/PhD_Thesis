@@ -1,1 +1,3 @@
-A joint research project of the WIPO and the United Nations University measuring the impact of IP systems on six Asian countries found "a positive correlation between the strengthening of the IP system and subsequent economic growth."[REF effective enforcement of intellectual property rights is critical to sustaining economic growth
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a8784026001232494646e91598305a7cefb71fae0a2dc24a1be54540c4c1a86
+size 334

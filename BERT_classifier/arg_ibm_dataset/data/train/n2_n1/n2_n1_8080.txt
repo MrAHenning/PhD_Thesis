@@ -1,1 +1,3 @@
-The comprehensive Amnesty International report, published in July 2009, notes that the destruction of homes, businesses and public buildings during Israeli offensive was in many cases "wanton and deliberate" and "could not be justified on the grounds of military necessity The Israeli government's use of force in the Gaza Strip are acts of self-defense
+version https://git-lfs.github.com/spec/v1
+oid sha256:095b528255d9b84590b2a99166bfc9a31c6adbea57375c63a0348ad42ccf1b3d
+size 353

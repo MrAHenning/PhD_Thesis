@@ -1,1 +1,3 @@
-Holly Ann Collins, together with her three children, were the first Americans to be granted asylum in the Netherlands, in June 1994, on the grounds of abuse. The family were in transit to Netherlands when they disembarked in the country, and sought asylum. This was granted three years later, for humanitarian reasons [REF Everyone has the right to seek and to enjoy in other countries asylum from persecution
+version https://git-lfs.github.com/spec/v1
+oid sha256:18a243c32ef49966778f93921733698be36d329438d1cbf28c32ab9f58d3d44e
+size 409

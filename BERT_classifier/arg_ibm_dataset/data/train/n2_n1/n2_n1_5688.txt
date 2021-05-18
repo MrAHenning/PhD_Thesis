@@ -1,1 +1,3 @@
-The UNHCR does recognize benefits to resettlement as well, however. On their website, they bring attention to the fact that refugees have much to bring to the countries in which they are resettled in terms of culture and labor, going as far as to say that “both refugee resettlement and general migration are now recognized as critical factors in the economic success of a number of industrialized countries.”[REF refugees have much to bring to the countries in which they are resettled in terms of culture and labor
+version https://git-lfs.github.com/spec/v1
+oid sha256:7732497254c4fc21f8e64be80a0b06aeab9978181c76e7a9fa6f3a1a12762121
+size 520

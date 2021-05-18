@@ -1,1 +1,3 @@
-A U.S. federal government-promoted abstinence-only program was aimed at teens in 1981 in order to discourage premarital sex and unwanted pregnancies. However, recent studies, including an award winning [REF] congressionally mandated study [REF] conducted by Mathematica Policy Research, showed ineffectiveness of this program Education programs which focus exclusively on abstinence have never been shown to delay sexual activity
+version https://git-lfs.github.com/spec/v1
+oid sha256:5137554021a411315f76a5bc35058abcc4761022c497675369665522fa342957
+size 429

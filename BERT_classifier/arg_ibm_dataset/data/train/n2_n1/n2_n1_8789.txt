@@ -1,1 +1,3 @@
-Official JVP statement reads "We condemn Israel's assault on Gaza. As of today, more than 1,000 Palestinians have been killed by the Israeli assault, including at least 335 children and many more civilians."[REF Israel's actions were causing unjustifiable deaths among the civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a60d79186d0b7690a5212ec127c88fe22ecc37ec978ab2d744bc74e1a3759ab
+size 282

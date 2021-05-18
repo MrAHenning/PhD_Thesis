@@ -1,1 +1,3 @@
-It has been seen that some pathological gamblers have lower levels of norepinephrine than normal gamblers.   According to a logical study conducted by Alec Roy, M.D. formerly at the National Institute on Alcohol Abuse and Alcoholism, norepinephrine is secreted under stress, arousal, or thrill, so pathological gamblers gamble to make up for their under-dosage pathological gambling is an addiction similar to chemical addiction
+version https://git-lfs.github.com/spec/v1
+oid sha256:24d222903c3e7380030b7974b91268ec6b2a42a2c57ee1cc2c63bb87d32c24cd
+size 428

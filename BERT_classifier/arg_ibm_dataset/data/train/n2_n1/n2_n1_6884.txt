@@ -1,1 +1,3 @@
-According to the International Committee of the Red Cross, "The hardship faced by Gaza's 1.5&nbsp;million people cannot be addressed by providing humanitarian aid. The only sustainable solution is to lift the closure." Describing the blockade itself, they referred to it as "a collective punishment imposed in clear violation of Israel's obligations under international humanitarian law" [REF The blockade constitutes collective punishment under international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:2036d50e14a8fe1cfe1ae73c2e6b0d2a9f004b8e0b9f30f65663d4c3aa8d8000
+size 463

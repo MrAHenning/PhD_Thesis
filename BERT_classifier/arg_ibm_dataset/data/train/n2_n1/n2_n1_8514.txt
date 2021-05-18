@@ -1,1 +1,3 @@
-The Ministry of Foreign Affairs "calls upon the parties for tranquility and maturity by expressing its belief that both parties will show self restrain and will turn back to bilateral discussions as the only way for the stabilisation of the situation to the benefit of the two peoples and the whole Middle East region" [REF the military solution won't conduct to peace
+version https://git-lfs.github.com/spec/v1
+oid sha256:e406d05fe945b3817d16d0cc4573728585b43930a287fe3a99b087ed348d968d
+size 368

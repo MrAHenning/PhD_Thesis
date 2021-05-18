@@ -1,1 +1,3 @@
-In 1950, Richard Doll published research in the British Medical Journal showing a close link between smoking and lung cancer [REF]. Four years later, in 1954, the British Doctors Study, a study of some 40,000 doctors over 20 years, confirmed the suggestion, based on which the government issued advice that smoking and lung cancer rates were related [REF]. The British Doctors Study lasted until 2001, with results published every ten years and final results published in 2004 by Doll and Richard Peto [REF Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:169c412c9137f73606c0758fd83765baeee436923a34e8cf48020c5a41ac1f9a
+size 593

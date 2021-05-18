@@ -1,1 +1,3 @@
-in 2004, undefeated Auburn University, Boise State University and University of Utah teams were left out of the National Championship Game (the FedEx Orange Bowl), although those teams were undefeated as well Often, the BCS system leads to controversies
+version https://git-lfs.github.com/spec/v1
+oid sha256:38c069073b716d7170e9e931806ffd4ac09421a23d4eb2cbee9e3007790b9c67
+size 253

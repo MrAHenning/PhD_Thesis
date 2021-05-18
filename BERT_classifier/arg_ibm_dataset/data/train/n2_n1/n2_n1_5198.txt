@@ -1,1 +1,3 @@
-Proclamation of Teheran was the first international document to recognize one of these rights when it stated that: "Parents have a basic human right to determine freely and responsibly the number and the spacing of their children."[REF][REF Parents have a basic right to decide freely and responsibly on the number and spacing of their children
+version https://git-lfs.github.com/spec/v1
+oid sha256:74267fe56321fd6514236ac40eb580462ed98c8dfd76445e621f012a337f8250
+size 344

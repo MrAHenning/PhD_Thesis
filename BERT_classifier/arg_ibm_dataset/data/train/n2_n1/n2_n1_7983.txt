@@ -1,1 +1,3 @@
-In the opinion of Brajesh Rajak, author of ‘Pornography Law: XXX Must not be Tolerated' “Freedom of speech and expression can not be an excuse for distribution of indecent and immoral content to average person of the society" [REF The freedom of speech and of the press does not confer an absolute right to express without any responsibility
+version https://git-lfs.github.com/spec/v1
+oid sha256:749e046c4cb7c3f412e3eda624a5061a697af1162c4678fb1170fc9019d19f8b
+size 345

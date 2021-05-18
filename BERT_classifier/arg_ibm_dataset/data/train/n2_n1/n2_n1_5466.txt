@@ -1,1 +1,3 @@
-There have been studies which show that the brain becomes more susceptible to damage after the 12th round [REF boxing remains the 8th most deadly sport
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ec6d1b78270d8dd267bdcde04c19640ed58f607599b987010e93dee0a1540d2
+size 151

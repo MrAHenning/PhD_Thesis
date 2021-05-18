@@ -1,1 +1,3 @@
-At least 500 economists, including Nobel Laureates Milton Friedman,[REF] George Akerlof and Vernon L. Smith, have noted that reducing the supply of marijuana without reducing the demand causes the price, and hence the profits of marijuana sellers, to go up, according to the laws of supply and demand [REF]. The increased profits encourage the producers to produce more drugs despite the risks, providing a theoretical explanation for why attacks on drug supply have failed to have any lasting effect by making drugs illegal rather than regulating them, the War on Drugs creates a highly profitable black market
+version https://git-lfs.github.com/spec/v1
+oid sha256:433bc0cf48452907236e2ab12e4f57ad43bf6292250aafbde53b0f462fe90beb
+size 611

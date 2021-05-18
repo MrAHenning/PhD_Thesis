@@ -1,1 +1,3 @@
-In an address to the United Nations Security Council in 22 September 2011, Burma's Foreign Minister Wanna Maung Lwin confirmed the release of prisoners in near future [REF the government has embarked on a series of reforms toward liberal democracy
+version https://git-lfs.github.com/spec/v1
+oid sha256:b243cd939a07647491acd5db9fa71c3668e68744a191a8270d90c1d077076df7
+size 247

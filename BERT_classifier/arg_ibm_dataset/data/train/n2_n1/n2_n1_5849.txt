@@ -1,1 +1,3 @@
-LeRoy Carhart, a Nebraska physician who specialized in late-term abortions, brought suit against Don Stenberg, the Attorney General of Nebraska, seeking declaratory judgment that a state law banning certain forms of abortion was unconstitutional, based on the undue burden test mentioned by a dissenting opinion in Akron v. Akron Center for Reproductive Health[REF] and by the Court in Planned Parenthood v. Casey. Both a federal district court and the U.S. Court of Appeals ruled in favor of Carhart A state law banning certain forms of abortion is unconstitutional
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcf87fdb0f270ab772aec7d2deafbf7d379bfc3ddce516684d6b3bb272e01562
+size 566

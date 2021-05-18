@@ -1,1 +1,3 @@
-in Morse v. Frederick, the Court ruled that schools could, consistent with the First Amendment, restrict student speech at school-sponsored events, even events away from school grounds, if students promote "illegal drug use liberty of expression 'is not absolute
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fe6a9437d8d1d8af4dec700ae8701e6aa880f7e9d07a2afcc3e7fde667549be
+size 262

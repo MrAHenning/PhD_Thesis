@@ -1,1 +1,3 @@
-Circumcision removes the ridged band at the end of the foreskin [REF]. Taylor (1996) observed that the ridged band had more Meissner's corpuscles — a kind of nerve ending that is concentrated in areas of greatest sensitivity — than the areas of the foreskin with smooth mucus membranes. Taylor postulated that the ridged band is sexually sensitive and plays a role in normal sexual function Circumcision ablates" (removes) "the most sensitive parts of the penis
+version https://git-lfs.github.com/spec/v1
+oid sha256:08b2ae3407e49999a9f41ad11c8a0a13a8b74c7255885bdffbff9914070bc165
+size 465

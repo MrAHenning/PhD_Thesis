@@ -1,1 +1,3 @@
-In the U.S. State Department's daily briefing for Friday, February 3, official spokesman Sean McCormick, speaking for the current administration, said (in part), "Our response is to say that while we certainly don't agree with, support, or in some cases, we condemn the views that are aired in public that are published in media organizations around the world, we, at the same time, defend the right of those individuals to express their views. For us, freedom of expression is at the core of our democracy and it is something that we have shed blood and treasure around the world to defend and we will continue to do so It's better to publish too much than not to have freedom
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3b3a6a7ce6dc471e0de362934ab66e914f112f547b784ff35b7a83cae996e49
+size 677

@@ -1,1 +1,3 @@
-Deforestation causes extinction, changes to climatic conditions, desertification, and displacement of populations as observed by current conditions and in the past through the fossil record [REF The removal of trees without sufficient reforestation has resulted in damage to habitat
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b4a33db6826445174face8ad84443bc6f4c1673d75cbfc8db5831cbeb57383f
+size 282

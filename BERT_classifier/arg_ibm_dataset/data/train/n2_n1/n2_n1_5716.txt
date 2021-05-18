@@ -1,1 +1,3 @@
-Studies have suggested that some special interest groups lobby for less immigration for their own group and more immigration for other groups since they see effects of immigration, such as increased labor competition, as detrimental when affecting their own group but beneficial when affecting other groups immigrants are thought to compete with employees who are already in the country
+version https://git-lfs.github.com/spec/v1
+oid sha256:576f6aad5f7e695b57652524108fb891ba54b30aba16c4ef3e79f99c562a6f2f
+size 386

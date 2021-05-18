@@ -1,1 +1,3 @@
-Programs led by U.S. Surgeon General Thoman Parran included heavy promotion of condoms. These programs are credited with a steep drop in the U.S. STD rate by 1940 [REF Condoms can save life
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7745832a25fdbcd1092d485db432a7cd424574176154b4099287679778046c4
+size 189

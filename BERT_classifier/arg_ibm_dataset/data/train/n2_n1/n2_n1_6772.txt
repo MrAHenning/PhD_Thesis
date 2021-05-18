@@ -1,1 +1,3 @@
-An example can be found in the United Kingdom general election, 1997. As he was then a Cabinet Minister, Michael Portillo's constituency of Enfield Southgate was believed to be a safe seat but opinion polls showed the Labour candidate Stephen Twigg steadily gaining support, which may have prompted undecided voters or supporters of other parties to support Twigg in order to remove Portillo polls directly affect voting
+version https://git-lfs.github.com/spec/v1
+oid sha256:954fc92b6f32a680c68117486a8d31b914c688488f10b244c03218e726ec607a
+size 420

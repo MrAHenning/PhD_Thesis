@@ -1,1 +1,3 @@
-Russell Kirk, a major figure of American conservatism included "civilized society requires orders and classes" as one of the "canons" of conservatism [REF Social traditions or hierarchies are essential for social order
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc1cc084e351b06bf125c84cba38abbbe7d904381e597554095af97c0ea3e25c
+size 218

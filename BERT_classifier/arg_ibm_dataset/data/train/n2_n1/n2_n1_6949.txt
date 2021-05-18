@@ -1,1 +1,3 @@
-Michael Martin was the first EU foreign minister to enter Gaza in over a year. He said that all that is being achieved through the blockade is to "enrich Hamas and marginalize even further the voices of moderation."[REF all that is being achieved through the blockade is to "enrich Hamas and marginalize even further the voices of moderation
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7534fc3113b099edb6dedcf7674ff824c75494bbc042138d5ec0acba0cf472
+size 341

@@ -1,1 +1,3 @@
-Yael Stein, research director of B’Tselem, said that she does not accept the Goldstone conclusion of a systematic attack on civilian infrastructure, which she found unconvincing The government of Israel had a policy of deliberately targeting civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ddd13912b7b553bdb81cbcda8a41d69415979f4d42aea761cd9a01f997023d5
+size 253

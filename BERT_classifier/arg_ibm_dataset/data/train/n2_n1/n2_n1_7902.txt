@@ -1,1 +1,3 @@
-About one half of male smokers will die of illness due to smoking [REF Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:be65b171d0829d3d4a1fb33d60289d58f995561804bb37ce4fd719b72e2d8d1c
+size 157

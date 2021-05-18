@@ -1,1 +1,3 @@
-Justice Stephen Breyer, in writing the opinion of the Court, cited Planned Parenthood v. Casey and said that any abortion law that imposed an undue burden on a woman's "right to choose" (abortion) was unconstitutional. He said that causing those who procure abortions to "fear prosecution, conviction, and imprisonment" was an undue burden, and therefore declared the law to be against the Constitution A state law banning certain forms of abortion is unconstitutional
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fd458ddbfe33e0bcabfdbbc72fb4f555bf33bc9d2b96e762d90f1c54db69844
+size 468

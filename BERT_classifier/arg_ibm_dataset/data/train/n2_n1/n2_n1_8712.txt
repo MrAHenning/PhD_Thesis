@@ -1,1 +1,3 @@
-The British Foreign Secretary David Miliband also warned that Israel's attack might encourage further extremism [REF This cycle of violence and retaliation impedes efforts to broker lasting peace in the region
+version https://git-lfs.github.com/spec/v1
+oid sha256:119276a1b0f1d360c5dc17d0276ea3d064206e40b552ba9c63823170b377ea8e
+size 209

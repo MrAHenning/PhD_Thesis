@@ -1,1 +1,3 @@
-University of Minnesota sociologist Eric Grodsky says that, for teens, "sex outside of a romantic relationship may exacerbate the stress youths experience, contributing to problems in school early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:cafb5f11e369bcae682c7b6b136094fd1c592abde7838959ff33618e54a2d083
+size 290

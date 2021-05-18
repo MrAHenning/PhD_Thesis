@@ -1,1 +1,3 @@
-Martin Killias, in a 1993 study covering 21 countries, found that there were significant correlations between gun ownership and gun-related suicide and homicide rates There are significant correlations between gun ownership and gun-related suicide and homicide rates
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e52054605b729887a21057a9b784fe6b3e5cb85cbf77567b1572449eb4794c6
+size 266

@@ -1,1 +1,3 @@
-Through the Bali Concord II in 2003, ASEAN has subscribed to the notion of democratic peace, which means all member countries believe democratic processes will promote regional peace and stability. Also, the non-democratic members all agreed that it was something all member states should aspire to [REF ASEAN has subscribed to the notion of democratic peace
+version https://git-lfs.github.com/spec/v1
+oid sha256:3682fa1b035aac160d13c46047781ea796127acd45babac3423504e79f060de6
+size 358

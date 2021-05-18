@@ -1,1 +1,3 @@
-The UN Human Rights Council, as well as many non-governmental organizations such as Amnesty International (AI) and Human Rights Watch, have accused the Israeli government of violating international law as regards collective punishment,[REF] targeting civilians,[REF][REF][REF] proportionality,[REF][REF] of prohibiting access to medical assistance,[REF][REF] and of using civilians as human shields [REF during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:e64b608685fac167c588484875e1a2e0e7dc5ed9716b493735ed9096663b5c4a
+size 548

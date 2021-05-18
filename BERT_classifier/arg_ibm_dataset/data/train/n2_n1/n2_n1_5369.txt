@@ -1,1 +1,3 @@
-In 2008, the Genetic Information Nondiscrimination Act prevents employers from using genetic information when hiring, firing, or promoting employees [REF all people should be treated similarly
+version https://git-lfs.github.com/spec/v1
+oid sha256:47338f5eff699cb8d4e21115b098ea5be76e1a7e85929aa6290e1a35c0d2d950
+size 192

@@ -1,1 +1,3 @@
-The Times argued that higher education has been a closed shop in the UK for too long [REF higher education has been a closed shop in the UK for too long
+version https://git-lfs.github.com/spec/v1
+oid sha256:d128308fec67d09ab2c312bf99c0df5df169d2f66a2d7806f4cde63dc0f0a0df
+size 152

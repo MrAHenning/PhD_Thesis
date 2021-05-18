@@ -1,1 +1,3 @@
-Michael Whine argues that Holocaust denial can inspire violence against Jews; he states, "Jews' experience in the post-World War II era suggests that their rights are best protected in open and tolerant democracies that actively prosecute all forms of racial and religious hatred."[REF Jews' rights are best protected in open and tolerant democracies that actively prosecute all forms of racial and religious hatred
+version https://git-lfs.github.com/spec/v1
+oid sha256:63963e9b7283cb81e7d02aef4a4dcd43f36a9ec08f3bcb0c9640dd0020b3fbdc
+size 415

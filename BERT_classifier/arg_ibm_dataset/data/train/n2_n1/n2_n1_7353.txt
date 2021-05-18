@@ -1,1 +1,3 @@
-Of women who have sex in their teens, nearly 30% will conceive a child before they are married, but only 15% of women who don't have sex in their teens will get pregnant [REF]. Of all women, 16% will be teen mothers [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36a13e39be0b7420b8425012e7c4d40d04b6b4d2ea1bb2c85dc0d599d48bbfe
+size 320

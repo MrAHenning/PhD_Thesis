@@ -1,1 +1,3 @@
-One study has suggested condoms might reduce HIV transmission by 85% to 95 Condoms (male or female) are used to protect against STIs
+version https://git-lfs.github.com/spec/v1
+oid sha256:3748450623110b8bcfecb9e8da2c637ee6e9569ddb893f02116f11be2de5bd96
+size 132

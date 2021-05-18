@@ -1,1 +1,3 @@
-The European Convention on Human Rights, for example, permits restrictions "in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or the rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary."[REF Punishment of dangerous or offensive writings is necessary for the preservation of peace and good order
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a2fc775ed1040d998dd9bb92e11297ab19c96821741060f96f4368de80d7e1e
+size 543

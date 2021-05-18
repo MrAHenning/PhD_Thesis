@@ -1,1 +1,3 @@
-Cesare Beccaria, author of On Crimes and Punishments (1763–64), Jeremy Bentham, inventor of the panopticon, and other classical school philosophers argued that (1) people have free will to choose how to act people have free will to choose how to act
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa878ebb6e5de79d85632b450dfcebb996d091e5a89b1af09a0d2f5fe6cb677f
+size 251

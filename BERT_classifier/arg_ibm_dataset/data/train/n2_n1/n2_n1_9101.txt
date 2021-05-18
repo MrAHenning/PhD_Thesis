@@ -1,1 +1,3 @@
-Upon hearing of Irving's sentence, Lipstadt said, "I am not happy when censorship wins, and I don't believe in winning battles via censorship&nbsp;.. The way of fighting Holocaust deniers is with history and with truth."[REF The way of fighting Holocaust deniers is with history and with truth
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a58cc22bfb9edfc9b9c4207f2c8e277758d37532197662e8a97819e10a96000
+size 293

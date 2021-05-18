@@ -1,1 +1,3 @@
-On 30 June 2011, at the time of the Greek parliaments approval of the fourth austerity package, an independent United Nations official cautioned that this additional package of austerity in Greece could potentially pose a violation of human rights, if it were implemented without careful consideration to the population's need for "food, water, adequate housing and work under fair and equitable conditions" [REF Some of the austerity measures are irrational
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5e01b375c756b1932f78ac59e3f0c171975b0e249e5c996746de67b56c9331d
+size 458

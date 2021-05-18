@@ -1,1 +1,3 @@
-South African Anglican Archbishop Emeritus Desmond Tutu said Israel's bombardment of Gaza "bears all the hallmarks of war crimes. In the context of total aerial supremacy, in which one side in a conflict deploys lethal aircraft against opponents with no means of defending themselves, the bombardment bears all the hallmarks of war crimes Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc1f95797206f52466485727e7e3de60074bb59c153a782ff3015a1f3c37adc2
+size 378

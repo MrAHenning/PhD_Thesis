@@ -1,1 +1,3 @@
-Ministry of Foreign Affairs and Foreign Trade issued a statement saying, "The Government of Jamaica is deeply concerned at the recent escalation of the conflict in the Gaza Strip. We recognise Israel's right to protect its citizens. We are, however, alarmed at the disproportionate and excessive use of force displayed by the Israeli government, which has resulted in numerous casualties, including the deaths of hundreds of Palestinian civilians, as well as the destruction of infrastructure the reaction of the armed forces of Israel was condemned as "disproportional
+version https://git-lfs.github.com/spec/v1
+oid sha256:bddd251c11dd06e64fca6e806c3396dcf1fce130c68a5828402b490fc8e98b8d
+size 569

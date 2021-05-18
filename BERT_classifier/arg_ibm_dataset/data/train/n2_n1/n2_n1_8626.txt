@@ -1,1 +1,3 @@
-Guatemala expressed "its condemnation of the missile launch by Palestinian groups against Israeli territory." It also said that it considered Israeli force "disproportionate", and that it would inevitably lead to loss of innocent lives and "a humanitarian tragedy."[REF Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8a9f69caa66fa989e1549770d74d42b7f7f66212ea49c930b1296f0773332b8
+size 309

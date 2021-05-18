@@ -1,1 +1,3 @@
-The usual argument against deficit spending, dating to Adam Smith, is that households should not run deficits – one should have money before one spends it, from prudence – and that what is correct for a household is correct for a nation and its government government should always run a balanced budget
+version https://git-lfs.github.com/spec/v1
+oid sha256:674e47596fe2b7c7236554ddc059c8d02c32fbe89cbaf773258565881c0229a7
+size 306

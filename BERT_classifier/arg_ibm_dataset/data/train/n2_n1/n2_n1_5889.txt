@@ -1,1 +1,3 @@
-In 1994, a study of three year-round schools showed a substantial gain in academic achievement for at-risk, low performing students year-round schools showed a substantial gain in academic achievement for at-risk, low performing students
+version https://git-lfs.github.com/spec/v1
+oid sha256:850b6bac45ecf4f5e5c1ea6972b551b6d8f7353f1df6100d474b1e4653c8bc8d
+size 237

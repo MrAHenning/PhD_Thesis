@@ -1,1 +1,3 @@
-Japanese religious leaders were strongly opposed to nuclear weapons- Josei Toda, the President of the Soka Gakkai, issued a declaration, on 8 September 1957, for the complete abolition of nuclear weapons public opinion is overwhelmingly opposed to nuclearization
+version https://git-lfs.github.com/spec/v1
+oid sha256:f98929b0ac39918b284bb118c471c6b7873f67ac74b56faddc1b9b55a7f3abf6
+size 262

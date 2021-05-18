@@ -1,1 +1,3 @@
-French ambassador Jean-Baptiste Mattei, speaking on behalf of the European Union, argued that the "concept of defamation should not fall under the remit of human rights because it conflicted with the right to freedom of expression."[REF The 'defamation of religions' concept is used to justify censorship
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f9571fca077730b7b875c8319dc796a5d59a3f18d195075db585683e6366777
+size 304

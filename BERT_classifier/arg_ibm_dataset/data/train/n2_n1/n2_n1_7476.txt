@@ -1,1 +1,3 @@
-Some medical associations take the position that the parents should determine what is in the best interest of the infant or child,[REF][REF][REF the parents should determine what is in the best interest of the infant or child
+version https://git-lfs.github.com/spec/v1
+oid sha256:f525a797f4366d6c2e95f2686ac631ddfdf883d1941aa5da4a67746346765b9d
+size 225

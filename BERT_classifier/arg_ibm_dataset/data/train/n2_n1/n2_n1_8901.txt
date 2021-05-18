@@ -1,1 +1,3 @@
-In January 2009, European Union Aid Commissioner Louis Michel said "Launching rockets at civilians is a terrorist action, which has to be strongly denounced."[REF Hamas attacks are violations of basic humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:becd03600e44a40b8dd690940bc5a0e7bb026fed1fccf2138f7061192ed6b6f0
+size 217

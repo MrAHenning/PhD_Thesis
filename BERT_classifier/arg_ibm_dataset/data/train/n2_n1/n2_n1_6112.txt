@@ -1,1 +1,3 @@
-Karl Marx and Friedrich Engels, influenced by the work of Feuerbach, argued that belief in God and religion are social functions, used by those in power to oppress the working class reliance on divine authority lends itself to authoritarianism and dogmatism
+version https://git-lfs.github.com/spec/v1
+oid sha256:63efe5ad8ec9fe55024debf87660cd48893ae4ca91228a80b12eb859c1e6820e
+size 257

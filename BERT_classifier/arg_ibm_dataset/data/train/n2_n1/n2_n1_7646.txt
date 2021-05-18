@@ -1,1 +1,3 @@
-Williams & Kapila state: "the literature abounds with reports of morbidity and even death as a result of circumcision."[REF] Complications may be immediate or delayed, and complications from bleeding, infection and poorly carried out circumcisions can be catastrophic [REF the overall effect of male neonatal non-therapeutic circumcision on health is more likely to be negative rather than positive
+version https://git-lfs.github.com/spec/v1
+oid sha256:5404fe1e169f4bcb64cb2aac7c85d4713406ab99d78c1438fc9e689a5f873274
+size 398

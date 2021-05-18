@@ -1,1 +1,3 @@
-Chief Justice Warren wrote that while the First Amendment does protect freedom of speech, it does not protect all things that may extraneously be labeled 'symbolic speech Symbolic speech is recognized as being protected under the First Amendment as a form of speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fb23ff73b1f95dfec5d39b63d68437f274524a782603190a3770c6de1786e01
+size 265

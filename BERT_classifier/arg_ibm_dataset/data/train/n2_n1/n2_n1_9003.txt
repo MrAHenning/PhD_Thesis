@@ -1,1 +1,3 @@
-The Lebanese minister of foreign affairs criticised the drawings saying that freedom of speech ends when sacred values are offended [REF It's better to publish too much than not to have freedom
+version https://git-lfs.github.com/spec/v1
+oid sha256:a07677297b49c2698a9b1df4b5cbad7e8adc015929439863c17458cb9825abe1
+size 193

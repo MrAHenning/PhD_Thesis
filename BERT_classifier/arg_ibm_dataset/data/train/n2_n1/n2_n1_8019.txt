@@ -1,1 +1,3 @@
-Stanford's C.M. Hoxby, who has researched the systemic effects of school choice, determined that areas with greater residential school choice have consistently higher test scores at a lower per-pupil cost than areas with very few school districts (see Hoxby, 1998). Hoxby found that the effects of vouchers in Milwaukee and of charter schools in Arizona and Michigan on nearby public schools forced to compete made greater test score gains than schools not faced with such competition (see Hoxby, 2001 vouchers improve academic outcomes at public schools
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7277403ca26fcb0b2aeff61b7339c28371eac2f4afd7c82864e6f16879c9cc7
+size 554

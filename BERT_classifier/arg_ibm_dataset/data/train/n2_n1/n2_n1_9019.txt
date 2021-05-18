@@ -1,1 +1,3 @@
-The Lebanese minister of foreign affairs criticised the drawings saying that freedom of speech ends when sacred values are offended [REF freedom of speech ends when sacred values are offended
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ec1fe4730e65c8bfe73c6756198a3082b2066293f1c98fda05f1511b97e45ed
+size 191

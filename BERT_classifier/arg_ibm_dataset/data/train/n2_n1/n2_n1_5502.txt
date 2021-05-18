@@ -1,1 +1,3 @@
-Several heads-of-state have expressed doubts about the success of multicultural policies: The United Kingdom's Prime Minister David Cameron, German Chancellor Angela Merkel, Australia's ex-prime minister John Howard, Spanish ex-premier Jose Maria Aznar and French President Nicolas Sarkozy have voiced concerns about the effectiveness of their multicultural policies for integrating immigrants [REF state multiculturalism has failed
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f3c13fd7432c1482df6d0d3321589df3f6deecc32419e59b6003d0c3408e6da
+size 432

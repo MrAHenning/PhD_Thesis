@@ -1,1 +1,3 @@
-IP-intensive industries" are estimated to generate 72 percent more value added (price minus material cost) per employee than "non-IP-intensive industries" [REF intellectual property rights are essential to maintaining economic growth
+version https://git-lfs.github.com/spec/v1
+oid sha256:841514afa63081b289789d386e3a07d7bce8ee0d72e8946c9703b2a5889ff219
+size 233

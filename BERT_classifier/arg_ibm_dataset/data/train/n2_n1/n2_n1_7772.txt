@@ -1,1 +1,3 @@
-A 2006 study reports that proper condom use decreases the risk of transmission of human papillomavirus to women by approximately 70% [REF]. Another study in the same year found consistent condom use was effective at reducing transmission of herpes simplex virus-2 also known as genital herpes, in both men and women [REF Condoms are widely recommended for the prevention of sexually transmitted diseases
+version https://git-lfs.github.com/spec/v1
+oid sha256:351111044793d0263a8c7da62318c0567bf4c17f54f5cd99538dd1ed96c8e249
+size 403

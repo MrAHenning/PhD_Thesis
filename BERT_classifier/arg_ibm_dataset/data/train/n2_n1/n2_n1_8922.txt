@@ -1,1 +1,3 @@
-Israeli military spokeswoman Maj. Avital Leibovich called Saturday's action a "pinpoint operation" provoked by the rocket attack on Ashkelon earlier in the week Israeli military attacks were launched in response to militants firing missiles
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a3e2c7e69c2cca3559a6041afd9c954e3f46f67c98ac99a83693bdb5fd2eba6
+size 240

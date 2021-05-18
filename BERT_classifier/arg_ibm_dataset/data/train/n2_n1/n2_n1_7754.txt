@@ -1,1 +1,3 @@
-Statistics show that voter participation in the United States was higher when people could only vote in the primary for their own party voter participation in the United States was higher when people could only vote in the primary for their own party
+version https://git-lfs.github.com/spec/v1
+oid sha256:0256fede5c9065c89f365895da7e4e638772929439b22003efd9c3e984452f7f
+size 250

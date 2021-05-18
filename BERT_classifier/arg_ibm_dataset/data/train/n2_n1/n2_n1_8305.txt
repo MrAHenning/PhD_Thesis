@@ -1,1 +1,3 @@
-In the year before the war, Hamas had fired over 3,300 rockets at Israel’s Gaza periphery towns the firing of rockets at Israel constituted a deliberate attack against the civilian population
+version https://git-lfs.github.com/spec/v1
+oid sha256:816d2c6af064ccf47680f2444f3cdf2a9b2cabb9116639fbf0ae30c1c48efed4
+size 193

@@ -1,1 +1,3 @@
-Professor Carl Cohen of the University of Michigan, who was a supporter of Michigan's Proposal 2, have argued that the term "affirmative action" should be defined differently than "race preference," and that while socioeconomically based or anti-discrimination types of affirmative action are permissible, those that give preference to individuals solely based on their race or gender should not be permitted Types of affirmative action that give preference to individuals solely based on their race or gender should not be permitted
+version https://git-lfs.github.com/spec/v1
+oid sha256:e95e5088d4727a67b2a9dc6ceb6e6ec6d31f670e4a415bae6dea33403188a333
+size 533

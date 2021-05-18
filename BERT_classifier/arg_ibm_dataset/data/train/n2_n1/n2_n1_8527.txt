@@ -1,1 +1,3 @@
-Canada's foreign affairs minister, Lawrence Cannon, issued a statement in which he pointed to Israel's "clear right to defend itself" against continuing attacks by militants he accused of "deliberately" targeting civilians. "First and foremost, those rocket attacks must stop Israel has the right to take military action against attacks on locations where its civilians live
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e2b312714a9ed30dcd4c231b8426b26b644db8ddbc3b4061a396acc1cfa5abb
+size 374

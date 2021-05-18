@@ -1,1 +1,3 @@
-Gary Becker, for example, acknowledged that many people operate under a high moral and ethical constraint, but considered that criminals rationally see that the benefits of their crime outweigh the cost such as the probability of apprehension, conviction, punishment, as well as their current set of opportunities people have free will to choose how to act
+version https://git-lfs.github.com/spec/v1
+oid sha256:4364e0329cd17b4470642f522add47fdadeae7698e420ad8a00826ce17f3302f
+size 356

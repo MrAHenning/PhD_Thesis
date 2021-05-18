@@ -1,1 +1,3 @@
-The British Medical Association (2006) stated that the "medical harms or benefits have not been unequivocally proven," and that "[..] it is now widely accepted, including by the BMA, that this surgical procedure has medical and psychological risks."[REF this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e6196f44c2de7824f70d255dff36f279f2e879fc5d884560a68fcac4870acce
+size 313

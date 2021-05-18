@@ -1,1 +1,3 @@
-Harvard professor of political science Robert D. Putnam conducted a nearly decade long study how multiculturalism affects social trust [REF]. He surveyed 26,200 people in 40 American communities, finding that when the data were adjusted for class, income and other factors, the more racially diverse a community is, the greater the loss of trust the more racially diverse a community is, the greater the loss of trust
+version https://git-lfs.github.com/spec/v1
+oid sha256:541405beabaaa993ba31f7df2de853388e011a481316fa24cb642355b1b62c5f
+size 417

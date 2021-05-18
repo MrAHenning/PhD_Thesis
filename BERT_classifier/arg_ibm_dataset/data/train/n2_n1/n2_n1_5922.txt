@@ -1,1 +1,3 @@
-Some studies (Layard 2003;Blanchard and Oswald 2000, 2003) have found evidence for this theory, noting that in societies where inequality is lower, population-wide satisfaction and happiness tend to be higher in societies where inequality is lower, population-wide satisfaction and happiness tend to be higher
+version https://git-lfs.github.com/spec/v1
+oid sha256:dff9690a1a530666e0a57954b3c68e90e66105c1e101f630174d1e8a9a5bb83a
+size 309

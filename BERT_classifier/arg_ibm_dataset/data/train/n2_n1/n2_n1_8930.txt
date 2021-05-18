@@ -1,1 +1,3 @@
-Palestinian observer to the United Nations referred to Israeli military actions as "war crimes" [REF Israel's response was excessive
+version https://git-lfs.github.com/spec/v1
+oid sha256:e28c0d5b3377dc7804d96a543cc25f0e0e440ae00bb442d0eac177c7fa946e93
+size 132

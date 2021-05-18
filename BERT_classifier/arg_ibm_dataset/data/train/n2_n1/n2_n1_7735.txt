@@ -1,1 +1,3 @@
-forests play a crucial role in climate change: deforestation causes 12-18 percent of the world's carbon emissions – almost equal to all the CO2 from the global transport sector healthy forests are one of the world's primary 'carbon sinks
+version https://git-lfs.github.com/spec/v1
+oid sha256:e81dc03f5f320615feaf758071e78dee145e954a29a32081329481f10104ad06
+size 239

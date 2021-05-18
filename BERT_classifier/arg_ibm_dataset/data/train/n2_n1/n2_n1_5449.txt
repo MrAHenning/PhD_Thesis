@@ -1,1 +1,3 @@
-After the transition of Apartheid in 1994, it was decided by the government of the African National Congress that direct intervention in the distribution of assets and opportunities was needed to resolve the economic disparities created by Apartheid policies which had favoured white business owners Direct intervention in the distribution of assets and opportunities is needed to resolve the economic disparities
+version https://git-lfs.github.com/spec/v1
+oid sha256:5180fe8f4f05a4c69cf265f01b6ee852c28b74413bdbf18f0dbeeab4348aa058
+size 413

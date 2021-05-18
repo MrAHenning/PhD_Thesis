@@ -1,1 +1,3 @@
-János Kis[REF] and TASZ,[REF] in particular András Schiffer[REF] feel the work of Holocaust deniers should be protected by a universal right to free speech the work of Holocaust deniers should be protected by a universal right to free speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3bbc680a4e34e72c11fdfac6e0c8db931f3be4d4d1bdbee95a84c8bace0727f
+size 243

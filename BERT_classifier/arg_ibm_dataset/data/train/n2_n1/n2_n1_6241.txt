@@ -1,1 +1,3 @@
-Plotinus, a third-century Platonist, taught that the One transcendent absolute caused the universe to exist simply as a consequence of its existence - "creatio ex deo." His disciple Proclus stated 'The One is God something caused the Universe to exist, and this First Cause must be God
+version https://git-lfs.github.com/spec/v1
+oid sha256:73c546ffb50fed1f0838c3cd425a4f91972d50ac280ebbf40c9ff4999c3af4d2
+size 285

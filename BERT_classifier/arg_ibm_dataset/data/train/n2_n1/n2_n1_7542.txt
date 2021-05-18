@@ -1,1 +1,3 @@
-In August 2006, a Finnish court ruled that the circumcision of a four-year-old boy arranged by his mother, who is Muslim, to be an illegal assault the circumcision of a child violates general laws enacted for the protection of children
+version https://git-lfs.github.com/spec/v1
+oid sha256:75a4b72c1cef1d79cd929c6eb314db6fbf7c865d2546d16c031bb5d8b8380112
+size 235

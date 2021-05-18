@@ -1,1 +1,3 @@
-A 2008 guest editorial in Environmental Health Perspectives published by the National Institute of Environmental Health Sciences, the U.S. National Institutes of Health, stated: "Even seemingly clean sources of energy can have implications on human health. Wind energy will undoubtedly create noise, which increases stress, which in turn increases the risk of cardiovascular disease and cancer."[REF Wind farms are causing annoyance and ill health in people
+version https://git-lfs.github.com/spec/v1
+oid sha256:329682c5c4234588d312c1a397fcf160150f8b5530680b0c85d1c42777cea2a2
+size 457

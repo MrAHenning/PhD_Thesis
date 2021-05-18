@@ -1,1 +1,3 @@
-In November of 2008, Nebraska voters passed a constitutional ban on government-sponsored affirmative action. Initiative 424 bars government from giving preferential treatment to people on the basis of ethnicity or gender [REF no one has a legal right to have any demographic characteristic they possess be considered a favorable point on their behalf
+version https://git-lfs.github.com/spec/v1
+oid sha256:943a6f5ed6eb71e61b8c38d06e8f5c15ab501a9a0e5d9232601d93359241bd2e
+size 350

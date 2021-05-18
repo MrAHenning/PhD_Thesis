@@ -1,1 +1,3 @@
-Hungary believes that violence caused by continuous provocations hinders any lasting settlement of the Israeli-Palestinian conflict. Peace can only be achieved by compromises of the parties ready for substantive negotiations, supported by the international community including Hungary."[REF the military solution won't conduct to peace
+version https://git-lfs.github.com/spec/v1
+oid sha256:311e9b5c4a5cd914fce1cab6d83c0f2e898051947ca18b412baa61a975de05cd
+size 335

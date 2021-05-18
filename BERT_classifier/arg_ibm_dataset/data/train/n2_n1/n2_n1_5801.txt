@@ -1,1 +1,3 @@
-With R v. Morgentaler, the Supreme Court of Canada removed abortion from the Criminal Code. Relying on the security of person clause of the Canadian Charter of Rights and Freedoms, the court determined that, while the state has an interest in protecting the fetus "at some point", this interest cannot override that of the pregnant woman because: "the right to security of the person of a pregnant woman was infringed more than was required to achieve the objective of protecting the fetus, and the means were not reasonable while the state has an interest in protecting the fetus "at some point", this interest cannot override that of the pregnant woman
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbc56ae5df4242f3a3ccd3858be2fb7919da4ed687bf4ddd9464f1a2537ac1d9
+size 654

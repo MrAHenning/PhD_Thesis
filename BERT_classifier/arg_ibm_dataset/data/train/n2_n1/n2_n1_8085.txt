@@ -1,1 +1,3 @@
-AI further notes that Israel’s firing of artillery, shelling from tanks and from naval ships into densely populated civilian areas in Gaza may also amount to indiscriminate attacks [REF the Israeli Defence Force breached laws of armed conflict by attacking indiscriminately civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:eba89cdee2097aced401dd7bfaef807dbc496b9f66650324b634a0fd2d9a0f3e
+size 285

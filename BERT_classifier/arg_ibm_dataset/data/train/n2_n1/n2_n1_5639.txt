@@ -1,1 +1,3 @@
-According to some police reports, incidences of reported crime often double and triple in communities within three years of a casino opening [REF One area of controversy surrounding casinos is their relationship to crime rates
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dfa1ce998ff42097a39bb5866c355cd63bc79359c831558393fc306162a7607
+size 226

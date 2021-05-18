@@ -1,1 +1,3 @@
-On 27 February 2008 civil servant Darryn Walker was arrested by officers from Scotland Yard's Obscene Publications Unit for posting a work of fiction allegedly describing the kidnap, mutilation, rape and murder of the girl band 'Girls Aloud' on a fantasy pornography website freedom of expression is not absolute and can be limited under certain situations
+version https://git-lfs.github.com/spec/v1
+oid sha256:755dd505151133c01fe085351aa7500e6dc25aadbbea07ea57e7a42afc5382cf
+size 356

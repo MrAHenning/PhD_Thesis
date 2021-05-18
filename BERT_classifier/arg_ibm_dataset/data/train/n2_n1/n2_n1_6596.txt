@@ -1,1 +1,3 @@
-in Thomas Jefferson’s "Commonplace Book," a quote from Cesare Beccaria reads, "laws that forbid the carrying of arms .. disarm only those who are neither inclined nor determined to commit crimes .. Such laws make things worse for the assaulted and better for the assailants; they serve rather to encourage than to prevent homicides, for an unarmed man may be attacked with greater confidence than an armed man."[REF][REF][REF The prohibition of an effective means of self defense is considered to be unethical
+version https://git-lfs.github.com/spec/v1
+oid sha256:f50bfb5f2bb6566779899e635cb00eb7fcfda5eb8f40e9040b7dc0e36198606b
+size 511

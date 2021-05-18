@@ -1,1 +1,3 @@
-In the UK, the National Trust has expressed opposition to plans for a wind farm near Lyveden New Bield, a 17th Century lodge in Northamptonshire, believing it would upset the appeal of one of the finest Elizabethan gardens still in existence [REF Wind farms 'ruin the landscape'
+version https://git-lfs.github.com/spec/v1
+oid sha256:227ff5d678bff84fbd7ffc78c6abbcda916cb9c14402417048f0f21028e54b82
+size 278

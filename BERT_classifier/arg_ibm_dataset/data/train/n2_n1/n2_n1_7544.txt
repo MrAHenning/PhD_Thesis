@@ -1,1 +1,3 @@
-In September 2007, a Frankfurt am Main appeals court found that the circumcision of an 11 year old boy without his approval was an unlawful personal injury the circumcision of a child violates general laws enacted for the protection of children
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab398ebce0de7abe6b64ba768f820d45df89985e7941e94d7b118c5ded4a5dd
+size 244

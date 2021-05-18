@@ -1,1 +1,3 @@
-Nozick recognized that some modern economic inequalities were the result of forceful taking of property, and a certain amount of redistribution would be justified to compensate for this force a certain amount of redistribution would be justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1230778c65c0dc59c1b1c26fe7db924910f364db816b2c8f1d9ba9b13b9d4e4
+size 245

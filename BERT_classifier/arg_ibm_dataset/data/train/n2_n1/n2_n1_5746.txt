@@ -1,1 +1,3 @@
-An August 2009 poll commissioned by "Canadian Friends of the Royal Family" found that the majority of Canadians, more than 60%, felt that a constitutional monarchy was outdated [REF the monarchy is an outdated and regressive institution
+version https://git-lfs.github.com/spec/v1
+oid sha256:45c205a40de96719441115757242249904d4d39d6ddc6cb3677e0f729877465a
+size 236

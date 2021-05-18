@@ -1,1 +1,3 @@
-Studies show[REF][REF] that in welfare states poverty decreases after countries adapt welfare programs poverty decreases after countries adapt welfare programs
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdc4bf1cf6ec09fe5f26345a522085076ad11a8e47b45d9530e838c24925e4b2
+size 159

@@ -1,1 +1,3 @@
-CS Lewis proposed an argument from the normativity of morality against naturalism for the existence of God. He proposed that, if naturalism, the belief that the natural is all that exists, is correct, then life must be regarded as a meaningless accident and morality cannot be understood as anything meaningful theists are able to offer justification for morality, while atheists are not
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc49647c29692f4a4dc079b289577343e9481c932b3c0693d2dc0bf84b1ffbac
+size 387

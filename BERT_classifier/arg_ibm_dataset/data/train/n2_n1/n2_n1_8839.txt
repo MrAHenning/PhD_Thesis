@@ -1,1 +1,3 @@
-In a press release, Danish Foreign Minister Per Stig Møller expressed his concerns for the escalating crisis in Gaza, saying that "The new spiral of violence in the Middle East is deeply disturbing. […] If the fighting continues, it will only favour Hamas" [REF The attacks would not contribute to the security of Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:6781d89967899cd56d580410e99b48aac38a5fa853a39f1ffa59b8286b305b06
+size 323

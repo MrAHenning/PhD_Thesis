@@ -1,1 +1,3 @@
-Kleck and others argue that guns being used to protect property, save lives, and deter crime without killing the criminal accounts for the large majority of defensive gun uses [REF The prohibition of an effective means of self defense is considered to be unethical
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b9c4f5fef9fecb27e04dc1ebbe447c28382c0b027852eab7e8a87694129e15a
+size 264

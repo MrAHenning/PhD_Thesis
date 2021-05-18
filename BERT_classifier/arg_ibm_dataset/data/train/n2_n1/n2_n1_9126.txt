@@ -1,1 +1,3 @@
-Dr. William Shulman, director of the Holocaust Research Center, described the denial "as if these people [in the Holocaust] were killed twice",[REF] a sentiment echoed by literary theorist Jean Baudrillard, who argued that "Forgetting the extermination is part of the extermination itself."[REF Holocaust denial is the worst form of racism
+version https://git-lfs.github.com/spec/v1
+oid sha256:90d8cea107bc705332ba0f6e4267c7c23d2472f4f9e8d4895776e484d6ecf5a1
+size 339

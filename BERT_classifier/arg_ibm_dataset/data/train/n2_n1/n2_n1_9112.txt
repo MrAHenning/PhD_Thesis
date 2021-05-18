@@ -1,1 +1,3 @@
-French historian Valérie Igounet has written that "Holocaust denial is a convenient polemical substitute for anti-semitism."[REF Holocaust denial is generally viewed as antisemitic
+version https://git-lfs.github.com/spec/v1
+oid sha256:610091938fe9d072a5b64a52ae1deb483214f6be51bea86ff4cc51046dc514cd
+size 181

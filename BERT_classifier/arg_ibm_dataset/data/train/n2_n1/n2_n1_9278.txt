@@ -1,1 +1,3 @@
-In 2001, for example, Oregon, second ranked in the AP poll, was bypassed in favor of Nebraska despite Nebraska's loss in its final regular season game to the University of Colorado Often, the BCS system leads to controversies
+version https://git-lfs.github.com/spec/v1
+oid sha256:95079407e139dcba31147381037c49ca7eca74d8dc5b40694a700f3b74cc3599
+size 225

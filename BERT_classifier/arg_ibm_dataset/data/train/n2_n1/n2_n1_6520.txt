@@ -1,1 +1,3 @@
-During the 2006 California heat storm output from wind power in California significantly decreased to an average of 4% of capacity for 7 days [REF]. A similar result was seen during the 2003 European heat wave, when the output of wind power in France, Germany, and Spain fell below 10% during peak demand times [REF Wind-generated power is a variable resource
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d46533f0de23a3d164be5fdc174111244a8cc1069cecd3d5b7b49353a0644b0
+size 359

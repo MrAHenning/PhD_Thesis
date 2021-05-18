@@ -1,1 +1,3 @@
-Libya had signed and ratified the Nuclear Non-Proliferation Treaty and was subject to IAEA nuclear safeguards inspections, but undertook a secret nuclear weapons development program in violation of its NPT obligations, using material and technology provided by the A.Q. Khan proliferation network[REF]—including actual nuclear weapons designs allegedly originating in China the NPT cannot stop the proliferation of nuclear weapons or the motivation to acquire them
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8008c52bc7f82fd26ca4ebdeb3612567cc2c8766feebbb29ce40141f6e2845c
+size 466

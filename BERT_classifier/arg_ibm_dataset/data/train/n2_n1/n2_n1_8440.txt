@@ -1,1 +1,3 @@
-The government of the SADR condemned the massacre in the Gaza strip, considering that "the use of force, the policy of colonial occupation, killing and terror against defenseless citizens are contrary to morals, laws and customs of the humanity and are in contradiction with international legality Israel's actions on the Gaza Strip must be characterised as war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:465a90b1bb70940b02647e5d92d5ba1971776f65c3fcfc896905f874f46ee419
+size 368

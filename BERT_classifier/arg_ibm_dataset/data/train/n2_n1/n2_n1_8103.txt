@@ -1,1 +1,3 @@
-The Human Rights Council ordered a series of periodic reports aimed to assess the human rights situation in the occupied Palestinian Territories (OPT) following Israel's military operation. The first of the reports was set to be presented to the Council in September 2009 [REF]. The report, compiled by UN High Commissioner for Human Rights Navi Pillay, alleges that the Israeli Defence Force breached laws of armed conflict by attacking indiscriminately civilians in at least several incidents, by targeting civilian and protected facilities, by damaging large number of buildings, by failing to provide unquestionably effective warning to civilians at risk and by failing to implement rules of international humanitarian law regarding military occupation Israel's UAV attacks were a violation of International Humanitarian Law
+version https://git-lfs.github.com/spec/v1
+oid sha256:2274466adc6d350b4a55906bc9d0f5622420e6799019097e80cf5cb315c93b86
+size 828

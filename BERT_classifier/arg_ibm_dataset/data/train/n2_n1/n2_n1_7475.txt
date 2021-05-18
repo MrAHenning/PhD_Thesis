@@ -1,1 +1,3 @@
-In the Netherlands, the Royal Dutch Medical Association (KNMG) stated in 2010 that non-therapeutic male circumcision "conflicts with the child's right to autonomy and physical integrity Infant circumcision represents a human rights violation
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4148fe293ca0025c2082a157c53ba7af2f6d807cfd6b047aa034511126f0444
+size 241

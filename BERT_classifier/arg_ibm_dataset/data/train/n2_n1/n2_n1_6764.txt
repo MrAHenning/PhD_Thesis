@@ -1,1 +1,3 @@
-David W. Schindler, a limnologist from the University of Alberta, co-authored a study on Alberta's oil sands' contribution of aromatic polycyclic compounds, some of which are known carcinogens, to the Athabasca River and its tributaries [REF wildlife has been negatively affected by the oil sands
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed54854f1fc8b5c20d6e83dca7ef637c42717d78cf5e185c4f4c3d38b144e74
+size 296

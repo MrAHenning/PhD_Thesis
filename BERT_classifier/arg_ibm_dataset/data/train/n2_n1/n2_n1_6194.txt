@@ -1,1 +1,3 @@
-Some critics, such as Richard Dawkins and Pascal Boyer, contend that religion is nothing more than a social construct that primitive humans evolved to improve their odds of survival. Dawkins and others have posited that a pre-disposition to believe in superstitions and religion could enhance the survival of the human species, by enhancing fear of imagined (and sometimes real) dangers, and thus increasing the likelihood that humans would take pre-emptive defensive measures religious belief is a delusion
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e6b83fdba29d1ca02f765c0bca99eb3f0a8751bb4cdc55b619d6014dfc59234
+size 507

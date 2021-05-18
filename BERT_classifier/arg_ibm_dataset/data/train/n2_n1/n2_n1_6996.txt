@@ -1,1 +1,3 @@
-BBC News reported in 11 November that Gaza was then receiving only 28% of the amount of goods traded before the Hamas takeover [REF What is going on in Gaza is a humanitarian catastrophe
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a1a9c690b5c2ccec3d371af8c716ce8afbfe56816f7424539535ee84e524f51
+size 186

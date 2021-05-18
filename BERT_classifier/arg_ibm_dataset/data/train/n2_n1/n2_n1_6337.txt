@@ -1,1 +1,3 @@
-Dead Aid: Why Aid Is Not Working and How There is Another Way for Africa argues that foreign aid has harmed Africa and that it should be phased out [REF Aid is Not Working
+version https://git-lfs.github.com/spec/v1
+oid sha256:82e032bc9ef9133573717dce2973de691631624ffa0fa07327a4270e70c650c5
+size 171

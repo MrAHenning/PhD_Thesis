@@ -1,1 +1,3 @@
-Warren was of the opinion that laws against flag-burning are constitutional it would be constitutional to ban flag-burning
+version https://git-lfs.github.com/spec/v1
+oid sha256:004c2ed87f3ee602fcbfdebf1ec7151e8977e6cdf53ac0acdbce1a01d825a10b
+size 122

@@ -1,1 +1,3 @@
-the Battle of Athens on August 2, 1946 as an example of citizens in desperate circumstances using firearms where all other democratic options have failed [REF the right to bear arms is necessary for the citizens to protect themselves from the "tyranny in government
+version https://git-lfs.github.com/spec/v1
+oid sha256:1be57cd78cc07915302aaba934ea6fb39c7d32e1b68b3ae1032dbdec918b3312
+size 265

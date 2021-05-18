@@ -1,1 +1,3 @@
-Philip Roche, a partner in the shipping disputes and risk management team with the London-headquartered international law firm Norton Rose, also said: "On the basis that Hamas is the ruling entity of Gaza, and Israel is in the midst of an armed struggle against that ruling entity, the blockade is legal."[REF] The basis for that is the law of blockade, derived from international law that was codified in the 1909 London Declaration concerning the Laws of Naval War, and which was then updated in 1994 in the San Remo Manual on International Law Applicable to Armed Conflicts at Sea--"a legally recognized document" [REF the blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb3137220166013895148db636a69cb8a1dc6a86db9080b264ae7eaddb76b60
+size 643

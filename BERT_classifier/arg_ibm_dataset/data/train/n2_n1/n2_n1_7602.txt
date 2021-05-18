@@ -1,1 +1,3 @@
-Schoen currently maintains Medicirc.org [REF], an online resource in which he discusses what he perceives as benefits of circumcision. Interviewed in the Eastbay Express (2000), he states, "Circumcision is one of the best health insurance policies you can give a son. A circumcised boy has a lifetime advantage over an uncircumcised one A circumcised boy has a lifetime advantage over an uncircumcised one
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f786657b8d6e9bddb731f670c68858f033af683c74802b4bdfad15ff680e39f
+size 405

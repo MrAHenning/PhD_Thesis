@@ -1,1 +1,3 @@
-Somerville (2000) argues that the nature of the medical benefits cited as a justification for infant circumcision are such that the potential medical problems can be avoided or, if they occur, treated in far less invasive ways than circumcision. She states that the removal of healthy genital tissue from a minor should not be subject to parental discretion the removal of healthy genital tissue from a minor should not be subject to parental discretion
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f343fc9eadf6d7ca9209c658e54c5878a319e8d93548c7b3c99d685c8995085
+size 453

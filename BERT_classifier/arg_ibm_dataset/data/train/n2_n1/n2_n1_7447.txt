@@ -1,1 +1,3 @@
-medical associations also cite evidence that circumcision without anesthetic is painful [REF newborns who are circumcised without analgesia experience pain and physiologic stress
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9ec0467c3df2341a66ea8614909a8263538f8e92671a335ea123cf9175e0cb5
+size 178

@@ -1,1 +1,3 @@
-Mill also introduced what is known as the harm principle, in placing the following limitation on free expression: "the only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others."[REF Speech can be justifiably suppressed in order to prevent harm from a clear and direct threat
+version https://git-lfs.github.com/spec/v1
+oid sha256:f043342c84a1a35671fcb09d46ebd97760139057b873f25a9cb524eb94e27014
+size 363

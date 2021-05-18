@@ -1,1 +1,3 @@
-Research has shown that most weapons and arms trafficked into Mexico are from gun dealers in the United States [REF A 'significant' percentage of the cartels firearms originate from gun stores and other sources in the U.S
+version https://git-lfs.github.com/spec/v1
+oid sha256:165d6c97edeae50062aa0279b0992cb5259ac2b126da814ccea02fe9c91175fd
+size 221

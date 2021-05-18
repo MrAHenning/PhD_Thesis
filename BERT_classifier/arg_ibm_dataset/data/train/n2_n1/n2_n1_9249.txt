@@ -1,1 +1,3 @@
-Gregory Johnson, a member of the Revolutionary Communist Party, was arrested during a demonstration outside of the 1984 Republican National Convention in Dallas after he set fire to a flag while protesters chanted "America, the red, white, and blue, we spit on you." In a 5–4 decision authored by Justice Brennan, the Court first found that burning the flag was a form of symbolic speech subject to protection under the First Amendment Burning the flag is a form of symbolic speech subject to protection under the First Amendment
+version https://git-lfs.github.com/spec/v1
+oid sha256:b91457e9e0a91a70ae1bad9712fa8478d400caa4613d781b08de0874f311f080
+size 531

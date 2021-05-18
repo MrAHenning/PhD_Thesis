@@ -1,1 +1,3 @@
-The report says that Israeli forces were "systematically reckless" in determining the use of white phosphorus in built-up areas [REF]. The writers highlighted the Israeli attack on the UN Relief and Works Agency compound in Gaza City on 15 January, the attack on the Al Quds hospital, and the attack on the Al Wafa hospital, each of which involved using white phosphorus. They described its use as disproportionate or excessive under international law. More generally, the UN report recommended that "serious consideration should be given to banning the use of white phosphorus in built-up areas.”[REF disproportionate destruction and violence against civilians were part of a deliberate policy" by Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:a27dc618f6a7682a9fc654fde463a0066128779e343f73e3d84b79e39afd7b4e
+size 707

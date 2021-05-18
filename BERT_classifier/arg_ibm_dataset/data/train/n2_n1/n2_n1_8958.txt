@@ -1,1 +1,3 @@
-Peter Gordon, a professor of planning and economics at the University of Southern California's School of Urban Planning and Development, argues that many households in the United States, Canada, and Australia, especially middle and upper class families, have shown a preference for the suburban lifestyle [REF]. Reasons cited include a preference towards lower-density development (for lower ambient noise and increased privacy), better schools, less crime, and a generally slower lifestyle than the urban one [REF consumers prefer lower density neighborhoods
+version https://git-lfs.github.com/spec/v1
+oid sha256:f20eb0461293b14d35c1c7ced7207287828cdad520ac53bc07b134978b9bec06
+size 559

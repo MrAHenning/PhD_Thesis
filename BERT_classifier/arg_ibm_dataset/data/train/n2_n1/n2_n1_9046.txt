@@ -1,1 +1,3 @@
-On 15 May 2002 the House of Lords appointed a select committee “to consider and report on the law relating to religious offences”. The committee's first report was published in April 2003; it summarised the state of the law in this area, and found that the present law on blasphemy was unlikely to result in successful prosecution the common-law offence of blasphemous libel serves no useful purpose in modern law
+version https://git-lfs.github.com/spec/v1
+oid sha256:aefd37a7616bacf8931a776fec77d8dbdcaff746e40967ec561afbc73ae373db
+size 417

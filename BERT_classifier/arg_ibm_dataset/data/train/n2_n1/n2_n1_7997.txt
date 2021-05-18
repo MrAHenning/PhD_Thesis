@@ -1,1 +1,3 @@
-the competition spurred by vouchers and education tax credits increases the quality of both eligible private schools and local public schools, the latter of which must improve in order to maintain enrollment. This argument is supported by studies such as "When Schools Compete: The Effects of Vouchers on Florida Public School Achievement" (Manhattan Institute for Policy Research's, 2003), which concluded that public schools located near private schools that were eligible to accept voucher students made significantly more improvements than did similar schools not located near eligible private schools competition would improve schools and cost efficiency
+version https://git-lfs.github.com/spec/v1
+oid sha256:05feb0fd8f61ad26a54af0f71600d1f961a5cbb5da09ca91e12199bf16c713fb
+size 659

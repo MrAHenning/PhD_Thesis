@@ -1,1 +1,3 @@
-A study by the Center for Strategic and International Studies points out that when possible, IAF executed strikes using the smallest precision-guided weapons, and coordinated air strikes and the use of artillery weapons using GPS, in a systematic effort to limit collateral damage [REF During Operation Cast Lead, the Israeli Defense Forces did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:b13f20b7564e5f95fae912660b6fa3d8a402232347098f1d2bc84a723d146c1b
+size 449

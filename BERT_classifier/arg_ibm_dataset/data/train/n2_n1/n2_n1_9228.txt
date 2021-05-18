@@ -1,1 +1,3 @@
-Justice Fortas agreed with Chief Justice Warren's dissent, but added a brief additional explanation of why he thought that it would be constitutional to ban flag-burning. First, he argued, if the flag were nothing more than an ordinary item of property, the state could prohibit its burning merely as an exercise of its authority to protect the public safety. The flag's status as a special emblem of nationality, however, entitles it to additional protections, some of which have been upheld by the Court in the past [REF flag-burning is not constitutionally protected
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c4d7b3d24c43e60c02fb3a558a1d3bb2ecbc3875fdf910aad3b310cb6c78c48
+size 569

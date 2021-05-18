@@ -1,1 +1,3 @@
-On January 11, the Permanent Representative of Pakistan to the UN, Hussain Haroon, called for an immediate ceasefire and calm. He criticised Israel saying the unrestrained use of force, scale of destruction, killing of innocent civilians, including women and children, the violation of UN safe havens, and the collective punishment of an entire people were blatant breaches of international law. He said that those act, in their totality, constituted war crimes and crimes against humanity Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:12f8c7d1d0e91052bfa8f4ff57e8f3e78b0f469ec5c078f20215c697f50b62ae
+size 529

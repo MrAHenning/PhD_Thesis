@@ -1,1 +1,3 @@
-Advocates of sound finance (in the US known as fiscal conservatism) reject Keynesianism and, in the strongest form, argue that government should always run a balanced budget government should always run a balanced budget
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cac69a9466fc201129ea43e40f09ed6c1d6287837a01c5cef9317709d541300
+size 220

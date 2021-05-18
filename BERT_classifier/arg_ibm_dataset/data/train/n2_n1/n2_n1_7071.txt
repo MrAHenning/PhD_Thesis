@@ -1,1 +1,3 @@
-After describing the links between the Islamic charity that organized the flotilla and terrorist groups, the Journal states "No wonder that Israel was not prepared to let this flotilla break its blockade of Gaza.. Israel is entirely within its rights to prevent Hamas from linking with groups suspected of supplying arms and money to terrorists Israel is entirely within its rights to prevent Hamas from linking with groups suspected of supplying arms and money to terrorists
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa27f231a485b6a4d74da5f2c3ea74f81604fa755c4d5ee32b43918ea44eba56
+size 475

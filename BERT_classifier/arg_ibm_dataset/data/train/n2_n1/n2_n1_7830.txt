@@ -1,1 +1,3 @@
-In March 2009, the Pope stated: .   I would say that this problem of AIDS cannot be overcome merely with money, necessary though it is. If there is no human dimension, if Africans do not help, the problem cannot be overcome by the distribution of prophylactics: on the contrary, they increase it The problem of AIDS cannot be overcome by the distribution of prophylactics: on the contrary, they increase it
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d5b281126311ef0d119666adf3edfaeba9e179be81da849bf6c74ec0b5faad1
+size 406

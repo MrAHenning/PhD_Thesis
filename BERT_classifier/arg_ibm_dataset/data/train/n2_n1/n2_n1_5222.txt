@@ -1,1 +1,3 @@
-The InterAcademy Panel Statement on Population Growth has stated that many environmental problems, such as rising levels of atmospheric carbon dioxide, global warming, and pollution, are aggravated by the population expansion [REF rapid population growth damages the Earth's resources and diminishes human well-being
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dce1d1646247826afb4d80e6938695ea90dc21e3cec612d18a7e89a9d9736c1
+size 316

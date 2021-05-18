@@ -1,1 +1,3 @@
-92% of adolescents report that they want both to talk to their parents about sex and to have comprehensive in-school sex education [REF Adolescents want both to talk to their parents about sex and to have comprehensive in-school sex education
+version https://git-lfs.github.com/spec/v1
+oid sha256:257afa195ecc17d316e854c33fefd229e45f22c816539e994e07ee18ee5f722f
+size 242

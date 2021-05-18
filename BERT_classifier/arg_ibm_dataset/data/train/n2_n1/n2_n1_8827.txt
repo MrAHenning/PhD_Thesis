@@ -1,1 +1,3 @@
-Following the war, the Malaysian Foreign Minister called for Israeli leaders to be prosecuted for war crimes Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d000ede080d42f8f1ede5d621695beb481be76f67ba07ad3c8aeb6ecb3ddafd
+size 176

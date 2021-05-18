@@ -1,1 +1,3 @@
-Scheffer approvingly quoted the Dutch sociologist J.A.A. van Doorn as saying that the presence of immigrants in the Netherlands had "put the clock back" by 100 or 150 years. The high immigration rate and the lack of integration threatened society, and must be stopped homogeneity and integration are necessary for a society
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a948b525bfda54cb57f65fae2d97182933ac7f8b13954a9305d977b6c782c5e
+size 323

@@ -1,1 +1,3 @@
-A survey conducted in 2005 showed that 74% of people in Scotland agree that wind farms are necessary to meet current and future energy needs. When people were asked the same question in a Scottish Renewables study conducted in 2010, 78% agreed wind farms are necessary to meet current and future energy needs
+version https://git-lfs.github.com/spec/v1
+oid sha256:664b4191edf99b1a00f34319e07074e6d8cb7140f39b00887b76928aa225dc4e
+size 308

@@ -1,1 +1,3 @@
-On April 1, 2011 Goldstone published a piece in the Washington Post titled 'Reconsidering the Goldstone Report on Israel and war crimes'. Goldstone noted that the subsequent investigations by Israel and recognized in the U.N. committee’s report "indicate that civilians were not intentionally targeted as a matter of policy Israel disproportionately attacked civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:74c2012f27c4eb91f97265bacf0704c901fc2912305a17f099eee12551dadcea
+size 370

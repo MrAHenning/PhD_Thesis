@@ -1,1 +1,3 @@
-U.S. law enforcement officials estimate that US$12 to 15 billion per year flows from the United States to the Mexican traffickers, and that is just in cash, i.e., not including the money sent by wire transfers [REF most of the financing for the Mexican traffickers comes from American drug consumers
+version https://git-lfs.github.com/spec/v1
+oid sha256:97c0ddf80e2c55e59efc5cf407a3be51203b61b83234e965de31c20d3a021d7f
+size 299

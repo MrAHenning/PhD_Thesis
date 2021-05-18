@@ -1,1 +1,3 @@
-Massive racial differentials in account of wealth remain in the United States: between whites and African Americans, the gap is a factor of twenty [REF Racial stratification continues to occur
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f56d8a698d68ceacaa4c606bf0041a7d52f41ab4a934236c8d1ae5a3e7f86a7
+size 192

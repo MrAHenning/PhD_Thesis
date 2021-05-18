@@ -1,1 +1,3 @@
-Dawkins sees religion as subverting science, fostering fanaticism, encouraging bigotry against homosexuals, and influencing society in other negative ways [REF religion is socially dangerous
+version https://git-lfs.github.com/spec/v1
+oid sha256:9561e7acdde3d31763007a96823cd86267d0c2e01e2f5e643398fc8cff1b2029
+size 190

@@ -1,1 +1,3 @@
-Denniston states that circumcision is harmful and asserts that in the absence of the individual's consent, non-therapeutic child circumcision violates several ethical principles that govern medicine [REF circumcision is harmful
+version https://git-lfs.github.com/spec/v1
+oid sha256:702fe3d9bc5b442bb696a1313dcc3f95567abd19ffe8dab44d370725a543ed60
+size 227

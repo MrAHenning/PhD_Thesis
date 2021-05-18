@@ -1,1 +1,3 @@
-The American Medical Association states that circumcision, properly performed, protects against the development of phimosis [REF circumcision should be presented as an option for health benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3ccbfb3645b2508791082e37ae067cdb44a7eeb4735cd7b8c3eeaf2ea4aec24
+size 194

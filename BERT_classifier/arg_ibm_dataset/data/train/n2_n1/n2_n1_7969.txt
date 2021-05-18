@@ -1,1 +1,3 @@
-From Milton's writings developed the concept of the open marketplace of ideas, the idea that when people argue against each other, the good arguments will prevail The individual freedom of expression is essential to the well-being of society
+version https://git-lfs.github.com/spec/v1
+oid sha256:07806c0ca30aee4f8469f99bb3c9ab383d523dee5c22be5ca4be89682406b87f
+size 241

@@ -1,1 +1,3 @@
-In 1998 the length of a copyright in the United States was increased by 20 years under the The Copyright Term Extension Act. This legislation was strongly promoted by corporations which had valuable copyrights which otherwise would have expired copyright law protects corporate interests while criminalizing legitimate use
+version https://git-lfs.github.com/spec/v1
+oid sha256:697ac6e756da56cae65b56f595b23c4fd6736361e21d304a652609af154fd9c0
+size 322

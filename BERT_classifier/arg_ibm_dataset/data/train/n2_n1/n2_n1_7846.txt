@@ -1,1 +1,3 @@
-In 2010 Hillary Clinton, speaking on behalf of the United States, declared 'we stand for a single internet where all of humanity has equal access to knowledge and ideas'. In her 'Remarks on Internet Freedom' she also draws attention to how 'even in authoritarian countries, information networks are helping people discover new facts and making governments more accountable Access to information is increasingly recognised as a prerequisite for transparency and accountability of governments
+version https://git-lfs.github.com/spec/v1
+oid sha256:1737d556823cbb4de70879727ccac127e0d8bd2083fe31b6d120686841c43852
+size 490

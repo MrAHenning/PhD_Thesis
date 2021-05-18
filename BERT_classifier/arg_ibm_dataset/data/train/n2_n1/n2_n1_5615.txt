@@ -1,1 +1,3 @@
-Studies show that though many people participate in gambling as a form of recreation or even as a means to gain an income many people participate in gambling as a form of recreation or even as a means to gain an income
+version https://git-lfs.github.com/spec/v1
+oid sha256:634fff7da3ad4fddda1633995fcc75a391d4695306768f03bfe5674ab9d7a088
+size 218

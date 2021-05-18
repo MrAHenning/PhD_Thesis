@@ -1,1 +1,3 @@
-Most biologists and sociologists see overpopulation as a serious threat to the quality of human life [REF Overpopulation is seen as a serious threat to the quality of human life
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab020c2ea1127cfc58e8a46de7888617f34a9732ec7b5ecf160bf172d6cfa33b
+size 177

@@ -1,1 +1,3 @@
-Dawkins argues that an entity that monitors and controls every particle in the universe and listens to all our thoughts and prayers cannot be simple. His existence would require a "mammoth explanation" of its own. The theory of natural selection is much simpler than the theory of the existence of such a complex being, and thus preferable [REF The God hypothesis is considered inferior to evolution by natural selection as explanations for the complexity of life
+version https://git-lfs.github.com/spec/v1
+oid sha256:702708d0a655a93c2877849a9900c213e9d6447ddcadae636ffc61059de05502
+size 463

@@ -1,1 +1,3 @@
-the Second Amendment to the United States Constitution guarantees the right of citizens to keep and bear arms. The Fourteenth Amendment protects gun owners when it states, "No state shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States.."[REF Gun ownership is seen as a civil right
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbcc432200d4d880dcbc2fe4e6e9c0c1b7441eb7c952f6c47b5693c722770536
+size 339

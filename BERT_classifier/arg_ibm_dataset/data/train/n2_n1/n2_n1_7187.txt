@@ -1,1 +1,3 @@
-Jean Ziegler (United Nations Special Rapporteur on the Right to Food) stated that Gaza Strip is "an immense concentration camp Gaza Strip is "an immense concentration camp
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebdba3b63aca9218f3a8af382a383805927d509ee978ee614866ed743feb43e8
+size 171

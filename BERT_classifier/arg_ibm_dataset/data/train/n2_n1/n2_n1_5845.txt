@@ -1,1 +1,3 @@
-Denying the abortion right has been equated to compulsory motherhood, and some scholars (not including any member of the Supreme Court) have argued that abortion bans therefore violate the Thirteenth Amendment A state's ban on partial birth abortion is unconstitutional
+version https://git-lfs.github.com/spec/v1
+oid sha256:70f76431e20b6a61f9c778ff7cde930c99d34dbd4a2652581ee724982981a81e
+size 269

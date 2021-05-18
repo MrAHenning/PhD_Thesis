@@ -1,1 +1,3 @@
-The Norwegian Foreign Ministry sent a letter to their ambassadors in the Middle East stating that one of the pillars of the Norwegian society is freedom of speech Freedom of expression is at the core of democracy
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b6fc250239ca21ea3251fc2e7710043ef01ed03bbc5246edb297547f06751d0
+size 212

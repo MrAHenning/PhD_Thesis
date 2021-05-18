@@ -1,1 +1,3 @@
-President Omar al-Bashir of the Sudan called on Muslims to "challenge those who insult" the prophet Muhammed, and asked for "a binding international charter" for the respect of religious beliefs. al-Bashir continued: ""The offenses against our Arab and Islamic nations under the banner of freedom of expression are derogatory and defamatory and go against all human values."[REF freedom of speech and disseminating ideas do not amount to the right to insult
+version https://git-lfs.github.com/spec/v1
+oid sha256:08a8977e63aac83749756320044cdf6a9ee5dbf366e9dfc3fb8980b3512b1873
+size 457

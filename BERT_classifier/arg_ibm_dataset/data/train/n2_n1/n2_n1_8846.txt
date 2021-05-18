@@ -1,1 +1,3 @@
-Palestinian rocket and mortar attacks on Israel from the Gaza Strip have occurred since 2001. Between 2001 and January 2009, over 8,600 rockets had been launched, leading to 28 deaths and several hundred injuries,[REF][REF] as well as widespread psychological trauma and disruption of daily life [REF the constant threat of impending rocket attacks has caused fear and disrupted the lives of the growing number of Israelis who live within range of such attacks
+version https://git-lfs.github.com/spec/v1
+oid sha256:01b455b9d71769e79e890e573632f239330abd7130c336c1e27ca65ae99cf530
+size 460

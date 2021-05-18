@@ -1,1 +1,3 @@
-Dawkins questions whether the Bible really does provide a suitable moral framework, and contends that the texts are of dubious origin and veracity, are internally contradictory and, examined closely, describe a system of morals that any civilised person should find poisonous [REF religion does more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ee2fe859d3c25b93c240a3d86bc44a56c715f1a491aae80ea8fb3260a4dca93
+size 314

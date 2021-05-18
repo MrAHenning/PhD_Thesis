@@ -1,1 +1,3 @@
-In July 2011, the UN investigative committee said that the Israeli blockade of Gaza was legal The Israeli blockade of Gaza is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:0359adb7fc7493e606f701eb3082b50e9055c0026b283fc4433693f14abcfc5c
+size 131

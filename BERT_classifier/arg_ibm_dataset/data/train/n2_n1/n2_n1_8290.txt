@@ -1,1 +1,3 @@
-On April 1, 2011, Judge Richard Goldstone, the lead author of the UN report on the conflict, published a piece in the Washington Post titled 'Reconsidering the Goldstone Report on Israel and war crimes'. Goldstone noted that the subsequent investigations conducted by Israel "indicate that civilians were not intentionally targeted as a matter of policy Israel intentionally targeted civilians in Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:609e79a7d3fab2d361ed2e901e738e10fc91cd5f7bf6a07cbe90ae5cf1b852b3
+size 401

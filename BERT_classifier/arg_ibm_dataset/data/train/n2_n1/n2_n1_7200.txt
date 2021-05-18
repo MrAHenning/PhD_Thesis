@@ -1,1 +1,3 @@
-New York Historical Society President and Columbia University Professor of History Kenneth T. Jackson describes the Flushing Remonstrance as "the first thing that we have in writing in the United States where a group of citizens attests on paper and over their signature the right of the people to follow their own conscience with regard to God - and the inability of government, or the illegality of government, to interfere with that."[REF religion is a matter which lies solely between man and his god
+version https://git-lfs.github.com/spec/v1
+oid sha256:39a1373808a3c1332a286b55636245ef9836cba33952df883757c494f815369a
+size 504

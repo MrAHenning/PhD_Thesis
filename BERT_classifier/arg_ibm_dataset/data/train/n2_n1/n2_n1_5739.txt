@@ -1,1 +1,3 @@
-Johann Hari has written a book God Save the Queen? in which he argues that every member of the royal family has suffered psychologically from the system of monarchy [REF a hereditary system condemns each heir to the throne to an abnormal childhood
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab35ffc523dacea8cc62d0832df5ab48c76e582cea04173e15a26b31f9d3fad0
+size 247

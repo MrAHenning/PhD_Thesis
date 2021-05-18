@@ -1,1 +1,3 @@
-On August 13, 2004, a U.S. military helicopter crashed into Okinawa International University, injuring the three crew members on board the military bases disrupt the lives of the Okinawan people
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd55eee0335b2e0529f19c69cfbfdb3e031bd26e940b74a029a0feb050ae8d61
+size 194

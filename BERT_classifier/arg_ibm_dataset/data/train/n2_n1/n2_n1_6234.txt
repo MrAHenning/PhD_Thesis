@@ -1,1 +1,3 @@
-Dawkins does not claim to disprove God with absolute certainty. Instead, he suggests as a general principle that simpler explanations are preferable (see Occam's razor), and that an omniscient and omnipotent God must be extremely complex. As such he argues that the theory of a universe without a God is preferable to the theory of a universe with a God [REF Natural selection and similar scientific theories are superior to a "God hypothesis"—the illusion of intelligent design—in explaining the living world and the cosmos
+version https://git-lfs.github.com/spec/v1
+oid sha256:e55714299cfd04c1d421a60ff713e96c69832ef9ec186903fce71044a79ea7d9
+size 528

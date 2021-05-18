@@ -1,1 +1,3 @@
-In the September 2011 Palmer Report, the UN investigative committee for the 2010 Flotilla to Gaza said that the Israel's naval blockade of Gaza is legal under international law the blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:640b9e95a5c08cecad1a7dae6522298f2def1439c156e9a7f43430ae5d17e3f2
+size 198

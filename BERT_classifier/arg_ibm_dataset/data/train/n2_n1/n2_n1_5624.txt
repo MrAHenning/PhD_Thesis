@@ -1,1 +1,3 @@
-according to Hans Breiter, MD, co-director of the motivation and Emotion Neuroscience Centre at the Massachusetts General Hospital, "Monetary reward in a gambling-like experiment produces brain activation very similar to that observed in a cocaine addict receiving an infusion of cocaine."[REF][REF pathological gambling is an addiction similar to chemical addiction
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e0fc7a769b6fa156c92fc1ff6fc58692bf1895457934177fb86b3a64b55b93
+size 366

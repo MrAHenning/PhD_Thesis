@@ -1,1 +1,3 @@
-In two famous articles, Professor Mearsheimer opines that Europe is bound to return to its pre–Cold War environment of regular conflagration and suspicion at some point in the future. He advocates arming both Germany and the Ukraine with nuclear weaponry in order to achieve a balance of power between these states in the east and France/Britain in the west. If this does not occur, he is certain that war will eventually break out on the European continent (Mearsheimer (1990), pp.&nbsp;5–56 and (1993), pp.&nbsp;50–66 Nuclear proliferation will decrease the likelihood of war
+version https://git-lfs.github.com/spec/v1
+oid sha256:e49ae2bd3944a5f508820696ad12155bb60a695065a3fef8065e0895a23c4533
+size 583

@@ -1,1 +1,3 @@
-Examples of this include the 1981 April Fool's Day Coup in Thailand and the El Tejerazo coup in Spain when King Bhumibol and King Juan Carlos I respectively stepped in to restore democracy in their countries Monarchy safeguards the constitutional rights of the individual
+version https://git-lfs.github.com/spec/v1
+oid sha256:e75d39df973164d75c51f17ce2ab6e74778cf859b3ad1a017c6d91eadc364a08
+size 271

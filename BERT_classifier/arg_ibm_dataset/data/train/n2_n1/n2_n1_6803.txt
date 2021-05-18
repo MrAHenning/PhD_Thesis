@@ -1,1 +1,3 @@
-According to Tel Aviv NGO Gisha, the amount of food entering Gaza is as of May 2009, about 25% of the pre-June 2007 figures the Israeli blockade and closures had pushed the Palestinian economy into a stage of de-development
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f246897c7798a729b3f26c11bea64a3c6b0e1bf6e3a56c86f05e8a6777f7812
+size 223

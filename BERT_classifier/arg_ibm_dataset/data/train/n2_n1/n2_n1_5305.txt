@@ -1,1 +1,3 @@
-Over 60% of the population of Brazil, Chile, and Peru do not meet the recommended levels of physical activity needed to maintain health [REF Physical inactivity is increasing or high among many groups in the population
+version https://git-lfs.github.com/spec/v1
+oid sha256:3603ce7def290a186e0cd451ab01eb68afefdc67b02b995300b4c1977d05db18
+size 218

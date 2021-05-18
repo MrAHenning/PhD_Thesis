@@ -1,1 +1,3 @@
-According to the article 13 on the Universal Declaration of Human Rights, fundamental human rights are violated when citizens are forbidden to leave their country the freedom of movement both within and between countries is a basic human right
+version https://git-lfs.github.com/spec/v1
+oid sha256:5271f3399a471d421a47db7e7eefa59d347b29bdc2fcb73c570ab6fdd35e2e25
+size 243

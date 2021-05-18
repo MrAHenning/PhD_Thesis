@@ -1,1 +1,3 @@
-The political economy approach, developed by Alesian and Rodrik 1994) and Persson and Tabellini (1994), argues that inequality is harmful for economic development because inequality generates a pressure to adopt redistributive policies that have an adverse effect on investment and economic growth [REF inequality is harmful for economic development
+version https://git-lfs.github.com/spec/v1
+oid sha256:21d73d0e0498b3a94ba76f1cd5433e365e73aabceef7a79d3f1ab7f121c960f4
+size 349

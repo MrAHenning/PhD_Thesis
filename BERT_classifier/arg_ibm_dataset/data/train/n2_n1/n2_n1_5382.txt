@@ -1,1 +1,3 @@
-In November 2007, David Rosin, a former vice-president of the Royal College of Surgeons wrote in the magazine Hospital Doctor: “It is time that someone spoke up concerning the reverse discrimination with respect to merit awards” and saying that "female and ethnic minority consultants are being given preferential treatment to meet artificial quotas" [REF Discrimination is inherent in affirmative action programs
+version https://git-lfs.github.com/spec/v1
+oid sha256:6754c52a6013272135ab13bd54618888e5a92b5169bc34fd9eb0f13b02287097
+size 417

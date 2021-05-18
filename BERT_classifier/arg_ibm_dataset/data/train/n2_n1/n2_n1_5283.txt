@@ -1,1 +1,3 @@
-physical activity has been shown to be neuroprotective in many neurodegenerative and neuromuscular diseases [REF]. For instance, it reduces the risk of developing dementia [REF Frequent and regular aerobic exercise has been shown to help prevent or treat serious and life-threatening chronic conditions
+version https://git-lfs.github.com/spec/v1
+oid sha256:6678681db713e5fe7c034f1a90de1b1f9103e395303ba93b62dec38541a6f2ee
+size 302

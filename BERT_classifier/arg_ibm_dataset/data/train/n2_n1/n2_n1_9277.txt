@@ -1,1 +1,3 @@
-following the 2003 season, the BCS ranking system selected the #3 ranked school in the Associated Press writers' poll, the University of Oklahoma, over the #1 ranked school in that poll, the University of Southern California, to participate in the National Championship Game (the Nokia Sugar Bowl) despite Oklahoma's decisive loss to Kansas State in the 2003 Big 12 Championship Game Often, the BCS system leads to controversies
+version https://git-lfs.github.com/spec/v1
+oid sha256:472715da9383de7dd9427f0ffa322fb687f953a2effec09befc4cf0797cc1001
+size 428

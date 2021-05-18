@@ -1,1 +1,3 @@
-The APC Internet Rights Charter was established by the Association for Progressive Communications (APC) at the APC Europe Internet Rights Workshop, held in Prague, February 2001. The Charter draws on the People's Communications Charter and develops seven themes: internet access for all; freedom of expression and association; access to knowledge, shared learning and creation - free and open source software and technology development; privacy, surveillance and encryption; governance of the internet; awareness, protection and realization of rights [REF no one should be excluded from the benefits of the Information Society
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf3a9a7a60da0f42222852dfcb293e6229f7f1e0a1c2b46dfaf0c76e780e0ce1
+size 626

@@ -1,1 +1,3 @@
-The United Nations High Commissioner for Human Rights, the International Committee of the Red Cross, the National Lawyers Guild's International Committee, Istanbul Bilgi University's Law Department Dean Turgut Tarhanlı and other experts have concluded that the blockade was itself illegal Israel's blockade of Gaza is illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f92c3ebbbe1f29fecb12e0ab0c6ce297cdbe13b5d213f76ff0173a782054740
+size 326

@@ -1,1 +1,3 @@
-A study of gun use in the 1990s, by David Hemenway at the Harvard Injury Control Research Center, found that criminal use of guns is far more common than self-defense use of guns [REF criminal use of guns is far more common than self-defense use of guns
+version https://git-lfs.github.com/spec/v1
+oid sha256:368523c991080b8a224423ceb20e865d4150fa7d0421b046749c5d3be031c252
+size 253

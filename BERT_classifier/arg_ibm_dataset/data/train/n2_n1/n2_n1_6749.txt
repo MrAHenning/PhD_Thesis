@@ -1,1 +1,3 @@
-Glen Perry, a petroleum engineer for Adira Energy Ltd., has warned that including the Alberta Clipper pipeline owned by TransCanada's competitor Enbridge, there is an extensive overcapacity of oil pipelines from Canada [REF]. After completion of the Keystone XL line, oil pipelines to the U.S. may run nearly half-empty there is an extensive overcapacity of oil pipelines from Canada
+version https://git-lfs.github.com/spec/v1
+oid sha256:aff8bbb97ee63af948781269dedd12628c879a8994e6e54907335577d7a5f950
+size 383

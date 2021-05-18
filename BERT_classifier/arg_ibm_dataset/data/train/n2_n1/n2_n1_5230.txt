@@ -1,1 +1,3 @@
-The InterAcademy Panel Statement on Population Growth has stated that many environmental problems, such as rising levels of atmospheric carbon dioxide, global warming, and pollution, are aggravated by the population expansion [REF Overpopulation is seen as a serious threat to the quality of human life
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f1ff96be9ddb2fbd88912b22256721cd7f52156ffee4b0e7bd3162f6fdefd00
+size 302

@@ -1,1 +1,3 @@
-Ban condemned Israel's "excessive use of force leading to the killing and injuring of civilians Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0951383636baeed7ac3bfa8998395f47a70629e37a8f6a6627ab282e0b853af
+size 135

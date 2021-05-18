@@ -1,1 +1,3 @@
-Studies show that though many people participate in gambling as a form of recreation or even as a means to gain an income, gambling, like any behavior which involves variation in brain chemistry, can become a psychologically addictive and harmful behavior in some people gambling, like any behavior which involves variation in brain chemistry, can become a psychologically addictive and harmful behavior
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb028cba1595db086de657b8aef62d096fc8d79f4a0f8984cf2059565a2a0a02
+size 403

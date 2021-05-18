@@ -1,1 +1,3 @@
-The argument that the existence of God can be known to all, even prior to exposure to any divine revelation, predates Christianity. St. Paul made this argument when he insisted that pagans were without excuse because "since the creation of the world [God's] invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made" [REF]. In this Paul alludes to the proofs for a creator, later enunciated by St. Thomas[REF] and others, but that had also been explored by the Greek philosophers God's existence "can be known with certainty from the created world by the natural light of human reason
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cde7bb72b8c9ee99e1d8fd7b9902ab87d60166a637cc9d57d4296b737cc16da
+size 642

@@ -1,1 +1,3 @@
-Minister of Foreign Affairs and International Cooperation, Phandu Skelemani said "The Botswana position is that we don't need war. War has never brought any solution to problems War has never brought any solution to problems
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eb54b88a5fb161756cc215ba8d4329c5480669b688de390bfe0d8c66e55fe10
+size 224

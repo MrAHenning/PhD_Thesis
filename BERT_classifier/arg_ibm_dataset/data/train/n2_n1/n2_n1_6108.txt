@@ -1,1 +1,3 @@
-Sociologist Phil Zuckerman analyzed previous social science research on secularity and non-belief, and concluded that societal well-being is positively correlated with irreligion. His findings relating specifically to atheism include:[REF][REF]  Compared to religious people, "atheists and secular people" are less nationalistic, prejudiced, antisemitic, racist, dogmatic, ethnocentric, close-minded, and authoritarian religions can be harmful
+version https://git-lfs.github.com/spec/v1
+oid sha256:14446c88f35692c6151871f483848228e19ccb76b0d9bbf6d7276a1199a42810
+size 443

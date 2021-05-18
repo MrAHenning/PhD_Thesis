@@ -1,1 +1,3 @@
-In 1959 a jet fighter crashed into a school on the island, killing 17 children and injuring 121 the military bases disrupt the lives of the Okinawan people
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a97a2646f469d8ac066cf0f13dbf5ad42c747f7f5eacb035e75824552f83ce3
+size 155

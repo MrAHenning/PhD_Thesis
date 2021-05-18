@@ -1,1 +1,3 @@
-A study by the Department of Pediatrics and Emergency Medicine at the Boston University School of Medicine demonstrated that twenty percent of Sudanese refugee minors living in the United States had a diagnosis of post-traumatic stress disorder. They were also more likely to have worse scores on all the Child Health Questionnaire subscales [REF Refugee populations consist of people who are terrified and are away from familiar surroundings
+version https://git-lfs.github.com/spec/v1
+oid sha256:13fb2235e87dc3f40e62a325d563bcc792e63fece86872a78ae0133490309d79
+size 442

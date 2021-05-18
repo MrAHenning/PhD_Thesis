@@ -1,1 +1,3 @@
-The condition is thought to affect around 15-20% of professional boxers boxing may cause DP
+version https://git-lfs.github.com/spec/v1
+oid sha256:b67959fe45b546120211182a188cf971f509fc0c3669a22516e4f142778b78aa
+size 91

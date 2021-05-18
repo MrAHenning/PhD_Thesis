@@ -1,1 +1,3 @@
-Social disorganization theory is based on the work of Henry McKay and Clifford R. Shaw of the Chicago School [REF]. Social disorganization theory postulates that neighborhoods plagued with poverty and economic deprivation tend to experience high rates of population turnover [REF]. These neighborhoods also tend to have high population heterogeneity [REF]. With high turnover, informal social structure often fails to develop, which in turn makes it difficult to maintain social order in a community crime rates are associated with poverty
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e049a8c94e131670c656288a399a72789c3af21eafc9a5d6815663e6835e3fd
+size 539

@@ -1,1 +1,3 @@
-Israeli government spokesman David Baker said Israel was "compelled to continue to take these defensive measures" to protect more than 200,000 Israelis living under the threat of Palestinian rocket barrages.Militants "hide behind their own civilians, using them as human shields, while actively targeting Israeli population centers," Baker said. "They bear the responsibility for the results Israeli military attacks were launched in response to militants firing missiles
+version https://git-lfs.github.com/spec/v1
+oid sha256:6543d454d1c43e109f232d6598246e3a83e9ead0c1e4a71dde9355063aa7535c
+size 471

@@ -1,1 +1,3 @@
-The Anti-Counterfeiting Trade Agreement (ACTA) states that "effective enforcement of intellectual property rights is critical to sustaining economic growth across all industries and globally" [REF A positive correlation between the strengthening of the IP system and subsequent economic growth was found
+version https://git-lfs.github.com/spec/v1
+oid sha256:beefec252efe51bcdc4c0f45925541f871800f936fd81914ae34b911058be694
+size 303

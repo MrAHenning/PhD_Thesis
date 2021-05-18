@@ -1,1 +1,3 @@
-Five surveys of 260 refugee children from three countries yielded a prevalence of 11% for post-traumatic stress disorder. According to this study, refugees resettled in Western countries could be about ten times more likely to have PTSD than age-matched general populations in those countries Refugee populations consist of people who are terrified and are away from familiar surroundings
+version https://git-lfs.github.com/spec/v1
+oid sha256:a889df9b70463e776b0aafa56308a4db3109ce0ac4c25d3dda967ec03e1a4166
+size 388

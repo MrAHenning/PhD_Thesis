@@ -1,1 +1,3 @@
-Karl Marx and Friedrich Engels, influenced by the work of Feuerbach, argued that belief in God and religion are social functions, used by those in power to oppress the working class belief in God and religion are social functions, used by those in power to oppress the working class
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdd8938ddd773cc7db49dc6b01470e21d89cfbfa90c3151c948e142bbd7a96ac
+size 282

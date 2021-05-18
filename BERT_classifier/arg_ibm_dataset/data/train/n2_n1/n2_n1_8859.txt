@@ -1,1 +1,3 @@
-An American Psychiatric Association study published in 2010, headed by Professor Yair Bar-Chaim of Tel Aviv University, found that incidence rate for post-traumatic symptoms among Israeli civilians was correlated with proximity to the Gaza Strip. Civilians who lived in areas where rockets frequently exploded, and where there was less warning time in advance of strikes, had a higher chance of developing post-traumatic symptoms the constant threat of impending rocket attacks has caused fear and disrupted the lives of the growing number of Israelis who live within range of such attacks
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc45921a52be95c5c47e9b3a977407b4fdab06c3c94d5dd42a053f145975f697
+size 589

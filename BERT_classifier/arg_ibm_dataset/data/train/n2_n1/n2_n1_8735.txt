@@ -1,1 +1,3 @@
-Tunisia condemns this dangerous escalation and reaffirms its call to the international community, and notably the influential powers, for an urgent and energetic intervention, to stop the Israeli aggression, offer the necessary protection to the Palestinian people and put an end to its suffering. Tunisia also stresses that these acts, are likely to increase the tension, aggravate the situation and endanger all the efforts exerted to establish peace, security and stability in the region" [REF aggression and disproportionate use of force by Israel is unfortunate and only leads to further escalation of violence
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab3419bdc80536818a6aa7ed288517647ab0b7d7e07caf6d6953e972b79e0743
+size 615

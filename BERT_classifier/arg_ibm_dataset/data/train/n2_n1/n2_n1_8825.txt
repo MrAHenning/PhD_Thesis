@@ -1,1 +1,3 @@
-President Rafael Correa issued a statement saying "Ecuador joins the call to implement a condemnation of Israel for crimes against humanity committed against the Palestinian people living in Gaza Strip" [REF Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:97828d8bf138e15e21ad6bd93f4dbb451a25c7645ad5a57c8d90759feca66426
+size 275

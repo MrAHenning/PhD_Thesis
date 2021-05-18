@@ -1,1 +1,3 @@
-As go the forests so goes the plant and animal species they embrace – 80% of all terrestrial biodiversity More comprehensive accounting on forests will be beneficial both for the climate and for forests
+version https://git-lfs.github.com/spec/v1
+oid sha256:9050b242faf38858a7c22cd8a1739412cb358c0a2f51c72fbf6659461a275bc6
+size 204

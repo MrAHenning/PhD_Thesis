@@ -1,1 +1,3 @@
-The major findings by Paul Mosley and others conclude that it is impossible to establish any significant correlation between aid and growth rate of GNP in developing countries. One reason for this is the fungibility and the leakage of the aid into unproductive expenditure in the public sector [REF aid is ineffective
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e3cd0db576a15d86e6417dd91177352e9b6b941c6d780fd41695b35059d5139
+size 317

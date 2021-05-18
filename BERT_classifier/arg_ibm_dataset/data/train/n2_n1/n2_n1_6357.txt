@@ -1,1 +1,3 @@
-S.K.B'. Asante lists some specific motives a donor may have for giving aid: defense support, market expansion, foreign investment, missionary enterprise, cultural extension [REF Aid to underdeveloped countries has sometimes been criticized as being more in the interest of the donor than the recipient
+version https://git-lfs.github.com/spec/v1
+oid sha256:8024792b90d92f43fadf5c50e5faf69045f3609099dc2c7278cdb506d619e479
+size 301

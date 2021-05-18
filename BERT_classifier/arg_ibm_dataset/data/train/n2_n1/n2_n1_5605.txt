@@ -1,1 +1,3 @@
-Community is not built simply on consensus but on, as Paulo Freire put it, unity in diversity. In a multiethnic society that respects but does not essentialize differences, great gains can be realized in the cultivation of critical thinking and ethical reasoning A homogeneous community grounded on consensus may be unable to criticize the injustice and exclusionary practices that undermine it
+version https://git-lfs.github.com/spec/v1
+oid sha256:5744ada67a55c464ace6e2e76a8a12791913d9a3b7120fa801dc5f343b09b57f
+size 394

@@ -1,1 +1,3 @@
-Strongly guarded as is the separation between Religion & Govt in the Constitution of the United States," Madison wrote,[REF] and he declared, "practical distinction between Religion and Civil Government is essential to the purity of both, and as guaranteed by the Constitution of the United States."[REF Religion flourishes in greater purity, without than with the aid of Govt
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec9240311bbec1baef4baf758d4c40680c2d78812d79a00dbbf7f4130bb9d43
+size 376

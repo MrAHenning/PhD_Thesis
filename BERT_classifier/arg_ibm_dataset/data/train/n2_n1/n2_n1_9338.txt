@@ -1,1 +1,3 @@
-The Italian school of criminology contends that biological factors may contribute to crime and deviance. Cesare Lombroso was among the first to research and develop the Theory of Biological Deviance which states that some people are genetically predisposed to criminal behavior Genetic reasons are claimed to be largely responsible for social deviance
+version https://git-lfs.github.com/spec/v1
+oid sha256:9127063075e6c55ac3f1045e922744fda74ab47fe9e4dd36401e8a8ac1d61c06
+size 351

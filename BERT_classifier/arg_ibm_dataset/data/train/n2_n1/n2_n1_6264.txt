@@ -1,1 +1,3 @@
-Aquinas observed that, in nature, there were things with contingent existences. Since it is possible for such things not to exist, there must be some time at which these things did not in fact exist. Thus, according to Aquinas, there must have been a time when nothing existed. If this is so, there would exist nothing that could bring anything into existence. Contingent beings, therefore, are insufficient to account for the existence of contingent beings: there must exist a necessary being whose non-existence is an impossibility, and from which the existence of all contingent beings is derived a god created the Universe
+version https://git-lfs.github.com/spec/v1
+oid sha256:88256a6cddeab9a7a8bd3e73c7a85a169d4b77d615b4c480a0ed4f079983bdeb
+size 626

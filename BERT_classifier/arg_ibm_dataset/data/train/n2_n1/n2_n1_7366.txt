@@ -1,1 +1,3 @@
-In US News & World Report, physician Bernadine Healy states, "Both as doctor and mother, I can't help but believe that our anything-goes society, in which impulses are immediately satisfied and sex is divorced from love and bonding, is simply not healthy physically, emotionally, or spiritually."[REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d69e73ace7328c4024103174af57f5920039716080eafe2699a77b95c8342b1
+size 400

@@ -1,1 +1,3 @@
-The first federal Flag Protection Act was passed by Congress in 1968 in response to protest burnings of the flag at demonstrations against the Vietnam War [REF]. Over time, 48 of the 50 U.S. states also enacted similar flag protection laws. All of these statutes were overturned by the Supreme Court of the United States by a 5-4 vote in the case Texas v. Johnson, 491 U.S. 397 (1989) as unconstitutional restrictions of public expression. Congress responded to the Johnson decision by passing a Flag Protection Act, only to see the Supreme Court reaffirm Johnson by the same 5-4 majority in United States v. Eichman, 496 U.S. 310 (1990), declaring that flag burning was constitutionally-protected free speech Flag burning is constitutionally-protected free speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:6670a26871f0618cf1f26b6704d91b472987582e6d8fa20bf2f71ae4f0d252af
+size 764

@@ -1,1 +1,3 @@
-Tanzanian President Jakaya Kikwete said in the statement: "Tanzania believes that there is no military solution to Palestine-Israel conflict and that such actions (ongoing fighting) serve only to increase tension in the region The attacks would not contribute to the security of Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:179d750633d7a7c89b60636c564c739667451213acad5fc45b49e476354a43f3
+size 285

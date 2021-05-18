@@ -1,1 +1,3 @@
-non-aligned movement passed a resolution condemning Israeli violence as "aggressive escalation" [REF Israel's response was excessive
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8b8b78580dd4be998f0302dc9ce29563e3e040930e384d82a0342788443367e
+size 132

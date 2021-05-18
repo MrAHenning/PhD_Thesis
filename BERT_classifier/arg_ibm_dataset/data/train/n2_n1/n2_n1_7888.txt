@@ -1,1 +1,3 @@
-Non-smokers who are exposed to second-hand smoke at home or work increase their heart disease risk by 25–30% and their lung cancer risk by 20–30%. Second-hand smoke has been estimated to cause 38,000 deaths per year, of which 3,400 are deaths from lung cancer in non-smokers [REF Tobacco is the single greatest cause of preventable death globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7606451c0dabcc1a97736a2abaa0d504847bed209e0deab1da994bafd201343
+size 350

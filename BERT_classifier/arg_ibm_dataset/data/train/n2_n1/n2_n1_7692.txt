@@ -1,1 +1,3 @@
-According to the Intergovernmental Panel on Climate Change deforestation, mainly in tropical areas, could account for up to one-third of total anthropogenic carbon dioxide emissions [REF Deforestation is often cited as one of the major causes of the enhanced greenhouse effect
+version https://git-lfs.github.com/spec/v1
+oid sha256:5789921ba0ff2d50dbdbf6459d3a6276616bf857b867b18563509cca27afa201
+size 276

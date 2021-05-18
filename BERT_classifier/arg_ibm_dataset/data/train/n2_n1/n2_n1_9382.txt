@@ -1,1 +1,3 @@
-As of 2002, U.S. Term Limits found that in the 17 states where state legislators served in rotation, public support for term limits ranged from 60 to 78 percent [REF term limits continue to garner popular support
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bbb1b2b25ed772f1951ddc944460d4c44c98829032c80703ea0b1db75cc8b00
+size 212

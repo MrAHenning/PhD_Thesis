@@ -1,1 +1,3 @@
-The United Nations Office for the Coordination of Humanitarian Affairs reported that the Gaza humanitarian crisis is significant and should not be understated. It also states that the situation is a "human dignity crisis" in the Gaza strip, entailing "a massive destruction of livelihoods and a significant deterioration of infrastructure and basic services". Fear and panic are widespread; 80% of the population could not support themselves and were dependent on humanitarian assistance [REF the livelihoods and assets of tens of thousands of Gaza civilians have been affected
+version https://git-lfs.github.com/spec/v1
+oid sha256:1802f837ebb246c76722e5ab9b0532d7274130cd9ea9a576040716f31521d6b6
+size 577

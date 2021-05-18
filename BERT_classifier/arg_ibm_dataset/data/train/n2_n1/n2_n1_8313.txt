@@ -1,1 +1,3 @@
-In a 2009 interview, Major General Ido Nehushtan said that the only use of non-precision-guided munitions from the Israeli Air Force was in open areas [REF]. He went on to say: "We had to find ways to do things as precisely and proportionately as possible, while focusing on how to differentiate between terrorists and uninvolved civilians [REF During Operation Cast Lead, the Israeli Defense Forces did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:f90e161e8d0d9af84f86b67c00a8a602a409875170d24683a2a21f8e104ba5f3
+size 508

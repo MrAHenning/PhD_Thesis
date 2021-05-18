@@ -1,1 +1,3 @@
-On the 8th of January, 2009, the Pope's justice minister, Cardinal Renato Martino, sharply criticised Israel's actions and likened the Gaza Strip to a "big concentration camp" [REF Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:4736456dd432ed8a71f8f564572c7df7e052f4b8f690c3d86b451abd96e306f0
+size 248

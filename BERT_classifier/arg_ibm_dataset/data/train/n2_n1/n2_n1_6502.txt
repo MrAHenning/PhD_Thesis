@@ -1,1 +1,3 @@
-The UK Energy Research Centre (UKERC) study of intermittency also states that wind energy can displace fossil fuel-based generation, reducing both fuel use and carbon dioxide emissions.  [REF Producing electricity from wind reduces the consumption of fossil fuels and therefore leads to emissions savings
+version https://git-lfs.github.com/spec/v1
+oid sha256:99d7cff3cef466b5592f4048e006a70444a19593cacf0896f84f5c947aa76940
+size 304

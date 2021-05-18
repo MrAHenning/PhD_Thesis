@@ -1,1 +1,3 @@
-By the 1890s, hernia, bladder infections, kidney stones, insomnia, chronic indigestion, rheumatism, epilepsy, asthma, bedwetting, Bright's disease, erectile dysfunction, syphilis, insanity, and skin cancer had all been linked to the foreskin, and many physicians advocated universal circumcision as a preventive health measure Circumcision insures better health
+version https://git-lfs.github.com/spec/v1
+oid sha256:569be14d62d0213eed772152e837f768380b0f631ecc83411413e308c936d90e
+size 361

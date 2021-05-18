@@ -1,1 +1,3 @@
-On 10 January, the United States House of Representatives voted 390 to 5 with 22 abstaining in favor of a resolution "recognising Israel's right to defend itself against attacks from Gaza" [REF Israel's legitimate right to self-defence is undisputable
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf3d5d721add1848fb7f4bd3a3a4578f47e6a16177dde8b1cd65eda473b5f35
+size 251

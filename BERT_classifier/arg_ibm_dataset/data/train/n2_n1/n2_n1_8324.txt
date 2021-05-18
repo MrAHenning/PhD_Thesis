@@ -1,1 +1,3 @@
-In a damage assessment by the World Health Organization, 48% of the 122 health facilities assessed were found to be damaged or destroyed, 15 of Gaza's 27 hospitals and 41 primary health care centers suffered damages, and 29 ambulances were partially damaged or destroyed [REF During Operation Cast Lead, the Israeli Defense Forces did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:5288f95ef58446cc1d6ebf1fcc621c966ea9e098a39710cfdc6b0cfa559877a5
+size 439

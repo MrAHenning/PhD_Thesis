@@ -1,1 +1,3 @@
-The International Committee of the Red Cross also notes that "90% of Gaza's 4000 fishermen are now considered either poor (with a monthly income of between 100 and 190 US dollars) or very poor (earning less than 100 dollars a month), up from 50% in 2008." Nezar Ayyash, head of Gaza's fishermen's union, is quoted as saying that he has been arrested and his boat confiscated several times [REF the blockade of Gaza is causing "unacceptable suffering
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae7dc0648e3ba3a10dca92e92b1ace90bb5a1b329ee0a72b4d243af713c129e1
+size 449

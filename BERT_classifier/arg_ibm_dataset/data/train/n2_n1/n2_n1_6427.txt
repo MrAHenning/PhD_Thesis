@@ -1,1 +1,3 @@
-In 1950 Jacob Viner showed that a trading bloc mutually lowering tariffs would produce gains not merely on the demand side but also on the supply side free trade gives optimal economic advantages
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c4a4bd16aeb523282f026344a5cfe70a4a5094b80f9031aae13cc148c94610
+size 195

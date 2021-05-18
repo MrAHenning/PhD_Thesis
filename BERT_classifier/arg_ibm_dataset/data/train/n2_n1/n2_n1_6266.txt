@@ -1,1 +1,3 @@
-One example among many of a formulation of the problem of evil is often attributed to Epicurus[REF] and may be schematized as follows:  If an all-powerful and perfectly good god exists, then evil does not.  There is evil in the world.  Therefore, an all-powerful and perfectly good god does not exist The existences of a god and of evil are logically incompatible
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa48a156d746687340fd23bd1ca5f359eea235b6eaae635d456bbfe1e805dbf0
+size 363

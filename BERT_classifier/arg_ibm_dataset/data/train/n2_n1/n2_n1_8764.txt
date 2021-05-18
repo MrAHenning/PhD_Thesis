@@ -1,1 +1,3 @@
-The Non-Aligned Movement voiced its strong condemnation of the escalation of the Israeli military aggression in the Gaza Strip and called upon Israel to end the collective punishment of the Palestinian people [REF the reaction of the armed forces of Israel was condemned as "disproportional
+version https://git-lfs.github.com/spec/v1
+oid sha256:751a39cbb90f0887ef0697fb97c0cb5c66e99050280a2e4cf1c460d562eb979a
+size 290

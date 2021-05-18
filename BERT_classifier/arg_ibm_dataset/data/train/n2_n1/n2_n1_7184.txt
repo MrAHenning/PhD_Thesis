@@ -1,1 +1,3 @@
-The 300-page Turkel Committee report found the actions of the Israeli Navy in the raid and Israel's naval blockade of Gaza were both legal under international law The Israeli blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7dd5e37d0b64e06bc531d8925ac11c89a3db12ae876772879c65ba80be5dc20
+size 192

@@ -1,1 +1,3 @@
-On December 30, India released a second statement condemning what it called Israel's "disproportionate" and "indiscriminate" use of force, and expressed disappointment at the large number of civilian casualties [REF Israel's actions were causing unjustifiable deaths among the civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c98a665ad514157788a8e600aa09cbb69cb49e47fcedb4a68a0bec35155c666
+size 286

@@ -1,1 +1,3 @@
-on Victoria Day 2001, Manley said on CBC Radio that he believed that hereditary succession was outdated Monarchy is viewed as outdated and irrelevant
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8fc2068e4e578e7fdd0accd27e744c8cbcca68bb0f6ebe10663440af63b5d02
+size 149

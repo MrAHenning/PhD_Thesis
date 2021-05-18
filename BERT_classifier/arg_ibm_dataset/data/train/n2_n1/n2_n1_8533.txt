@@ -1,1 +1,3 @@
-President George W. Bush initially focused blame for the conflict on Hamas, while reasserting the United States' support of Israel's right to protect itself [REF Israel has the right to take military action against attacks on locations where its civilians live
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7c2fedcd55e90d3f0da7c5764cdbb54b5d2cb834ed3bea32a7f0f3f001891d3
+size 260

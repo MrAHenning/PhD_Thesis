@@ -1,1 +1,3 @@
-According to Travis Hirschi, humans are selfish beings, we all make decisions based on which choice will give us the greatest benefit to our needs or wants. A good example of control theory would be that people go to work. Most people do not want to go to work, but they do, because they get paid, to obtain food, water, shelter, and clothing. The people that do not have a job or income will commit deviant acts in order to get what they need to survive The people that do not have a job or income will commit deviant acts in order to get what they need to survive
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8c2e866459d2a0064e77bf2c201d55e0f6c20da8b092b7373afc23dc0c830c7
+size 565

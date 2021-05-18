@@ -1,1 +1,3 @@
-An earthquake in 2003 in Bam, Iran left tens of thousands of people in need of disaster zone aid. Although aid was flown in rapidly, regional belief systems, cultural backgrounds and even language seemed to have been omitted as a source of concern. Items such as religiously prohibited pork, and non-generic forms of medicine that lacked multilingual instructions came flooding in as relief. An implementation of aid can easily be problematic, causing more problems than it solves [REF Aid did not do what it was intended to do or help the people it was intended to help
+version https://git-lfs.github.com/spec/v1
+oid sha256:434fd1866c8b342c0ce0aa2c04281a350d93d957cec505a893f686d8ef61429f
+size 570

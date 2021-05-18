@@ -1,1 +1,3 @@
-The Labour Party passed the Sex Discrimination (Election Candidates) Act 2002, allowing them to use all-women shortlists to select more women as election candidates Affirmative action helps to compensate for past discrimination, persecution or exploitation by the ruling class of a culture
+version https://git-lfs.github.com/spec/v1
+oid sha256:340167ac57c69d78fb49ede2f853a53ad7d3054b9f30496a5a272b12f8426753
+size 289

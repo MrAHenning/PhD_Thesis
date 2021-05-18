@@ -1,1 +1,3 @@
-According to Huntington, multiculturalism has "attacked the identification of the United States with Western civilization, denied the existence of a common American culture, and promoted racial, ethnic, and other subnational cultural identities and groupings."[REF Multiculturalism threatens social cohesion
+version https://git-lfs.github.com/spec/v1
+oid sha256:27650e0633ad035fafb7b64d6ae7fbdf81c47ba67ac5d9aeadac6740cded2827
+size 307

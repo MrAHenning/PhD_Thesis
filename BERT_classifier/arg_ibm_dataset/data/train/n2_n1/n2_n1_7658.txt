@@ -1,1 +1,3 @@
-The American Urological Association (May 2007) states there are benefits and risks to circumcision this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d0d428f863c726cf2de117e2e1099ae70186058bd24ac4aaf559c8c5e20031c
+size 158

@@ -1,1 +1,3 @@
-Sachs argues that sufficient foreign aid can make up for the lack of capital in poor countries, maintaining that, “If the foreign assistance is substantial enough, and lasts long enough, the capital stock rises sufficiently to lift households above subsistence If the foreign assistance is substantial enough, and lasts long enough, the capital stock rises sufficiently to lift households above subsistence
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64e2ad3970e16917d88c7fd795564f44de6b522d33f270ad685e69cd4e9e676
+size 408

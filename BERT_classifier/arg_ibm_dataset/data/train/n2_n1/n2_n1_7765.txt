@@ -1,1 +1,3 @@
-A few, such as Belgian Cardinal Godfried Danneels, believe the Catholic Church should actively support condoms used to prevent disease, especially serious diseases such as AIDS [REF The use of condoms is encouraged to prevent transmission of HIV
+version https://git-lfs.github.com/spec/v1
+oid sha256:de6c3eb1494d2721dfc41dc0f26e7441f33c5c182ca777609c913a1256b3b40b
+size 245

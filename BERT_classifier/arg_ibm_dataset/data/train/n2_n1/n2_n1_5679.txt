@@ -1,1 +1,3 @@
-In a study by Grinols, it was found that in the US, even though a state may not want to support a gambling institution, it would be economically beneficial for them to do so Money from gambling goes directly towards stimulating the economy
+version https://git-lfs.github.com/spec/v1
+oid sha256:a66f358de534558024436ee42a8248da20d4d40f0f2bf348d8f91670442e3006
+size 239

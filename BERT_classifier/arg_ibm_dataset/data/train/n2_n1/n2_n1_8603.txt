@@ -1,1 +1,3 @@
-On December 27, an official government source stated that "Syria follows, with deep concern, the brutal Israeli aggression on the Palestinian people in Gaza and stresses that what is going on is a heinous crime and convicted terrorist act. Syria condemns this appalling crime and calls on the Arab nations and the International community to use all available means to pressure Israel to stop this aggression immediately, allow the transfer of the injured and ensure them medical care, and open all crossings to allow the access of foodstuffs and health needs to the besieged Palestinian people nothing justifies the suffering inflicted to civilian populations who live trapped in the Gaza strip
+version https://git-lfs.github.com/spec/v1
+oid sha256:873381fc90d4c9bcb00f74e8a2e796c2bbaab247419531a7261a1a2d5b2667f5
+size 694

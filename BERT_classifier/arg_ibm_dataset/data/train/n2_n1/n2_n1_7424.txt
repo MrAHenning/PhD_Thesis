@@ -1,1 +1,3 @@
-An article in Population Reports suggests that education on condom use reduces behaviors that increase the risk of breakage and slippage [REF education on condom use reduces behaviors that increase the risk of breakage and slippage
+version https://git-lfs.github.com/spec/v1
+oid sha256:abbb4719a412f939c2a38e4cda02c201812f7525fe4055ad08713469b3371fe4
+size 231

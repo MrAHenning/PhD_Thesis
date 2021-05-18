@@ -1,1 +1,3 @@
-According to Gerbert van der Aa, for the Netherlands, only 33% of the development aid is successful, another 33% fails and of the remaining 33% the effect is unclear. This means that for example for the Netherlands, 1.33 to 2.66 billion is lost as it spends 4 billion in total of development aid (or 0,8% of the gross national product) [REF a very large part of the spend money on development aid is simply wasted uselessly
+version https://git-lfs.github.com/spec/v1
+oid sha256:c6d51de00873693c792e35c604d10738509dfa34005abef4b6b7bd15868d1061
+size 423

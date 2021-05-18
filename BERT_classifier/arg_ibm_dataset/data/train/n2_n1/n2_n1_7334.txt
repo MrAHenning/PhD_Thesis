@@ -1,1 +1,3 @@
-prominent professional associations in the fields of medicine, public health, adolescent health, and psychology, argue that such programs fail to provide adequate information to protect the health of adolescents abstinence-only education is ineffective
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f9497d1b6fd8c7409f34470d920b2e3dc9d821dd42fd6aadb9e67f390d729a4
+size 252

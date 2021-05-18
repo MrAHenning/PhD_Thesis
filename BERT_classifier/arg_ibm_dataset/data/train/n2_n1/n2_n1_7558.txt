@@ -1,1 +1,3 @@
-Professor Brian Morris, author of In Favour of Circumcision, asserts that circumcision confers many medical benefits including reduced risk of UTIs, penile cancer, HIV, balanitis, posthitis, phimosis, and prostate cancer and argues that circumcision has sexual benefits [REF]. Morris also claims that circumcision prevents "physical problems" such as "Bathroom splatter" and "Zipper injury" [REF circumcision prevents "physical problems
+version https://git-lfs.github.com/spec/v1
+oid sha256:b405701ca81a93fda25c96c7b907bc5fe864cd3e3a0f101736fe1eb897aa629c
+size 436

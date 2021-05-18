@@ -1,1 +1,3 @@
-There is substantial research suggesting that religious people are happier and less stressed [REF religion is a positive civilizing influence on society
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f4c0ed02294429e0683d0beb2b1224312a279c64e518c24922563c79de4533d
+size 152

@@ -1,1 +1,3 @@
-The findings of the Palmer report on the legality of the blockade were disputed by a panel of five UN human rights experts, who said that the blockade amounted to a "flagrant contravention of international human rights and humanitarian law" [REF]. The panel said the Palmer report failed to recognize that the naval blockade was part of Israel's closure policy toward Gaza, which disproportionately affects civilians The blockade is considered illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:24fd035218767d09012821450d87ab4ddd736470bac90ce21669f9f656740367
+size 451

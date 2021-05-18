@@ -1,1 +1,3 @@
-While maintaining procreation as the primary function of intercourse, the December 1930 encyclical Casti Connubii by Pope Pius XI gave the highest form of recognition to a secondary—unitive—purpose of sexual intercourse God created sexual intercourse to be both unitive and procreative
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6080b044edccca94aba185035f9c876b574a20b4f08de6d64541398630f6887
+size 289

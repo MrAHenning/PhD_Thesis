@@ -1,1 +1,3 @@
-Conservative Supreme Court Justice Clarence Thomas, the only current black Justice, opposes affirmative action. He believes the Equal Protection Clause of the Fourteenth Amendment forbids consideration of race, such as race-based affirmative action or preferential treatment. He also believes it creates "a cult of victimization" and implies blacks require "special treatment in order to succeed affirmative action devalues the accomplishments of people who belong to a group it's supposed to help
+version https://git-lfs.github.com/spec/v1
+oid sha256:62d82dd4c523d6edfc00709b8750fc6de3ec813a4190422de63288557d4dbaee
+size 497

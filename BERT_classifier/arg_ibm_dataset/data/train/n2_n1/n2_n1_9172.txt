@@ -1,1 +1,3 @@
-some academics continue to argue that ASEAN's non-interference principle has worsened efforts to improve in the areas of Burma, human rights abuses and haze pollution in the region ASEAN is criticised for being too soft in its approach to promoting human rights and democracy
+version https://git-lfs.github.com/spec/v1
+oid sha256:736e75c55731594bff5d240c68774a722acca01b67470b564821f22f64d5873f
+size 275

@@ -1,1 +1,3 @@
-In a letter to Edward Livingston Madison further expanded, "We are teaching the world the great truth that Govts. do better without Kings & Nobles than with them. The merit will be doubled by the other lesson that Religion flourishes in greater purity, without than with the aid of Govt."[REF practical distinction between Religion and Civil Government is essential to the purity of both
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7a7b5f2b646bc97fea0097f84d586c61034eef99f0262301bd8ba8f8aecf8b5
+size 387

@@ -1,1 +1,3 @@
-Most economists, including Nobel prize winners Milton Friedman and Paul Krugman, believe that free trade helps workers in developing countries free trade helps workers in developing countries
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab2b23f0a92c255b8477dd7e630e60dd64ffd8c56c138c2b1ed5c291bad14a20
+size 191

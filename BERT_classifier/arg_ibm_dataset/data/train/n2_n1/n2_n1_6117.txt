@@ -1,1 +1,3 @@
-Berkeley argued that the universe is based upon observation and is non-objective. However, he noted that the universe includes "ideas" not perceptible to mankind (or not always perceptible), and that there must therefore exist an omniscient superobserver, which perceives such things The universe includes ideas not perceptible to mankind (or not always perceptible), and there must therefore exist an omniscient superobserver
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfe7212fe6017902c83ddf78b16a0d95d8ff28fbd61f320e683582b93a71cdff
+size 426

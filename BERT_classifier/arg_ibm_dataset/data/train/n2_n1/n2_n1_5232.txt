@@ -1,1 +1,3 @@
-David Pimentel,[REF] Professor Emeritus at Cornell University, has stated that "With the imbalance growing between population numbers and vital life sustaining resources, humans must actively conserve cropland, freshwater, energy, and biological resources. There is a need to develop renewable energy resources. Humans everywhere must understand that rapid population growth damages the Earth's resources and diminishes human well-being."[REF][REF Overpopulation is seen as a serious threat to the quality of human life
+version https://git-lfs.github.com/spec/v1
+oid sha256:79a4a109ec9e6bf51d8a3bc448b0c5801b525269d773c7cba8f5548ee0360c4e
+size 519

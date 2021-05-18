@@ -1,1 +1,3 @@
-In an extensive series of studies of large, nationally representative samples of crime incidents, criminologist Gary Kleck found that crime victims who defend themselves with guns are less likely to be injured or lose property than victims who either did not resist, or resisted without guns. This was so, even though the victims using guns typically faced more dangerous circumstances than other victims. The findings applied to both robberies and assaults [REF Laws that forbid the carrying of arms make things worse for the assaulted and better for the assailants
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b1d0b192f92c3bd5570ce75d8826a8622ac04dd40898bbd9b8de910503228d9
+size 566

@@ -1,1 +1,3 @@
-Some Democrats from core Democratic districts oppose the American Jobs Act because it gives more tax breaks, thus contributing more to the federal deficit The American Jobs Act gives more tax breaks, thus contributing more to the federal deficit
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ed211dbb9195e0c38d753529439abead97ae7112e2c3a3c8afe8e598de59a09
+size 245

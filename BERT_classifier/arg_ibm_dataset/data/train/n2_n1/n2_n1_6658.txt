@@ -1,1 +1,3 @@
-In a New England Journal of Medicine article, Kellermann found that people who keep a gun at home increase their risk of homicide [REF increased gun ownership leads to higher levels of crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b4270e95f1276fb8c2094b28af9cc72a4e70ea04d5db598ccdefbc00deabd2d
+size 190

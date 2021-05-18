@@ -1,1 +1,3 @@
-Led by Madison Grant's book, The Passing of the Great Race nativists grew more concerned with the racial purity of the United States. In his book, Grant argued that the American racial stock was being diluted by the influx of new immigrants from the Mediterranean, the Balkans, and the Polish ghettos Immigrants can swamp a native population and replace its culture with their own
+version https://git-lfs.github.com/spec/v1
+oid sha256:81146909a63cc3653c9be698e09398032cc7c8598524b95597ca3d16242eb9c5
+size 380

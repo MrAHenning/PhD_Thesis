@@ -1,1 +1,3 @@
-For Bauer, government-to-government aid was neither necessary nor sufficient for development, and may actually hinder it Government-to-government aid is neither necessary nor sufficient for development
+version https://git-lfs.github.com/spec/v1
+oid sha256:132c9668c9a7e88082daeb68db137813bb372ccb7a8941af83b867f1c86b654c
+size 201

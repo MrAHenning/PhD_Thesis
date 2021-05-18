@@ -1,1 +1,3 @@
-EU Humanitarian aid chief Louis Michel called the destruction left by Israel's offensive "abominable Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:e180fc1e2a066dacd8e77b701d5c8635c2a82745737bf69a34f7758a33216f64
+size 168

@@ -1,1 +1,3 @@
-The British Medical Association (BMA) states that "it is now widely accepted, including by the BMA, that this surgical procedure has medical and psychological risks."[REF this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:242e75a75464adf9594030e8c01236947b2f37771eb9f84d4f3e29cce7ead7a8
+size 230

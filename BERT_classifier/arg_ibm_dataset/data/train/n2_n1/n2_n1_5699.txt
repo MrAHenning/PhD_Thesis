@@ -1,1 +1,3 @@
-Legal representatives of asylum seekers, such as the UNHCR and the Committee for Civic Assistance, complain that individuals with legitimate claims are being denied asylum without just cause – and where a showing of persecution upon return to their home country is clear and apparent application for asylum could be denied regardless of the legitimacy of their claim
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf792d5787ae9f130f0077c3c56f594c375a842029ce7ae71160a48fb65de8d9
+size 368

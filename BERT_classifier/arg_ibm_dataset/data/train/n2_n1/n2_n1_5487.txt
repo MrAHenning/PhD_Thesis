@@ -1,1 +1,3 @@
-Dr. Bill O'Neill, boxing spokesman for the British Medical Association, has supported the BMA's proposed ban on boxing: "It is the only sport where the intention is to inflict serious injury on your opponent, and we feel that we must have a total ban on boxing."[REF Medical Associations have called for bans on boxing
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2a9a57c286c472f0c59479acc2381c6c1f1a1d6eaf9067c041a18c0b245c8da
+size 318

@@ -1,1 +1,3 @@
-In Washington, National Security Council spokesman Gordon Johndroe expressed regret for loss of civilian life on both sides but put most of the blame on the Palestinians. "There is a clear distinction between terrorist rocket attacks that target civilians and action in self-defense," he said in a statement [REF Israel's right to defend itself is recognized
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2f645ca38d6c9014f8b7a80b908b801430c2095fab51adfeb61f2c3b781f60
+size 358

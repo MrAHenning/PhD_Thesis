@@ -1,1 +1,3 @@
-Economists have also shown that IP can be a disincentive to innovation when that innovation is drastic IP can be a disincentive to innovation
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2c590697987b3a8a8d816a8de9d27a6327a67ee1fcb5f8eee45a00de14ab258
+size 141

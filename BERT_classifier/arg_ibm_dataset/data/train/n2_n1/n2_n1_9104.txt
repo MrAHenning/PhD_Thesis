@@ -1,1 +1,3 @@
-Ken McVay, an American resident in Canada, was disturbed by the efforts of organizations like the Simon Wiesenthal Center to suppress the speech of the Holocaust deniers, feeling that it was better to confront them openly than to try to censor them. On the Usenet newsgroup alt.revisionism he began a campaign of "truth, fact, and evidence," working with other participants on the newsgroup to uncover factual information about the Holocaust and counter the arguments of the deniers by proving them to be based upon misleading evidence, false statements, and outright lies It is incorrect to force only one view
+version https://git-lfs.github.com/spec/v1
+oid sha256:157e349e66d92aa8784286118ab202771a33d58d77e7deeab90519e99389df6b
+size 611

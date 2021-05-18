@@ -1,1 +1,3 @@
-Dr. Gary Kleck, a criminologist at Florida State University, estimated that approximately 2.5 million people used their gun in self-defense or to prevent crime each year, often by merely displaying a weapon making civilian ownership of firearms illegal would increase the crime rate
+version https://git-lfs.github.com/spec/v1
+oid sha256:7524dfe3035e4effe5760839bb694a32aeb695785de9881c3580f643e4f131a1
+size 282

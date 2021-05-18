@@ -1,1 +1,3 @@
-While teens may believe that their sexual activities are fine at the time, Lukas cautions that they may feel very differently in time and may regret the choices they made [REF]. She points to research that shows 2/3 of sexually active girls wish they had waited longer before having sex [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:638a2e489e1ec479bce934a2dc0ee7bed4a9e1df8fb29f79e8720f27df498df2
+size 391

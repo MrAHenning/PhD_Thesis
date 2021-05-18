@@ -1,1 +1,3 @@
-some academics continue to argue that ASEAN's non-interference principle has worsened efforts to improve in the areas of Burma, human rights abuses and haze pollution in the region the organisation is "big on words but small on action
+version https://git-lfs.github.com/spec/v1
+oid sha256:f67b9f52fac8fc2d21cdf84daef0ff47f046c7fd024fcfdc692a7ad218403463
+size 234

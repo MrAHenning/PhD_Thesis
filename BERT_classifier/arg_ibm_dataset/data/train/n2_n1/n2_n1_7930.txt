@@ -1,1 +1,3 @@
-For Mill, the only instance in which speech can be justifiably suppressed is in order to prevent harm from a clear and direct threat Speech can be justifiably suppressed in order to prevent harm from a clear and direct threat
+version https://git-lfs.github.com/spec/v1
+oid sha256:efba6b53106b47971e35bfb87cf66e36b16634dc5c0c0db451c9539577b0602a
+size 225

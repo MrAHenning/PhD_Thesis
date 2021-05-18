@@ -1,1 +1,3 @@
-Gambian President Yahya Jammeh has called on "civilised members of the human race" to rise up against "this holocaust that has been unleashed on the helpless Palestinians, whose lands, human dignity and right to peaceful and dignified existence in their own country are being blatantly violated with impunity Israel's attacks represent a severe and massive violation of the International Humanitarian Law
+version https://git-lfs.github.com/spec/v1
+oid sha256:39940dfc666dfbd814b5a15e10b6dd7ac6d55aa3b87d8011853937897c40bd7e
+size 404

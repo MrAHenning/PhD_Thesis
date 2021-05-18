@@ -1,1 +1,3 @@
-During the 1992 U.S. presidential election, Vicki G. Morwitz and Carol Pluzinski conducted a study, which was published in The Journal of Consumer Research. At a large northeastern university, some of 214 volunteer business students were given the results of student and national polls indicating that Bill Clinton was in the lead. Others were not exposed to the results of the polls. Several students who had intended to vote for Bush changed their minds after seeing the poll results (Morwitz and Pluzinski 58-64 poll results (whether accurate or inaccurate) can significantly influence election results in closely contested elections
+version https://git-lfs.github.com/spec/v1
+oid sha256:c67d613152ef81c48022a8cc9f06f765c270719c95f806a5e4841d7a0ccd975d
+size 636

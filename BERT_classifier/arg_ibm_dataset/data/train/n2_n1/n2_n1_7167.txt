@@ -1,1 +1,3 @@
-As of November 2010, Israel has failed to satisfy the commitment it made in June to ease its blockade of the Gaza strip, according to Catherine Ashton, the European Union's High Representative for Foreign Affairs and Security Policy. Ashton announced that inadequate amounts of goods are entering Gaza to meet Gaza's humanitarian and reconstruction needs inadequate amounts of goods are entering Gaza to meet Gaza's humanitarian and reconstruction needs
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd1c41ae12e2f5427afc88fe9e6fb7bd244881f39ff35df49cf21649502d5261
+size 453

@@ -1,1 +1,3 @@
-On the floor of the UN General Assembly, Panama "condemned the attacks of Hamas and supported Israel's right to defend itself No country can just passively accept being fired on
+version https://git-lfs.github.com/spec/v1
+oid sha256:b873ac5d61b861d759af383abca60cc3a9db125e1c6d5f8cdfba168ca557b3c9
+size 177

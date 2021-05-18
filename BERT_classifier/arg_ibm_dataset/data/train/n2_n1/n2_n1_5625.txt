@@ -1,1 +1,3 @@
-Although the term gambling addiction is common in the recovery movement,[REF] pathological gambling is considered by the American Psychiatric Association to be an impulse control disorder rather than an addiction [REF Pathological gambling is similar to many other impulse control disorders
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e4e2af7ae519967d22297f132b3833593e10688303b54002f4e6bee15fcdc0b
+size 290

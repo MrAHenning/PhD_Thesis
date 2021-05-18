@@ -1,1 +1,3 @@
-In April 2010, the director of the Federal Office for Migration (BFM), Alard du Bois-Reymond, issued a statement on the large number of unfounded requests for asylum by nationals of Nigeria in particular.  Du Bois-Reymond said that 99.5% of asylum seekers of Nigerian origin were abusing the asylum system, entering Switzerland with the intention of pursuing petty crime and drug dealing [REF immigrants have high rates of criminality
+version https://git-lfs.github.com/spec/v1
+oid sha256:5284265c2809638e472bdb11f31765dd69901eea615d478d499656d8369907de
+size 434

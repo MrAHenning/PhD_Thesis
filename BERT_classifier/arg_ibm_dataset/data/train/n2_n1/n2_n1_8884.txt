@@ -1,1 +1,3 @@
-In May 2007, a significant increase in rocket attacks from Gaza prompted the temporary evacuation of thousands of residents from Sderot [REF]. According to the United Nations, 40 percent of the city's residents left in the last two weeks of May [REF]. During the summer of 2007, 3,000 of the city's 22,000 residents (comprising mostly the city's key upper and middle class residents) left for other areas, out of rocket range Life in the south under rocket barrages had become unbearable
+version https://git-lfs.github.com/spec/v1
+oid sha256:17f75d3c1164c12eea002380e274e67c1e3cb3377ad1cfd90c834561148f4ea1
+size 487

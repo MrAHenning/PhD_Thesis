@@ -1,1 +1,3 @@
-Somerville states that the removal of healthy genital tissue from a minor should not be subject to parental discretion and that physicians who perform the procedure are not acting in accordance with their ethical duties to the patient [REF Infant circumcision represents a human rights violation
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5fa51db4a7ec4fbd1d45273d038232f56a38567d0c2fb8873500a40d907a978
+size 295

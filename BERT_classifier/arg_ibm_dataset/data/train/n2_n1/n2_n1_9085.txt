@@ -1,1 +1,3 @@
-United Kingdom: Foreign Minister David Miliband announced his commitment to the “European values of freedom of speech” but said “in each of our countries” there are legal checks to ensure speech could not incite religious or racial hatred [REF Freedom of expression does not give anyone the licence to insult another's religion or race
+version https://git-lfs.github.com/spec/v1
+oid sha256:01f335015f1a990531a6e99258a4753017892fd157bbce584a1fe1d0d4288841
+size 343

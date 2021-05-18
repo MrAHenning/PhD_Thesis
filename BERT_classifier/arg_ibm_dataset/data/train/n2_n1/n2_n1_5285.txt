@@ -1,1 +1,3 @@
-Epidemiological evidence suggests that moderate exercise has a beneficial effect on the human immune system moderate exercise has a beneficial effect on the human immune system
+version https://git-lfs.github.com/spec/v1
+oid sha256:68caefc564e130a57845784dddac3d462ed21fbecf407a6fd8280bcd926ba2bf
+size 176

@@ -1,1 +1,3 @@
-In the Netherlands, the Royal Dutch Medical Association (KNMG) stated in 2010 that non-therapeutic male circumcision "conflicts with the child's right to autonomy and physical integrity non-therapeutic male circumcision "conflicts with the child's right to autonomy and physical integrity
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c47036d43b075f0776b192ef07f495cb0c36abbb60779a55bd26bab166a195a
+size 288

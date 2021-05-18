@@ -1,1 +1,3 @@
-In 1999, Cold and Taylor stated: "The prepuce is primary, erogenous tissue necessary for normal sexual function."[REF the foreskin is important for normal sexual activity
+version https://git-lfs.github.com/spec/v1
+oid sha256:42078b8e63b6641d390ba68d8ee9bbbfc3b1f277e02894711b73fd84f1bbf66c
+size 170

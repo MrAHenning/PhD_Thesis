@@ -1,1 +1,3 @@
-Planned Parenthood, which advocates family planning and sex education, argues that no studies have shown abstinence-only programs to result in delayed intercourse no studies have shown abstinence-only programs to result in delayed intercourse
+version https://git-lfs.github.com/spec/v1
+oid sha256:e894733137f48cfdee0458024290b57e13c36c559020c4040cb56d277cabd072
+size 242

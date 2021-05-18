@@ -1,1 +1,3 @@
-In 1999, the legal philosopher Paul Cliteur attacked multiculturalism in his book The Philosophy of Human Rights [REF]. Cliteur rejects all political correctness on the issue: Western culture, the Rechtsstaat (rule of law), and human rights are superior to non-Western culture and values. They are the product of the Enlightenment. Cliteur sees non-Western cultures not as merely different but as anachronistic Human beings are equal; cultures are not
+version https://git-lfs.github.com/spec/v1
+oid sha256:474ebf9843c0198f9d0d6e51ba0ce874df9ab0953d1e02a5b67f0f4c7ab46e3e
+size 451

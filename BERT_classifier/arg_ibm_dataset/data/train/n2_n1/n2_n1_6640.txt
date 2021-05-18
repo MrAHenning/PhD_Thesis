@@ -1,1 +1,3 @@
-A position taken by some personal gun rights advocates and organizations including Mike Huckabee,[REF] Ron Paul,[REF] and Gun Owners of America[REF] is that an armed citizenry is the population's last line of defense against tyranny by their own government, as they believe was one of the main intents of the Second Amendment. This belief was also held by some of the authors of the Constitution the right to bear arms is necessary for the citizens to protect themselves from the "tyranny in government
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6045609059dff555dddd499724c2eb6519aec4d9dbfcb6b3a9f77555378c258
+size 502

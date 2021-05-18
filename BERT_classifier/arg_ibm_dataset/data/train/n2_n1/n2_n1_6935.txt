@@ -1,1 +1,3 @@
-EU Commissioner for Humanitarian Aid Kristalina Georgieva, said that she believes that the "humanitarian crisis..was artificially created because of the [Israeli] blockade the formal economy in Gaza has collapsed since the imposition of the blockade
+version https://git-lfs.github.com/spec/v1
+oid sha256:aff9a28dc8fbc55f5442928d4b2808d1894519ead751f55cce31c5fab789b0c8
+size 249

@@ -1,1 +1,3 @@
-55% of people in England and 43% of people in Scotland believe that "benefits for unemployed people are too high and discourage them from finding jobs" [REF Social welfare creates dependence to the state
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfcf33593b9e2cb321b2ab3fadd35e55f2b942c2e468833fb1844f317578c6ba
+size 203

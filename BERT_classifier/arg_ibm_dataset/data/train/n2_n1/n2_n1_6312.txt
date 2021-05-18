@@ -1,1 +1,3 @@
-In 1917, a number of radicals and anarchists, including Emma Goldman, challenged the new draft law in federal court arguing that it was a direct violation of the Thirteenth Amendment's prohibition against slavery and involuntary servitude Conscription represents slavery and involuntary servitude
+version https://git-lfs.github.com/spec/v1
+oid sha256:1394b9415a445dce1dfbe626346c42d06855be519190fb289d68fd30238b3ccb
+size 296

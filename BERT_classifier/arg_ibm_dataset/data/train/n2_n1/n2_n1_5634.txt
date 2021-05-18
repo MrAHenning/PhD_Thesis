@@ -1,1 +1,3 @@
-When New Hampshire authorized a state lottery in 1963, it represented a major shift in social policy. No state governments had previously directly run gambling operations to raise money. Other states followed suit, and now the majority of the states run some type of lottery to raise funds for state operations the majority of the states run some type of lottery to raise funds for state operations
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd21fddf21d345c14b37c9424e1b62c91b02fdfe8d3cbd67c83d6ee8546cc6ec
+size 398

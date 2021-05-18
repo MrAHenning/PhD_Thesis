@@ -1,1 +1,3 @@
-In the United States in 1999 the National Gambling Impact Study stated "the high-speed instant gratification of Internet games and the high level of privacy they offer may exacerbate problem and pathological gambling the high-speed instant gratification of Internet games and the high level of privacy they offer may exacerbate problem and pathological gambling
+version https://git-lfs.github.com/spec/v1
+oid sha256:e507564bef35cc1ffb04be2972db9bf9351166814ce849396b8728abda607d6f
+size 361

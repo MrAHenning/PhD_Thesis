@@ -1,1 +1,3 @@
-Another poll conducted by CNN in June 2006 found that 56% of Americans supported a flag desecration amendment [REF Americans support a flag desecration amendment
+version https://git-lfs.github.com/spec/v1
+oid sha256:31836d87db10d740ca9a592acadbf64f61632f2f25ae5c26ffba0dc1d5d56aa4
+size 161

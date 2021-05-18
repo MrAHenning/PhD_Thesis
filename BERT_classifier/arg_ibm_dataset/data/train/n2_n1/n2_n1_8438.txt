@@ -1,1 +1,3 @@
-President Asif Ali Zardari further said Israel's air raids on Gaza Strip have "violated the Charter of United Nations". He also urged the entire world to take swift action of Israel's raids on Gaza as it was as open violation of UN Charter [REF Israel's actions on the Gaza Strip must be characterised as war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa994583dbd98c7692ab5546975ac961c1789c69d6fffc9ae5b21b9c12dbf96b
+size 315

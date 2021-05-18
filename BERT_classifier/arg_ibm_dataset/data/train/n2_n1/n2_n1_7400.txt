@@ -1,1 +1,3 @@
-With all the issues and problems relating to adolescent sex, according to the Medical College of Wisconsin, "Ideally, they won’t be having sex, but if they are or intend to, the next best thing is that they understand the importance of protecting themselves against pregnancy, HIV and STDs."[REF Adolescents who begin having sexual intercourse need to understand the importance of using an effective contraceptive every time they have sex
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c17c93a64f1e5c8b8218deb3d4fca26541ae0ef3f631bc07b6b205ce815d1f7
+size 440

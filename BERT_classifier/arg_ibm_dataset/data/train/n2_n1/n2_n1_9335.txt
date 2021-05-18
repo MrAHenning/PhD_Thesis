@@ -1,1 +1,3 @@
-Hirschi argued a person follows the norms because they have a bond to society. The bond consists of four positively correlated factors: opportunity, attachment, belief, and involvement [REF]. When any of these bonds are weakened or broken one is more likely to act in defiance weak bonds between the individual and society free people to deviate
+version https://git-lfs.github.com/spec/v1
+oid sha256:92d7e9c33fe88dee0ae5db88cf5663bfdeea4eb3ba41098dfaa717969fb29fd3
+size 345

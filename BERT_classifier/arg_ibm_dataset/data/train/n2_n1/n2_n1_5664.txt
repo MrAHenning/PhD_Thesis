@@ -1,1 +1,3 @@
-On November 22, 2010, the New Jersey state Senate became the first such US body to pass a bill (S490) expressly legalizing certain forms of online gambling Various forms of online gambling are legal and regulated in many countries
+version https://git-lfs.github.com/spec/v1
+oid sha256:392327ef71855a328add98a33303145959de4fb58a3cd9a4e08e80b50afc6f3b
+size 230

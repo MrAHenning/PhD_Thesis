@@ -1,1 +1,3 @@
-On April 1, 2011, Goldstone retracted his claim that it was Israeli government policy to deliberately target citizens, saying "While the investigations published by the Israeli military and recognized in the U.N. committee’s report have established the validity of some incidents that we investigated in cases involving individual soldiers, they also indicate that civilians were not intentionally targeted as a matter of policy."[REF Israel disproportionately attacked civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:81ca75fc9927eb7e20cbd2c4c6888230bad99e2fa5e55c0dbd4f11ccbbb9ef29
+size 481

@@ -1,1 +1,3 @@
-In Germany, hundreds of thousands of people have invested in citizens' wind farms across the country and thousands of small and medium sized enterprises are running successful businesses in a new sector that in 2008 employed 90,000 people and generated 8 percent of Germany's electricity [REF Wind power has gained very high social acceptance
+version https://git-lfs.github.com/spec/v1
+oid sha256:8afc07594142a5587353fdb6143b1c2c74df93ea1d8ce032eb307b2ed5859a2b
+size 342

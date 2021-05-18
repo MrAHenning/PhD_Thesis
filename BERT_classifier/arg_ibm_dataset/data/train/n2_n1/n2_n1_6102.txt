@@ -1,1 +1,3 @@
-Sociologist Phil Zuckerman analyzed previous social science research on secularity and non-belief, and concluded that societal well-being is positively correlated with irreligion. His findings relating specifically to atheism include:[REF][REF]  Compared to religious people, "atheists and secular people" are less nationalistic, prejudiced, antisemitic, racist, dogmatic, ethnocentric, close-minded, and authoritarian.  In the US, in states with the highest percentages of atheists, the murder rate is lower than average. In the most religious US states, the murder rate is higher than average atheism is a superior basis for ethics
+version https://git-lfs.github.com/spec/v1
+oid sha256:67dc7e286038233ee423dcd05f65e44a3cdce40b9731c252bf9af0f60c7672fc
+size 633

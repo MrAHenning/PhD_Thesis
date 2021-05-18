@@ -1,1 +1,3 @@
-In June 2009, HRW issued a report entitled "Precisely wrong", presenting an investigation of six UAV attacks that resulted in large civilian death [REF]. HRW concluded that in the cases probed, Israeli forces either failed to take all feasible precautions to verify that the targets were combatants, or failed to distinguish between combatants and civilians and to target only the former; as a result, HRW deduce that these attacks were a violation of International Humanitarian Law [REF during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f31358ec1f59050d5e6ce8ccf1cfd0449de677104deba464ecc145c10790b9f
+size 632

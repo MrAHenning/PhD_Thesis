@@ -1,1 +1,3 @@
-Vietnam's Deputy Foreign Minister said, "We urged Israel to stop the excessive and disproportionate use of force, end its military operations and immediately withdraw forces from Gaza." Vietnam called on Israel to immediately lift its blockade and allow humanitarian workers into Gaza [REF Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:a053abe86defdec312477dcc93ece9c288080b573b61f177302071f47a45b4f8
+size 329

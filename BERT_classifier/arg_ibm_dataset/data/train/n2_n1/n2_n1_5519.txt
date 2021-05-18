@@ -1,1 +1,3 @@
-In 2000, Paul Scheffer — a member of the Labour Party and subsequently a professor of urban studies — published his essay "The multicultural tragedy",[REF] an essay critical of both immigration and multiculturalism. Scheffer is a committed supporter of the nation-state, assuming that homogeneity and integration are necessary for a society: the presence of immigrants undermines this Lack of integration threatens society
+version https://git-lfs.github.com/spec/v1
+oid sha256:df355d0b0dda495e42e8b4f950878ca7ec95e004c68956b07606098214a38ad7
+size 426

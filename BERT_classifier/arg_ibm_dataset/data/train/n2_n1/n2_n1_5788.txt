@@ -1,1 +1,3 @@
-One 1951 study found that instead of harming profits, unions increase the wages of about 10–15% of workers by reducing the wages of the remaining 85–90% of workers [REF unionized workers raise their own wages above their natural rate at the expense of their businesses or other workers
+version https://git-lfs.github.com/spec/v1
+oid sha256:e64e6f9ccab12672e851c3e12152a4bcaa97483a71e1152fbd1e83e94015753c
+size 289

@@ -1,1 +1,3 @@
-Sports lawyer Michelle Gallen has said that the pursuit of doping athletes has turned into a modern day witch-hunt [REF the pursuit of doping athletes has turned into a modern day witch-hunt
+version https://git-lfs.github.com/spec/v1
+oid sha256:9137ecfd20d62b59b4cf70ad48348525871a5ba39a8aee1f0a64fffca7b9b68c
+size 190

@@ -1,1 +1,3 @@
-Almost 20 per cent of global carbon emissions are caused by deforestation[REF curbing forest loss is a critical and cost-effective way to mitigate global warming
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c3d4786aa271f5d529c0f9967ac893c66b10ebd3bf05f33471bea608f254f79
+size 161

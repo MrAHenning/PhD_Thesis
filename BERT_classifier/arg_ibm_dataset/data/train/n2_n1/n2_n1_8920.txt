@@ -1,1 +1,3 @@
-Israeli Defense Minister Ehud Barak blamed "Hamas and those firing rockets at Israel," his office said in a statement, pledging to continue the offensive to protect Israeli towns and cities Israeli military attacks were launched in response to militants firing missiles
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd102ddaaf90dbe06fb02035f1973c2f2a7ad9d4f48935575c3b706c0448053
+size 269

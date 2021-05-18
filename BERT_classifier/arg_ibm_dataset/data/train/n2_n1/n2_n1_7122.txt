@@ -1,1 +1,3 @@
-According to George Bisharat, a professor at Hastings College of the Law, Israel's blockade of Gaza was illegal Israel's blockade of Gaza is illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:badfd2897197dfce9a96e9cca6a2b20e485e871f67a033258e55239915843976
+size 148

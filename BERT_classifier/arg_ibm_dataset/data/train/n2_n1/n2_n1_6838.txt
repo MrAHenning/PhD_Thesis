@@ -1,1 +1,3 @@
-Israel sealed the border completely on 17 January in response to rocket attacks on southern Israel and Palestinian militant attacks on crossing points between Israel and Gaza [REF The purpose of the blockade is to pressure Hamas into ending the rocket attacks and to deprive them of the supplies necessary for the continuation of rocket attacks
+version https://git-lfs.github.com/spec/v1
+oid sha256:4df0e40464c0db7b314c7668a0d2424f3d8d4b92027ab1c7cf7b16b06b9a9295
+size 344

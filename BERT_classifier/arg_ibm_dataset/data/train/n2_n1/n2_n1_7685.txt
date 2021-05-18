@@ -1,1 +1,3 @@
-Scientists also state that, Tropical deforestation releases 1.5 billion tons of carbon each year into the atmosphere [REF The removal of trees without sufficient reforestation has adverse impacts on biosequestration of atmospheric carbon dioxide
+version https://git-lfs.github.com/spec/v1
+oid sha256:2abe8daf5b1529ae769c366c706fd62256a5a374e7ba35723cb6ebfc5be079c3
+size 245

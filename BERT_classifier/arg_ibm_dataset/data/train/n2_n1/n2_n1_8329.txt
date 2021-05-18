@@ -1,1 +1,3 @@
-Israel was widely criticised by human rights groups for using heavy firepower and causing hundreds of civilian casualties [REF]. A group of soldiers who took part in the conflict echoed the criticism through both the Israeli NGO Breaking the Silence and a special report by Israeli filmmaker Nurit Kedar that was shown on Britain's Channel 4 in January 2011 [REF Israel was widely criticised by human rights groups for using heavy firepower and causing hundreds of civilian casualties
+version https://git-lfs.github.com/spec/v1
+oid sha256:a71fcb8dcf6e0a894a35b96799f80b5cf3168e243c140a0da30330a670eaef65
+size 484

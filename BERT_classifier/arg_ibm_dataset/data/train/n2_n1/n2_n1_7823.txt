@@ -1,1 +1,3 @@
-The Catholic Church teaches that an act which deliberately attempts to divorce the unitive and procreative meaning of the marital act is opposed to God's plan for life and love in the order of creation God created sexual intercourse to be both unitive and procreative
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d8d87c6b087aa8f0bc9ee336826d211cc5fd3757f5c5a2170c3d6c70441ec15
+size 267

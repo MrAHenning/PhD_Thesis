@@ -1,1 +1,3 @@
-In Cohen v. California, , wearing a jacket reading "Fuck the Draft" in the corridors of the Los Angeles County courthouse was ruled not to be punishable government may not prohibit the expression of an idea simply because society finds the idea offensive or disagreeable
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc07a6a654770c3e37735789073d1229c99063f55fcbd7ee31e438e83e07fe01
+size 270

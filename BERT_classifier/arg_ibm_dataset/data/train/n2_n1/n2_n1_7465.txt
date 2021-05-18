@@ -1,1 +1,3 @@
-According to the American Academy of Pediatrics' 1999 Circumcision Policy Statement, "There is considerable evidence that newborns who are circumcised without analgesia experience pain and physiologic stress."[REF circumcision may result in psychological harm
+version https://git-lfs.github.com/spec/v1
+oid sha256:e478bd5f2926afd6a7df170a58f47373b86ad91a7fb543870f2d98dbde84ba7d
+size 259

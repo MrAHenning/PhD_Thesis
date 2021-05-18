@@ -1,1 +1,3 @@
-In October 2006, a Turkish national who performed ritual circumcisions on seven boys was convicted of causing dangerous bodily harm by the state court in Düsseldorf [REF Circumcision carries some medical risk
+version https://git-lfs.github.com/spec/v1
+oid sha256:a86a32fe117f2809abfd934037bbc3769fa1efefb3fb4bd68549dca6e353285b
+size 209

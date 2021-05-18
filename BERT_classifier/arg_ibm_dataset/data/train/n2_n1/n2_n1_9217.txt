@@ -1,1 +1,3 @@
-Rehnquist also argued that flag burning is "no essential part of any exposition of ideas" but rather "the equivalent of an inarticulate grunt or roar that, it seems fair to say, is most likely to be indulged in not to express any particular idea, but to antagonize others Flag burning is most likely to be indulged in not to express any particular idea, but to antagonize others
+version https://git-lfs.github.com/spec/v1
+oid sha256:b73fe3780bc7b84655da97279eedcb995053394ccb2cb62d780f536568c615db
+size 378

@@ -1,1 +1,3 @@
-Professional medical organizations, including the AMA, AAP, ACOG, APHA, APA, and Society for Adolescent Medicine, support comprehensive sex education (providing abstinence and contraceptive information) and oppose the sole use of abstinence-only sex education. [REF][REF Professional medical organizations oppose the sole use of abstinence-only sex education
+version https://git-lfs.github.com/spec/v1
+oid sha256:57bc6a94a2e2cbc8af3850d67020af7911e061209abd6575f9edb04090720b5f
+size 358

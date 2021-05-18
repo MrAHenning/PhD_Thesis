@@ -1,1 +1,3 @@
-The sexual revolution of the 1960s precipitated Pope Paul VI's 1968 encyclical Humanae Vitae (On Human Life) which rejected the use of contraception, including sterilization, asserting that these work against the intimate relationship and moral order of husband and wife by directly opposing God's will [REF Condoms are a sin in any circumstances
+version https://git-lfs.github.com/spec/v1
+oid sha256:874e4af5f5e7e339ef86eba7a20f6541f2c3872ea49a15f7490279cb3cb505b5
+size 346

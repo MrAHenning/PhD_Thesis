@@ -1,1 +1,3 @@
-In 1990, the Americans with Disabilities Act prohibited discrimination against disabled persons all people should be treated similarly
+version https://git-lfs.github.com/spec/v1
+oid sha256:df85a9b658d622253b2f8b9019e3c290649b300c1f5c92e35520ed500527b28d
+size 134

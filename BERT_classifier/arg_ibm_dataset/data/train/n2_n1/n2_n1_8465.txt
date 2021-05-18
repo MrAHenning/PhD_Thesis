@@ -1,1 +1,3 @@
-Danish Prime Minister Anders Fogh Rasmussen said that, "it was Hamas that broke the truce, and Hamas started the conflict by firing rockets on Israel. No country can just passively accept being fired on."[REF Israel's legitimate right to self-defence is undisputable
+version https://git-lfs.github.com/spec/v1
+oid sha256:abfa113d9054295f690fcff3baeea34192f2e179e14c3dc684a97449738be38c
+size 266

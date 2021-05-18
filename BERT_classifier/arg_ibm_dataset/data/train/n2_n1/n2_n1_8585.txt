@@ -1,1 +1,3 @@
-Vietnam condemned "all indiscriminate attacks against civilians Military action leading to the killing and suffering of civilians, by whomever is carried out, deserves to be condemned
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a29beeba8ff9f742c3019ce28f91caad8b3fe48eb236bb984cfbfd86d72d90c
+size 183

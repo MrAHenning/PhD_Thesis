@@ -1,1 +1,3 @@
-Similarly, in a defense of Holocaust denier Bishop Richard Williamson against the charge of being antisemitic, the journalist and writer Kevin Myers argued "It is not anti-Semitic to make a fool of yourself in public about a historical fact. It is anti-Semitic to preach or promote a dislike of Jews because they are Jews, which is what Bishop Williamson has not done."[REF Holocaust denial is generally viewed as antisemitic
+version https://git-lfs.github.com/spec/v1
+oid sha256:e790bb8b94966ee8883dcf157633e155d8f919900f4efd25b9b024fb590989c7
+size 425

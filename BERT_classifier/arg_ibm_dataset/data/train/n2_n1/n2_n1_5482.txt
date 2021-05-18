@@ -1,1 +1,3 @@
-in 1983, the Journal of the American Medical Association called for a ban on boxing. The editor, Dr. George Lundberg, called boxing an "obscenity" that "should not be sanctioned by any civilized society."[REF Boxing is an obscenity that should not be sanctioned by any civilized society
+version https://git-lfs.github.com/spec/v1
+oid sha256:39f974f69439c666b0c68fcd6180ea9bc691a3430a4d132ea01b17bada23b368
+size 286

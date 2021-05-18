@@ -1,1 +1,3 @@
-Palestinian President Mahmoud Abbas responded to Vilinai's comments by stating that Israel's attacks were "more than a holocaust",[REF Israel's response was excessive
+version https://git-lfs.github.com/spec/v1
+oid sha256:d48cbc50d432fae2515932fa92ad0394c1be33860c8ac7dee3c487e5617a4aa9
+size 166

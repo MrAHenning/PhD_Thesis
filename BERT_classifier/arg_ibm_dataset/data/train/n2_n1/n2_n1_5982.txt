@@ -1,1 +1,3 @@
-Studies show that military interdiction efforts fail because they ignore the root cause of the problem: U.S. demand America's] insatiable demand for illegal drugs fuels the drug trade
+version https://git-lfs.github.com/spec/v1
+oid sha256:69f23a1af6de8138a824a22145595160baff717e95048117c92d3523405f935b
+size 183

@@ -1,1 +1,3 @@
-Bob Ainsworth, former Defence Secretary and Labour MP for Coventry North East has suggested the position would make the council more accountable to the electorate [REF an elected mayor is unnecessary
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dc3fdacb220c7a02fd11f547dfc82034f260a1dc847f7d5a8a3c47cc1144540
+size 199

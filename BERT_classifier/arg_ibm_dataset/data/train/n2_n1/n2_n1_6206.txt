@@ -1,1 +1,3 @@
-Beale also cites studies that conclude that religiousity correlates with better mental health and less likelihood of suicide [REF religion is a positive civilizing influence on society
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdc117dd8bd865beeb097b5ab43003dd99ec1ccc4460c752b0b5b4f0fda4b594
+size 184

@@ -1,1 +1,3 @@
-A typical 50-megawatt (MW) wind farm in Australia can reduce greenhouse gas emissions by between 65,000 and 115,000&nbsp;tonnes a year There is very little emission or pollution produced by a wind farm's operation
+version https://git-lfs.github.com/spec/v1
+oid sha256:81ae3a210b567519fe70013265e8958d9a3f378101aca2c12d4b0b86a9420ee4
+size 213

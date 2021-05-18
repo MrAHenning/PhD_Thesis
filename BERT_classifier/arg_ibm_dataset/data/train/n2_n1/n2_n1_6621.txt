@@ -1,1 +1,3 @@
-in Thomas Jefferson’s "Commonplace Book," a quote from Cesare Beccaria reads, "laws that forbid the carrying of arms .. disarm only those who are neither inclined nor determined to commit crimes laws that forbid the carrying of arms .. disarm only those who are neither inclined nor determined to commit crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2309829961e3813b1666e54495e8a10881a5bee44396d4458c6ae9a0d7750c6
+size 312

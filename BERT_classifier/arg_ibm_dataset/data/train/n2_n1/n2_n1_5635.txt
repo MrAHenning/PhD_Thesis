@@ -1,1 +1,3 @@
-In a 2004 report by the US Department of Justice, researchers interviewed people who had been arrested in Las Vegas and Des Moines and found that the percentage of problem or pathological gamblers among the arrestees was three to five times higher than in the general population [REF the social and economic consequences of casino gambling outweigh the initial revenue that may be generated
+version https://git-lfs.github.com/spec/v1
+oid sha256:494d892f8d638f08eb5c555521974e9dda6bfbac77829afcb51544f8cea36a66
+size 390

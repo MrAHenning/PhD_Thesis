@@ -1,1 +1,3 @@
-Stanford's C.M. Hoxby, who has researched the systemic effects of school choice, determined that areas with greater residential school choice have consistently higher test scores at a lower per-pupil cost than areas with very few school districts (see Hoxby, 1998 School voucher and education tax credit systems incentivize schools to increase accountability and school performance
+version https://git-lfs.github.com/spec/v1
+oid sha256:47b5504cc11cd4becc6a416514b5e6f5c5cace5f801fa72f022b61adfc2ba3d0
+size 381

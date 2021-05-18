@@ -1,1 +1,3 @@
-As a general rule, the BMA believe that "parents should be entitled to make choices about how best to promote their children’s interests the parents should determine what is in the best interest of the infant or child
+version https://git-lfs.github.com/spec/v1
+oid sha256:10a09e57ff4693e52e7e57d6857305e2405e66da9d72dab3e947354a4e581b61
+size 219

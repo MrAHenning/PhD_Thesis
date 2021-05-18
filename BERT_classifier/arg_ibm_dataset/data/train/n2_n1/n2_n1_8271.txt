@@ -1,1 +1,3 @@
-Writing in the JURIST, Laurie Blank of Emory Law's International Humanitarian Law Clinic and Gregory Gordon of the University of North Dakota School of Law said that the Goldstone Report's major flaw is that it fails the law. In their view, the Report incorrectly claims Israel disproportionately attacked civilians by relying on information gathered after the fact and discounting contemporaneous Israeli intentions or actions and the surrounding circumstances Israel disproportionately attacked civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:e37a01653e2d5db179be6679587345247b58c91bf67374a869cd61d0a7e247f0
+size 506

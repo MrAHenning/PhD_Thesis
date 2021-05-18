@@ -1,1 +1,3 @@
-One 1951 study found that instead of harming profits, unions increase the wages of about 10–15% of workers by reducing the wages of the remaining 85–90% of workers [REF The effect of union activities to influence pricing is potentially very harmful
+version https://git-lfs.github.com/spec/v1
+oid sha256:076a6245378cbbde319a113698f713b1c7159031b00393b520732be3b74eb5af
+size 252

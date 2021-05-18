@@ -1,1 +1,3 @@
-Research by Richard G. Wilkinson and Kate Pickett has also presented evidence that both social cohesion and health problems are greater in countries or states where economic inequality is highest. For instance, crime rates, mental health problems and teen-age pregnancies are lower in countries like Japan and Finland compared to countries with greater inequality such as the US and UK [REF Higher levels of economic inequality tend to intensify social hierarchies and generally degrade the quality of social relations
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f217dcff0c6705201b20bd359e570f6f8f53b1c36f8e1acfc31c080a4cafee0
+size 518

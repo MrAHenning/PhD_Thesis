@@ -1,1 +1,3 @@
-A philosopher of the Epicurean school, Lucretius believed the world was composed solely of matter and void, and that all phenomena could be understood as resulting from purely natural causes the need for explaining life and death can be met by science and philosophy
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b148f7f5953059041c4f10384d1a6b10c71ad2f4adf6b241c5b3acc2258956f
+size 266

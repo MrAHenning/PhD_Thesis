@@ -1,1 +1,3 @@
-Canada's National Post editorialized against the flotilla, calling it a "charade". It concluded that the real intention of the flotilla is to break the blockade and end Hamas' political isolation. There can be only one reason why anyone would consider such an outcome desirable: The absence of a blockade would allow the free passage of arms to the terror-embracing Hamas government, which has frequently demonstrated its goal of ending Israel's existence as a nation The absence of a blockade would allow the free passage of arms to the terror-embracing Hamas government
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7578f7081af437bc8e95f1d33b2a2364493a4e815cca56b10469404d83c28b0
+size 571

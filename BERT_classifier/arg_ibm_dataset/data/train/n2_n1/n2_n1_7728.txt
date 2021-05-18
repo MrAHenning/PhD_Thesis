@@ -1,1 +1,3 @@
-A single hectare of rainforest may contain 42,000 different species of insect, up to 807 trees of 313 species and 1,500 species of higher plants [REF Rain forests play an important role in maintaining biological diversity
+version https://git-lfs.github.com/spec/v1
+oid sha256:35f6a18010d4bade7bf1fb57d4ca816dce5d4f88cb36fb7e605dd69a08861dab
+size 221

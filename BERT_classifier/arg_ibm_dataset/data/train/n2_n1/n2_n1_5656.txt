@@ -1,1 +1,3 @@
-In 2003 Tessa Jowell, then Culture Secretary suggested a change in the British Gambling laws to keep up with advances in technology.   "Our gambling laws date back to the 1960s. Since then attitudes to gambling have changed and the law has failed to keep pace with rapid technological change. Gambling is now a diverse, vibrant and innovative industry and a popular leisure activity enjoyed in many forms by millions of people. The law needs to reflect that Gambling is now a diverse, vibrant and innovative industry
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7a769a220745d6f81fa5c837376f107cbd2d3b08b1e22beae7caf3fcbb3f454
+size 516

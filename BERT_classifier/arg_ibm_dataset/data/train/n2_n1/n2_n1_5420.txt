@@ -1,1 +1,3 @@
-UCLA professor Richard H. Sander published an article in the November 2004 issue of the Stanford Law Review that questioned the effectiveness of affirmative action in law schools and noted that prior to his article, there had been no comprehensive study on the effects of affirmative action [REF]. The article presents a study that, among other things, shows that half of all black law students rank near the bottom of their class after the first year of law school, and that black law students are more likely to drop out of law school and to fail the bar exam [REF affirmative action has undesirable side-effects
+version https://git-lfs.github.com/spec/v1
+oid sha256:71e4a3cc99cca41084e768dd2aca99c89d1e8e1d12ff5e593c87f27d9232055e
+size 614

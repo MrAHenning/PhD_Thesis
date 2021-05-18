@@ -1,1 +1,3 @@
-President Bush has announced further sanctions against the Burmese military. He has tightened export controls and frozen more financial assets held by the junta and urged China and India to apply more pressure. In a White House statement he said: "Monks have been beaten and killed. "Thousands of pro-democracy protesters have been arrested". "Burma's rulers continue to defy the world's just demand to stop their vicious persecution Burma's rulers continue to defy the world's just demand to stop their vicious persecution
+version https://git-lfs.github.com/spec/v1
+oid sha256:df12d1bfde07349d800d9b539b0e4a99778f58150bead0e647d72a5c5141e763
+size 523

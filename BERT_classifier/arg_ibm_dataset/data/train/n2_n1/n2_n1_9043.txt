@@ -1,1 +1,3 @@
-In a 1949 speech Lord Denning placed the blasphemy laws in the past, saying that "it was thought that a denial of Christianity was liable to shake the fabric of society, which was itself founded upon Christian religion. There is no such danger to society now and the offence of blasphemy is a dead letter the common-law offence of blasphemous libel serves no useful purpose in modern law
+version https://git-lfs.github.com/spec/v1
+oid sha256:923c716737f8a4560b1a686f4bdc0ffe2852bddcbf7efea8737540275cc9a59e
+size 387

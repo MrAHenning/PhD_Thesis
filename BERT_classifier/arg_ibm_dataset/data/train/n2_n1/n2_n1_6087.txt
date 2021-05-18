@@ -1,1 +1,3 @@
-Philosophers such as Ludwig Feuerbach[REF] and Sigmund Freud argued that God and other religious beliefs are human inventions, created to fulfill various psychological and emotional wants or needs God and other religious beliefs are human inventions
+version https://git-lfs.github.com/spec/v1
+oid sha256:87104a2adcb393354e759ba8fb88cfdffda8f8727fd41cad842a0e9c271f9b62
+size 249

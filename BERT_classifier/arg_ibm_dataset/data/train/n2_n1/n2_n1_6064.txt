@@ -1,1 +1,3 @@
-Waltz generally argues that "more may be better," contending that new nuclear states will use their acquired nuclear capabilities to deter threats and preserve peace Nuclear weapons decrease the chances of crisis escalation
+version https://git-lfs.github.com/spec/v1
+oid sha256:b57b89dfeae1a29d372ffbf98053fab7258263f16d0c461cf4e16d20d0937915
+size 223

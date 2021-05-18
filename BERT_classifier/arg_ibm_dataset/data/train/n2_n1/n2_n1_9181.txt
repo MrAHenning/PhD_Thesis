@@ -1,1 +1,3 @@
-A USA Today/Gallup Poll in June 2006 found that 54% of Americans opposed a flag desecration amendment [REF Americans oppose amending the constitution to outlaw flag burning
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b37851cfe0fff08c95f413dd559d78d0fa7f3b6c217beb69efbe49ea7e1ad56
+size 172

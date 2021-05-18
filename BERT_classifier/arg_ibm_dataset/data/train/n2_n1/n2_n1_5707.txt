@@ -1,1 +1,3 @@
-The 1962 Commonwealth Immigrants Act came about as a result of growing public and political unease regarding the impact of migration from the, now fast declining, British Empire Social and political issues surround the issue of immigration
+version https://git-lfs.github.com/spec/v1
+oid sha256:839ab1ddee8989c14ae8767b63cba3865540f398338672066dc05974715f8cb6
+size 239

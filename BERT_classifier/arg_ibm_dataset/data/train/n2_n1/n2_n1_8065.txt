@@ -1,1 +1,3 @@
-A salted bomb is a variation of a nuclear weapon designed to produce enhanced quantities of radioactive fallout, rendering a large area uninhabitable [REF]. The term is derived both from the means of their manufacture, which involves the incorporation of additional elements to a standard atomic weapon, and from the expression "to salt the earth", meaning to render an area uninhabitable for generations. The idea originated with Hungarian-American physicist Leo Szilard, in February 1950. His intent was not to propose that such a weapon be built, but to show that nuclear weapon technology would soon reach the point where it could end human life on Earth [REF nuclear weapon technology would soon reach the point where it could end human life on Earth
+version https://git-lfs.github.com/spec/v1
+oid sha256:7033d24e9ed14a34134cbd17b90b4a21b2f51a255c3e2c0e052b6c99c54faab2
+size 755

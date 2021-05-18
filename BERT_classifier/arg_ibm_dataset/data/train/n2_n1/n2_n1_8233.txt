@@ -1,1 +1,3 @@
-Israeli President Shimon Peres said that the report "makes a mockery of history" and that "it does not distinguish between the aggressor and the defender. War is crime and the attacker is the criminal. The defender has no choice. The Hamas terror organization is the one who started the war and also carried out other awful crimes. Hamas has used terrorism for years against Israeli children The Hamas terror organization is the one who started the war
+version https://git-lfs.github.com/spec/v1
+oid sha256:71b10346495746827ea56f3fff19a7863736fac2bff66c509e92dc0fe283fee1
+size 452

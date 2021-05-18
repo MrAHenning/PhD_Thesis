@@ -1,1 +1,3 @@
-The 2004 WSIS Declaration of Principles also acknowledged that "it is necessary to prevent the use of information resources and technologies for criminal and terrorist purposes it is necessary to prevent the use of information resources and technologies for criminal and terrorist purposes
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ecc668df6bbbe473a6a2fe6ec1735284f1a1b5a535faad38d61e45862e90efa
+size 289

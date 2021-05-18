@@ -1,1 +1,3 @@
-According to the World Food Programme, the UN's Food and Agriculture Organization and Palestinian officials, between 35% and 60% of the agriculture industry was wrecked. With extensive damage occurring to water sources, greenhouses, and farmland. It is estimated that 60% of the agricultural land in the north of the Strip may no longer be arable [REF the livelihoods and assets of tens of thousands of Gaza civilians have been affected
+version https://git-lfs.github.com/spec/v1
+oid sha256:705d2539bf1a7f574609aea0334972544432e84ac339c038a6784f2f09016e75
+size 436

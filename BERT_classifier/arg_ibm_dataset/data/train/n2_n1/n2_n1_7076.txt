@@ -1,1 +1,3 @@
-Allen Weiner, former U.S. State Department attorney and legal counselor at the American Embassy in The Hague, and now a Stanford Law School professor, said "the Israeli blockade itself against Gaza itself is not illegal" [REF the blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:41958cc0305f194a8da254dc223e4df71ca9da35ed67e45c46f1f08e537a46cb
+size 247

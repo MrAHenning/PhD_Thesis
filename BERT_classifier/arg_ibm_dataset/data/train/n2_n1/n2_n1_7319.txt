@@ -1,1 +1,3 @@
-The American Academy of Pediatrics states that "Abstinence-only programs have not demonstrated successful outcomes with regard to delayed initiation of sexual activity or use of safer sex practices.. Programs that encourage abstinence as the best option for adolescents, but offer a discussion of HIV prevention and contraception as the best approach for adolescents who are sexually active, have been shown to delay the initiation of sexual activity and increase the proportion of sexually active adolescents who reported using birth control."[REF sex education needs to be comprehensive to be effective
+version https://git-lfs.github.com/spec/v1
+oid sha256:f86c1b9b56b7e72a4100053ca245495a05bfb00bacf44b6998c688663525e4fc
+size 604

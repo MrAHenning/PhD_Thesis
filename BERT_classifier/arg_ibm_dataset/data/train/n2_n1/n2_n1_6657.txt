@@ -1,1 +1,3 @@
-Kleck's work speaks towards similar support for firearm rights by showing that the number of Americans who report incidents where their guns averted a threat vastly outnumber those who report being the victim of a firearm-related crime [REF making civilian ownership of firearms illegal would increase the crime rate
+version https://git-lfs.github.com/spec/v1
+oid sha256:93494489b3bff672d39c650fc08854d09ecb849e624c0bde34ba3db0302967d6
+size 316

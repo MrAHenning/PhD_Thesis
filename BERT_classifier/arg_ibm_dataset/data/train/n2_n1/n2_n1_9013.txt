@@ -1,1 +1,3 @@
-On February 5, Swedish Minister of Foreign Affairs, Laila Freivalds stated the following in an interview:[REF] We support the freedom of speech, that I think is very clear. But at the same time it is important to say that with this freedom comes a certain responsibility, and it could be objectionable to act in a way that insults people the freedom of expression does not justify in any way whatsoever the defamation of religions
+version https://git-lfs.github.com/spec/v1
+oid sha256:b805c6aa8209297bee8fd768cd2f166fb1dec706c1930292edb6069c92b4cb73
+size 430

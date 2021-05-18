@@ -1,1 +1,3 @@
-In the case of Africa, Asante (1985) gives the following assessment: .   Summing up the experience of African countries both at the national and at the regional levels it is no exaggeration to suggest that, on balance, foreign assistance, especially foreign capitalism, has been somewhat deleterious to African development Aid is not effective
+version https://git-lfs.github.com/spec/v1
+oid sha256:3958505f05a2033ed9436bcb890fba2689578930d474e01f298e33436c2191dd
+size 343

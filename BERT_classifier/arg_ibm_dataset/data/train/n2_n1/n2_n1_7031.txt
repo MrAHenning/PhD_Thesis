@@ -1,1 +1,3 @@
-In May 2010, the UN Office for the Coordination of Humanitarian Affairs stated that the formal economy in Gaza has collapsed since the imposition of the blockade [REF The situation in Gaza is unsustainable and unacceptable
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dac05cc18005ee80e504377b90e2ac7024d73479a63e41dbc054a9fd1e28526
+size 222

@@ -1,1 +1,3 @@
-One suburban Detroit politician defends low-density development as the preferred lifestyle choice of his constituents, calling it "..the American Dream unfolding before your eyes."[REF consumers prefer lower density neighborhoods
+version https://git-lfs.github.com/spec/v1
+oid sha256:40f88ab4e28dcf65badaa7a4448f48e8de324a1a76fdf7eda2ba4eae53a22dac
+size 229

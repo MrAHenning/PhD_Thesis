@@ -1,1 +1,3 @@
-The most consistent finding in cross-national research on homicides has been that of a positive association between income inequality and homicides. (Neapolitan 1999 pp 260 Higher levels of economic inequality tend to intensify social hierarchies and generally degrade the quality of social relations
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea76b56397f1380a547fb25cadd518773cc22e6ffddccf2aaefd720f4084cf9d
+size 300

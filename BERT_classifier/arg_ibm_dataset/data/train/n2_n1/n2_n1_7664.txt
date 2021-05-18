@@ -1,1 +1,3 @@
-Gairdner's 1949 study reported that an average of 16 children per year out of about 90,000 died following circumcision in the UK. He found that most deaths had occurred suddenly under anaesthesia and could not be explained further, but hemorrhage and infection had also proven fatal. Deaths attributed to phimosis and circumcision were grouped together, and Gairdner argued that such deaths were probably due to the circumcision operation [REF this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:fffbe76afba1ed0a1510be780befb8422405419d7aca74e69dd866e97e6e762d
+size 503

@@ -1,1 +1,3 @@
-The Bahraini Parliament Council strongly condemned "the barbaric massacre by the Israeli enemy against the unarmed Palestinians in Gaza that clashes clearly with all religions, ethics and international accords" [REF the disproportionate use of force by Israel, which causes suffering to the civilian population, can be neither understood nor justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:1503a9e7ba6f7a0bce53efbe1a665c983051cb0523c263911c56d09847677631
+size 351

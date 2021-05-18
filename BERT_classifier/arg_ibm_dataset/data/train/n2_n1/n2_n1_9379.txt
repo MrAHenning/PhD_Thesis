@@ -1,1 +1,3 @@
-The historian Mercy Otis Warren, warned that "there is no provision for a rotation, nor anything to prevent the perpetuity of office in the same hands for life; which by a little well timed bribery, will probably be done.."[REF The lack of mandatory limits to tenure is regarded as a dangerous defect
+version https://git-lfs.github.com/spec/v1
+oid sha256:8400bc7dbfdbaf16eacff77d8194a1c10454349fca19600b22be7d7ed8c57f65
+size 300

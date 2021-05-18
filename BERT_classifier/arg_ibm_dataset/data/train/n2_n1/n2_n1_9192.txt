@@ -1,1 +1,3 @@
-Justice William Joseph Brennan, Jr. noted that the "Principal function of free speech under our system of government is to invite dispute; it may indeed best serve its high purpose when it induces condition of unrest, creates dissatisfaction with conditions as they are, or even stirs people to anger."[REF Flag burning is constitutionally-protected free speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:976c7a50bcf2fb200aac9c68e4e4dfb2c07f5868e8b7cf004493510334272228
+size 361

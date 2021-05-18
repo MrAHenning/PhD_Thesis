@@ -1,1 +1,3 @@
-The American Academy of Family Physicians (2007) recognizes the controversy surrounding circumcision and recommends that physicians "discuss the potential harms and benefits of circumcision with all parents or legal guardians considering this procedure for their newborn son."[REF it is reasonable for parents to weigh the benefits and risks of circumcision and to make the decision whether or not to circumcise their sons
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d27a3454cea1d0403e7d4ac891f3eff474b8c4ed986fd8fe3f3c48f4be6c14c
+size 422

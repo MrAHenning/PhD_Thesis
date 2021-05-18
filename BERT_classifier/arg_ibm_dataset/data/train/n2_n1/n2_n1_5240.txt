@@ -1,1 +1,3 @@
-It was not until 1966 that FIFA (world football) and Union Cycliste Internationale (cycling) joined the IAAF in the fight against drugs, closely followed by the International Olympic Committee the following year The use of anabolic steroids is now banned by all major sporting bodies
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f892e850c29342e8fc892daf34546dcd1de02670d1eca401a0ef3d494bf7b9d
+size 283

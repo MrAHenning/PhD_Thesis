@@ -1,1 +1,3 @@
-On March 25, 2009, U.S. Secretary of State Hillary Clinton, stated that "Our [America's] insatiable demand for illegal drugs fuels the drug trade", and that "the United States bears shared responsibility for the drug-fueled violence sweeping Mexico."[REF The root cause of the problem is U.S. demand
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2966b7835aafd5bd10ab3ea66b58e76c897e6ee515c74f6518d41ba6c25eb4b
+size 299

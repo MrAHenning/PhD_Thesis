@@ -1,1 +1,3 @@
-A common finding across numerous studies is that on average, students score lower on standardized tests at the end of the summer than they do at the beginning of summer (on the same test summer vacation is a period when students’ rate of academic development declines relative to the school year
+version https://git-lfs.github.com/spec/v1
+oid sha256:12b05f7e6410a7a0f3dedcc4cd053e158ffeb600a7f3792c2c1e51b9fc81cddc
+size 297

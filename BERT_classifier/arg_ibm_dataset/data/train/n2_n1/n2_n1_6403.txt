@@ -1,1 +1,3 @@
-Collectively, countries in Africa have received over $400 billion in aid over the past 30 years, but reports show that as aid increased, domestic growth fell When a country is given money because they cannot financially sustain themselves, several negative effects have the potential to develop
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1afef9dd148e9c9cb00c49bf2f7f4552a65b01e6887183eb79060b6c98abf27
+size 294

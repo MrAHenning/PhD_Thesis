@@ -1,1 +1,3 @@
-The last prosecution for blasphemy in Scotland was in 1843 when bookseller Thomas Paterson was sentenced at Edinburgh High Court to fifteen months in prison for selling blasphemous books the common-law offence of blasphemous libel serves no useful purpose in modern law
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df1bb66853df9e6521f13f6c45ce20fa1651ce810166c37c79583f0681d8bba
+size 269

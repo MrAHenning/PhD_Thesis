@@ -1,1 +1,3 @@
-According to Princeton University professor emeritus of international law Richard Falk, there exists an "overwhelming consensus" view among qualified international law specialists that both the blockade and its enforcement are illegal [REF Even if the blockade is eased it remains illegal under international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:17e6efc35a8a345c935ebc6b728d96b6ca1047c6e45b8d22d1ce181475ffdf4c
+size 312

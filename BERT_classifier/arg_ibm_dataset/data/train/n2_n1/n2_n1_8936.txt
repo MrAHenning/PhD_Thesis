@@ -1,1 +1,3 @@
-Mauritania, one of only three Arab League nations to keep relations with Israel, called on Israel to end the "collective punishment"[REF] and the "bloodbath"of Gaza. In the capital, Nouakchott, an estimated 3,000 students marched in protest denouncing "The Massacre of the Israeli Army" [REF Israel's response was excessive
+version https://git-lfs.github.com/spec/v1
+oid sha256:3023f6bd4694705b42ab99dbd102773eddb3a50dac731da10a6076d828afc776
+size 323

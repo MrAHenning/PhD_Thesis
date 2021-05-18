@@ -1,1 +1,3 @@
-middle and upper-class parents can afford to place their children in significantly better childcare centers before they enter grade school. As the Carolina Abecedarian Project found, these are essential elements in future educational and life successes access to resources play a hugely important role in educational inequality
+version https://git-lfs.github.com/spec/v1
+oid sha256:3672db2699c0758e0ca6a54db06596d79ede87ffe40610b4c82c8613abcdc6c5
+size 327

@@ -1,1 +1,3 @@
-William L. Rowe:  There exist instances of intense suffering which an omnipotent, omniscient being could have prevented without thereby losing some greater good or permitting some evil equally bad or worse.  An omniscient, wholly good being would prevent the occurrence of any intense suffering it could, unless it could not do so without thereby losing some greater good or permitting some evil equally bad or worse.  (Therefore) There does not exist an omnipotent, omniscient, wholly good being [REF The existences of a god and of evil are logically incompatible
+version https://git-lfs.github.com/spec/v1
+oid sha256:a87bed3e107941b16bf8c22ab311fb13dfb8eb0cc42eb8e9565968a55d7be4f5
+size 564

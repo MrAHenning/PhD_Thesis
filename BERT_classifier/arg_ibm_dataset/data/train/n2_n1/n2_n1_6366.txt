@@ -1,1 +1,3 @@
-A notable example of this is US aid to fund HIV/AIDS treatment in Africa. According to Thalif Deen's [REF] Tied Aid Strangling Nations,Washington conditioned African governments to purchase anti- HIV/AIDS drugs only from American companies which costs $15,000 annually to a patient who lives below a $1.00 a day compared to purchasing South African made generic drugs that would cost $350 annually. This ultimately makes the poor country worse off Aid is not effective
+version https://git-lfs.github.com/spec/v1
+oid sha256:d757a06e730ffa8e46c721d851adc66c395bf6b6424e72759b08535d5b7e58a1
+size 468

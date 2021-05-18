@@ -1,1 +1,3 @@
-Surveys by Gallup, the National Opinion Research Center and the Pew Organization conclude that spiritually committed people are twice as likely to report being "very happy" than the least religiously committed people [REF religion is a positive civilizing influence on society
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0c67f45134055b93896097882364f707de89e20ab9b25c349158236a43e365c
+size 276

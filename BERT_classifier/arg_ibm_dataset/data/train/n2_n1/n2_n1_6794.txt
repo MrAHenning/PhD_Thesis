@@ -1,1 +1,3 @@
-A UN Fact Finding mission in September 2009 led by South African Judge Richard Goldstone (the Goldstone report) concluded that the blockade was possibly a crime against humanity The blockade is considered illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:648105be630ef197de286952d27c2a90fe3bcb313f70c8c7a6dce9456424432d
+size 212

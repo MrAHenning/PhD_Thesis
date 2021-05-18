@@ -1,1 +1,3 @@
-The report also stated there is evidence that Palestinian armed groups committed war crimes and possibly crimes against humanity by deliberately launching rockets and firing mortars into Israel, calculated to kill civilians and damage civilian structures [REF Israelis have been killed by the unlawful rocket and mortar attacks from Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:88debef75110332f330a7768a9142f05a4722b69c7600ea42e85fd6a8862504d
+size 337

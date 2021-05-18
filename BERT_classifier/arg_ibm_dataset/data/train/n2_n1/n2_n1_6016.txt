@@ -1,1 +1,3 @@
-ATF agent John Dodson stated that he and other agents were ordered to observe the activities of gun smugglers but not to intervene American) government has been sending weapons to Mexico in a premeditated and systematic manner, knowing that their destinations were Mexican criminal organizations
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed5457895b069adf3c31f998238c838b58b29c36bb6a3a80057331c3d0f31d40
+size 295

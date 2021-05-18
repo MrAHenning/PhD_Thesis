@@ -1,1 +1,3 @@
-The version of adjustment offered by Germany and its allies is that austerity will lead to an internal devaluation, i.e. deflation, which would enable Greece gradually to regain competitiveness. "Yet this proposed solution is a complete non-starter", noted one UK economist. "If austerity succeeds in delivering deflation, then the growth of nominal GDP will be depressed; most likely it will turn negative. In that case, the burden of debt will increase."[REF policy makers consistently underestimated the disastrous effects of rigid spending cuts on economic growth
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbc8dec3e9105c8ee88819d3b5e35cfeee3ee7c8b2c06f442cd017b3f6280a3
+size 567

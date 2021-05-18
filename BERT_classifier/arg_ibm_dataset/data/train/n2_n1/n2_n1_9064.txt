@@ -1,1 +1,3 @@
-The United Kingdom abolished its laws in England and Wales against blasphemy in 2008 it is neither necessary nor desirable to create an offence of religious insult
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d1edb0cf33befd1b1c46d9d62caef125fea0c4f09ac12e479d7460bbfc181e1
+size 163

@@ -1,1 +1,3 @@
-According to the US Centers for Disease Control and Prevention, in the year 2007, 35% of US high school students were currently sexually active and 47.8% of US high school students reported having had sexual intercourse [REF sexual behavior after puberty is a given, and it is therefore crucial to provide information about the risks and how they can be minimized
+version https://git-lfs.github.com/spec/v1
+oid sha256:e70bd47ee3fa2afc232b2b4d0df7f434d0d4c055324520357df8c9a4c3c9c57e
+size 363

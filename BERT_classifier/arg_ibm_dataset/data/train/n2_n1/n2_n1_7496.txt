@@ -1,1 +1,3 @@
-Some medical associations take the position that the parents should determine what is in the best interest of the infant or child,[REF][REF][REF it is reasonable for parents to weigh the benefits and risks of circumcision and to make the decision whether or not to circumcise their sons
+version https://git-lfs.github.com/spec/v1
+oid sha256:d459cb88ce3c749c4a7e67ab44551a74fbcc0a349860ffdc547f4af0e7fdc675
+size 286

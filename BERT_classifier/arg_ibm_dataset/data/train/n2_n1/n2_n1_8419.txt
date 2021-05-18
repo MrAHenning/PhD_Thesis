@@ -1,1 +1,3 @@
-A foreign ministry spokesman of the DPRK "resolutely denounces Israel's killing of unarmed civilians as a crime against humanity The ongoing Israeli military operation in Gaza resulted in massive violations of human rights of the Palestinian people
+version https://git-lfs.github.com/spec/v1
+oid sha256:d22ea721de19fa3eb258898208c57887263b6649aad72044172e88124dcc4ced
+size 248

@@ -1,1 +1,3 @@
-The United Nations Population Fund (UNFPA) and the World Health Organization (WHO) advocate for reproductive rights with a primary emphasis on women's rights. In this respect the UN and WHO focus on a range of issues from access to family planning services, sex education, menopause, and the reduction of obstetric fistula, to the relationship between reproductive health and economic status Control over reproduction is a basic need and a basic right for all women
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d6b69c99f552bd015294426c2ab404cb4349080959ad15d8d59f8eca6e1733e
+size 465

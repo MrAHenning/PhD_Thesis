@@ -1,1 +1,3 @@
-The most prominent figure in the post-Fortuyn debate of the issue was Ayaan Hirsi Ali. Her first criticisms of multiculturalism paralleled those of the early liberal-feminist critics in the United States — the emphasis on group identity and group rights diminished individual liberty for those within the minorities, and especially for women The emphasis on group identity and group rights diminishes individual liberty for those within the minorities
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8de7f32a04d1a8e3a4367752ef0a81f97a8b193d13ca7dbb1d4e7e19b9b4219
+size 453

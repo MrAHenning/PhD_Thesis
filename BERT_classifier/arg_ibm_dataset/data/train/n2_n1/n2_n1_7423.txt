@@ -1,1 +1,3 @@
-a review of 13 U.S. sex-abstinence programs involving over 15,000 people by Oxford University found that they do not stop risky sexual behavior, or help in the prevention of unwanted pregnancy [REF]. Recently, the United States Congress also found similar results in a study [REF] conducted by Mathematica Policy Research on abstinence Sex-abstinence programs do not stop risky sexual behavior, or help in the prevention of unwanted pregnancy
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef77cdc5e5223c32f99b2d8f5b123d8a4ee38cd360f2fb44a4390e99465625d3
+size 442

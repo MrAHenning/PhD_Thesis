@@ -1,1 +1,3 @@
-Jens Stoltenberg stated that: "The use of force is the last thing Burma needs right now. That's a message we're sending very clearly from the Norwegian government The use of force is the last thing Burma needs right now
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1ec99b73dc13355fbf73443a177e93fb11031d2c7873c8983d3c45d18316be4
+size 219

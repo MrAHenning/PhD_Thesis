@@ -1,1 +1,3 @@
-The president of the UN General Assembly, Miguel d'Escoto Brockmann, described Israel's Gaza offensive as a "genocide" against the Palestinian people [REF Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:49db3f8c41c7d6a38fbea3f7c6542864b584da3eca039373d5e56f014bb8f214
+size 194

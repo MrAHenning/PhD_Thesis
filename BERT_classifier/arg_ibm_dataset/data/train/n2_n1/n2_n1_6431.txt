@@ -1,1 +1,3 @@
-Feminist economists acknowledge care work as central to economic development and human well-being Care work is acknowledged as central to economic development and human well-being
+version https://git-lfs.github.com/spec/v1
+oid sha256:09b07e632080443a431313998c4ad23b7546abab2fe50c3b0165d8d3c40a60c9
+size 179

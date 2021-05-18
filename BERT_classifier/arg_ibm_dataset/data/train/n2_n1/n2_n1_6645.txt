@@ -1,1 +1,3 @@
-the Battle of Athens on August 2, 1946 as an example of citizens in desperate circumstances using firearms where all other democratic options have failed [REF an armed citizenry is the population's last line of defense against tyranny by their own government
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c414d0de84fcb22deae6818285d27dfdb86660e5d3d1791343bc31705b3c4a9
+size 258

@@ -1,1 +1,3 @@
-After visiting Gaza in March 2010, Irish foreign minister Micheál Martin described the Israeli blockade of Palestinian-ruled Gaza as "inhumane and unacceptable" and called on the European Union and other countries to increase pressure on Israel to lift the blockade the blockade on Gaza is neither sustainable nor tenable in its present form
+version https://git-lfs.github.com/spec/v1
+oid sha256:07593410c8cdad04a26e8b88809fc3d7741823403962b8db2e0f2ba31f7013a4
+size 342

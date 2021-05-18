@@ -1,1 +1,3 @@
-During an October 2004 debate, Obama stated that he opposed education vouchers for use at private schools because he believes they would undermine public schools [REF Education vouchers would undermine public schools
+version https://git-lfs.github.com/spec/v1
+oid sha256:67d1e5c952e84f8ab9d835a9c9bda5e0308e16fd929bf09d9f71fd9359a41c09
+size 216

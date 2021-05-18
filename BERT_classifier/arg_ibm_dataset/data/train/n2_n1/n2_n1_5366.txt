@@ -1,1 +1,3 @@
-Equal opportunity has been described as a fundamental "basic notion" in business and commerce, and described by economist Adam Smith as a basic economic precept [REF all people should be treated similarly
+version https://git-lfs.github.com/spec/v1
+oid sha256:99c98846a7838324f117e611cca85fce3df2f125b38b7893012e3e5de6829e03
+size 204

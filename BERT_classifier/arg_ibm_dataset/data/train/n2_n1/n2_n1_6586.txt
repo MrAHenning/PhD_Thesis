@@ -1,1 +1,3 @@
-Kellermann investigated the circumstances surrounding all in-home homicides in three cities of about half a million population each over five years, and found that the risk of a homicide was in fact slightly higher in homes where a handgun was present, rather than lower the access to guns leads to more violence
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b2e4b1d07b384bf770f2b50103bbf63258a1f00502b78792403fba74dd83ed4
+size 312

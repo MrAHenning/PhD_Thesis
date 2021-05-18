@@ -1,1 +1,3 @@
-The Hamas government secretary Mohammad Awad has called other countries to support the flotilla, stating that it was a crime to continue imposing the blockade against the Gaza Strip It is a crime to continue imposing the blockade against the Gaza Strip
+version https://git-lfs.github.com/spec/v1
+oid sha256:d325977ad6b6940c1f8b9cdfcc0ab9c46bc00d3f303b8345bf26596a11e3f3bb
+size 252

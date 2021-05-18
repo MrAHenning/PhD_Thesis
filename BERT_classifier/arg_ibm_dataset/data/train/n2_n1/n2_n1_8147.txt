@@ -1,1 +1,3 @@
-AI further notes that Israel’s firing of artillery, shelling from tanks and from naval ships into densely populated civilian areas in Gaza may also amount to indiscriminate attacks [REF during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:627b35e0d492ff612e6f40765c8424d5879efe772c9871858b9a2cca1989439c
+size 332

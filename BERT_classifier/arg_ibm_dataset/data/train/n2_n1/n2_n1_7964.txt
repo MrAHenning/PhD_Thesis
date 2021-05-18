@@ -1,1 +1,3 @@
-Mill’s application of the general principles of liberty is expressed in his book On Liberty: "If all mankind minus one, were of one opinion, and one, and only one person were of the contrary opinion, mankind would be no more justified in silencing that one person, than he, if he had the power, would be justified in silencing mankind Everyone has the right to freedom of opinion and expression
+version https://git-lfs.github.com/spec/v1
+oid sha256:88d363db0c307f334be3f21bb55482bc70594260458a20177ba74bca0063dd60
+size 396

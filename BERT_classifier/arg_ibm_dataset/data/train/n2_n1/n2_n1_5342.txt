@@ -1,1 +1,3 @@
-Following the transition to democracy in 1994, the African National Congress-led government chose to implement affirmative action legislation to correct previous imbalances (a policy known as Employment Equity Affirmative action helps to compensate for past discrimination, persecution or exploitation by the ruling class of a culture
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a91be17233fde035a26cb4eabe43aa26d8cf3793b022d05dda7242ad96d482c
+size 334

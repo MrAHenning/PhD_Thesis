@@ -1,1 +1,3 @@
-Knight sees abstinence from reproduction as an altruistic choice[REF]&nbsp;– a way to prevent involuntary human suffering[REF]&nbsp;– and cites the deaths of children from preventable causes as an example of needless suffering [REF a decrease in the human population would prevent a significant amount of man-made human suffering
+version https://git-lfs.github.com/spec/v1
+oid sha256:91ae6ff6cbb6ce49072f4b22abe0ad2cee7ee7b35c509a24cc57734a2d0708ac
+size 333

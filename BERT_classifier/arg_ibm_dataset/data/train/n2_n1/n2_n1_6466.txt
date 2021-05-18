@@ -1,1 +1,3 @@
-One of the founders of Piratbyrån Rasmus Fleischer argues that copyright law simply seems unable to cope with the Internet, and hence is obsolete. He argues that the Internet, and particularly Web 2.0 have brought about the uncertain status of the very idea of "copying" itself Copyright law is obsolete
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e8a634de5cefb9e0da5997185618b17b513550270b8d4801eb2aa1d3342cb3b
+size 304

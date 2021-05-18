@@ -1,1 +1,3 @@
-A study by the Center for Strategic and International Studies points out that when possible, IAF executed strikes using the smallest precision-guided weapons, and coordinated air strikes and the use of artillery weapons using GPS, in a systematic effort to limit collateral damage [REF Israel intentionally targeted civilians in Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0501d275a8f00e11d1c7a705ac3b1399d8e26c045eb35d488ecc302dfbab354
+size 333

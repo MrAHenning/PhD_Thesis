@@ -1,1 +1,3 @@
-Some university presidents and administrators argue that a playoff format would detract from the importance of the regular season and the intensity of rivalry games a playoff format would detract from the importance of the regular season and the intensity of rivalry games
+version https://git-lfs.github.com/spec/v1
+oid sha256:19dd2c5ae17baa6618aec10a3f8586e386deccd3efa50e8f3ed7f585ff40b98b
+size 272

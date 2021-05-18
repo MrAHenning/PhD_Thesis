@@ -1,1 +1,3 @@
-In both children and adults, there is an association between television viewing time and the risk of obesity [REF]. A 2008 meta-analysis found 63 of 73 studies (86%) showed an increased rate of childhood obesity with increased media exposure, with rates increasing proportionally to time spent watching television [REF A sedentary lifestyle plays a significant role in obesity [REF
+version https://git-lfs.github.com/spec/v1
+oid sha256:06e1878dea779dedc37026924e55dd9c8262a81da19291ef3fb415e317db81f6
+size 381

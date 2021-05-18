@@ -1,1 +1,3 @@
-A study of Swedish males found a significant decrease in total physical exercise even though recreational exercise has increased. This was due to a decrease in work place exercise and physical exercise in transportation [REF Physical inactivity is increasing or high among many groups in the population
+version https://git-lfs.github.com/spec/v1
+oid sha256:805350cb04497c715202af342fe7d56cdb9f5577b73e954c2fe688bd267cf8b4
+size 302

@@ -1,1 +1,3 @@
-On November 8, Attorney General Holder stated for the first time in Congressional testimony that "gunwalking" was used in Fast and Furious American) government has been sending weapons to Mexico in a premeditated and systematic manner, knowing that their destinations were Mexican criminal organizations
+version https://git-lfs.github.com/spec/v1
+oid sha256:90a8a2e802ca9d8ec53ab818eeae5429a692619a4becf3171dd1111297a50030
+size 303

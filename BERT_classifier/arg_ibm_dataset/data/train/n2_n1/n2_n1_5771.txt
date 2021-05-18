@@ -1,1 +1,3 @@
-Gérald Larose, president of the Quebec Sovereignty Council, stated that the monarchy was "the most despicable, appalling, anti-democratic, imperial, colonial symbol against which all social and individuals rights were obtained through the course of history."[REF The monarchy remains a symbol of imperialism and colonialism
+version https://git-lfs.github.com/spec/v1
+oid sha256:55a222f0939ae60e47ec3f9850238726a833a26afb728d3faa5cb790376452e0
+size 324

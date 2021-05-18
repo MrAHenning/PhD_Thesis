@@ -1,1 +1,3 @@
-Emad Gad, political analyst at Egyptian Al-Ahram Center for Political and Strategic Studies, believes the government should keep the Rafah border under control because opening it completely could allow weapons smuggling or illegal financial transactions [REF the blockade is necessary to prevent weapons from reaching Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:48e76f3bc52570ae7fe180748403b41ce57c212944618dd3b78cad8ed3540bc1
+size 322

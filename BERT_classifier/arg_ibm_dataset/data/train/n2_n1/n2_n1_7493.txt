@@ -1,1 +1,3 @@
-The American Academy of Pediatrics (1999) stated that studies suggest that neonatal circumcision confers some protection from penile cancer, but circumcision at a later age does not seem to confer the same level of protection circumcision can be beneficial to a male before he would be able to otherwise provide consent
+version https://git-lfs.github.com/spec/v1
+oid sha256:47f11adcf625e5678bb9fa93eeb4bce01b3fa2c8495a1047161a2141ee5a874c
+size 319

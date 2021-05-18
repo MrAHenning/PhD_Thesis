@@ -1,1 +1,3 @@
-The U.S. government issued a statement saying: "We all fully recognize and respect freedom of the press and expression but it must be coupled with press responsibility. Inciting religious or ethnic hatreds in this manner is not acceptable."[REF freedom of speech ends when sacred values are offended
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb632e4a6a8f0206031b516dc378a175f9f5309584ddeb48206e6d2e52fb12ca
+size 299

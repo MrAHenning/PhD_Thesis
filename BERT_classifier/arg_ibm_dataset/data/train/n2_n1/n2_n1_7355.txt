@@ -1,1 +1,3 @@
-A 2008 study by the CDC found that one in four teen girls, or an estimated 3 million girls, has an STI [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2abe5666cde95e154f9939be1027af80211206af78687e65f285fd42819dc5e
+size 207

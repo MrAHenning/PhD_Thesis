@@ -1,1 +1,3 @@
-On June 23, 2010, 50&nbsp;Democrats in Congress in their letter to Secretary of State Hillary Clinton warned that "building this pipeline has the potential to undermine America's clean energy future and international leadership on climate change."[REF][REF the Keystone XL Pipeline undermines the U.S. commitment to a clean energy economy
+version https://git-lfs.github.com/spec/v1
+oid sha256:a99ac040cdcfd48cca2078be49cc2a5409acc813988a9e60f3272a7b99423d75
+size 338

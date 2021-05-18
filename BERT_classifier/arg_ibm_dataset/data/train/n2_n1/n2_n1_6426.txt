@@ -1,1 +1,3 @@
-Bjørn Lomborg's Copenhagen Consensus on international development challenges ranked trade liberalization as third on the list of development priorities; the experts judged that modest costs could have large benefits for developing nations free trade will make society more prosperous
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a57e0512849a098cbaaf9636161eb965139cd4ce7e590d9f005ff8ef8841079
+size 284

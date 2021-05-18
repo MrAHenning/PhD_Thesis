@@ -1,1 +1,3 @@
-In Harvard’s “Civil Rights Project,” Lee and Orfield identify family background as the most influential factor in student achievement [REF]. Only 11% of children from the bottom fifth earn a college degree while 80% of the top fifth earn one [REF access to resources play a hugely important role in educational inequality
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b116600c9deadb9007713154a43bb836b7387d7e3c54665a426de95af5a510e
+size 327

@@ -1,1 +1,3 @@
-As much as 64% of the United States adult population is considered either overweight or obese Excess weight has reached epidemic proportions globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0ae7e2720f854a76469d8acfe104f5e02cc114d120c88c7c01578eb8403dd75
+size 149

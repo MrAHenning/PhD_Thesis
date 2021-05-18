@@ -1,1 +1,3 @@
-Khaled Jaabari, Gaza commander of the al-Aqsa Martyr's Brigades, said that the group uses Google Earth to determine targets [REF]. Rocket fire is often timed for the early morning when children head to school [REF Israeli citizens in the south have been suffering from rockets being fired at them
+version https://git-lfs.github.com/spec/v1
+oid sha256:9db8e69925ea53afeddc740b69e6d7fc0fb8ec75676b3c4f7c7aa507d259dd93
+size 296

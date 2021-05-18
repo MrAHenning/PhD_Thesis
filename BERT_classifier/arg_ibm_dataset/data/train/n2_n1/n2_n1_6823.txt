@@ -1,1 +1,3 @@
-Amnesty International said that “The blockade constitutes collective punishment under international law and must be lifted immediately Even if the blockade is eased it remains illegal under international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee2476662067df778da25b757f58b143d78886889935d95ca25734b1eb1a8ea2
+size 209

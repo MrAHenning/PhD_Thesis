@@ -1,1 +1,3 @@
-The Court defended the decision to prevent the ships from reaching Gaza: In light of Hamas' control of the Gaza Strip, Israel has take various steps meant to prevent direct access to the Gaza Strip, including the imposition of a naval blockade on the Strip, which, according to the State's declaration, is meant to block the infiltration of weapons and ammunition into Hamas ranks which have carried out shooting and terrorist attacks in Israeli territory for years with the goal of harming civilians the blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0854a68ae1140441149b80ed06f5e3193008991de8bb7b8d4af1b5f43707e81
+size 522

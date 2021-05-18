@@ -1,1 +1,3 @@
-Smokers are three times as likely to die before the age of 60 or 70 as non-smokers [REF Tobacco is the single greatest cause of preventable death globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c55593777772edc3db4dd225b3512918d8b59e4e679131eae7e23a53accb00e
+size 154

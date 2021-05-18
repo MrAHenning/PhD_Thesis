@@ -1,1 +1,3 @@
-The United Nations - At the beginning of "Operation Cast Lead", a spokesperson for Secretary General Ban Ki-moon stated that "the secretary general is deeply alarmed by today's heavy violence and bloodshed in Gaza, and the continuation of violence in southern Israel". Ban condemned Israel's "excessive use of force leading to the killing and injuring of civilians" and ‘the ongoing rocket attacks by Palestinian militants’" [REF]. He appealed for "an immediate halt to all violence [and reiterated] previous calls for humanitarian supplies to be allowed into Gaza to aid the distressed civilian population."[REF Military action leading to the killing and suffering of civilians, by whomever is carried out, deserves to be condemned
+version https://git-lfs.github.com/spec/v1
+oid sha256:e969f6d848f3a4edffe1c04472cf8466bd9c25920be7c6453d2d7df357a64c27
+size 736

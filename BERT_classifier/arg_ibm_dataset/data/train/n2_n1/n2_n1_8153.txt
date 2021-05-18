@@ -1,1 +1,3 @@
-AI accused Israel of failure to provide adequate supply of food, essential supplies, medicine and medical care to the population of Gaza, as well as deliberate impediment of emergency relief and humanitarian assistance [REF during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc98210f910f138b430645ee1ee1bc51b029df122251650434f6e09acacf5fde
+size 368

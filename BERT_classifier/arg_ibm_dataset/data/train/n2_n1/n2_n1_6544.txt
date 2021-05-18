@@ -1,1 +1,3 @@
-Monoculture was a contributing factor to several agricultural disasters, including the European wine industry collapse in the late 19th century, and the US Southern Corn Leaf Blight epidemic of 1970 [REF Biodiversity is known to have an important role in reducing disaster risk
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9e75f261ec604333c6676861362bb1180537ab0d7f7b278f31407441a822fc9
+size 277

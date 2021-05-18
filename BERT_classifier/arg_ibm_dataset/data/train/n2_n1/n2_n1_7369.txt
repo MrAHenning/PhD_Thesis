@@ -1,1 +1,3 @@
-David Walsh, from the National Institute on Media and the Family, thinks that when adolescents engage in casual sexual relationships they do not develop skills such as trust and communication that are key ingredients in healthy, long-lasting relationships [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f5fb517bca1bb4a840a2dd725520819dc8ee7e209ea6eb6088891ddde671048
+size 360

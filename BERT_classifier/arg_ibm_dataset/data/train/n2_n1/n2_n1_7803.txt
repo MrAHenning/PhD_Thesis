@@ -1,1 +1,3 @@
-Polly Toynbee has characterized the Vatican as "a modern, potent force for cruelty and hypocrisy", charging that the Church's ban on condoms has "caused the death of millions of Catholics and others in areas dominated by Catholic missionaries, in Africa and right across the world the Church's ban on condoms has "caused the death of millions
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dac92234b5fcd1e9d3e9d93f1cbf41425098b7a7983d93611f39bda8b1d1150
+size 342

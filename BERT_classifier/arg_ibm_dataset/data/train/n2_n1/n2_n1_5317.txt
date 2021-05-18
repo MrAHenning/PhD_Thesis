@@ -1,1 +1,3 @@
-Excess weight has reached epidemic proportions globally, with more than 1 billion adults being either overweight or obese [REF Excess weight has reached epidemic proportions globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:9394a51d293e38a66763901073f76480dbcd1d42aeda3592be4afb484e180eac
+size 182

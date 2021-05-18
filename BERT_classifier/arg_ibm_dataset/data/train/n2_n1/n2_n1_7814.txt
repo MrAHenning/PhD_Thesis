@@ -1,1 +1,3 @@
-Some senior Catholic authorities, such as Belgian Cardinal Emeritus Godfried Danneels, believe the Catholic Church should support condoms used to prevent serious diseases such as AIDS, because non-use is tantamount to murder. [REF the Catholic Church should support condoms used to prevent serious diseases such as AIDS
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fd321dd97e4b1d766523561eea632e22a7ae9d2a61d4da59c546e55986b4e8c
+size 319

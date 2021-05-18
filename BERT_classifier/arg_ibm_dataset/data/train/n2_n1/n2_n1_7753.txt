@@ -1,1 +1,3 @@
-One high-profile example of tactical voting was the California gubernatorial election, 2002. During the Republican primaries, Republicans' Richard Riordan (former mayor of Los Angeles) and Bill Simon (a self-financed businessman) were vying for a chance to compete against the unpopular incumbent Democratic Governor of California, Gray Davis. Polls predicted that Riordan would defeat Davis, while Simon would not.   At that time, the Republican primaries were open primaries in which anyone could vote regardless of her or his own party affiliation, Davis supporters were rumored to have voted for Simon because Riordan was perceived as a greater threat to Davis voters of one party sometimes vote in the other party's primary to nominate a candidate who will be easy for their favorite to beat
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ea5462070866beb4ef122588fa38a0e8d1e2ac68fa45f6b81f265b9c464d737
+size 796

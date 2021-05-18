@@ -1,1 +1,3 @@
-Deborah Lipstadt argued that Irving should not be imprisoned for expressing views that she finds odious and wrong [REF The denial of such an unimaginable murder of millions cannot simply be accepted as something protected by the freedom of speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe64b2959281817d2c757bd83aad2aa1e73fd42d47e61557f71ee3ae437c0763
+size 246

@@ -1,1 +1,3 @@
-As early as 2010 some economists expressed fears that the negative impact of tighter fiscal policy could offset the positive impact of lower borrowing costs and social disruption could have a significantly negative impact on investment and growth in the longer term social disruption could have a significantly negative impact on investment and growth in the longer term
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5289f9dd8e208f0869d7d75f10db7a15e03fc8301cdab71fdb8191fc4a43cf6
+size 370

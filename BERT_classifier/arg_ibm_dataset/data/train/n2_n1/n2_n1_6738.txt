@@ -1,1 +1,3 @@
-On July 6, 2010, House Energy and Commerce Committee chairman Henry Waxman urged the State Department to block Keystone XL, saying in a letter to the department that 'this pipeline is a multi-billion dollar investment to expand our reliance on the dirtiest source of transportation fuel currently available' [REF the Keystone XL Pipeline undermines the U.S. commitment to a clean energy economy
+version https://git-lfs.github.com/spec/v1
+oid sha256:28660bd17b6141f3f013cd6de4b2f0dc1c97bacc9ad4c76a42e1c6e2807cd252
+size 394

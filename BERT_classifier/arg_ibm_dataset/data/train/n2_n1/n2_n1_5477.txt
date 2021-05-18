@@ -1,1 +1,3 @@
-The first boxing rules, called the Broughton's rules, were introduced by champion Jack Broughton in 1743 to protect fighters in the ring where deaths sometimes occurred [REF amateur boxers, professional boxers and Toughman fighters have died as the result of ring or training injuries
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fdda0ecb34e01b6df98b91a081a99d8cf439206053bf7ebb6b2464157d2f284
+size 284

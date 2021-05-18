@@ -1,1 +1,3 @@
-medical studies have proven that smoking tobacco is among the leading causes of many diseases such as lung cancer, heart attacks, COPD, erectile dysfunction and can also lead to birth defects Toxic compounds in tobacco constitute serious health hazards
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a7ea4c6f5f96cc95cceb5c01d7f6d5d810ca65ea42b92a2d9e8f0350fbbbcbe
+size 252

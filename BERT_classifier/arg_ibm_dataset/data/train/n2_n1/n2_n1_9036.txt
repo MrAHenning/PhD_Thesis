@@ -1,1 +1,3 @@
-During the House of Lords appeal Lord Scarman said that "I do not subscribe to the view that the common-law offence of blasphemous libel serves no useful purpose in modern law. (..) The offence belongs to a group of criminal offences designed to safeguard the internal tranquillity of the kingdom the offence of blasphemy is a dead letter
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec748511743dc2ba3def69d1855215318274869e4c486642457c2e36e9140d64
+size 338

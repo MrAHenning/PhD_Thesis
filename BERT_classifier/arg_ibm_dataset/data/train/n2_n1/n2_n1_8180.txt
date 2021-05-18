@@ -1,1 +1,3 @@
-Goldstone wrote that "If I had known then what I know now, the Goldstone Report would have been a different document." He said that the lack of Israeli cooperation had meant that no Israeli officers were interviewed during the writing of the report. In hindsight, incidents which had been interpreted as the deliberate targeting of civilians may have had other explanations, such as poor intelligence information The government of Israel had a policy of deliberately targeting civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:d87bce7980e71d5802fd00c8838746b6b6e79f939e0dc935963448ffbc413630
+size 486

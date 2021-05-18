@@ -1,1 +1,3 @@
-In 1950 five studies were published in which "smoking was powerfully implicated in the causation of lung cancer" [REF]. These included the now classic paper "Smoking and Carcinoma of the Lung" which appeared in the British Medical Journal. This paper reported that "heavy smokers were fifty times as likely as non-smokers to contract lung cancer" [REF Tobacco is the single greatest cause of preventable death globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c71321208bb74787d78be8379663e936dfe1a9331c0caa407d791f71ca47715
+size 418

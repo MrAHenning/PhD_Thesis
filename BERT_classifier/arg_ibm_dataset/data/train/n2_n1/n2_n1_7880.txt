@@ -1,1 +1,3 @@
-Overall life expectancy is also reduced in regular smokers, with estimates ranging from 10[REF] to 17.9 [REF] years fewer than nonsmokers [REF Tobacco is the single greatest cause of preventable death globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a242a12d7e752df672877073345d48ad9438aaaeb1eaabc57ef7023fa79c7ce
+size 209

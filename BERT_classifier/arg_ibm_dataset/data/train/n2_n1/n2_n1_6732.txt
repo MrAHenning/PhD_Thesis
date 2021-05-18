@@ -1,1 +1,3 @@
-Some environmental groups, such as the Natural Resources Defense Council (NRDC), oppose the project due to usage of crude from oil sands and emissions of greenhouse gases [REF the pipeline could pollute air and water supplies
+version https://git-lfs.github.com/spec/v1
+oid sha256:426f1289c773ee2f7487df1923161a21d6337857ad6b0fa90c1502b0378b319d
+size 225

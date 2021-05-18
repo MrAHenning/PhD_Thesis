@@ -1,1 +1,3 @@
-a 2006 systematic review concluded that the evidence "strongly indicates that circumcised men are at lower risk .. syphilis."[REF Circumcision insures better health
+version https://git-lfs.github.com/spec/v1
+oid sha256:beab7f3f32e7f6199404eba5421ebf460df267fd892701b2db102f16ce2bb1f7
+size 164

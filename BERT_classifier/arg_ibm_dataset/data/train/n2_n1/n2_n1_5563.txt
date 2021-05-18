@@ -1,1 +1,3 @@
-In an article in the Hudson Review, Bruce Bawer, writes about what he sees as a developing distaste toward the idea and policies of multiculturalism in Europe, especially, as stated earlier, in the Netherlands, Denmark, United Kingdom, Norway, Sweden, Austria and Germany. The belief behind this backlash on multiculturalism is that it creates friction within society [REF multiculturalism works better in theory than in practice
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb0da1d4f7cc7934e9497e902300e8380f10038b1b430c17a1050df24e33fa85
+size 429

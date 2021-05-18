@@ -1,1 +1,3 @@
-Some writers, such as John Lott, author of More Guns, Less Crime, say they have discovered a positive correlation between gun control legislation and crimes in which criminals victimize law-abiding citizens. Lott asserts that criminals ignore gun control laws and are effectively deterred by armed intended victims just as higher penalties deter crime. His work involved comparison and analysis from data collected from all the counties in the United States [REF allowing law-abiding citizens to carry concealed firearms, deters crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bf4a7695766ecb68798a28f4f32b9f5d5d9be11fa9045ac405820df13d8edcf
+size 534

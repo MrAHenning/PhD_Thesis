@@ -1,1 +1,3 @@
-According to Huntington, multiculturalism has "attacked the identification of the United States with Western civilization, denied the existence of a common American culture, and promoted racial, ethnic, and other subnational cultural identities and groupings."[REF some forms of multiculturalism can divide people
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bc76303300bc52367c6a6653f4da693cadb48632abaec4ca5d578facdc8b9d0
+size 313

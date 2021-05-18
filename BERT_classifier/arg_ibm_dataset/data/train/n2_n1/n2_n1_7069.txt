@@ -1,1 +1,3 @@
-A separate Wall Street Journal article emphasized Israel's need to keep advanced weaponry from getting to Hamas: "Those who denounce Israel today ought to at least propose how they mean to keep arms from going to Hamas—or else consider the role their denunciations will play in encouraging another war."[REF Israel has a right to stop weapons from going into Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b4e5b3e046e592a0756f2eea8bac6c1bceae08e4f033f76a724f9c422df656
+size 365

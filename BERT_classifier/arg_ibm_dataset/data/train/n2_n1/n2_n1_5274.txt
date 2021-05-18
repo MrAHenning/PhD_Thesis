@@ -1,1 +1,3 @@
-Suicide is also very common in adolescent alcohol abusers, with 1 in 4 suicides in adolescents being related to alcohol abuse [REF Substance abuse can be harmful to your health and may even be deadly in certain scenarios
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1c7dfcafd0da413bb6d61ac9b70b210810f8432bc5cc8791d7d9912bac3d3f8
+size 220

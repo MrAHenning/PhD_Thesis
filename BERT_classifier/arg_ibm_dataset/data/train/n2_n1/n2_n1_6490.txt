@@ -1,1 +1,3 @@
-A report on Denmark's wind power noted that their wind power network provided less than 1% of average demand 54 days during the year 2002 [REF Electricity generated from wind power can be highly variable
+version https://git-lfs.github.com/spec/v1
+oid sha256:6076e28a246f164bb034d1b5d2b384831c9ad309bb81b69e43ada27ca765f0a3
+size 203

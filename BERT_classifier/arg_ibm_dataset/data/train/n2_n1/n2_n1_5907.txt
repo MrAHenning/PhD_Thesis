@@ -1,1 +1,3 @@
-Some British conservatives, such as Conservative Party co-chairman Sayeeda Warsi, also criticise the "'something for nothing' culture" of the welfare state, claiming that the high extent of the welfare state "discourages the unemployed from finding jobs" [REF Social welfare creates dependence to the state
+version https://git-lfs.github.com/spec/v1
+oid sha256:e72501fd622744cc3bd9c09a6328344c373e46bc0a935759867b4f102e18a1ce
+size 306

@@ -1,1 +1,3 @@
-According to SIECUS, the Sexuality Information and Education Council of the United States, 93% of adults they surveyed support sexuality education in high school and 84% support it in junior high school [REF]. In fact, 88% of parents of junior high school students and 80% of parents of high school students believe that sex education in school makes it easier for them to talk to their adolescents about sex [REF the vast majority of Americans favor broader sex education programs over those that teach only abstinence
+version https://git-lfs.github.com/spec/v1
+oid sha256:47ed229235acb831feef4e4b13071b34427c46831fbce56517ec35e35ee03b97
+size 519

@@ -1,1 +1,3 @@
-Denniston (1996) argues that informing parents that circumcision is "in any way useful" constitutes a failure to make "relevant scientific information available to that parent." He states that "[c]ircumcision is unnecessary and harmful: therefore, not in the infant's best interest."[REF c]ircumcision is unnecessary and harmful
+version https://git-lfs.github.com/spec/v1
+oid sha256:210a1ccf3f072e3f23aae2fd371ed758df07e506df964bba1e2751986cef482a
+size 328

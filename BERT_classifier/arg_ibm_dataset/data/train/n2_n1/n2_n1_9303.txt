@@ -1,1 +1,3 @@
-Enrico Ferri, a student of Lombroso, believed that social as well as biological factors played a role, and held the view that criminals should not be held responsible when factors causing their criminality were beyond their control people have free will to choose how to act
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a742dec2a5d41a61e82458a4757e8dce4f349bbba93acd9b40aa5ae681186ed
+size 274

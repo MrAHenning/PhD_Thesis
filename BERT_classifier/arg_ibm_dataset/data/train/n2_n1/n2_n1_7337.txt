@@ -1,1 +1,3 @@
-prominent professional associations in the fields of medicine, public health, adolescent health, and psychology, argue that such programs fail to provide adequate information to protect the health of adolescents such programs fail to provide adequate information to protect the health of adolescents
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dd7c5e1bba49136838edb20defb9fa50224d04be91acbcd448ffc69ac879672
+size 299

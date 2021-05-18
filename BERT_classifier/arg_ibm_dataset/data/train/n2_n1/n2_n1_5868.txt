@@ -1,1 +1,3 @@
-A May 2007 CVVM poll found that 72% believe abortion in the Czech Republic should be allowed "at the request of the woman abortion should be legal in all circumstances
+version https://git-lfs.github.com/spec/v1
+oid sha256:1914b5d9a9a1c94a7febce146ed46636b7cee503c6ac7ed76a3cedcdfcb4de4d
+size 167

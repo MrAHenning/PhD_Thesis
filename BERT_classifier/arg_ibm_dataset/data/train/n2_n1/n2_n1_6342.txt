@@ -1,1 +1,3 @@
-The danger of aid, according to Bauer, is that it increases the power of government, leads to corruption, misallocates resources, and erodes civil society Aid misallocates resources
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cf60b1d5d4a414cd4fe29a4eb9ab94fcdb43caa44393cdd9a3c898780404830
+size 181

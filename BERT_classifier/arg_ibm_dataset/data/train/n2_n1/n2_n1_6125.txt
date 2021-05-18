@@ -1,1 +1,3 @@
-Logical positivists, such as Rudolf Carnap and A. J. Ayer viewed any talk of gods as literal nonsense. For the logical positivists and adherents of similar schools of thought, statements about religious or other transcendent experiences could not have a truth value, and were deemed to be without meaning, because metaphysical naturalism, the philosophical basis for logical positivism, automatically excludes the possibility of the supernatural The argument for the existence of god is a logical fallacy
+version https://git-lfs.github.com/spec/v1
+oid sha256:e24a50e2cd13b80b6d478cb325a951648733bbab5e9630446d0c7030edfbc55e
+size 504

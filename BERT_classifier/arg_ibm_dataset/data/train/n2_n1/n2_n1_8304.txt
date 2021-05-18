@@ -1,1 +1,3 @@
-The UN fact finding mission stated that the firing of rockets at Israel constituted a deliberate attack against the civilian population and was in violation of international law [REF the firing of rockets at Israel constituted a deliberate attack against the civilian population
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a4fab0a00953ee3740f154aeffc66580c7fbc16243e463771f3aabd570871fe
+size 278

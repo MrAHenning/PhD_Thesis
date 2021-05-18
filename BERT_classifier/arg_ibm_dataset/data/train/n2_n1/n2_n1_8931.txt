@@ -1,1 +1,3 @@
-UN Secretary-General Ban Ki-Moon said "While recognizing Israel's right to defend itself, I condemn the disproportionate and excessive use of force that has killed and injured so many civilians, including children. I call on Israel to cease such attacks."[REF Israel's response was excessive
+version https://git-lfs.github.com/spec/v1
+oid sha256:e395fe132448008d055d7745450b94f493cf45b166d4e5281da7cbf87a2c11ea
+size 291

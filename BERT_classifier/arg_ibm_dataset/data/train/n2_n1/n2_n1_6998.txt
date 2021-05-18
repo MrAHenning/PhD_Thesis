@@ -1,1 +1,3 @@
-A World Health Organisation assessment conducted in 2009 claimed that the level of anemia in babies (9–12 months) was as high as 65 What is going on in Gaza is a humanitarian catastrophe
+version https://git-lfs.github.com/spec/v1
+oid sha256:d79024cc07351c2286ee4594eaf58457a338671044c369f5868f35c0a502fa1c
+size 188

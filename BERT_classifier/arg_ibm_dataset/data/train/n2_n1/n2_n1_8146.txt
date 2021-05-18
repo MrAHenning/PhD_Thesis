@@ -1,1 +1,3 @@
-The report, compiled by UN High Commissioner for Human Rights Navi Pillay, alleges that the Israeli Defence Force breached laws of armed conflict by attacking indiscriminately civilians in at least several incidents, by targeting civilian and protected facilities, by damaging large number of buildings, by failing to provide unquestionably effective warning to civilians at risk and by failing to implement rules of international humanitarian law regarding military occupation during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb46a2b49fa9c384aa403a74a30dbc47cf838ad53510738ed50351703d184d59
+size 622

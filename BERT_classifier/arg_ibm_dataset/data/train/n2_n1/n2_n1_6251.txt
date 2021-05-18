@@ -1,1 +1,3 @@
-The German philosopher Gottfried Leibniz made a similar argument with his principle of sufficient reason in 1714. "There can be found no fact that is true or existent, or any true proposition," he wrote, "without there being a sufficient reason for its being so and not otherwise, although we cannot know these reasons in most cases." He formulated the cosmological argument succinctly: "Why is there something rather than nothing? The sufficient reason [..] is found in a substance which [..] is a necessary being bearing the reason for its existence within itself."[REF existence must be due to an agent cause
+version https://git-lfs.github.com/spec/v1
+oid sha256:4434bff0e89eea1661c7cc9db5886f76c6638ac2f39991b320daf1c1a0026fc1
+size 611

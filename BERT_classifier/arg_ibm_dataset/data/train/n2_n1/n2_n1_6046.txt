@@ -1,1 +1,3 @@
-India exploded a nuclear device in 1974, the so-called Smiling Buddha test, which it has consistently claimed was for peaceful purposes. Others saw it as a response to China's nuclear weapons capability. It was then universally perceived, notwithstanding official denials, to possess, or to be able to quickly assemble, nuclear weapons. In 1999 it deployed its own medium-range missile and has developed an intermediate-range missile capable of reaching targets in China's industrial heartland If one state produces a nuclear weapon it creates almost a domino effect within the region
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3af54b04510e1d249a7cc52c794743a84352c0d33ce65717551fb859b176bcf
+size 584

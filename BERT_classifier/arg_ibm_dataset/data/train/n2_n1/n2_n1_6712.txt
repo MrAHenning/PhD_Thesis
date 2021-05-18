@@ -1,1 +1,3 @@
-International human rights organizations including Human Rights Watch,[REF] Amnesty International[REF] and the American Association for the Advancement of Science[REF] have repeatedly documented and condemned widespread human rights violations the military regime in Burma is one of the world's most repressive and abusive regimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:e73009763d2a1d9bc7c77b2365830f89d7af66824b9db2ceeae432e43d65f500
+size 330

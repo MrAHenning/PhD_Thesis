@@ -1,1 +1,3 @@
-The UK newspaper The Guardian conducted an investigation of its own which, according to the paper, uncovered evidence of war crimes including the use of Palestinian children as human shields and the targeting of medics and hospitals. The paper also found evidence of attacks on clearly distinguishable civilian targets [REF during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fe9cb8f705d611025a3d0b9e13c62d631f742e63062724563204b9eae482421
+size 468

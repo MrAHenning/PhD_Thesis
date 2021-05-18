@@ -1,1 +1,3 @@
-In their study for the World Institute for Development Economics Research, Giovanni Andrea Cornia and Julius Court published in 2001 reach policy conclusions on optimal distribution of income -- that it should be neither too high nor too low [REF]. They conclude that too much equality (below a Gini coefficient of .25) negatively impacts growth due to "incentive traps, free-riding, labour shirking, [and] high supervision costs". They also claim that high levels of inequality (above a Gini coefficient of .40) negatively impacts growth, due to "incentive traps, erosion of social cohesion, social conflicts, [and] uncertain property rights". They advocate for policies which put equality at the low end of this "efficient" range a certain amount of redistribution would be justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f3825fd2f6f66fb0b3ded8123ba5d9e8f6f8b3a57a8f3c733bde9617e3274bb
+size 785

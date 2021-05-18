@@ -1,1 +1,3 @@
-Clarke and Cornish (1985) posit that, "..crime is purposive behavior designed to meet the offender’s commonplace needs for such things as money, status, sex, excitement, and that meeting these needs involves the making of (sometimes quite rudimentary) decisions and choices, constrained as they are by limits of time and ability and the availability of relevant information." Thus, offenders make decisions that appear rational (to the offenders at least) to engage in specific criminal acts crime and delinquency are a result of choice
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0d1d126c9429ff9f6b46deadd7d89a2ca5c916ab2d9c708dd13eccf8def1f24
+size 538

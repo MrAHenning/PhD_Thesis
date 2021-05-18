@@ -1,1 +1,3 @@
-The Foreign Minister of Iceland, Össur Skarphéðinsson, condemned the attack saying that "Gaza is in fact a giant prison where international law is violated. This must stop,"[REF Israel's blockade violates the Geneva Conventions
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d82a0a011702a93e4c92906d18563ee9952523d4cd7eeab97ae55e8395ea01d
+size 230

@@ -1,1 +1,3 @@
-According to Collier, “the middle income countries get aid because they are of much more commercial and political interest than the tiny markets and powerlessness of the bottom billion.”[REF] What this means is that, at the most basic level, aid is not targeting the most extreme poverty [REF aid is not targeting the most extreme poverty
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdd3ff8a395b07f88d79e593ac60ce750dff7d01040286b04d3caa59edfa9305
+size 342

@@ -1,1 +1,3 @@
-A study of 1800 children aged 2 to 12 in Colac, Australia tested a program of restricted diet (no carbonated drinks or sweets) and increased exercise. Interim results included a 68% increase in after school activity programs, 21% reduction in television viewing, and an average of 1&nbsp;kg weight reduction compared to a control group [REF Childhood inactivity is linked to obesity
+version https://git-lfs.github.com/spec/v1
+oid sha256:a84c11dce10fa5b34b753458a6ef599a1e80e1d4e18967815e5a3687fc24db9d
+size 382

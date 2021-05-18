@@ -1,1 +1,3 @@
-Amnesty International stated that the Israeli army used flechette shells in densely populated civilian areas resulting in the injuries and deaths of civilians the Israeli Defence Force breached laws of armed conflict by attacking indiscriminately civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:03d8497a57cc6e3f7b17da24d40cbd04a3f58eaf3b1da2b343546368cde54a5d
+size 256

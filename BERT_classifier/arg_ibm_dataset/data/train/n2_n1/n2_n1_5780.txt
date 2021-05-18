@@ -1,1 +1,3 @@
-In 1962, President Kennedy signed an executive order giving public-employee unions the right to collectively bargain with federal government agencies [REF Collective bargaining is regarded as a human right
+version https://git-lfs.github.com/spec/v1
+oid sha256:d806d0cc27bf49f272282093f4184b874d594c2b937a8219af1eb4ee44c67e31
+size 205

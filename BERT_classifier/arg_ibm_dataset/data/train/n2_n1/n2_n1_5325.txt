@@ -1,1 +1,3 @@
-When my first wife and I began the school, we had one main idea: to make the school fit the child - instead of making the child fit the school" -- A.S. Neill children learn best with freedom from coercion
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a755264001d022080cfc2767f0cf66bb425d6b75d37ca973458794f51477e8b
+size 204

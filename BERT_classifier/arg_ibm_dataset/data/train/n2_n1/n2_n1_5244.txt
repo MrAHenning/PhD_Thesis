@@ -1,1 +1,3 @@
-Virtually no East German athlete ever failed an official drugs test, though Stasi files show that many did, indeed, produce positive tests at Kreischa, the Saxon laboratory drug testing can be wildly inconsistent and, in some instances, has gone unenforced
+version https://git-lfs.github.com/spec/v1
+oid sha256:881a9c621fa0a18870e0f4998c8357d7949f67c7ce8ef3d392df4b69aeab027d
+size 256

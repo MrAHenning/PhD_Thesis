@@ -1,1 +1,3 @@
-Samuel P. Huntington, political scientist and author, known for his Clash of Civilizations theory, has described multiculturalism as "basically an anti-Western ideology." According to Huntington, multiculturalism has "attacked the identification of the United States with Western civilization, denied the existence of a common American culture, and promoted racial, ethnic, and other subnational cultural identities and groupings."[REF Multiculturalism is considered to be dangerous to the West
+version https://git-lfs.github.com/spec/v1
+oid sha256:48ee6770ee918e8105eea73329f81c252d7205ae10dc2e2d24fc9912818ba0e5
+size 494

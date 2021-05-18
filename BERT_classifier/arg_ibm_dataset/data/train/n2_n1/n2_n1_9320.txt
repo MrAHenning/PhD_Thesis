@@ -1,1 +1,3 @@
-Cohen (1955): working class teenagers joined gangs due to frustration of inability to achieve status and goals of the middle class Criminality becomes attractive when expectations of being able to fulfil goals (therefore achieving success) by legitimate means cannot be fulfilled
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b0673c7813bd7fa15074c1d30c01759333be1278e3fe9edd20d86c2face0850
+size 279

@@ -1,1 +1,3 @@
-when the states ratified the Constitution (1787–88), several leading statesmen regarded the lack of mandatory limits to tenure as a dangerous defect The lack of mandatory limits to tenure is regarded as a dangerous defect
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2db4e92a51844bf07c4d5431de21aad27fa9e4cfd8ce2708402b4eb13c9b623
+size 223

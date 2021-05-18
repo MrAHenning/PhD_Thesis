@@ -1,1 +1,3 @@
-A 13-month study, which was published in 2006 and which involved 320 body builders and athletes suggests that the wide range of psychiatric side-effects induced by the use of AAS is correlated to the severity of abuse [REF Health risks can be produced by long-term use or excessive doses of anabolic steroids
+version https://git-lfs.github.com/spec/v1
+oid sha256:8953f5bce828f6b4ccaed4905dd5377cda48fb62e246313e1e58dc62fb7dc7c3
+size 308

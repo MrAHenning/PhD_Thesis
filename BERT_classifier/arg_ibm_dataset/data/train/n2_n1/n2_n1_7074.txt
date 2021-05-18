@@ -1,1 +1,3 @@
-In July 2011, the UN investigative committee for the 2010 Flotilla to Gaza concluded that the blockade is legal the blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:96f06fef14ff822b939efba8ac374432670f6f7c0bde6d640d9d5075c2f7287c
+size 133

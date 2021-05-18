@@ -1,1 +1,3 @@
-Non-smokers who are exposed to second-hand smoke at home or work increase their heart disease risk by 25–30% and their lung cancer risk by 20–30 Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:0388661c89b7586ab6759256432193705566de5cf4e3819a8035af5f24472692
+size 235

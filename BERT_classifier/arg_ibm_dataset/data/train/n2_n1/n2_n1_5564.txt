@@ -1,1 +1,3 @@
-Bruce Bawer, writes about what he sees as a developing distaste toward the idea and policies of multiculturalism in Europe, especially, as stated earlier, in the Netherlands, Denmark, United Kingdom, Norway, Sweden, Austria and Germany. The belief behind this backlash on multiculturalism is that it creates friction within society [REF Multiculturalism perpetuates conflicts between and within groups
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff50574f60ab55e0b0f63caa29f7b70c193f3f468031f41f322d06396b8e9440
+size 401

@@ -1,1 +1,3 @@
-In January 2007 a seminal article appeared in the Wall Street Journal, authored by Henry Kissinger, Bill Perry, George Shultz and Sam Nunn. These men were veterans of the cold-war era with impeccable credentials as believers in using nuclear weapons for deterrence. But they now reversed their previous position and asserted that far from making the world safer, nuclear weapons had become a source of extreme risk:[REF] .   The risk of accidents, misjudgments or unauthorised launches, they argued, was growing more acute in a world of rivalries between relatively new nuclear states that lacked the security safeguards developed over many years by America and the Soviet Union nuclear weapons had become a source of extreme risk
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a1d95625363a305ee693a75907450f5566edd3f4203e6164c8dc7154d5a8eb7
+size 730

@@ -1,1 +1,3 @@
-In another controversial season, Nebraska was chosen as a national title game participant despite being ranked #4 in both human polls and not winning their conference due to the unique and often esoteric nature of the BCS format, there has been controversy as to which two teams should play for the national championship
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfa8989478584500e4460163500faabcbc62851354bdaf96e7edb6a22222a610
+size 320

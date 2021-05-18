@@ -1,1 +1,3 @@
-Harvard Law School Professor Alan Dershowitz, Chicago Law School Professor Eric Posner, and Johns Hopkins international law Professor Ruth Wedgwood, said that the naval blockade and the boarding in international waters were in accord with long-standing international law, and comparable to other blockades in unrelated, historical conflicts [REF The naval blockade's implementation complied with the requirements of international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6ab504cc711528f34f74801788ea8e914a966abeceeb3c00ce1f8b6fd2bc282
+size 433

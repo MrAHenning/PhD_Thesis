@@ -1,1 +1,3 @@
-The Ministry of External Relations of Brazil issued the following statement on December 27: "Brazil deplores the disproportionate Israeli reaction Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8a4075413a33c2d1882e1c03093a080ab57a06c05b09104895d0ac0775ab671
+size 186

@@ -1,1 +1,3 @@
-On January 12, the United Nations Human Rights Council adopted a resolution in which it strongly condemned the ongoing Israeli military operation in Gaza, which had according to the body "resulted in massive violations of human rights of the Palestinian people The ongoing Israeli military operation in Gaza resulted in massive violations of human rights of the Palestinian people
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d7ceb487554887a891e2c47886ce00fe04725609a43b4b153a6f8b7a9b286c5
+size 380

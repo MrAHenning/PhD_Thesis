@@ -1,1 +1,3 @@
-Conservative and libertarian groups such as the Heritage Foundation[REF] and the Cato institute[REF] assert that welfare creates a dependence and makes an incentive to not find work. This dependence is called a "culture of poverty" which is said to undermine people from finding meaningful work [REF welfare not only increases poverty but also increases other problems
+version https://git-lfs.github.com/spec/v1
+oid sha256:a55fe43a5ef3e5b0987d150d21bd1612e37dc8f6ed5b7984caa0da0f70168d39
+size 368

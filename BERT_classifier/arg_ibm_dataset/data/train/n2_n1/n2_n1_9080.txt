@@ -1,1 +1,3 @@
-Carlos Portales (Chile) observed, "The concept of the defamation of religion took them in an area that could lead to the actual prohibition of opinions."[REF][REF][REF The 'defamation of religions' concept is used to justify censorship
+version https://git-lfs.github.com/spec/v1
+oid sha256:b97fee44f202e16c01edd463722477a54fc34fabab98d33f7ae6098fac66bc3c
+size 235

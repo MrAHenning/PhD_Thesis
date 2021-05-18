@@ -1,1 +1,3 @@
-According to interviews with family members, neighbors, Palestinian Red Crescent personnel, submissions from various NGOs and visits to the site, the extended al-Samouni family gathered together in one house after the fighting in the area was over, ordered there by Israeli soldiers patrolling their Gaza neighborhood of Zeytoun as part of the ground phase of the Gaza War; when five men stepped out of the house to collect firewood, a missile struck them, fired, possibly, from an Apache helicopter; several more missiles followed, this time aimed directly at the house. In all, 21 family members were killed, including women and children during the conflict the Israel Defense Forces "did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:146cc5188ff95b6185e035785258c19472e89168acf93f6331bf54e71b322337
+size 795

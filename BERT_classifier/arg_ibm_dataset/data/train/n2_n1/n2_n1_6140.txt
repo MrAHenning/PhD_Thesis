@@ -1,1 +1,3 @@
-The Sankhya- tattva-kaumudi, commenting on Karika 57, argues that a perfect God can have no need to create a world the existence of some or all gods is logically impossible
+version https://git-lfs.github.com/spec/v1
+oid sha256:471183f946abcd6ef3e4f0dbe6373bb606f490752fd1a0e666d41d1359043845
+size 172

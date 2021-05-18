@@ -1,1 +1,3 @@
-In general, low-income students lose around 3 months of grade-level equivalency during the summer months. Middle income students lose about 1 month of grade-level equivalency over the summer All children lose academic skills during the summer months
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d9225414248b416cfc6d79e2d625f1b70b62870d37153d825a0ec02e53fde01
+size 249

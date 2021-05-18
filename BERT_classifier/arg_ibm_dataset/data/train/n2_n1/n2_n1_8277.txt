@@ -1,1 +1,3 @@
-Noam Chomsky argued that the Goldstone report is biased in favour of Israel since the report failed to question Israel's contention that it was acting in self-defence. Chomsky stressed that the right to self-defence requires that peaceful means are first exhausted before resorting to military force, something Israel "did not even contemplate doing" [REF the right to self-defence requires that peaceful means are first exhausted before resorting to military force, something Israel "did not even contemplate doing
+version https://git-lfs.github.com/spec/v1
+oid sha256:c93d689353d87894f3c4fe1eed88532745f6974a6e37bd4f7a6126da6e2d9aca
+size 515

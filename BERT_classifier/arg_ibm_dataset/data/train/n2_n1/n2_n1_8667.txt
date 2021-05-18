@@ -1,1 +1,3 @@
-Chavez accused Israel of "flagrant violations of International Law" and stated that the Israeli and American presidents be tried at the International Criminal Court Israel's actions in Gaza are both disproportionate and clearly contrary to international humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:0347f24b2935cb0b7a6bd510e27c426cfa66576e512b20442026952671a86dfa
+size 270

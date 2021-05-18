@@ -1,1 +1,3 @@
-According to Mikhail Bakunin, "the idea of God implies the abdication of human reason and justice; it is the most decisive negation of human liberty, and necessarily ends in the enslavement of mankind, in theory and practice reliance on divine authority lends itself to authoritarianism and dogmatism
+version https://git-lfs.github.com/spec/v1
+oid sha256:d610eab81f429f8b7ffe634b2fa7be700e433cfdb4302201533718403f66454c
+size 300

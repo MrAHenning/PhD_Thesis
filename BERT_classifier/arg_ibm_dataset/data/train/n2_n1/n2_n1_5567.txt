@@ -1,1 +1,3 @@
-In her 1999 essay, later expanded into an anthology, "Is Multiculturalism Bad for Women?" the feminist and political theorist Susan Okin argues that a concern for the preservation of cultural diversity should not overshadow the discriminatory nature of gender roles in many traditional minority cultures, that, at the very least, "culture" should not be used as an excuse for rolling back the women's rights movement [REF Multiculturalism hinders equity and equality in society
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4d024c54b367fd91427a79ef193f4e2bde885292e73f5212153cbc33deb2eb6
+size 477

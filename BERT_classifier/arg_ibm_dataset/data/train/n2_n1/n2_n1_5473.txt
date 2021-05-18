@@ -1,1 +1,3 @@
-Since 1980, more than 200 amateur boxers, professional boxers and Toughman fighters have died as the result of ring or training injuries [REF Headgear is not permitted in professional bouts, and boxers are generally allowed to take much more damage before a fight is halted
+version https://git-lfs.github.com/spec/v1
+oid sha256:213723133826701a905fcf362739ae77ce93b0874a1c77271560341fa401421c
+size 273

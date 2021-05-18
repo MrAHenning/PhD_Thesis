@@ -1,1 +1,3 @@
-Kleck's work speaks towards similar support for firearm rights by showing that the number of Americans who report incidents where their guns averted a threat vastly outnumber those who report being the victim of a firearm-related crime [REF a well-armed citizenry prevents crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1e80a689bdf69d16862b7223cff23a78c58c7df79fb51212dbfa2dd347767d5
+size 278

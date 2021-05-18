@@ -1,1 +1,3 @@
-In 1883, The Pendleton Civil Service Reform Act was passed, stipulating government jobs should be awarded on the basis of merit through competitive exams, rather than ties to politicians or political affiliation [REF Merit should be a primary consideration during evaluation
+version https://git-lfs.github.com/spec/v1
+oid sha256:1016ba409412c6fe763e8b60416ff2cf659ca64040b2d0d1835b73f507f106e2
+size 274

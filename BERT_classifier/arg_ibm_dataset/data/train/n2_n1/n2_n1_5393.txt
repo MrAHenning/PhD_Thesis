@@ -1,1 +1,3 @@
-An attorney who filed an amicus brief on behalf of Pennsylvania legislators and former legislators in Grutter v. Bollinger, Rep. Mark B. Cohen of Philadelphia, said that "The cumulative effect of the Bakke, Grutter, and Bollinger cases is that no one has a legal right to have any demographic characteristic they possess be considered a favorable point on their behalf no one has a legal right to have any demographic characteristic they possess be considered a favorable point on their behalf
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b1d544915c6353eccccf4626f9467594103f1d57a13511ec9378725ecf9673d
+size 493

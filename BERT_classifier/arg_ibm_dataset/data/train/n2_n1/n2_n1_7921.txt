@@ -1,1 +1,3 @@
-In Areopagitica, published without a license,[REF] Milton made an impassioned plea for freedom of expression and toleration of falsehood,[REF] stating: "Give me the liberty to know, to utter, and to argue freely according to conscience, above all liberties."[REF The free communication of ideas and opinions is one of the most precious of the rights of man
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa6bd467285744f84c627b1664323cd1c067788ba24eaa46b4be1e995a7e81b8
+size 356

@@ -1,1 +1,3 @@
-there was a case in Sao Paulo in Brazil of a quota imposed on the São Paulo Fashion Week to require that "at least 10 percent of the models to be black or indigenous", as a coercive measure to counteract a "longstanding bias towards white models."[REF The idea of affirmative action is to help disadvantaged groups get back to a normal starting position after a long period of discrimination
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ef9a7f135d2bb9b99fa4be15e1233c4d9944fc95534975a57206654a9483e8f
+size 392

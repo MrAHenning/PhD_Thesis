@@ -1,1 +1,3 @@
-Manuel J. Jauregui of the Reforma newspaper wrote, "In sum, the gringo (American) government has been sending weapons to Mexico in a premeditated and systematic manner, knowing that their destinations were Mexican criminal organizations."[REF American) government has been sending weapons to Mexico in a premeditated and systematic manner, knowing that their destinations were Mexican criminal organizations
+version https://git-lfs.github.com/spec/v1
+oid sha256:503b5b826b4838b5e2f85cc2106d1f53e0894822b3ba7a1220d388266fb5abf5
+size 407

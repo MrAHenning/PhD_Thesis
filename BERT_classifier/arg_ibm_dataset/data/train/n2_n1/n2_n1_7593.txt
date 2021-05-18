@@ -1,1 +1,3 @@
-The 1st century Jewish author Philo Judaeus (20 BC-50 AD)[REF] defended Jewish circumcision on several grounds, including health, cleanliness and fertility [REF Circumcision insures better health
+version https://git-lfs.github.com/spec/v1
+oid sha256:08fb36dd4d7b122c9875ace3d8b6efb4bd71d34caa1a12826101732aedc18814
+size 195

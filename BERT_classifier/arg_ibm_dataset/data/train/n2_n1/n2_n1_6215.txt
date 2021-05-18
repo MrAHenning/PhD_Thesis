@@ -1,1 +1,3 @@
-Some scientific studies show that the degree of religiosity is generally found to be associated with higher ethical attitudes[REF][REF][REF][REF] — for example, surveys suggesting a positive connection between faith and altruism [REF religion is a positive civilizing influence on society
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfebc937e8d823b59c790403f5b9c7c65acbf3185a442317753f08af7bae419c
+size 290

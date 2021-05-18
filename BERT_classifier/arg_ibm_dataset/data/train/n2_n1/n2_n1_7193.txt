@@ -1,1 +1,3 @@
-In March 2008, a coalition of human rights groups charged that the Israeli blockade of the city had caused the humanitarian situation in Gaza to have reached its worst point since Israel occupied the territory in the 1967 Six-Day War,[REF the world is furious over the blockade on Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:65dbf8cca795e2253628bdf08097a65e20ee22603e0e5bcd8785fbed9deaf7e5
+size 285

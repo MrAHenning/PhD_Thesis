@@ -1,1 +1,3 @@
-Dawkins argues that "the process of non-thinking called faith" is not a way of understanding the world, but instead stands in fundamental opposition to modern science and the scientific method, and is divisive and dangerous Faith is divisive and dangerous
+version https://git-lfs.github.com/spec/v1
+oid sha256:546ebf6c37ae4d27b366798b69653e60e8d3cd61d0f48ff3f03afb67eaff1104
+size 255

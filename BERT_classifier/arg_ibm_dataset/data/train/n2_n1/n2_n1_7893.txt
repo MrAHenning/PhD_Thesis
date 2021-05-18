@@ -1,1 +1,3 @@
-In 1938 a study by a Johns Hopkins University scientist suggested a strongly negative correlation between smoking and lifespan Tobacco is the single greatest cause of preventable death globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:d88ec361b27dd665feb53de5adec1c90bb4466f8495054d8e92a5ce06358a8f5
+size 193

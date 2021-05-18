@@ -1,1 +1,3 @@
-American conservative Russell Kirk also rejects egalitarianism as imposing sameness, staying: "Men are created different; and a government that ignores this law becomes an unjust government for it sacrifices nobility to mediocrity" [REF Social traditions or hierarchies are essential for social order
+version https://git-lfs.github.com/spec/v1
+oid sha256:d62b34416e18370d2715074b15ef03f7cdd97d605f8e3dc93876b989a6468136
+size 300

@@ -1,1 +1,3 @@
-The BMA state that in general, "the parents should determine how best to promote their children's interests the parents should determine what is in the best interest of the infant or child
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3532b201ec27bcf38db291042971e8ebee0ce5f084fc66e789a703fb2b11855
+size 188

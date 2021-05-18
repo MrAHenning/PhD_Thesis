@@ -1,1 +1,3 @@
-The Quran and the hadith do not mention blasphemy [REF]. According to Pakistani religious scholar, Javed Ahmed Ghamidi, nothing in Islam supports blasphemy law [REF blasphemy, which is a sin committed directly against God, is more grave than murder
+version https://git-lfs.github.com/spec/v1
+oid sha256:7196a9dbad77a4842bb5df52c25f8d1adf8abc7ac4fc8bbb09b286155810089d
+size 248

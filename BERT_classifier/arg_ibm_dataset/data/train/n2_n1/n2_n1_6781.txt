@@ -1,1 +1,3 @@
-Several studies have tested this theory of the bandwagon effect in political decision making. In the 1994 study of Robert K. Goidel and Todd G. Shields in The Journal of Politics, 180 students at the University of Kentucky were randomly assigned to nine groups and were asked questions about the same set of election scenarios. About 70% of subjects received information about the expected winner (Goidel and Shields 807). Independents, which are those who do not vote based on the endorsement of any party and are ultimately neutral, were influenced strongly in favor of the person expected to win (Goidel and Shields 807-808). Expectations played a significant role throughout the study as poll results are repeatedly reported, the bandwagon effect will tend to snowball and become a powerful aid to leading candidates
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb01a0b13d944c66bdf44ac6291888d27da1cdb5e64eafce8622503e037c5a60
+size 820

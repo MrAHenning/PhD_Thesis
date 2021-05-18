@@ -1,1 +1,3 @@
-German Chancellor Angela Merkel on Monday said the blame for renewed violence in the Middle East can be pinned on Hamas. Speaking to Israeli Prime Minister Ehud Olmert by phone, she said responsibility for the three-day-old Israeli air offensive against Hamas in the Gaza Strip lies "clearly and exclusively" with Hamas, according to government spokesman Thomas Steg [REF it was Hamas that broke the truce
+version https://git-lfs.github.com/spec/v1
+oid sha256:e093d86d66aef523df5cd2373b5a80128b8f2807442892c549169711c1e1954b
+size 405

@@ -1,1 +1,3 @@
-The rising tension and resentment of the Malays for the Chinese and vice versa culminated in the vicious riots of 13 May 1969 [REF Affirmative action policies increase animosity toward preferred groups
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cebcf55fb40c8ceeeb6c4881339f7588a464bd141922645864f2e82cb51db00
+size 201

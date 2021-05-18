@@ -1,1 +1,3 @@
-Michael Levin argues, "The very fact that a species is near extinction implies that its final demise will have negligible impact."[REF The very fact that a species is near extinction implies that its final demise will have negligible impact
+version https://git-lfs.github.com/spec/v1
+oid sha256:65c561203bb469edd962c18a3a138947e7ff48d60cf266891598fb1abfc5af07
+size 240

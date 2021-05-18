@@ -1,1 +1,3 @@
-One United Nations official also cautioned, that the next planned package with new extra austerity measures in Greece could potentially pose a violation of human rights, if it was implemented without careful consideration to the peoples need for "food, water, adequate housing and work under fair and equitable conditions" [REF Some of the austerity measures are irrational
+version https://git-lfs.github.com/spec/v1
+oid sha256:d51b3711d14c453601db7d968ce9a1a3a6edd85f4b4b4e238f713d6856c6de8b
+size 373

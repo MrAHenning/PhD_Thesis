@@ -1,1 +1,3 @@
-According to Tel Aviv NGO Gisha, the amount of food entering Gaza is as of May 2009, about 25% of the pre-June 2007 figures What is going on in Gaza is a humanitarian catastrophe
+version https://git-lfs.github.com/spec/v1
+oid sha256:c18dbccafda981cd8cb00e3f20da3a4bc702707f2b30e6e0b7d30c8b01b4be91
+size 178

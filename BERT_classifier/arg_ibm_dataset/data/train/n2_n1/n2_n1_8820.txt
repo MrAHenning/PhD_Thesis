@@ -1,1 +1,3 @@
-19 states, mostly in the western world, condemned Hamas' attacks exclusively. 13 of them expressed support for Israel's operations or defined them as falling within Israel's right to self defense Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:b91dfe7110464c0f0a1868cc14f904f09c6722980322605eef8fbb9cf16f575e
+size 263

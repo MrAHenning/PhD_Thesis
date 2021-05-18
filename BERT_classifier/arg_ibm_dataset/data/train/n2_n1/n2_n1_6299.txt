@@ -1,1 +1,3 @@
-The Gates Commission issued its report in February 1970, describing how adequate military strength could be maintained without having conscription [REF adequate military strength could be maintained without having conscription
+version https://git-lfs.github.com/spec/v1
+oid sha256:1337e83e855318586ae9149faba737fed6ff4d7734e03d688e737d74666a9584
+size 226

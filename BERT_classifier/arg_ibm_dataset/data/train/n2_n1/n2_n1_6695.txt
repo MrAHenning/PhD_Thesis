@@ -1,1 +1,3 @@
-a study in The New England Journal of Medicine claims that fewer restrictions on handguns will result in increasing numbers of injuries and deaths [REF fewer restrictions on handguns will result in increasing numbers of injuries and deaths
+version https://git-lfs.github.com/spec/v1
+oid sha256:69d06ba86cdf782c7e0f7756dd368978c860a7c41321f2bea1ac2b6706e01664
+size 239

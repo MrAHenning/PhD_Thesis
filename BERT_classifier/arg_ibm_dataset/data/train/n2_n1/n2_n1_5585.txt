@@ -1,1 +1,3 @@
-Cliteur sees non-Western cultures not as merely different but as anachronistic. He sees multiculturalism primarily as an unacceptable ideology of cultural relativism, which would lead to acceptance of barbaric practices, including those brought to the Western World by immigrants. Cliteur lists infanticide, torture, slavery, oppression of women, homophobia, racism, anti-Semitism, gangs, female genital cutting, discrimination by immigrants, suttee, and the death penalty Multiculturalism is considered to be dangerous to the West
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeec2e8f259d71624463de22be5d14fb866c65b3805a5aa3f41917c07d66ab75
+size 531

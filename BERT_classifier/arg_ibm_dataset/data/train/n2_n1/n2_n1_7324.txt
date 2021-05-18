@@ -1,1 +1,3 @@
-The American Academy of Pediatrics states that "Abstinence-only programs have not demonstrated successful outcomes with regard to delayed initiation of sexual activity or use of safer sex practices Abstinence-only programs have not demonstrated successful outcomes
+version https://git-lfs.github.com/spec/v1
+oid sha256:371f283ca2de0502cdedc7645e4446b039e1909ebc0a73b8f815a9f98ecea553
+size 264

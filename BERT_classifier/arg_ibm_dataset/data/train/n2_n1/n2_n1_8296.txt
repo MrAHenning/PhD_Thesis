@@ -1,1 +1,3 @@
-On December 23, senior Hamas leader Mahmoud al-Zahar said that Hamas was willing to renew the cease-fire under the original terms Hamas was willing to renew the cease-fire under the original terms
+version https://git-lfs.github.com/spec/v1
+oid sha256:cce77e6f05c0d68e05d8667e29003491deab8922a57149a8618260b320ee2f51
+size 196

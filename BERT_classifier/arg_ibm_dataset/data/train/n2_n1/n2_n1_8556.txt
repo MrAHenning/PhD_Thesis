@@ -1,1 +1,3 @@
-In a statement, the Ministry of Foreign Affairs of the Slovak Republic condemns the escalation of the violence between Israel and Hamas in Gaza Strip after the unilateral dismissal of the truce by the Palestinian extremists Hamas started the conflict by firing rockets on Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:f921318fd1300341a58f037f0a5af72d5490e72e9fd6a931d52099df3a60f3f3
+size 278

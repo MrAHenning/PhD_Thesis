@@ -1,1 +1,3 @@
-Roderick T. Long argues that the concept of intellectual property is not libertarian. He holds that prohibiting people from using, reproducing, and trading copyrighted material is an infringement of freedom of speech and freedom of the press prohibiting people from using, reproducing, and trading copyrighted material is an infringement of freedom of speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:b986e1351383bc886f1dfd4f0d3a8f83b092deb20805cfb2564f1271bf9e9b7c
+size 358

@@ -1,1 +1,3 @@
-The Bishop of Rochester Michael Nazir-Ali was also critical, calling for the Church to regain a prominent position in public life and blaming the "newfangled and insecurely founded doctrine of multiculturalism" for entrenching the segregation of communities [REF Multiculturalism is divisive
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dd8c9fae4793272a9e41b85126add34a06c7c05975323c46ec3875fe7aa92af
+size 291

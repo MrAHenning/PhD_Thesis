@@ -1,1 +1,3 @@
-The atheist-existentialist argument for the non-existence of a perfect sentient being states that if existence precedes essence, it follows from the meaning of the term sentient that a sentient being cannot be complete or perfect. It is touched upon by Jean-Paul Sartre in Being and Nothingness. Sartre's phrasing is that God would be a pour-soi [a being-for-itself; a consciousness] who is also an en-soi [a being-in-itself; a thing]: which is a contradiction in terms. The argument is echoed thus in Salman Rushdie's novel Grimus: "That which is complete is also dead the existence of some or all gods is logically impossible
+version https://git-lfs.github.com/spec/v1
+oid sha256:df5be0a510f6e4f3e6207ca2dabfa2a3ed30463d5515359e42f13205d1416159
+size 627

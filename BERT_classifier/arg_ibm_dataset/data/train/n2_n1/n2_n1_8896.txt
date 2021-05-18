@@ -1,1 +1,3 @@
-According to a 2009 Amnesty International report, Scores [of rockets] have struck homes, businesses, schools, other public buildings and vehicles in and around towns and villages in southern Israel. It is purely by chance that in most cases such strikes have not caused death or injury, and the lethal potential of such projectiles should not be underestimated. Above all, the constant threat of impending rocket attacks has caused fear and disrupted the lives of the growing number of Israelis who live within range of such attacks, reaching up to a million [REF Hamas attacks are violations of basic humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef1e2027b80fa4066d48f5e02cfc2bec4df551e99da2e119be4ebdbdc41cc897
+size 618

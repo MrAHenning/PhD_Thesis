@@ -1,1 +1,3 @@
-According to the International Committee of the Red Cross, "The hardship faced by Gaza's 1.5&nbsp;million people cannot be addressed by providing humanitarian aid. The only sustainable solution is to lift the closure." Describing the blockade itself, they referred to it as "a collective punishment imposed in clear violation of Israel's obligations under international humanitarian law" [REF The blockade is considered illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2224b199da525657cd9b643a89197b6f7ae65f8e39cfd3ae6062c35322ffea1
+size 427

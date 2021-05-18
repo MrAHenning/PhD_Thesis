@@ -1,1 +1,3 @@
-On April 6, 2008, five thousand members of the Jamaat-e-Islami political party held a demonstration in Karachi, in protest of both Wilders' film and the Jyllands-Posten Muhammad cartoons. The leader of the political party stated that "such shameful acts can never be tolerated in the name of freedom of expression or press Freedom of expression does not give anyone the licence to insult another's religion or race
+version https://git-lfs.github.com/spec/v1
+oid sha256:829420e05aaa87f3219a96a2561baa26dad93b14511277987d27d1abb5c64822
+size 414

@@ -1,1 +1,3 @@
-In 1931, Nevada legalized most forms of gambling when Assembly Bill 98 was signed into law, providing a source of revenue for the state [REF gambling is a type of regressive tax on the individuals
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb66ee0724eb80e31b1f91ca7caae460b9a36d884308f6b3168077cb57e0c589
+size 196

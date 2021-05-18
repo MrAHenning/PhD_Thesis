@@ -1,1 +1,3 @@
-Émile Durkheim viewed crime as an inevitable aspect of society, with uneven distribution of wealth and other differences among people delinquency can result from differential opportunity for lower class youth
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae893961cd9a5bdb9c75c8907fc6c1bb12039e70938604aeda3013761fccc71e
+size 209

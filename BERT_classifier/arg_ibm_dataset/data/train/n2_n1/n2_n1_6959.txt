@@ -1,1 +1,3 @@
-On 14 June 2010, the International Committee of the Red Cross noted that the increasing scarcity of items has led to rises in cost of goods while quality has fallen [REF]. There is also "an acute electricity crisis", where electricity supplies are "interrupted for seven hours a day on average". As a consequence, they note that public services, particularly health services, have suffered, posing "a serious risk to the treatment of patients". In addition, medical equipment is difficult to repair, and medical staff cannot leave to gain more training Gaza cannot and must not be allowed to remain a prison camp
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b086985afad05a019dd7dd6b210414bdbb256f79d1d4c10993b249733668828
+size 612

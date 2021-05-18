@@ -1,1 +1,3 @@
-At the same time, leaders of B’Tselem and Breaking the Silence think that the Goldstone accusation of an assault on civilians is incorrect [REF The government of Israel had a policy of deliberately targeting civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cd39832012673f060e211620430dc926426f863b20b58329cc1f7ab0a3d5264
+size 219

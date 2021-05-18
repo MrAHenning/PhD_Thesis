@@ -1,1 +1,3 @@
-The concept of separating church and state is often credited to the writings of English philosopher John Locke (1632–1704) [REF]. According to his principle of the social contract, Locke argued that the government lacked authority in the realm of individual conscience, as this was something rational people could not cede to the government for it or others to control. For Locke, this created a natural right in the liberty of conscience, which he argued must therefore remain protected from any government authority the government is not to interfere with religion
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed30e2f40df9c0a281ebf9a416e48066821d7bfba8e006cd4c7996ce728c5681
+size 568

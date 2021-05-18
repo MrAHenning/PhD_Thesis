@@ -1,1 +1,3 @@
-Eileen Donahoe, the US ambassador, also rejected the resolution. She said, "We cannot agree that prohibiting speech is the way to promote tolerance, because we continue to see the 'defamation of religions' concept used to justify censorship, criminalisation, and in some cases violent assaults and deaths of political, racial, and religious minorities around the world."[REF Anti-blasphemy and religious defamation laws are used to imprison journalists, students and other peaceful political dissidents
+version https://git-lfs.github.com/spec/v1
+oid sha256:db82325e35ca85ff2d2a65979e2c9c12516d4fce8434a7e8b5706347afeb821b
+size 502

@@ -1,1 +1,3 @@
-British Prime Minister David Cameron is broadly in favour of the system, saying directly elected mayors are "accountable" and can "galvanise action" [REF directly elected mayors are "accountable
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3895bafeb805f69ec5ed68c5e2cf84fe10a048d9e324bb7544fb788196808a6
+size 194

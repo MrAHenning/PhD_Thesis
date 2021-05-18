@@ -1,1 +1,3 @@
-Maimonides, notably, justified the requirement to abort a pregnancy that threatens the woman's life not because the fetus is less than a nefesh (human being), as the Talmud held, but rather through the principle of the rodef or pursuer, "pursuing her to kill her abortion is justifiable if a continuation of pregnancy might cause the woman severe physical or psychological harm
+version https://git-lfs.github.com/spec/v1
+oid sha256:19cce5fd0755e1f6b99c07951365b2ef2fd9d93fb90f1f6cc09c5348da299f4f
+size 377

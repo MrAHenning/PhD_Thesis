@@ -1,1 +1,3 @@
-Planned Parenthood, which advocates family planning and sex education, argues that no studies have shown abstinence-only programs to result in delayed intercourse, and cites surveys showing that 76% of American parents want their children to receive comprehensive sexuality education including condom use. [REF parents want their children to receive comprehensive sexuality education including condom use
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c9ab6ae047ecc04b7a6251de6130981d8b7220e828e3df96cee620d85f5104b
+size 404

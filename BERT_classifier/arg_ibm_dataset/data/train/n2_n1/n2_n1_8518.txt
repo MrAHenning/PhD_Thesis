@@ -1,1 +1,3 @@
-the Ministry of Foreign Affairs of Cyprus also emphasised the need for direct peace talks of the Israeli and Palestinian leaderships towards a comprehensive solution to the Palestinian problem, and the positive role neighboring countries can play. The Government of the Republic of Cyprus expresses its support to the Palestinian Authority and emphasises the prospect of intra-Palestinian reconciliation efforts under the mediation of Egypt, considering that there can not be a military solution to the issue of Gaza [REF the military solution won't conduct to peace
+version https://git-lfs.github.com/spec/v1
+oid sha256:e35b6df4c06cf4aaa7a8eda491488d3561814bae85b21db119d204cf986f7761
+size 566

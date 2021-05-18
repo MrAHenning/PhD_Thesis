@@ -1,1 +1,3 @@
-Based on the 2010 figures for electricity production of 5 TWh nationally, it is estimated that wind power saved Australia 5,100,000&nbsp;tonnes of CO2 emissions in that year. In relative terms, that is calculated to be the equivalent of removing 1,133,000 cars from the nation's roads [REF There is very little emission or pollution produced by a wind farm's operation
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a27f8dac5af8823a2138f506413595f70bfeb63c9c5a1b1780f5c8df3826b4a
+size 368

@@ -1,1 +1,3 @@
-The majority of parents reject the so-called "comprehensive" sex education approach, which focuses on promoting and demonstrating contraceptive use. Sixty-six percent of parents think that the importance of the "wait to have sex" message ends up being lost when programs demonstrate and encourage the use of contraception [REF the importance of the "wait to have sex" message ends up being lost when programs demonstrate and encourage the use of contraception
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcbc433713af93ace8ce045fc5e2cbb5654bbb066a9234f128ed0d92954f5711
+size 459

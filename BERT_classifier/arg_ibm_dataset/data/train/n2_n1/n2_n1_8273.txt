@@ -1,1 +1,3 @@
-In January 2009, before her appointment to the mission, Christine Chinkin co-signed a letter published in the Sunday Times describing Israel's military offensive in Gaza as "an act of aggression Israel was acting in self-defence
+version https://git-lfs.github.com/spec/v1
+oid sha256:b83c63117dfe62efc0e9487bb5cb4cb96b09fe179511b6f05ca73d8e7e9bbe99
+size 228

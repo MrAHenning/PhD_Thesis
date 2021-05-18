@@ -1,1 +1,3 @@
-Lott's results suggest that only allowing law-abiding citizens to carry concealed firearms, deters crime because potential criminals do not know who may or may not be carrying a firearm. The possibility of getting shot by an armed victim is a substantial deterrent to crime and prevents not only petty crime but physical confrontation as well from criminals who do not possess the means to match an increase in force. Lott's data comes from the FBI's massive crime statistics from all 3,054 US counties [REF a well-armed citizenry prevents crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:46bb2df253cd5b6bdb709164d5f0f1aa56d0347a5bf841a90118fc10e2d83e9f
+size 545

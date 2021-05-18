@@ -1,1 +1,3 @@
-Michael Newman, a secondary school science teacher and an atheist, was arrested under England’s blasphemy law for selling Wingrove's blasphemous video, "Visions of Ecstasy" in February 1992 in Birmingham the offence of blasphemy is a dead letter
+version https://git-lfs.github.com/spec/v1
+oid sha256:158d1ff435222395f9012b8f7c25811c8aec71da50cf144bbecff18e67f17e7b
+size 247

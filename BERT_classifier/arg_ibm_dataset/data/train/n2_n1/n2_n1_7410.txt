@@ -1,1 +1,3 @@
-On September 30, 2010, The U.S. Department of Health and Human Services approved $155 million dollars in new funding for comprehensive sex education programs designed to prevent teenage pregnancy. The money is being awarded "to states, non-profit organizations, school districts, universities and others. These grants will support the replication of teen pregnancy prevention programs that have been shown to be effective through rigorous research as well as the testing of new, innovative approaches to combating teen pregnancy."[REF The lack of education on safe sex, whether it’s from parents, schools, or otherwise, is a cause of teenage pregnancy
+version https://git-lfs.github.com/spec/v1
+oid sha256:dae79d70d85670f5cf40ed0971e38a6c1e382e58dddebe743161139af2d90420
+size 653

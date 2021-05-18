@@ -1,1 +1,3 @@
-Since 1980, more than 200 amateur boxers, professional boxers and Toughman fighters have died as the result of ring or training injuries [REF amateur boxers, professional boxers and Toughman fighters have died as the result of ring or training injuries
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad9d54f8c61851b5f033f4832d73971bbb6594ea4abf4f8f3cb9d94398ba032d
+size 252

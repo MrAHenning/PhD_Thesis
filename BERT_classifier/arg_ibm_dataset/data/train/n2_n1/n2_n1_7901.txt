@@ -1,1 +1,3 @@
-Overall life expectancy is also reduced in regular smokers, with estimates ranging from 10[REF] to 17.9 [REF] years fewer than nonsmokers [REF Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:a97f6c793364941a9f7a184ea8164cfd7b0c333ef66bb5ffde4e68a79a369e48
+size 229

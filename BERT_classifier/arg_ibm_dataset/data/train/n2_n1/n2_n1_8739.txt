@@ -1,1 +1,3 @@
-Prime Minister Milorad Dodik sent a letter of support to Israeli President Shimon Peres in which he expressed understanding for the difficult position of Israel and its citizens. He said that "Republic of Srpska does not support anti-Israel demonstrations and rallies, organised in the other part of Bosnia and Herzegovina,". He expressed the full support to the President of Israel in ensuring the safety and peace to the people of Israel [REF the disproportionate use of force by Israel, which causes suffering to the civilian population, can be neither understood nor justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b7ad06020d206a504f8aab22d1f830ad7c4ff27fc73b16d2a2f1a2f859e1bc0
+size 580

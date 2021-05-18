@@ -1,1 +1,3 @@
-Sociologist Louis Wirth defined a minority group as "a group of people who, because of their physical or cultural characteristics, are singled out from the others in the society in which they live for differential and unequal treatment, and who therefore regard themselves as objects of collective discrimination."[REF Affirmative action policies may be considered necessary because the minority group in question is socially disadvantaged
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c1e5438ded5e28042e0ff053241a68cd1ffc4d49f5fe722517042317e265bd0
+size 439

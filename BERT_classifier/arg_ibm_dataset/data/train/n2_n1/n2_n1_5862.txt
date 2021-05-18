@@ -1,1 +1,3 @@
-Orthodox organizations such as the Orthodox Union and Agudas Yisrael have occasionally partnered with pro-choice organizations when necessary to insure that abortions will be available to women whose lives are endangered by the fetus abortion is justifiable if a continuation of pregnancy might cause the woman severe physical or psychological harm
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecf96eec03b9827705d40a630e415868875d0e42cecba1c9c99862ff2b5ade4d
+size 348

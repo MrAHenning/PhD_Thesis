@@ -1,1 +1,3 @@
-Some commentators such as Ḥayim Gordon and Josie Sandercock describes Gaza as the "largest concentration camp in the world" [REF Gaza Strip is "an immense concentration camp
+version https://git-lfs.github.com/spec/v1
+oid sha256:33825f289b249ee7b87640875275213ceebf2b410ced59665d10897d82e60259
+size 175

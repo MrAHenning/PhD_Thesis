@@ -1,1 +1,3 @@
-Milton Friedman, Nobel economist and advocate of laissez-faire capitalism, sought to show that unionisation produces higher wages (for the union members) at the expense of fewer jobs unionisation produces higher wages (for the union members) at the expense of fewer jobs
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e39ec070b737ecefb6baef6572ec00cb404b6da4090c38c818253505209a948
+size 270

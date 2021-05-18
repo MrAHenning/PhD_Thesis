@@ -1,1 +1,3 @@
-A 2009 study by the consulting firm IHS CERA estimated that production from Canada's oil sands emits "about 5% to 15% more carbon dioxide, over the  "well-to-wheels" lifetime analysis of the fuel, than average crude oil."[REF The production of bitumen and synthetic crude oil emits more greenhouse gases than the production of conventional crude oil
+version https://git-lfs.github.com/spec/v1
+oid sha256:3be0c03128388f3bec9a5a5167e7490b799e6e49ba631ca678517ceb2cdfeb04
+size 349

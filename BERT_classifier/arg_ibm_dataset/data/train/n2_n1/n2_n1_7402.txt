@@ -1,1 +1,3 @@
-While 90% of teens surveyed in a poll commissioned by NBC News and People magazine knew they could get an STD from having sexual intercourse, only 67% said that they use protection every time they have sex [REF Adolescents who begin having sexual intercourse need to understand the importance of using an effective contraceptive every time they have sex
+version https://git-lfs.github.com/spec/v1
+oid sha256:15f91745f3f69b550834dc2b66891b88c7fa02478381306ff62b7f56902b0ce0
+size 353

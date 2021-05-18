@@ -1,1 +1,3 @@
-Corruption is never a better option to honest public policy, Yan Sun argues, and it distorts and retards development [REF Corruption is never a better option to honest public policy
+version https://git-lfs.github.com/spec/v1
+oid sha256:8edb2397b621039d82ca2d654c3032585333750bacddd0a1aed73980b7c730f2
+size 181

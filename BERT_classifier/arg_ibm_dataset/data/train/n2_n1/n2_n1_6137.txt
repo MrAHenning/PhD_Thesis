@@ -1,1 +1,3 @@
-The Catholic Church, following the teachings of Saint Paul the Apostle, Saint Thomas Aquinas, and the dogmatic definition of the First Vatican Council, affirms that God's existence "can be known with certainty from the created world by the natural light of human reason" [REF]. Many other Christian denominations share the view that God's existence can be demonstrated God's existence can be demonstrated
+version https://git-lfs.github.com/spec/v1
+oid sha256:153355ad461c82e590656385075e9570dbf4620bcddf25dc96c67ee15f60d1ce
+size 404

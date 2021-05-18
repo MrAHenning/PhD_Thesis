@@ -1,1 +1,3 @@
-The World Health Organization defines reproductive rights as follows: Reproductive rights rest on the recognition of the basic right of all couples and individuals to decide freely and responsibly the number, spacing and timing of their children and to have the information and means to do so, and the right to attain the highest standard of sexual and reproductive health. They also include the right of all to make decisions concerning reproduction free of discrimination, coercion and violence [REF Parents have a basic right to decide freely and responsibly on the number and spacing of their children
+version https://git-lfs.github.com/spec/v1
+oid sha256:19b99de75a3af0d0a05bd78158d20a65fc6e6ea16c70d312c5412e103857ab46
+size 605

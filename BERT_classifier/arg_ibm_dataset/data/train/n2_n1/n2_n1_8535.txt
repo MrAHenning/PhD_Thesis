@@ -1,1 +1,3 @@
-President Mahmoud Abbas blamed Hamas for triggering Israel's deadly raids on Gaza by not extending a six-month truce with Israel [REF]. Speaking from Cairo on December 28, 2008, he said that 'we ask[ed] [Hamas] … not [to] end the truce. Let the truce continue and not stop so that we could have avoided what happened' [REF it was Hamas that broke the truce
+version https://git-lfs.github.com/spec/v1
+oid sha256:67d7ae5618a24aabdae73a0f230da9ceeb3583b9ca847b6ba5ff5f596a40f463
+size 358

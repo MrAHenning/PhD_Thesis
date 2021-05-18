@@ -1,1 +1,3 @@
-Dawkins suggested that atheists should be proud, not apologetic, because atheism is evidence of a healthy, independent mind [REF]. He sees education and consciousness-raising as the primary tools in opposing what he considers to be religious dogma and indoctrination [REF atheism is evidence of a healthy, independent mind
+version https://git-lfs.github.com/spec/v1
+oid sha256:809b3c4efaff3f1bb3c5a3e4680edf20ef367b1d3afb260dc4b0abe304cec667
+size 322

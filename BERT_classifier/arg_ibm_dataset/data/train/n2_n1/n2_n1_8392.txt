@@ -1,1 +1,3 @@
-On April 1, 2011, Goldstone wrote an op-ed that appeared in the Washington Post in which he stated that he no longer believes the report's finding that Israel targeted Palestinian civilians as a matter of policy Israel targeted Palestinian civilians as a matter of policy
+version https://git-lfs.github.com/spec/v1
+oid sha256:79e736ee143158e5c1fd29eff660f54c4c5e91ae6157ce9d4afca441013ed67d
+size 271

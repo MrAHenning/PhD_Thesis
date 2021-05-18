@@ -1,1 +1,3 @@
-A recent systematic review has suggested that there is strong evidence for a protective effect of circumcision against Syphilis or Chancroid infection Circumcision provides important health advantages which outweigh the risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:25d2bb2c4e73037d96600b92c77bc93463726bfecd9e0d0fac3f1afa6ff8a1c8
+size 225

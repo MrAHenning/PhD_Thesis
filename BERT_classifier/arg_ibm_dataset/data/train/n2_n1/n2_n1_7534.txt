@@ -1,1 +1,3 @@
-The American Urological Association (2007) stated that neonatal circumcision has potential medical benefits and advantages as well as disadvantages and risks, recommending that "circumcision should be presented as an option for health benefits" [REF circumcision should be presented as an option for health benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d1b4823ab9c63b7dbe874d177d6e26e2ec47db4688702cd0d20a6c22f25cd38
+size 315

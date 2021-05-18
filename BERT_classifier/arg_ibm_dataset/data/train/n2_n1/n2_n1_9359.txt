@@ -1,1 +1,3 @@
-Dutch criminologist Willem Adrian Bonger, one of the first scholars to apply the principles of economic determinism to the issue of crime, argued that such inequality as found in capitalism was ultimately responsible for the manifestation of crime at all levels of society, particularly among the poor In those segments of the population which experience the greatest relative deprivation, there is readiness to turn to crime to overcome inequality and eliminate relative deprivation
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cdfb642ba48038035b2d9c060b69671a3e4f44cda80f6e47606049dba027679
+size 483

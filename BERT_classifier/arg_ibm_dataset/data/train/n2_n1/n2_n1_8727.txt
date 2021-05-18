@@ -1,1 +1,3 @@
-Foreign Minister Carl Bildt harshly condemned Israel's assault on Gaza [REF]. On January 8, asked if Israel had breached international law in the current campaign Foreign Minister Carl Bildt answered ".. A massive breach of international law, massive breaches of human rights, a massive humanitarian crisis" [REF the military operations were a flagrant violation of international humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:0db8758a47817d671628a56ac9543ebd46260c7546701c62fa895ebb2adc192d
+size 396

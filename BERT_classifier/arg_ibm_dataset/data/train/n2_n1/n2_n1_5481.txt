@@ -1,1 +1,3 @@
-Since 1980, more than 200 amateur boxers, professional boxers and Toughman fighters have died as the result of ring or training injuries [REF Boxing is an obscenity that should not be sanctioned by any civilized society
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f0e26d646964e6932974aae45a1fe26d6e9113bad985b442cd4d131c5e036fe
+size 219

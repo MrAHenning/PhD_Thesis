@@ -1,1 +1,3 @@
-In the late 1950s and early 1960s, Gen. Pierre Marie Gallois of France, an adviser to Charles DeGaulle, argued in books like The Balance of Terror: Strategy for the Nuclear Age (1961) that mere possession of a nuclear arsenal, what the French called the force de frappe, was enough to ensure deterrence, and thus concluded that the spread of nuclear weapons could increase international stability.   Some very prominent neo-realist scholars, such as Kenneth Waltz, Emeritus Professor of Political Science at UC Berkeley and Adjunct Senior Research Scholar at Columbia University, and John Mearsheimer, R. Wendell Harrison Distinguished Service Professor of Political Science at the University of Chicago, continue to argue along the lines of Gallois Nuclear proliferation will decrease the likelihood of war
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bf0a19270590431b260bc444166a7daf8d29bc4789f9dfe60fdc953af79d09e
+size 807

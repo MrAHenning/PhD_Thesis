@@ -1,1 +1,3 @@
-In the Jewish community, the ADL showed that 79% felt the Israeli response was appropriate [REF the disproportionate use of force by Israel, which causes suffering to the civilian population, can be neither understood nor justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed84480a29bdb4d7ae2577e8e88f009c6e7372deeaf459047298d99e36ffd3c9
+size 231

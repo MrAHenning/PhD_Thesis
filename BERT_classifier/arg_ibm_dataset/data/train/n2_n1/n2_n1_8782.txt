@@ -1,1 +1,3 @@
-Spanish Foreign Minister Miguel Ángel Moratinos "expressed his firm condemnation of the irresponsible provocation on the part of Hamas in launching rocket attacks, as well as the Israeli Armed Forces’ disproportionate retaliation."[REF the reaction of the armed forces of Israel was condemned as "disproportional
+version https://git-lfs.github.com/spec/v1
+oid sha256:57001fdf0599f9e8c2eada58e882deec404552e790c2dadbf9ddb44f9e3561f7
+size 315

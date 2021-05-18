@@ -1,1 +1,3 @@
-The Johnson administration embraced affirmative action in 1965, by issuing U.S Executive order 11246, later amended by Executive order 11375. The order, as amended, aims "to correct the effects of past and present discrimination Affirmative action aims to correct the effects of past and present discrimination
+version https://git-lfs.github.com/spec/v1
+oid sha256:485fc6dfaccf796ef714e74d18385236cdff49ff1667ada5d0222c612e3a2e27
+size 310

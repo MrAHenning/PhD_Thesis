@@ -1,1 +1,3 @@
-In July, 2008, an UNRWA report on the situation in Gaza stated that "the number of households in Gaza below the consumption poverty line continued to grow, reaching 51.8 percent in 2007 (from 50.7 percent in 2006)" [REF]. In the same year, a Palestinian Bureau of Statistics study concluded that 80% of families in Gaza were living below the poverty line [REF]. The CIA World Fact book places this figure at an estimated 70% for 2009 [REF the formal economy in Gaza has collapsed since the imposition of the blockade
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d5b573f0e72cc4c1521e3b1c7a9a7703061037ce411f57e5b6ae4cf86f56cbe
+size 516

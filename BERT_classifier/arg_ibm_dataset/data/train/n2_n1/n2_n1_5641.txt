@@ -1,1 +1,3 @@
-According to some police reports, incidences of reported crime often double and triple in communities within three years of a casino opening [REF There is a positive relationship between casinos and crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:a40cdc2924a71fe6233615edca41053848c2032ba61704f49cf3ad13ad4f466f
+size 204

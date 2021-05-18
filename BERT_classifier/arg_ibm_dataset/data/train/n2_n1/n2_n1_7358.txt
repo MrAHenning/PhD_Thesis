@@ -1,1 +1,3 @@
-According to Harvard Medical School's O'Connell, adolescents "often haven't achieved the emotional, even neurological, maturity necessary for making autonomous and self-aware sexual choices."[REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:c91e013c900db90a915796df02663de8fa4f5cfe6ca6753406b19a5361ead978
+size 295

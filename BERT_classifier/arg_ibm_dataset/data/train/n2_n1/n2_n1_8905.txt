@@ -1,1 +1,3 @@
-Israeli Defense Minister Ehud Barak blamed "Hamas and those firing rockets at Israel," his office said in a statement, pledging to continue the offensive to protect Israeli towns and cities If there is no rocket fire at Israel, there won't be Israeli attacks on Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:5254de5965d36c69dc2fe7734219b0e2ebc9826d117a26c38167971eb7fdd23e
+size 266

@@ -1,1 +1,3 @@
-In Joseph Burstyn, Inc. v. Wilson, the U.S. Supreme Court ruled that New York could not enforce a censorship law against filmmakers whose films contained "sacrilegious" content. The opinion of the Court, by Justice Clark, stated that: "from the standpoint of freedom of speech and the press, it is enough to point out that the state has no legitimate interest in protecting any or all religions from views distasteful to them which is sufficient to justify prior restraints upon the expression of those views. It is not the business of government in our nation to suppress real or imagined attacks upon a particular religious doctrine, whether they appear in publications, speeches, or motion pictures."[REF It is not the business of government in our nation to suppress real or imagined attacks upon a particular religious doctrine
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b93e6830fe2d440fc7d1962c1188e67c4b6009bff5df13415bd5437a1a702d4
+size 832

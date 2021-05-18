@@ -1,1 +1,3 @@
-As a result of the Bangladesh Liberation War, on 27 March 1971, Prime Minister of India, Indira Gandhi, expressed full support of her Government to the Bangladeshi struggle for freedom. The Bangladesh-India border was opened to allow panic-stricken Bangladeshis' safe shelter in India countries must be prepared to allow Open borders for people fleeing conflict
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebdf6ddbc8008f61e6a24eb98c1aae7fabee9632544718ab2c6b5d974125e300
+size 361

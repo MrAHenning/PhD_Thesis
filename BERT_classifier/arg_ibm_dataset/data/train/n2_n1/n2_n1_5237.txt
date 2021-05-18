@@ -1,1 +1,3 @@
-ethicists have argued that it is little different from the use of new materials in the construction of suits and sporting equipment, which similarly aid performance and can give competitors an unfair advantage over others The use of performance-enhancing drugs is little different from the use of new materials in the construction of suits and sporting equipment, which similarly aid performance and can give competitors an unfair advantage over others
+version https://git-lfs.github.com/spec/v1
+oid sha256:7721b466ada6802b8616aecb1d7fb88b5fb4756487e58756c7a1648fc38a333c
+size 452

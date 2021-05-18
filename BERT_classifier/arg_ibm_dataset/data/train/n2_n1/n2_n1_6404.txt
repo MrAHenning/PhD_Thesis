@@ -1,1 +1,3 @@
-In a 2002 speech on compassionate conservatism, President Bush critiqued the way that nations gave foreign aid, claiming that “pouring vast amounts of money into development aid without any concern for results has failed, often leaving behind misery and poverty and corruption When a country is given money because they cannot financially sustain themselves, several negative effects have the potential to develop
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf90e15e305084a19918e7808e2235ffacf217ad5976cd4220a29646f083a9e1
+size 415

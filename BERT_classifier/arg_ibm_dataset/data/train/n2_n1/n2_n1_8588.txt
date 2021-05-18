@@ -1,1 +1,3 @@
-The Brazilian Government deplores the continued disproportionate actions by the Israeli Government in the Gaza Strip, which have caused, in only 3 days, the deaths of over 300 Palestinians, many of whom were civilians and children The Israeli air strikes have demanded a disproportionate amount of civilian victims
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3a495350b3aa2853ffbf66f27c31ff4c2833ff9c2d842337ae11ef23ac35391
+size 314

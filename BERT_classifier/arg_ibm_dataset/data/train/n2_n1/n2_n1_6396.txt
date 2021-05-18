@@ -1,1 +1,3 @@
-Peter Singer argues that over the last three decades, “aid has added around one percentage point to the annual growth rate of the bottom billion.” He argues that this has made the difference between “stagnation and severe cumulative decline.”[REF Aid can make progress towards reducing poverty worldwide
+version https://git-lfs.github.com/spec/v1
+oid sha256:224a75b37e0f261b49fa98615e21e10a9858251fb32e6613ebc15a3e9c5b6224
+size 311

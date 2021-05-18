@@ -1,1 +1,3 @@
-Hitchens claims that many religions endorse male circumcision and female genital cutting, which he views as genital mutilation, and as immoral, unhealthy, and unnecessary [REF Religions teachings are outdated in comparison with modern Western morals
+version https://git-lfs.github.com/spec/v1
+oid sha256:22e9f80cf641e9fd5e0d135a494f588a6fb3c59eef6080949a3431b5812a5767
+size 249

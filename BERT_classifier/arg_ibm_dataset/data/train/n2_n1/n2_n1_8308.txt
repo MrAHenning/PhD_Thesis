@@ -1,1 +1,3 @@
-Hamas' Grad rockets' increased range of 40&nbsp;km put more than 700,000 Israelis within strike range,[REF] prompting 40% of the residents of the southern city of Ashkelon to flee the city the firing of rockets at Israel constituted a deliberate attack against the civilian population
+version https://git-lfs.github.com/spec/v1
+oid sha256:a24670bb1c1c2b71ce12485e30a2629e4236e079f51757145a7003b2160869da
+size 284

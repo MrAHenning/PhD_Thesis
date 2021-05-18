@@ -1,1 +1,3 @@
-With repressive regimes restricting access to information and communications, democratic governments should work to guarantee access to the Internet and adopt general principles to ensure network use respects universal human rights said an editorial in La Civilta Cattolica, a Jesuit journal reviewed by the Vatican before publication democratic governments should work to guarantee access to the Internet and adopt general principles to ensure network use respects universal human rights
+version https://git-lfs.github.com/spec/v1
+oid sha256:465e825b320180c2a9c62d4bcd155acf0258559dac779b308e8f29fae8e095a1
+size 488

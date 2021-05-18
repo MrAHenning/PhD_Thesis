@@ -1,1 +1,3 @@
-An August 15, 1789 entry in Madison’s papers indicates he intended for the establishment clause to prevent the government imposition of religious beliefs on individuals. The entry says: “Mr. Madison said he apprehended the meaning of the words to be, that Congress should not establish a religion, and enforce the legal observation of it by law, nor compel men to worship God in any manner contrary to their conscience..”[REF religion is a matter which lies solely between man and his god
+version https://git-lfs.github.com/spec/v1
+oid sha256:791be6c34d5227ed48854f7b095868643de2ab99cbb5bdc5dc49f54cb8224a51
+size 494

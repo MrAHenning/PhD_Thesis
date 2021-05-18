@@ -1,1 +1,3 @@
-The US State Department estimates that 90% of cocaine entering the United States transits through Mexico most of the financing for the Mexican traffickers comes from American drug consumers
+version https://git-lfs.github.com/spec/v1
+oid sha256:45813c69d888ea1b313e1c116bf9d3e3425f25ed0f98a3cc8f8f3a0b302bf4bf
+size 189

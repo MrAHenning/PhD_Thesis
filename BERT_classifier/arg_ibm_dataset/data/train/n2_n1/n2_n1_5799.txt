@@ -1,1 +1,3 @@
-In Roe v Wade, the Court decided that the state has an "important and legitimate interest in protecting the potentiality of human life the state has an "important and legitimate interest in protecting the potentiality of human life
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa4d484ebc946e735e43b2432470dbb8cb7a7df88a523be8c74d25d8b720de3b
+size 231

@@ -1,1 +1,3 @@
-The basic argument against empirical theism dates back at least to David Hume, whose objection can be popularly stated as "Who designed the designer God is improbable
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bfd2e594e891e319d2a21eebe994089e6081b9160668d7670889e415fce8ccf
+size 166

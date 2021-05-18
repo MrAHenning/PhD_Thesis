@@ -1,1 +1,3 @@
-Some think tanks and NGOs have argued that Western monetary aid often only serves to increase poverty and social inequality, either because it is conditioned with the implementation of harmful economic policies in the recipient countries,[REF] or because it's tied with the importing of products from the donor country over cheaper alternatives [REF foreign aid is seen to be serving the interests of the donor more than the recipient
+version https://git-lfs.github.com/spec/v1
+oid sha256:8419485c1d1ee6f19e5d393a472e2f91593498da4500d1cfe38295e1134bc7ed
+size 434

@@ -1,1 +1,3 @@
-1907 Halter v. Nebraska (205 U.S. 34) – The Supreme Court held that although the flag was a federal creation, the States' had the authority to promulgate flag desecration laws under their general police power to safeguard public safety and welfare The States' have the authority to promulgate flag desecration laws under their general police power to safeguard public safety and welfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ec38e44e066b788f9bda8ccd61b2c1fc4c4d8cc6ed2219a555e2aa410dbb000
+size 388

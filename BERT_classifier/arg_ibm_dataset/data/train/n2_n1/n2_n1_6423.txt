@@ -1,1 +1,3 @@
-Aid in its simplest form is a basic income grant, a form of social security periodically providing citizens with money. In pilot projects in Namibia, where such a program pays just $13 a month, people were able to pay tuition fees, raising the proportion of children going to school by 92%, child malnutrition rates fell from 42% to 10% and economic activity grew 10% [REF Aid is essential in providing better lives
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d9080b0bbae04d17cc8c8f21cbd697bec6682aaa36a0e21798dcf9a06a26e5c
+size 415

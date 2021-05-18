@@ -1,1 +1,3 @@
-The UN delegations of the United Kingdom, the United States, and several Western countries rejected a draft resolution circulated by Libya (on behalf of Arab countries) for failing to point out that Israeli military attacks were launched in response to militants firing missiles [REF If there is no rocket fire at Israel, there won't be Israeli attacks on Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:576908a9e846b3836fde6b6b4d145c77d531361e2d2331dfcc5005d321fd4578
+size 360

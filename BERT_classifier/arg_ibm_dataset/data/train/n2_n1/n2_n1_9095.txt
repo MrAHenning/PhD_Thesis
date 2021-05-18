@@ -1,1 +1,3 @@
-In 2006, sixty of Butz's colleagues from the Department of Electrical Engineering and Computer Science faculty signed a censure describing Butz's Holocaust denial as "an affront to our humanity and our standards as scholars" [REF Holocaust denial is described as an affront to our humanity
+version https://git-lfs.github.com/spec/v1
+oid sha256:afc0ab5a025ad7b18695b9c48077ab6d7642d79c461168c13aaea5cddfc4cc1f
+size 289

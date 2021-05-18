@@ -1,1 +1,3 @@
-In Emile, Jean-Jacques Rousseau asserted that when a person's understanding ponders over the existence of God it encounters nothing but contradictions The argument for the existence of god is a logical fallacy
+version https://git-lfs.github.com/spec/v1
+oid sha256:e500943bf51143b47ac315fa7f0649ae5a7ad51c280c4f40c3a9454fb5b97bfd
+size 209

@@ -1,1 +1,3 @@
-In The Holocaust: Problems and Perspectives of Interpretation, Donald L. Niewyk gives some examples of how legitimate historical revisionism—the re-examination of accepted history and its updating with newly discovered, more accurate, or less-biased information—may be applied to the study of the Holocaust as new facts emerge to change the historical understanding of it It is incorrect to force only one view
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c5c468eafe9fd3178b12b5ecd6a30e53bde12c988605e9c1c1085dbff060b0f
+size 414

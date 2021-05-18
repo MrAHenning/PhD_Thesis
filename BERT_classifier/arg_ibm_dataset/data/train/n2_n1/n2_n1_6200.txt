@@ -1,1 +1,3 @@
-Stanford computer scientist John McCarthy states, "We also have no need for [the hypothesis of God], because science has been successful, and science is the best approach to solving the mysteries that remain."[REF the need for explaining life and death can be met by science and philosophy
+version https://git-lfs.github.com/spec/v1
+oid sha256:f91a49d22ab1609287f7f1aa66d4bf4463979b8c958833eb3886343d5420ff37
+size 289

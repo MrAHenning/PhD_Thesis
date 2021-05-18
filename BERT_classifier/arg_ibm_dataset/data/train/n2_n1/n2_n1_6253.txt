@@ -1,1 +1,3 @@
-Plato posited a basic argument in The Laws (Book X), in which he argued that motion in the world and the Cosmos was "imparted motion" that required some kind of "self-originated motion" to set it in motion and to maintain that motion [REF]. Plato posited a "demiurge" of supreme wisdom and intelligence as the creator of the Cosmos in his work Timaeus the existence of the Universe requires an explanation, and the creation of the Universe by a First Cause, generally assumed to be God, is that explanation
+version https://git-lfs.github.com/spec/v1
+oid sha256:97a57b5a5d1db669fe844929634f7e36f150a00c776a46bae5641e2c584dd73e
+size 506

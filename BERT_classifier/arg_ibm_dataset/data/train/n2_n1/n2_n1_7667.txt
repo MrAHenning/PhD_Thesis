@@ -1,1 +1,3 @@
-In March of 2012, the Huffington Post reported that a two-week-old Jewish infant contracted herpes from his mohel and died at Maimonides Medical Center in Brooklyn, New York in September of 2011 [REF this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae6cdbb97b03bbc64892db06f91d7f384ca3c45dd1a5f0b902975f429889a5d5
+size 259

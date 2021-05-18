@@ -1,1 +1,3 @@
-A survey of circumcision complications by Kaplan in 1983 revealed that the rate of bleeding complications was between 0.1% and 35% [REF this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ebb773a800e71a8cac56afd9533e57065196d86eb0875a41c0ec0ab91bcd836
+size 195

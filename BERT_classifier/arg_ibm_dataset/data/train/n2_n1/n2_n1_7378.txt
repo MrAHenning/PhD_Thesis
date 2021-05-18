@@ -1,1 +1,3 @@
-Girls who have engaged in sexual intercourse are five times more likely than their virgin peers to be the victim of dating violence [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b493d1ab2819c4726f71a94a9490431089e47fa14e607e448794dbbb6290de
+size 236

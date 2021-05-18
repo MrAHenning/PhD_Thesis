@@ -1,1 +1,3 @@
-A 2011 report from the American Wind Energy Association stated, "Wind's costs have dropped over the past two years, in the range of 5 to 6 cents per kilowatt-hour recently.. about 2 cents cheaper than coal-fired electricity Wind power has low ongoing costs
+version https://git-lfs.github.com/spec/v1
+oid sha256:32028670a1160fb28b74715a83034ae63917be9d15fcc6d660433ddee465b51b
+size 256

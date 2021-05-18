@@ -1,1 +1,3 @@
-Evidence shows strong relationships between levels of violence and potentially modifiable factors such as concentrated poverty, income and gender inequality an environment of great inequalities between people may cause those at the bottom to use more violence in attempts to gain status
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed6a08d8c8e38e413c3f0e677998b73e367dfc566a3ce1ad3290c11c1905035f
+size 286

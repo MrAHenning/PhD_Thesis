@@ -1,1 +1,3 @@
-Authors such as Samuel Huntington have also seen recent Hispanic immigration as creating a national identity crisis and presenting insurmountable problems for US social institutions [REF Immigrants damage a sense of community and nationality
+version https://git-lfs.github.com/spec/v1
+oid sha256:b67fe0480dfccf4870431d86f85f6e56ba316ab1775370ecc3130b78cd4ed667
+size 241

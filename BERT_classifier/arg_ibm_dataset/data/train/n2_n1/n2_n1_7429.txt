@@ -1,1 +1,3 @@
-Some studies have shown abstinence-only programs to have no positive effects [REF Abstinence-only programs have no positive effects
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7cb7de47100e84ecb9e9568553aa99a20efddb98257ebc84d3e05850de6c98f
+size 131

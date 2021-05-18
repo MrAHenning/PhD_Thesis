@@ -1,1 +1,3 @@
-In 2009, five schools finished the regular season undefeated: Alabama, Texas, Cincinnati, Texas Christian University, and Boise State; however, the BCS selected traditional powers Alabama and Texas to participate in the BCS National Championship Game as they were the top two teams in the BCS rankings Often, the BCS system leads to controversies
+version https://git-lfs.github.com/spec/v1
+oid sha256:6424e86d72d6b4f4db50d7c052c903161078efb48a79a39180d19b42971b5aaa
+size 346

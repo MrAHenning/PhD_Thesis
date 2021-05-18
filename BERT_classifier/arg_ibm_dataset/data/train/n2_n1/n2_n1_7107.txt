@@ -1,1 +1,3 @@
-The International Committee of the Red Cross said that Israel's blockade violated the Geneva Conventions and stated that it constituted a collective punishment imposed in clear violation of Israel's obligations under international humanitarian law [REF the blockade of a terrorist organization constitutes a collective penalty against civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cc1a580c1a9f9f677d5b84e90d159da7a7faad1241d402da9a661baf9bc56d2
+size 344

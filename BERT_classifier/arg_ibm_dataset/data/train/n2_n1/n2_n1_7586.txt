@@ -1,1 +1,3 @@
-Hellsten (2004), however, describes arguments in support of circumcision as "rationalisations", and states that infant circumcision can be "clearly condemned as a violation of children’s rights whether or not they cause direct pain." He argues that, to question the ethical acceptability of the practice, "we need to focus on child rights protection."[REF it is "ethically inappropriate to subject a child to the acknowledged risks of infant male circumcision
+version https://git-lfs.github.com/spec/v1
+oid sha256:1efa3e97142d44d54310917575133d1857103ef18a8514346c580f77f903d65b
+size 461

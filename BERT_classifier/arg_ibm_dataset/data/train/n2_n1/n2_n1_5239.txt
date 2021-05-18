@@ -1,1 +1,3 @@
-The International Amateur Athletic Federation, now the International Association of Athletics Federations, were the first international governing body of sport to take the situation seriously. In 1928 they banned participants from doping The use of anabolic steroids is now banned by all major sporting bodies
+version https://git-lfs.github.com/spec/v1
+oid sha256:955e5371f79eb8d9f39714d6c0f09ac78d33020d4771e387330fcb8fc589035c
+size 309

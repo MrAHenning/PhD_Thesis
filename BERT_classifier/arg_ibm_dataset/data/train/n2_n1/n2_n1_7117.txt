@@ -1,1 +1,3 @@
-The United Nations High Commissioner for Human Rights, Navanethem Pillay, has condemned Israel's blockade of Gaza on numerous occasions, calling it "a direct contravention of international human rights and humanitarian law. It must end now” [REF Israel's blockade of Gaza is illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:954eb44840284fc9b73df265a5bf08a0e7d0850c498e2112ec652c1fa7e5cb97
+size 284

@@ -1,1 +1,3 @@
-Turkish Prime Minister Recep Erdogan said "the attacks are killing children and civilians and that the attacks can have no humanitarian justification Israel's response was excessive
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f721f3260375b02953933214a88914e3bc07da5943f96a14373a47135379380
+size 181

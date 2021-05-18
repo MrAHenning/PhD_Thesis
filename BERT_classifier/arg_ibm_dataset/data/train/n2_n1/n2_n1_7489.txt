@@ -1,1 +1,3 @@
-Somerville states that the removal of healthy genital tissue from a minor should not be subject to parental discretion and that physicians who perform the procedure are not acting in accordance with their ethical duties to the patient [REF in the absence of the individual's consent, non-therapeutic child circumcision violates several ethical principles that govern medicine
+version https://git-lfs.github.com/spec/v1
+oid sha256:907485b709c8fcb7f823d8f1efae11114d5eec4a2a7c734dff9ca8da75c8da9a
+size 375

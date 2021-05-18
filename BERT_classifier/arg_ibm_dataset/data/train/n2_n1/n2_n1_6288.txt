@@ -1,1 +1,3 @@
-Philosopher Paul Kurtz argues that nature is best accounted for by reference to material principles. These principles include mass, energy, and other physical and chemical properties accepted by the scientific community. Further, this sense of naturalism holds that spirits, deities, and ghosts are not real and that there is no "purpose" in nature nothing exists beyond the natural universe
+version https://git-lfs.github.com/spec/v1
+oid sha256:715766873193b6bf1d6b2a724ff4f06855febdf6e78c88b897ccb7b1f4b9efb0
+size 391

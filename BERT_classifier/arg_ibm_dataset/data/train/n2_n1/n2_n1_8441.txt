@@ -1,1 +1,3 @@
-South Africa's Deputy Minister of Foreign Affairs Fatima Hajaig has called on Israel to stop military attacks in Gaza and withdraw its forces from the border immediately, and said, "The South African government finds the continued siege on Gaza unacceptable as it does not allow humanitarian relief supply such as medicine, food and water to reach the desperate people of Gaza."[REF Israel's actions on the Gaza Strip must be characterised as war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:6804bd6a7529504889c6296ad8fcacee4518ef29be6b83e05946dbeb10e5b8ec
+size 453

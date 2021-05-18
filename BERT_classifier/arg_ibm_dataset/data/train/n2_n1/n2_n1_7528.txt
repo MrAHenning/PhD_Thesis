@@ -1,1 +1,3 @@
-A 2011 meta-analysis concluded that childhood or adolescent circumcision substantially reduces the risk of invasive penile cancer. It was suggested that this may be due, in part, to reduced risk of phimosis, a predisposing factor for penile cancers [REF circumcision should be presented as an option for health benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:4baea92c2c94c90d2c34ec62bffa24f51c03752aa52f706f3b85a3029e0709ef
+size 319

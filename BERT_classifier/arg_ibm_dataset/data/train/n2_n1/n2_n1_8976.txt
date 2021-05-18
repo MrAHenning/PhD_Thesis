@@ -1,1 +1,3 @@
-Thomas Aquinas says that “it is clear that blasphemy, which is a sin committed directly against God, is more grave than murder, which is a sin against one's neighbor. … it is called the most grievous sin, for as much as it makes every sin more grievous.”[REF blasphemy, which is a sin committed directly against God, is more grave than murder
+version https://git-lfs.github.com/spec/v1
+oid sha256:cca9791156400a149bc0fce8ae201ddd2f8b264150d88e5b45f6256589ffa7c6
+size 348

@@ -1,1 +1,3 @@
-President Barack Obama has been vocal about his opposition to the BCS. During an appearance on Monday Night Football during the 2008 presidential campaign season, ESPN's Chris Berman asked Obama to name one thing about sports he would like to change [REF]. Obama responded that he did not like using computer rankings to determine bowl games, and he supported having a college football playoff for the top eight teams [REF Individuals interested in college football prefer a playoff system to the BCS
+version https://git-lfs.github.com/spec/v1
+oid sha256:68f90edd9bd912be69d0b2db53963f69ec6f79e5dca9afab87b0c104b8a0b012
+size 500

@@ -1,1 +1,3 @@
-In 2011, more than 100 Democratic members of Congress urged the Department of Justice to oppose such legislation, arguing that it "has the potential to block millions of eligible American voters, and thus suppress the right to vote."[REF Legislation to impose restrictive photo ID requirements has the potential to block millions of eligible American voters, and thus suppress the right to vote
+version https://git-lfs.github.com/spec/v1
+oid sha256:499ed8b41c1bba1d534418a88de6b45fd1b25407020a7530374fad79c86057d7
+size 394

@@ -1,1 +1,3 @@
-Sex therapists have found that the roots of sexual issues facing adults often date back to regretful teenage experiences [REF]. Of seniors in high school, 74% of girls regret sexual experiences they have had [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:6efec111ecf27c18f7315457c8693c771eeeb735eb85262f373609be0ddd4941
+size 312

@@ -1,1 +1,3 @@
-Even as more anthropogenic carbon is produced, forests remove around three billion tons of anthropogenic carbon every year. This amounts to about 30% of all carbon dioxide emissions from fossil fuels forests facilitate biosequestration of atmospheric carbon dioxide
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e7dbac1b8cec13391321dacbb090056215c641f6e7f3f711c008db838613bcb
+size 265

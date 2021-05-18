@@ -1,1 +1,3 @@
-on Victoria Day 2001, Manley said on CBC Radio that he believed that hereditary succession was outdated Hereditary succession is outdated
+version https://git-lfs.github.com/spec/v1
+oid sha256:d55681dee4c52c89de6b32828a5e80c8299199908681081d08848dfbc2ea747b
+size 137

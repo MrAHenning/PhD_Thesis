@@ -1,1 +1,3 @@
-Studies show that private market factors can more efficiently deliver many goods or service than governments due to free market competition [REF]. Over time this tends to lead to lower prices, improved quality, more choices, less corruption, less red tape, and/or quicker delivery privatization consistently improves efficiency
+version https://git-lfs.github.com/spec/v1
+oid sha256:3390055fb5cb6ebecfa27d3de3b69d0b0bf8f0f85c69c56a3229269be3454551
+size 327

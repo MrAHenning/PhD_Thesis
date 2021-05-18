@@ -1,1 +1,3 @@
-Critics such as Bertrand Russell and Richard Dawkins cite religiously inspired or justified violence, resistance to social change, attacks on science, repression of women, and homophobia [REF Religions teachings are outdated in comparison with modern Western morals
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cc53894afa4349860f99cc41b71bef6c65777f20e275aa5832b515ed544318f
+size 265

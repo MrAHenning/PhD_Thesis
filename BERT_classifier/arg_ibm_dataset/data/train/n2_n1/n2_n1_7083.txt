@@ -1,1 +1,3 @@
-The United Nations High Commissioner for Human Rights, the International Committee of the Red Cross, the National Lawyers Guild's International Committee, Istanbul Bilgi University's Law Department Dean Turgut Tarhanlı and other experts have concluded that the blockade was itself illegal Israel's blockade violates the Geneva Conventions
+version https://git-lfs.github.com/spec/v1
+oid sha256:e58428402e001ea8786bf80d1b91f1cdf8ac36410a938f9b9d7081f520aa3a7c
+size 339

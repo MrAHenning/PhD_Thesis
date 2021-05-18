@@ -1,1 +1,3 @@
-social justice requires redistribution of high incomes and large concentrations of wealth in a way that spreads it more widely, in order to "recognise the contribution made by all sections of the community to building the nation's wealth." (Patrick Diamond and Anthony Giddens, 27 June 2005, New Statesman)[REF a certain amount of redistribution would be justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:192cd6ce5751de31dc6eb9fe0e07e722dee5400cd57b2196812671ac7a1d93ba
+size 364

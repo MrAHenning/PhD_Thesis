@@ -1,1 +1,3 @@
-In an interview with Charlie Rose, Vice President Joe Biden defended Israel's decision to intercept the pro-Palestinian flotilla bringing humanitarian aid to the coastal territory, but did not defend the Israel Navy raid itself. He stated that "you can argue whether Israel should have dropped people onto that ship or not[, but Israel] has a right to know whether or not arms are being smuggled in."[REF Israel is entirely within its rights to prevent Hamas from linking with groups suspected of supplying arms and money to terrorists
+version https://git-lfs.github.com/spec/v1
+oid sha256:66cc65a3a5349af83148d87e12021427abb45c1d3c0a822e4b11ddad773570cc
+size 535

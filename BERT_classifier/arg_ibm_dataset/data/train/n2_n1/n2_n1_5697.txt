@@ -1,1 +1,3 @@
-In mid-2010, a demonstration was held in Eilat against the non-action of the Israeli government, the residents claimed that they are now afraid to walk outside at certain neighborhoods at night [REF Immigrants are contributing to the congestion in the cities and to the rise in crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:b376ca4e9f1695ea3873743ea242f0acc6025746ae34060d94290d58bf35eee5
+size 283

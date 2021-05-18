@@ -1,1 +1,3 @@
-Studies show that even though around 50% of parents are in favor of the year-round schedule before it is implemented, almost 80% are in favor of it after the first year[REF parents are in favor of the year-round schedule
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ddee7d04266a2f080d56b22e29533888f8101b244b44f6382e556cf34ddac1e
+size 220

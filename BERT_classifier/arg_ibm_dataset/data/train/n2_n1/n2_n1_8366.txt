@@ -1,1 +1,3 @@
-Early estimates by independent contractors in Gaza say that Gaza lost nearly $2 billion in assets, including 4,000 homes destroyed [REF the livelihoods and assets of tens of thousands of Gaza civilians have been affected
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d80a11a6546362219a465adcf18362258f43db2ecd7befc6e41dddeea5d2c3d
+size 220

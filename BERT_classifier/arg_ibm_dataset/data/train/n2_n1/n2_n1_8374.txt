@@ -1,1 +1,3 @@
-An initial survey conducted by the United Nations Development Programme (UNDP) estimates that 14,000 homes, 68 government buildings, and 31 non-governmental organization offices (NGOs) were either totally or partially damaged, creating about 600,000 tonnes of concrete rubble needing to be removed [REF the livelihoods and assets of tens of thousands of Gaza civilians have been affected
+version https://git-lfs.github.com/spec/v1
+oid sha256:2daf4204d1d45efa15bdcd5d690400454c582d2dd18416f50499c3d9ddb154b3
+size 387

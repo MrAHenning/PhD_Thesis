@@ -1,1 +1,3 @@
-The French Ministry of Defence tried in 1990 to give more easily higher ranks and driving licenses to young French soldiers with North-African ancestry Affirmative action is intended to ensure that minority groups within a society are included in all programs
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd959b50101d32a40b70f7bacf88d7e9b4a0dbc61c5620f0ae60c090154baac4
+size 259

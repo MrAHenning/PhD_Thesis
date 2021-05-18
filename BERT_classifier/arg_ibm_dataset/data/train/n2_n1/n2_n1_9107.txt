@@ -1,1 +1,3 @@
-The European Union's Framework decision on Racism and Xenophobia states that denying or grossly trivialising "crimes of genocide" should be made "punishable in all EU Member States" [REF It is incorrect to force only one view
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8634b75e44efbcb402498f3b1efe537a4c250728ca1825c3efda7c427332385
+size 225

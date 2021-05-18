@@ -1,1 +1,3 @@
-Reproductive rights began to appear as a subset of human rights in the 1968 Proclamation of Teheran, which states: "Parents have a basic right to decide freely and responsibly on the number and spacing of their children and a right to adequate education and information in this respect" [REF Parents have a basic right to decide freely and responsibly on the number and spacing of their children
+version https://git-lfs.github.com/spec/v1
+oid sha256:b04444b171cd5edfcbb318d40558db0f0a95fde4ac8c8d3b65e4affc59b5ce3d
+size 395

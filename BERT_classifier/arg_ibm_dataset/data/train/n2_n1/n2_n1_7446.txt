@@ -1,1 +1,3 @@
-According to the American Academy of Pediatrics' 1999 Circumcision Policy Statement, "There is considerable evidence that newborns who are circumcised without analgesia experience pain and physiologic stress."[REF] One of the supporting studies found a correlation between circumcision and intensity of pain response during vaccination months later [REF newborns who are circumcised without analgesia experience pain and physiologic stress
+version https://git-lfs.github.com/spec/v1
+oid sha256:f77e8a54e9463879b1ca8aeaac1fc391dcc74a823308d81556e044ca9d299629
+size 439

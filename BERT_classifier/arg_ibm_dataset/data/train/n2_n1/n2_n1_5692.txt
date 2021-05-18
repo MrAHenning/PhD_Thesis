@@ -1,1 +1,3 @@
-Another study showed that 28.3% of Bosnian refugee women had symptoms of PTSD three or four years after their arrival in Sweden. These women also had significantly higher risks of symptoms of depression, anxiety, and psychological distress than Swedish-born women. For depression the odds ratio was 9.50 among Bosnian women [REF Refugee populations consist of people who are terrified and are away from familiar surroundings
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c427162d2697281c705fde548f4dfc373ece00841f4be9d7388b892e37c4dcc
+size 424

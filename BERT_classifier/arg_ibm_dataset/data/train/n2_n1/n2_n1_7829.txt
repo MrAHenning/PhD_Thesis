@@ -1,1 +1,3 @@
-to fight the spread of AIDS, the U.S. Surgeon General Dr. C. Everett Koop supported condom promotion programs Condoms can save life
+version https://git-lfs.github.com/spec/v1
+oid sha256:415bb113ee154790343d9fdbc1f88752d20cd0d0b9270bb210a8babcad10a1b8
+size 131

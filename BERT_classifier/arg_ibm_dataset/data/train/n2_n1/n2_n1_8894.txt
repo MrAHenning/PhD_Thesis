@@ -1,1 +1,3 @@
-On February 17, 2008, John Holmes, United Nations Under-Secretary-General for Humanitarian  Affairs and Emergency Relief Coordinator said while visiting Sderot, "The people of Sderot and the surrounding area have had to live with these unacceptable and indiscriminate rocket attacks for seven years now. There is no doubt about the physical and psychological suffering these attacks are causing Life in the south under rocket barrages had become unbearable
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e7198bada2184a17561adbca2ad27fc67aad02e3a8d086162def574a78e7d7a
+size 456

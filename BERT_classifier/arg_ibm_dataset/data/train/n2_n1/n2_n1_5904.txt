@@ -1,1 +1,3 @@
-In the book Losing Ground, Charles Murray argues that welfare not only increases poverty but also increases other problems such as single-parent households, and crime [REF welfare not only increases poverty but also increases other problems
+version https://git-lfs.github.com/spec/v1
+oid sha256:da21d84bea54694ff04e43ff29fe3ebccf7597a2a5cb52b8d0a5df202de82a4b
+size 240

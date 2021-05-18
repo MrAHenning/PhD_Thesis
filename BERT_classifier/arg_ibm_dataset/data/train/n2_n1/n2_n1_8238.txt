@@ -1,1 +1,3 @@
-Harvard law professor Alan Dershowitz wrote that the problem with the report is what its composers willfully and deliberately refused to see and hear. He said that the commission ignored easily accessible videotapes that show Hamas operatives routinely firing rockets from behind human shields the IDF was forced to deal with the lowest form of terrorists
+version https://git-lfs.github.com/spec/v1
+oid sha256:a791311482710b3d92033e5a29eb9be1bc477dc1e2b961a11314f5898b5ce341
+size 355

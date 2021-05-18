@@ -1,1 +1,3 @@
-Singapore, issued a statement strongly condemning the film, with deputy prime minister Wong Kan Seng saying: "Freedom of expression does not give anyone the licence to insult another's religion or race."[REF][REF freedom of speech and disseminating ideas do not amount to the right to insult
+version https://git-lfs.github.com/spec/v1
+oid sha256:131c88769fd12b918cd507ed412627cabc1afd9412cea09cd76426666b6e7a39
+size 291

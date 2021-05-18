@@ -1,1 +1,3 @@
-Martin Luther King said, "By our readiness to allow arms to be purchased at will and fired at whim.. we have created an atmosphere in which violence and hatred have become popular pastimes."[REF the access to guns leads to more violence
+version https://git-lfs.github.com/spec/v1
+oid sha256:5709f5b7ef65fb432c9187d1b54c86382435f17c177827820f327b66715589e5
+size 236

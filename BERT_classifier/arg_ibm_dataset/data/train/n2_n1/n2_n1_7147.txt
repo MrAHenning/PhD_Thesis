@@ -1,1 +1,3 @@
-According to Human Rights Watch, the Hamas-controlled government of Gaza stepped up its efforts to "Islamize" Gaza in 2010, efforts that included, according to the organization, the "repression of civil society" and "severe violations of personal freedom."[REF The situation in Gaza is the direct result of Hamas' rule and priorities
+version https://git-lfs.github.com/spec/v1
+oid sha256:82e03e19aab715077f4a82363eaa5d97639887001aadfa0c133a7a14e10b2c60
+size 333

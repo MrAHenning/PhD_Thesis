@@ -1,1 +1,3 @@
-Each year at least 1.9 million people die as a result of physical inactivity,[REF] which makes inactivity one of the leading preventable causes of death worldwide [REF Physical inactivity is increasing or high among many groups in the population
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b090c9198ebdec50a946293bbd3cd9ea68c06d8e1549b6b0d1ac28b7009fe5d
+size 245

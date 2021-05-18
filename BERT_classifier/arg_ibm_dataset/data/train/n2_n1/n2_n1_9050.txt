@@ -1,1 +1,3 @@
-In 2002, a deliberate and well-publicised public repeat-reading of the poem The Love that Dares to Speak its Name by James Kirkup took place on the steps of St Martin-in-the-Fields church in Trafalgar Square and failed to lead to any prosecution by the Director of Public Prosecutions. It suggested Jesus was a homosexual. An earlier reading in 1977 had led to prosecution. Outraged Christians tried to drown out the 2002 reading. "We have won an important victory for free speech and the right to protest", declared human rights campaigner Peter Tatchell The offence of blasphemous libel is believed by some to be contrary to the freedom of speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fb15543c6dc010ff815cecc8de5b3e97a1c2dd287895adbbc66cbd85671d793
+size 648

@@ -1,1 +1,3 @@
-Feminist economists have argued that unpaid domestic work is just as valuable as paid work and that measures of economic success should take unpaid work into account when evaluating economic systems domestic labor is work
+version https://git-lfs.github.com/spec/v1
+oid sha256:b08cc91e36e95169a3b7c756fbb369dedf5cb408bda4db200bdd1b22c59366ef
+size 221

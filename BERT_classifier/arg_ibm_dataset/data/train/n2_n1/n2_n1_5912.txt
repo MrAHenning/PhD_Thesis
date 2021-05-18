@@ -1,1 +1,3 @@
-a 2008 article by Andersen and Fetner finds a strong relationship between economic inequality within and across countries and tolerance for 35 democracies Higher levels of economic inequality tend to intensify social hierarchies and generally degrade the quality of social relations
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b58f9df2c5465b91b2266bad2f672308576bbb61f87b8224422890bcd63906a
+size 282

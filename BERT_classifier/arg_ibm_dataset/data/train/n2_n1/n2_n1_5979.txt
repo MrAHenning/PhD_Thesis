@@ -1,1 +1,3 @@
-Drug cartels in Mexico control approximately 70% of the foreign narcotics that flow into the United States [REF America's] insatiable demand for illegal drugs fuels the drug trade
+version https://git-lfs.github.com/spec/v1
+oid sha256:d47b6b5c0265fe13550916e4a900ac6ff8317a917c3e190e892b32b59b1f2548
+size 179

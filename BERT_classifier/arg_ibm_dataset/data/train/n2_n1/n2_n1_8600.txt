@@ -1,1 +1,3 @@
-Gambian President Yahya Jammeh has called on "civilised members of the human race" to rise up against "this holocaust that has been unleashed on the helpless Palestinians, whose lands, human dignity and right to peaceful and dignified existence in their own country are being blatantly violated with impunity nothing justifies the suffering inflicted to civilian populations who live trapped in the Gaza strip
+version https://git-lfs.github.com/spec/v1
+oid sha256:aab9a9e706b16cb4e5a55a901dcdbf43506bd5e2602a4ed50a21943a9c29ce6a
+size 409

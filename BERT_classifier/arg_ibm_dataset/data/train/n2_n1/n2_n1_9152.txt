@@ -1,1 +1,3 @@
-The argument that laws punishing Holocaust denial are incompatible with the European Convention on Human Rights and the Universal Declaration of Human Rights have been rejected by institutions of the Council of Europe (the European Commission of Human Rights,[REF] the European Court of Human Rights[REF]) and also by the United Nations Human Rights Committee [REF laws punishing Holocaust denial are incompatible with the European Convention on Human Rights and the Universal Declaration of Human Rights
+version https://git-lfs.github.com/spec/v1
+oid sha256:863f041eb1ea6d26c89d18b4cc5b2c12436e908b58b583b77b74b6e932f97bdd
+size 504

@@ -1,1 +1,3 @@
-Two-thirds of all flowering plants can be found in rainforests [REF Rain forests play an important role in maintaining biological diversity
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b89f1f7e7f3a68b0e427c9fa03429faef3480af73027b893f4fad82a7c0352b
+size 139

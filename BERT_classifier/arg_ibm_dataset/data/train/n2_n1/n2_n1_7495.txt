@@ -1,1 +1,3 @@
-The American Academy of Pediatrics (1999) stated: "Existing scientific evidence demonstrates potential medical benefits of newborn male circumcision circumcision can be beneficial to a male before he would be able to otherwise provide consent
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dd9023d51bfa9278f9cd7ae4ec626f707dd30fa89af1469c41bd4ec6dd046d8
+size 242

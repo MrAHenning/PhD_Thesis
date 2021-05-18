@@ -1,1 +1,3 @@
-The Red Cross said that the blockade was harming the Gazan economy The blockade is harming the Gazan economy
+version https://git-lfs.github.com/spec/v1
+oid sha256:573f31b352d407e50c8db44ebef7008908d1a1b35af8d4fde80654c322ee3642
+size 108

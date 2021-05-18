@@ -1,1 +1,3 @@
-some political scientists champion the idea of an "interventionist monarch" as a check against possible illegal action by politicians Monarchy is a source of checks and balances against elected politicians who might seek powers in excess of those conferred by their respective constitutions
+version https://git-lfs.github.com/spec/v1
+oid sha256:e45aacdc5f57f0ca41baae860a30cd21a88617ffdbbadb04d4ae060d55159500
+size 290

@@ -1,1 +1,3 @@
-Early 20th century experiments by the American military concluded that providing condoms to soldiers significantly lowered rates of sexually transmitted diseases [REF The use of condoms is encouraged to prevent transmission of HIV
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec8904199a7ba2f1bd5439d308d1d560625882e99086a8c7e1780ad05e081b7
+size 230

@@ -1,1 +1,3 @@
-Classical criminology stresses that causes of crime lie within the individual offender, rather than in their external environment. For classicists, offenders are motivated by rational self-interest, and the importance of free will and personal responsibility is emphasised[REF causes of crime lie within the individual offender, rather than in their external environment
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b850cf8a4f758097192bed92aa519d7ff823d40519d37e0019157b151f98b2
+size 370

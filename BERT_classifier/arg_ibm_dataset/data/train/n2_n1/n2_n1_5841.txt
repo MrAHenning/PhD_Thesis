@@ -1,1 +1,3 @@
-Roe v. Wade, , is a landmark decision by the United States Supreme Court on the issue of abortion. Decided simultaneously with companion case Doe v. Bolton, the Court ruled that a right to privacy under the due process clause in the Fourteenth Amendment to the United States Constitution extends to a woman's decision to have an abortion the decision to abort must be left to the mother and her physician
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cd535c7237eb19f9ac78689e2b8f35ced51dbb6d592c7f42a675db3c0963490
+size 404

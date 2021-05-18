@@ -1,1 +1,3 @@
-The Ministry of Foreign Affairs of the Republic of Tajikistan expresses concern over crisis in the Gaza Strip. The worsening of the armed clashes in the Gaza Strip, resulted in hundreds of thousands of dead and wounded civilians, including women and children. As a result of collisions Gaza, that is under blockade, could face a humanitarian catastrophe Israel`s unproportionally all-out war on Hamas with a great number of fatalities is an unforgettable human tragedy
+version https://git-lfs.github.com/spec/v1
+oid sha256:d93efb149a30bd68b5f321ae39055bb6d4e1f667738d8736b776b14a065c9efb
+size 468

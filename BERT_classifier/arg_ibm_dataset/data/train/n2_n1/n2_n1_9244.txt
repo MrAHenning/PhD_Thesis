@@ -1,1 +1,3 @@
-1990 United States v. Eichman (496 U.S. 310) – Passage of the Flag Protection Act resulted in a number of flag burning incidents protesting the new law. The Supreme Court overturned several flag burning convictions brought under the Flag Protection Act of 1989. The Court held that notwithstanding Congress' effort to adopt a more content neutral law, the federal law continued to be principally aimed at limiting symbolic speech Flag burning is protected by the First Amendment
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5a7a209af5643fafd5eaecdfc8b5ca4368cfd1301e1ed81e1b7ee948890f986
+size 480

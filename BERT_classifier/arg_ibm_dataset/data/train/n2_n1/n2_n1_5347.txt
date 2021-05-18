@@ -1,1 +1,3 @@
-the supreme court has ruled that in principle the blacks may be favored but in practice this should not lead to unfair discrimination against the others affirmative action is "reverse discrimination
+version https://git-lfs.github.com/spec/v1
+oid sha256:35d079401f7f70bbecdfdc5fdb4df51ea2045f510c2646fd9d48f950ba3311f5
+size 198

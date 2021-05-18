@@ -1,1 +1,3 @@
-Scottish Enlightenment philosopher David Hume contended that meaningful statements about the universe are always qualified by some degree of doubt [REF]. He asserted that the fallibility of human beings means that they cannot obtain absolute certainty human reason is incapable of providing sufficient rational grounds to justify the belief that deities either do or do not exist
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e20e8ceb456df5bcb65a9c2bc412101b64fc4a545a0bec27b35d6a812088513
+size 379

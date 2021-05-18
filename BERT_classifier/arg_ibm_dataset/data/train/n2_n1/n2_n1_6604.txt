@@ -1,1 +1,3 @@
-Jeff Snyder is a spokesman for the view that gun possession is a civil right gun possession is a civil right
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a4b1254c862df0e9c1f3d2984c7e3137e268a6450c1acaeabbe6779f33a8207
+size 108

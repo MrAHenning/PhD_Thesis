@@ -1,1 +1,3 @@
-physician, P.C. Remondino [REF], added that 'circumcision is like a substantial and well-secured life annuity..it insures better health, greater capacity for labor, longer life, less nervousness, sickness, loss of time, and less doctor bills.' No wonder it became a popular remedy."[REF Circumcision is done as a preventive measure in the infant
+version https://git-lfs.github.com/spec/v1
+oid sha256:e11bc4f897630967583fa8d4bbd68650efb21218e9810d1aeb4270adedc0f585
+size 345

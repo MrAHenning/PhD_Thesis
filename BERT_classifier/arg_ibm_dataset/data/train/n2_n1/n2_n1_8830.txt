@@ -1,1 +1,3 @@
-A foreign ministry spokesman of the DPRK "resolutely denounces Israel's killing of unarmed civilians as a crime against humanity Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:3486d379c796faef20d2db828f53c1064b5f7e7d4990029e6991be4a1e6979c9
+size 196

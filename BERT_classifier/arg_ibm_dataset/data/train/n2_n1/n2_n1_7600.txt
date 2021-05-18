@@ -1,1 +1,3 @@
-In Of the Special Laws, Book 1, the Jewish philosopher Philo (20 BC - AD 50) gives six reasons for the practice of circumcision [REF]. He attributes four of the reasons to "men of divine spirit and wisdom". These include the idea that circumcision 1) protects against disease Circumcision protects against disease
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f9fceac104367092b702aeb994707e6000dc6e722e69c57175e76bea830752b
+size 313

@@ -1,1 +1,3 @@
-Lawrence Auster, another conservative critic of multiculturalism, has argued that although multiculturalism is meant to promote the value of each culture, the reality is that its real tendency has been to undermine America's traditional majority culture. In Auster's view, multiculturalism has tended to "downgrade our national culture while raising the status and power of other cultures Multiculturalism hinders equity and equality in society
+version https://git-lfs.github.com/spec/v1
+oid sha256:c50de56433e8ecf92f193194606462cb6c52b138a556d01a19e0cca806887631
+size 444

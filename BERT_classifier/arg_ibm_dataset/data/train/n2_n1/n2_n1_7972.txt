@@ -1,1 +1,3 @@
-in the case of Miami Herald Publishing Co. v. Tornillo, , Chief Justice Warren Burger wrote (for a unanimous court):"Government-enforced right of access inescapably dampens the vigor and limits the variety of public debate Government-enforced right of access inescapably dampens the vigor and limits the variety of public debate
+version https://git-lfs.github.com/spec/v1
+oid sha256:d90727e22821620b86fbac3d895f685c22cad2e6842f46d4ca30d724a4c923b2
+size 328

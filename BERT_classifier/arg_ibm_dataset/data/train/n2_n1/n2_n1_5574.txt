@@ -1,1 +1,3 @@
-The British columnist Leo Mckinstry said of multiculturalism, "Britain is now governed by a suicide cult bent on wiping out any last vestige of nationhood Multiculturalism undermines national unity
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d0f1670675eea5c9e7169c39d71e67ee41476505a95f6ba12fd9487e382ed36
+size 197

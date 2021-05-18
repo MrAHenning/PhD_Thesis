@@ -1,1 +1,3 @@
-One meta-study was conducted by the psychiatry department of Oxford University at Warneford Hospital in the United Kingdom. Twenty surveys were analyzed, providing results for 6,743 adult refugees from seven countries. In the larger studies, 9% were diagnosed with post-traumatic stress disorder and 5% with major depression, with evidence of much psychiatric co-morbidity Refugee populations consist of people who are terrified and are away from familiar surroundings
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcfb8ffe39c6a834591b914715bac2864bea84daf4d462037521961639b20415
+size 468

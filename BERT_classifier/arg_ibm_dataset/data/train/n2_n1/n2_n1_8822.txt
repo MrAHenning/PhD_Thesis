@@ -1,1 +1,3 @@
-The Bahraini Parliament Council strongly condemned "the barbaric massacre by the Israeli enemy against the unarmed Palestinians in Gaza that clashes clearly with all religions, ethics and international accords" [REF Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0f65a980fbfb162052623fa71376bd849289c749ed62e77ba19f6c8ebdad587
+size 283

@@ -1,1 +1,3 @@
-Populations of large primates, such as gorillas and chimpanzees, ungulates and other mammals, may be reduced by 80% or more by hunting and certain species may be eliminated all together [REF Overexploitation can lead to resource destruction, including extinctions
+version https://git-lfs.github.com/spec/v1
+oid sha256:52c697bbe2c05198c64d2243ae90b6eaaa5d0c04a7bc12d20bb6c706b2287924
+size 263

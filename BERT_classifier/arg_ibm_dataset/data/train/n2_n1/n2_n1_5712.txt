@@ -1,1 +1,3 @@
-The white paper said, .   “Migration is an inevitable reality of the modern world and it brings significant benefits Migration provides a positive resource for the economy
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0c016242250995f8665bbf52fea120d1e3915421803b7f73ad9865c07863992
+size 173

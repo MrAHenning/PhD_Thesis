@@ -1,1 +1,3 @@
-Epidemiological evidence suggests that moderate exercise has a beneficial effect on the human immune system; an effect which is modeled in a J curve. Moderate exercise has been associated with a 29% decreased incidence of upper respiratory tract infections (URTI Frequent and regular physical exercise boosts the immune system
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3feb62fa73537eb30d075b5f937780d411902e13a57ad8af26ce802a7f021f4
+size 326

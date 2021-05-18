@@ -1,1 +1,3 @@
-Maxwell Gaylard, UN Deputy Special and Humanitarian Coordinator for the Middle East also criticised Israel, saying "Permitting mayonnaise and potato chips into Gaza is really irrelevant in dealing with the underlying issues. What we need to see is an improvement in Gaza's water, sanitation, power grid, educational and health sectors. Gaza's economy is shot to pieces and its infrastructure is extremely fragile."[REF Gaza cannot and must not be allowed to remain a prison camp
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ffd151b0197a278d68cd53599d2632d20165991095c2f08a814ea0098c72d3b
+size 478

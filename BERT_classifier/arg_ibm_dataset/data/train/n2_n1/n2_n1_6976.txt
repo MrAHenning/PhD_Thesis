@@ -1,1 +1,3 @@
-Amnesty International said that “The blockade constitutes collective punishment under international law and must be lifted immediately the blockade on Gaza is neither sustainable nor tenable in its present form
+version https://git-lfs.github.com/spec/v1
+oid sha256:961061b86e8f04297e86d8f737c1e3522638b7e7452926e94946bdacacea1ba1
+size 212

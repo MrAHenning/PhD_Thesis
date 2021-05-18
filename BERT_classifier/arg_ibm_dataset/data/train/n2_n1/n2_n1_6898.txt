@@ -1,1 +1,3 @@
-Lastly, a European Network of Implementing Development Agencies (EUNIDA) report notes that, because of the security buffer zone imposed around Gaza as part of the blockade, as of June 2009, 46% of agricultural land was either inaccessible or out of production [REF the blockade of Gaza is causing "unacceptable suffering
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9b0b34d76fce99500f03bd9cdb8ecb84a2922d4f019b8afa31bbcef42523e33
+size 320

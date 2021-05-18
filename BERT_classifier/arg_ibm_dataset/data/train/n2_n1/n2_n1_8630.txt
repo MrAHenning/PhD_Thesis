@@ -1,1 +1,3 @@
-Mexico called on Sunday for an "immediate" halt to Israeli military operations in the Gaza Strip, where massive air raids have killed over 300 people so far. The Mexican government asked for "an immediate halt to military operations" and expressed "grave concern about the bombings conducted on December 27 by the Israeli army and the excessive use of force", the ministry of foreign affairs said in a statement Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbc323406698f2f333ed83e7b3a74c79c1db2bb354ca0e148f3bc3cfaf33ac72
+size 451

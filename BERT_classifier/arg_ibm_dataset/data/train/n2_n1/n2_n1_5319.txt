@@ -1,1 +1,3 @@
-studies show that recess and/or P.E. actually increase test scores as the students produce dopamine, a neurotransmitter involved in memory and problem solving [REF P.E. actually increases test scores
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa90a0c7fe752f504b09a26ce979b0fd1dd8e09133e4ff1c4db56cdad59e48dd
+size 199

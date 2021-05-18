@@ -1,1 +1,3 @@
-Fox and Thomson (2005) state that in the absence of "unequivocal evidence of medical benefit", it is "ethically inappropriate to subject a child to the acknowledged risks of infant male circumcision it is "ethically inappropriate to subject a child to the acknowledged risks of infant male circumcision
+version https://git-lfs.github.com/spec/v1
+oid sha256:d891136eb33595d24421f50ee5d4fec3af6aabf39793ba51f2d1d04da1ba8114
+size 302

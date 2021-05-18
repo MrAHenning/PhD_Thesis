@@ -1,1 +1,3 @@
-Saudi Arabia has blamed divisions amongst the Palestinians for the conflict, as well as Hamas for provoking Israel [REF Hamas started the conflict by firing rockets on Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:48e8b18e9645732a5b9e03afb7b91528f4db3dd81ef5508bc92ea1b653a8800d
+size 174

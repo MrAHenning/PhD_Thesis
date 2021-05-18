@@ -1,1 +1,3 @@
-Dutch Prime Minister Jan Peter Balkenende said that he understands Israel's moves, given the scores of rockets that are being fired from Gaza onto Israeli targets by Hamas. He refused to condemn Israel for its military action Israel's actions on the Gaza Strip must be characterised as war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:0380200a721fd2907cef16922d536a2956ff867ddaf8eee3f2d6fb10dfc41788
+size 296

@@ -1,1 +1,3 @@
-The report also says that Israel’s military assault on Gaza was designed to "humiliate and terrorize a civilian population, radically diminish its local economic capacity both to work and to provide for itself, and to force upon it an ever increasing sense of dependency and vulnerability” [REF disproportionate destruction and violence against civilians were part of a deliberate policy" by Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:1506aedf44902c30549a3bbf9b1fdb4844ddd5ae9bbb5123dd3595f43be681d9
+size 402

@@ -1,1 +1,3 @@
-A team of British scientists headed by Richard Doll carried out a longitudinal study of 34,439 medical specialists from 1951 to 2001, generally called the "British Doctors Study."[REF] The study demonstrated that about half of the persistent cigarette smokers born in 1900–1909 were eventually killed by their addiction (calculated from the logarithms of the probabilities of surviving from 35–70, 70–80, and 80–90) and about two thirds of the persistent cigarette smokers born in the 1920s would eventually be killed by their addiction Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:12eecc89cd94744f30f6d7191eafdf16f3a65714a7ce517103c908f707df0ec9
+size 631

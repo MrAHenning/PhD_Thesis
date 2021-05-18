@@ -1,1 +1,3 @@
-According to Greenpeace, oil sands industry has been identified as the largest contributor to greenhouse gas emissions growth in Canada, as it accounts for 40&nbsp;million tons of emissions per year [REF Oil sands extraction is generally held to be more environmentally damaging than conventional crude oil
+version https://git-lfs.github.com/spec/v1
+oid sha256:b82d47899482f44b6d24d05e9e7c19fe7e512ef35796c36c31baf91708e61184
+size 306

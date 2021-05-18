@@ -1,1 +1,3 @@
-At the 1984 UN World Population Conference in Mexico City population control policies came under attack from women's health advocates who argued that the policies' narrow focus led to coercion and decreased quality of care The policies' narrow focus leads to coercion and decreased quality of care
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a4faf2f51e9c0d4c1f190402c37df7ee956389647f07fa4807f0cf67f488787
+size 297

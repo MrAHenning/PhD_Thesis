@@ -1,1 +1,3 @@
-Article 31 of the Convention Relating to the Status of Refugees prohibits the Contracting States from imposing penalties on refugees for their illegal enter or presence, who come directly from a territory where their life or freedom are threatened refugees (legally defined to be people who are persecuted in their original country and then enter another country seeking safety) should be exempted from immigration laws
+version https://git-lfs.github.com/spec/v1
+oid sha256:3241d01c939a4524b3715152a1e356839bb70053f6e246ca40f37f56aca5f5d0
+size 419

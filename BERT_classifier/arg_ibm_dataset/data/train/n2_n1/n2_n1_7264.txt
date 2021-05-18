@@ -1,1 +1,3 @@
-Some international organizations such as Planned Parenthood consider that broad sex education programs have global benefits, such as controlling the risk of overpopulation and the advancement of women's rights broad sex education programs have global benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:93884136d2a78e2bbe792ebd2ce44f416eca4faafc0b0556a5cca64dd7a53a7b
+size 259

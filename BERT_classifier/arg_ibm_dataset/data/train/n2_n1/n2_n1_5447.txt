@@ -1,1 +1,3 @@
-Affirmative Action Around the World: An Empirical Study is a 2004 nonfiction work by economist Thomas Sowell.  Already known as a critic of affirmative action or race-based hiring and promotion, Sowell, himself African-American, analyzes the specific effects of such policies on India, Malaysia, Sri Lanka, and Nigeria, four countries with longer multiethnic histories and then compares them with the recent history of the United States in this regard. He finds that "Such programs have at best a negligible impact on the groups they are intended to assist."[REF Affirmative action programs have at best a negligible impact on the groups they are intended to assist
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ba56393db887fb099179c4171186a5c4f1c5bf39becdf39a8e4689871b11d22
+size 665

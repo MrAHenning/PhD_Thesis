@@ -1,1 +1,3 @@
-On average, suburban residents generate more per capita pollution and carbon emissions than their urban counterparts because of their increased driving [REF urban intensification which increases population density will reduce per capita car use, with benefits to the global environment
+version https://git-lfs.github.com/spec/v1
+oid sha256:76240223d345b4aca999669fba3ae7766f460c8657e0854ad0bbe5125a84307b
+size 285

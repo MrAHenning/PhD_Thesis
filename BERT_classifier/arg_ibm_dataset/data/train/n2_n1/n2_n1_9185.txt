@@ -1,1 +1,3 @@
-A USA Today/Gallup Poll in June 2006 found that 54% of Americans opposed a flag desecration amendment [REF Americans oppose a flag desecration amendment
+version https://git-lfs.github.com/spec/v1
+oid sha256:92be4fea8b4aeb1d98bc49a20e2301752f4a0ec84bcca804d7fb7a443bc494ce
+size 152

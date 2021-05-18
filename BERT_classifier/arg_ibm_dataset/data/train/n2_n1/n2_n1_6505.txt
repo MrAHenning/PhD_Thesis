@@ -1,1 +1,3 @@
-some tourism officials predict wind farms will damage tourism,[REF wind farms will damage tourism
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1fdbd19514ad498ca0f9aa424babb3a96fe526210c002af198a11c0f8ce557a
+size 97

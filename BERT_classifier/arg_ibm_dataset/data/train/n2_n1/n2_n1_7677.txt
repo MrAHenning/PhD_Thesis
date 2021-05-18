@@ -1,1 +1,3 @@
-Numerous studies have shown that circumcision causes severe pain. This is shown by measures of crying, heart rate, respiratory rate, transcutaneous PO2, and cortisol levels circumcision causes severe pain
+version https://git-lfs.github.com/spec/v1
+oid sha256:52ba180014123c4abf1cd68717323b7eb16df34650acfafec5ae4bcc3a53f461
+size 204

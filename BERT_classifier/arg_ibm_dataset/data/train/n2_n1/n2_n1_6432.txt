@@ -1,1 +1,3 @@
-Feminist economists have argued that unpaid domestic work is just as valuable as paid work and that measures of economic success should take unpaid work into account when evaluating economic systems Care work is acknowledged as central to economic development and human well-being
+version https://git-lfs.github.com/spec/v1
+oid sha256:26c2b9122ed93589230f8c590739aed9b6aa379a476f72d52f2fce625ce6445f
+size 280

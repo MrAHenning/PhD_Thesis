@@ -1,1 +1,3 @@
-The right to freedom of expression is recognized as a human right under Article 19 of the Universal Declaration of Human Rights and recognized in international human rights law in the International Covenant on Civil and Political Rights (ICCPR). Article 19 of the ICCPR states that "[e]veryone shall have the right to hold opinions without interference" and "everyone shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice The free communication of ideas and opinions is one of the most precious of the rights of man
+version https://git-lfs.github.com/spec/v1
+oid sha256:3176fda5862bb719e958f4e8df7551ff6184a3963d08f94a1cd873a51933046b
+size 730

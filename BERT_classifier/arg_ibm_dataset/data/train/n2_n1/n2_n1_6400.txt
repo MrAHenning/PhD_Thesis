@@ -1,1 +1,3 @@
-Academic research has shown that in many instances, aid is conditionally tied due to political motives, rather than notions of proper policy and implementation in many instances, aid is conditionally tied due to political motives, rather than notions of proper policy and implementation
+version https://git-lfs.github.com/spec/v1
+oid sha256:02af7ce230ab94e5386ce52c7afa573d680418d869c6712c6d67fe6930625f02
+size 286

@@ -1,1 +1,3 @@
-In 1997, the American Association of Professional Ringside Physicians was established to create medical protocols through research and education to prevent injuries in boxing [REF boxing commissions and other sanctioning bodies were established to regulate the sport
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ba361629033b570bd31b682447b20fa12048aee1efe82eaa4e52ce5688af244
+size 266

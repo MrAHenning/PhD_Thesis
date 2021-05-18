@@ -1,1 +1,3 @@
-According to B'Tselem, there were 54 civilian casualties [REF]. Civilian casualties included children, women and even infants Israel's response was excessive
+version https://git-lfs.github.com/spec/v1
+oid sha256:8579ac40e02463264bf0a160eb8314a751e7a3957dea5a752b15e613d12edc42
+size 157

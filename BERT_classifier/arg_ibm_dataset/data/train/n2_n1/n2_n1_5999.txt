@@ -1,1 +1,3 @@
-on February 2008, William Hoover, Assistant Director for Field Operations of ATF, testified before Congress that over 90% of the firearms that have either been recovered in, or interdicted in transport to Mexico originated from various sources within the United States [REF American guns are arming the Mexican drug cartels
+version https://git-lfs.github.com/spec/v1
+oid sha256:95e28c65440611f8bf51973823e26523730fd96716e60c124d90ae691a98b642
+size 323

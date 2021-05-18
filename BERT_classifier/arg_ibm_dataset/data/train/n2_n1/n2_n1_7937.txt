@@ -1,1 +1,3 @@
-In the 20th Century Noam Chomsky states that: "If you believe in freedom of speech, you believe in freedom of speech for views you don't like. Stalin and Hitler, for example, were dictators in favor of freedom of speech for views they liked only. If you're in favor of freedom of speech, that means you're in favor of freedom of speech precisely for views you despise."[REF there ought to exist the fullest liberty of professing and discussing, as a matter of ethical conviction, any doctrine, however immoral it may be considered
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3dd4a4c1f5a2592c9acc445268a00b0ce4c040d97723fcccac1c4a69234c94f
+size 530

@@ -1,1 +1,3 @@
-Following Israel's easing of the blockade, the Turkish Foreign Ministry called it "a positive but insufficient step", and said that "Turkey considers that Israel's inhuman blockade of Gaza represents a threat to regional peace and stability and considers that the blockade must be entirely lifted [REF current Israeli restrictions are counterproductive for Israel's long term security
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce626a15d209f0bc813b4c91f34eb1d472f029eba06a44c9e210c5dfabbeace7
+size 384

@@ -1,1 +1,3 @@
-The APC states that "the ability to share information and communicate freely using the internet is vital to the realisation of human rights as enshrined in the Universal Declaration of Human Rights, the International Covenant on Economic, Social and Cultural Rights, the International Covenant on Civil and Political Rights and the Convention on the Elimination of All Forms of Discrimination against Women."[REF the ability to share information and communicate freely using the internet is vital to the realisation of human rights
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7b1bfae947b5f9d2113a2171f5838c78a0a1c9e117056a8b7559f23f0979ac5
+size 531

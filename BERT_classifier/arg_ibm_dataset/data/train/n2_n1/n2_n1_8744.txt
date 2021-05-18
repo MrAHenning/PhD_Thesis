@@ -1,1 +1,3 @@
-On 8 January, Prime Minister François Fillon qualified the humanitarian situation in Gaza as "intolerable" and stated: "while France has from the start condemned rocket launches from Gaza, as she condemns rocket launches from Lebanese territory, we also think that nothing justifies the suffering inflicted to civilian populations who live trapped in the Gaza strip" [REF the disproportionate use of force by Israel, which causes suffering to the civilian population, can be neither understood nor justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:884c3c9856306d8f4c5531e445baf9b8f91ca5d9953e01334d59642adacfe0ed
+size 508

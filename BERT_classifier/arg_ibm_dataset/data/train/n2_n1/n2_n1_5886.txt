@@ -1,1 +1,3 @@
-research found that juvenile arrest rates peak between 2 p.m. and 6 p.m. on school days [REF if unsupervised, children may fall into criminal or undesirable activity
+version https://git-lfs.github.com/spec/v1
+oid sha256:25e050627d506111a45acd2efe1f273217f682cf614b6b6535da3282dd530a29
+size 165

@@ -1,1 +1,3 @@
-Daniel Nepstad, Director of the International Program at the Amazon Environmental Research Institute and Mirna Cunningham Kain, Chair of the Center for Autonomy and Development of Indigenous Peoples, emphasized the critical needs for both sound forestry and climate change science, and pro-active engagement with indigenous people and forest-dependent communities as the de facto and de jure custodians of land and forest resources to secure equitable outcomes The rights of indigenous people and forest-dependent communities need to be protected
+version https://git-lfs.github.com/spec/v1
+oid sha256:55f57ef74e08dc55a91f54b02df5803ba9c35a51f0bc69f56758ccc135ae168e
+size 546

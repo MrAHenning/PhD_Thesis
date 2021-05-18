@@ -1,1 +1,3 @@
-In the 1960s casinos and lotteries began to appear throughout the world as a means to raise revenue in addition to taxes The lotteries proved very popular and were hailed as a painless form of taxation
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ee779fd73c95fbbf7f52c8993e1675b711ed24ca9f0b5e09f935a3c668a2c7b
+size 201

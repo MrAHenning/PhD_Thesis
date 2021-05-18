@@ -1,1 +1,3 @@
-In September 1990, John Paul II visited the small town of Mwanza, in northern Tanzania, and gave a speech that many believe set the tone for the AIDS crisis in Africa. Being unequivocal, he told his audience that condoms were a sin in any circumstances using condoms during sex is morally contraceptive and thus a sin
+version https://git-lfs.github.com/spec/v1
+oid sha256:d42263aefdf1322d84841129b2ccd0a8ab1a521da00937b5bf66e92fba7682e4
+size 317

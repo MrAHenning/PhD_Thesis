@@ -1,1 +1,3 @@
-In September 2011, a UN investigative committee concluded in the Palmer Report that the blockade is legal [REF the blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:c78cee98eabb59c000adeba8aedd51857c1e0532ec0137cf32d436017e4ab688
+size 132

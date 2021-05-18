@@ -1,1 +1,3 @@
-In 1997, the Vatican's Pontifical Council for the Family stated: "The Church has always taught the intrinsic evil of contraception, that is, of every marital act intentionally rendered unfruitful. This teaching is to be held as definitive and irreformable. Contraception is gravely opposed to marital chastity Contraception is gravely opposed to marital chastity
+version https://git-lfs.github.com/spec/v1
+oid sha256:21527a49df50d49c989dd58272fb37b3bb972ee0fd335d4f4ba2e9175e6f32f2
+size 362

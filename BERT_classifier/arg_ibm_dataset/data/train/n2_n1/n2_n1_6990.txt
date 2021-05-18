@@ -1,1 +1,3 @@
-A UN study has found that Gazan families are eating fewer meals a day and mainly relying on carbohydrates such as rice and flour because protein foods are expensive or unavailable. Chicken eggs have doubled in price due to the destruction of chicken coops during the Gaza War [REF What is going on in Gaza is a humanitarian catastrophe
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c6a3b8ccb9208be0ad6943178d603d2f3d4317c6476f0c4e07e9baaa846bce1
+size 335

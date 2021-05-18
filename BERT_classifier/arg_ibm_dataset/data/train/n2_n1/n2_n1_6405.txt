@@ -1,1 +1,3 @@
-the money is often lost to governmental corruption in the nations it was supposed to help. In 2003, a top university in Bangladesh claimed that at least 75% of all foreign aid given to the government was lost because of corruption Foreign aid simply does not work
+version https://git-lfs.github.com/spec/v1
+oid sha256:77e4e29ff75c4b3825a04c101b9bc75ffc17fd81a52cf105d269e8254af26106
+size 263

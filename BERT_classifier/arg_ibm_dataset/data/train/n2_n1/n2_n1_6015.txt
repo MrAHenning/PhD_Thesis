@@ -1,1 +1,3 @@
-On June 14, 2011, a preliminary joint staff report was released by Representative Issa and Senator Grassley [REF]. Among the findings: agents were told to stand down rather than interdict weapons, they complained about the strategy and were ignored, and Fast and Furious led to increased violence and death in Mexico [REF American) government has been sending weapons to Mexico in a premeditated and systematic manner, knowing that their destinations were Mexican criminal organizations
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec492d0349b4e72926ce758ffed5b2dcc9707f810153f420bff2a25693c460b5
+size 486

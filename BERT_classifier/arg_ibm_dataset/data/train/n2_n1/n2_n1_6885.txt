@@ -1,1 +1,3 @@
-Human Rights Watch argues that Israel is still an occupying power and is responsible for Gaza under the 1949 Fourth Geneva Convention, which seeks to protect the civilian population [REF as the occupying power, Israel has a duty under international law to ensure the welfare of Gaza’s inhabitants
+version https://git-lfs.github.com/spec/v1
+oid sha256:dde0c0e0e930049ec9e76e112a42ccda3ea4bafe4e777d08c91736966f06c871
+size 298

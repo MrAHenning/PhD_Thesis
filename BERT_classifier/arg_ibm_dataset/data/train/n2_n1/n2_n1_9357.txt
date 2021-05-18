@@ -1,1 +1,3 @@
-There is a correlation between household incomes for black households in the lowest/1st quintile [REF] and the aggregate violent and property crime rates [REF in a competitive society in which there is an inequality in the distribution of goods, those groups with limited or restricted access to goods will be more likely to turn to crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:f33dd5ae976848994838819bfc2d4501338e6910bbcd06e6b6b48152027c5de1
+size 338

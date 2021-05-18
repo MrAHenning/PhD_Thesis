@@ -1,1 +1,3 @@
-One practical argument in favor of reduction is the idea that economic inequality reduces social cohesion and increases social unrest, thereby weakening the society.   There is evidence that this is true (see inequity aversion) and it is intuitive, at least for small face-to-face groups of people. Alberto Alesina, Rafael Di Tella, and Robert MacCulloch find that inequality negatively affects happiness in Europe economic inequality reduces social cohesion and increases social unrest
+version https://git-lfs.github.com/spec/v1
+oid sha256:847b87bdc96f1dc5ecc93f6288f09a87de5162f90d2bea039c35247d6ed1cd0f
+size 486

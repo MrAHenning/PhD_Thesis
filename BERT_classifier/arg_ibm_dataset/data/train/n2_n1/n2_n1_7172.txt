@@ -1,1 +1,3 @@
-In September 2011, a United Nations report concluded that the Israeli blockade was legal Israel's blockade of the Gaza Strip was determined to be legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:39ba6c8964c83d1414c31f8760ad2427d206f0b52a2aac7a91fc783835d81f81
+size 151

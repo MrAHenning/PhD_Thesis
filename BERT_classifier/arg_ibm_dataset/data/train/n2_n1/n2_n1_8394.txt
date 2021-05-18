@@ -1,1 +1,3 @@
-A study by the Center for Strategic and International Studies points out that when possible, IAF executed strikes using the smallest precision-guided weapons, and coordinated air strikes and the use of artillery weapons using GPS, in a systematic effort to limit collateral damage [REF it was a war against Palestinian civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a81dde63271ee3b0507fe461f4218fe6908c4bf53ee48dbe57b2ebceaae6148
+size 328

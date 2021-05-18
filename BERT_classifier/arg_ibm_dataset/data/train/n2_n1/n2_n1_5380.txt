@@ -1,1 +1,3 @@
-Lawmakers have run into problems trying to implement equality of opportunity. In 2010 in Britain, a legal requirement "forcing public bodies to try to reduce inequalities caused by class disadvantage" was scrapped Equality of opportunity is an ideal that cannot and should not be realized through the actions of the government
+version https://git-lfs.github.com/spec/v1
+oid sha256:155d7103f7aa981f9a0d9b51b81c214d4038dafdf29bf9433c10fa5f16cf2af4
+size 326

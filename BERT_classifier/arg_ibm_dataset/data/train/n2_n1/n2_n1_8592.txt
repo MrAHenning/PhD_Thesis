@@ -1,1 +1,3 @@
-The president of the UN General Assembly, Miguel d'Escoto Brockmann, described Israel's Gaza offensive as a "genocide" against the Palestinian people [REF nothing justifies the suffering inflicted to civilian populations who live trapped in the Gaza strip
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b9286fdf8bfb9e47dac2082c15dfc715f9dc87bb7de95946921056f9061ec3b
+size 255

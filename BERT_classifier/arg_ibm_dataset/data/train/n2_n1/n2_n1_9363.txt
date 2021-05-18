@@ -1,1 +1,3 @@
-Between 1972 and 1990 there is strong correlation between decreasing real incomes of the poorest US black households, relative to the real incomes of the second highest US household income, and increasing crime rates In those segments of the population which experience the greatest relative deprivation, there is readiness to turn to crime to overcome inequality and eliminate relative deprivation
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2a0683b666a023dfe6a1536fb0085133a25c522f170ad101667b961de8ebc52
+size 398

@@ -1,1 +1,3 @@
-In its final remarks, the committee concluded that:  “The naval blockade imposed on the Gaza Strip – in view of the security circumstances and Israel’s efforts to comply with its humanitarian obligations – was legal pursuant to the rules of international law.” [REF The naval blockade imposed on the Gaza Strip by Israel conforms to the rules of international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:6413b8eecef9114674ebf63bab5a69a3585552a3e847971aa72305beaa5af037
+size 373

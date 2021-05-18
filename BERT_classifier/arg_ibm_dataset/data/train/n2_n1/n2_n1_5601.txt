@@ -1,1 +1,3 @@
-In October 2007, former Australian Prime Minister John Howard pledged to hold a referendum on changing the constitution to recognise indigenous Australians if re-elected. He said that the distinctiveness of people's identity and their rights to preserve their heritage should be acknowledged [REF the distinctiveness of people's identity and their rights to preserve their heritage should be acknowledged
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b17ee513039a9473c0df9cdb0b18afe3f89c47b7edec0964f3d23dcad3dd5e4
+size 404

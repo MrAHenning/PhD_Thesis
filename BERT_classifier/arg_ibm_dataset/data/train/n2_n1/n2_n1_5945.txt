@@ -1,1 +1,3 @@
-for any given amount of wealth in society, a society with more equality will have higher aggregate utility. Some studies (Layard 2003;Blanchard and Oswald 2000, 2003) have found evidence for this theory, noting that in societies where inequality is lower, population-wide satisfaction and happiness tend to be higher economic inequality reduces social cohesion and increases social unrest
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeebdc35f72c00bf6963b3eadf7ab4ca0a1f6e3a83b3060e48792e07459c80eb
+size 388

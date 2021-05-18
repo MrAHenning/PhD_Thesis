@@ -1,1 +1,3 @@
-A 2004 study concluded that school results in public schools improved due to the increased competition [REF School voucher and education tax credit systems incentivize schools to increase accountability and school performance
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f35db963fa869fdc4f67d80cbc1002e2277190a2efab3381565d6967aab448
+size 225

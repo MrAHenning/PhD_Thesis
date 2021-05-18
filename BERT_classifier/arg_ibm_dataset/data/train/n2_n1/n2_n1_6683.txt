@@ -1,1 +1,3 @@
-As noted in the Northern Kentucky Law Review Second Amendment Symposium: Rights in Conflict in the 1980’s, vol. 10, no. 1, 1982, p. 155, "The first state court decision resulting from the "right to bear arms" issue was Bliss v. Commonwealth. The court held that "the right of citizens to bear arms in defense of themselves and the State must be preserved entire, .."" "This holding was unique because it stated that the right to bear arms is absolute and unqualified."[REF][REF the right to bear arms is absolute and unqualified
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b555a7fa787f5e441ef30f2f311270785c7c554026782cd7616c2d7760ba70e
+size 530

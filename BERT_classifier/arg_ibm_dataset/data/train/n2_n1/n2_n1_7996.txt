@@ -1,1 +1,3 @@
-Nobel Prize winning economist Milton Friedman argued for the modern concept of vouchers in the 1950s, stating that competition would improve schools and cost efficiency competition would improve schools and cost efficiency
+version https://git-lfs.github.com/spec/v1
+oid sha256:a757091d386b557e30d1979a0e8ce41b0146fc6f2105f78fe4deb3a0323365f9
+size 222

@@ -1,1 +1,3 @@
-A significant proportion of drugs are derived, directly or indirectly, from biological sources: at least 50% of the pharmaceutical compounds on the US market are derived from plants, animals, and micro-organisms, while about 80% of the world population depends on medicines from nature (used in either modern or traditional medical practice) for primary healthcare [REF Biodiversity provides critical support for drug discovery and the availability of medicinal resources
+version https://git-lfs.github.com/spec/v1
+oid sha256:164a1930590e6e0465f2ce7fe1a4aae40ec4959aa5de0530b0fa2da8775958db
+size 471

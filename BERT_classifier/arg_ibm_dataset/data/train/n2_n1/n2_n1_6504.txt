@@ -1,1 +1,3 @@
-The UK Energy Research Centre (UKERC) study of intermittency also states that wind energy can displace fossil fuel-based generation, reducing both fuel use and carbon dioxide emissions.  [REF Wind farms have a smaller footprint than other forms of energy generation
+version https://git-lfs.github.com/spec/v1
+oid sha256:15336c3a73bed9a3017d21e3db1ffd637494cd1b45db88ffdbf73fe5f90d2cd5
+size 265

@@ -1,1 +1,3 @@
-To date, no published studies of abstinence-only programs have found consistent and significant program effects on delaying the onset of intercourse [REF Abstinence-only programs have not demonstrated successful outcomes
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d000937877711922c215ddd792652e4be510ef3b2871c34e7f442052ecdccc
+size 220

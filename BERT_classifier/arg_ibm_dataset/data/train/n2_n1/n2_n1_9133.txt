@@ -1,1 +1,3 @@
-In the Belgian Senate the Minister of Justice Laurette Onkelinx compared laws criminalizing Holocaust denial with those condemning incitement to ethnic or racial hatred in the United Kingdom and the Netherlands Holocaust denial is the worst form of racism
+version https://git-lfs.github.com/spec/v1
+oid sha256:3397f334e04fc8a22f426b23370b7abc97484ea23531a7aa1f38d867b73d22cb
+size 255

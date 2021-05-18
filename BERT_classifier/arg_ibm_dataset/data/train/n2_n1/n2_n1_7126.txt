@@ -1,1 +1,3 @@
-The UN, Human Rights Watch and many other international bodies and NGOs consider Israel to be the occupying power of the Gaza Strip as Israel controls Gaza's airspace and territorial waters, and does not allow the movement of goods in or out of Gaza by air or sea (only by land) [REF Israel restricts the ability for the Palestinian authority to exercise control
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecc22b9479a161fa07f59e82c6ce6efcf7a0b05e0697a0e683d5a095b47eca04
+size 362

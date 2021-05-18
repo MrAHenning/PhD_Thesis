@@ -1,1 +1,3 @@
-In another line of research, Clifford A. Pickover explores evidence suggesting that temporal lobe epilepsy may be linked to a variety of spiritual or ‘other worldly’ experiences, such as spiritual possession, originating from altered electrical activity in the brain [REF religious belief is a delusion
+version https://git-lfs.github.com/spec/v1
+oid sha256:d41310ed0e341673930e3e8e83893ba7e8ba1ca20be2045a1c6b51274d9e659f
+size 306

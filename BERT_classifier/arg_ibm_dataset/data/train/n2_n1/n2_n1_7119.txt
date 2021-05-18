@@ -1,1 +1,3 @@
-The International Committee of the Red Cross said that Israel's blockade violated the Geneva Conventions and stated that it constituted a collective punishment imposed in clear violation of Israel's obligations under international humanitarian law [REF Israel's blockade of Gaza is illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:383c75154ffca37f74ab864ed66f4ba5e74d29632597e8383354e4f613adbbfa
+size 289

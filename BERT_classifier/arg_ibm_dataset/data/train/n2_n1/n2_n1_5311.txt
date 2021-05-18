@@ -1,1 +1,3 @@
-Active transport ( walking, bicycling, etc. ) has been found to be inversely related to obesity in Europe, North America, and Australia [REF]. Thus exercise has been associated with a decrease in mortality [REF people die as a result of physical inactivity
+version https://git-lfs.github.com/spec/v1
+oid sha256:b725844e1d256d544cbacf15c5df8155e1b10a22ae670808c5de0b14d9081869
+size 256

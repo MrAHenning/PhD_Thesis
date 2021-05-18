@@ -1,1 +1,3 @@
-the American Psychological Association,[REF] the American Medical Association,[REF] the National Association of School Psychologists,[REF] the American Academy of Pediatrics,[REF] the American Public Health Association,[REF] the Society for Adolescent Medicine[REF] and the American College Health Association,[REF] argue that sexual behavior after puberty is a given, and it is therefore crucial to provide information about the risks and how they can be minimized; they also claim that denying teens such factual information leads to unwanted pregnancies and STIs abstinence-only programs deprive teenagers of critical information about sexuality
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef3fc2e1c7818960bc4dec94bbffb4f3e15bf7bdc8c74f7338e82f5a8e5fbde8
+size 648

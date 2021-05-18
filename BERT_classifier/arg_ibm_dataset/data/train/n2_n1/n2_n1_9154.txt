@@ -1,1 +1,3 @@
-Deborah Lipstadt, upon hearing of Irving's sentence to three years' imprisonment, said, "I am not happy when censorship wins, and I don't believe in winning battles via censorship.. The way of fighting Holocaust deniers is with history and with truth" [REF The way of fighting Holocaust deniers is with history and with truth
+version https://git-lfs.github.com/spec/v1
+oid sha256:9580a275bbe2df830af629e9f8f9a15787f388dbebac3b2217ad4d6fbda76d1e
+size 325

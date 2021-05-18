@@ -1,1 +1,3 @@
-Immigrants are overrepresented in Sweden's crime statistics. During the period 1997-2001, 25% of the almost 1,520,000 offences were committed by people born abroad, while almost 20% were committed by Swedish-born people with a foreign background.  [REF immigrants have high rates of criminality
+version https://git-lfs.github.com/spec/v1
+oid sha256:33ecde33d31be63a9f14a8fe58ec2811354176a0c7f460ee4dd566d502376a14
+size 294

@@ -1,1 +1,3 @@
-Empirical evidence suggests that, although condoms do not guarantee the perfect prevention of STD transmission[REF], condoms greatly reduce the risks of transmission [REF condom use will prevent the spread of AIDS
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8754a799b866b8904aabf2308b8cc5e0f6a58a1e8b967342b3229024440395a
+size 213

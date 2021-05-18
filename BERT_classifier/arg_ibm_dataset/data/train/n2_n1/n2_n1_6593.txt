@@ -1,1 +1,3 @@
-The most thorough analysis of the impact of gun control laws, by Kleck, covered 18 major types of gun control and every major type of violent crime or violence (including suicide), and found that gun laws generally had no significant effect on violent crime rates or suicide rates [REF Gun laws generally have no significant effect on violent crime rates or suicide rates
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e100144f0da2c0331357633ffa8ffa1cfd69715b87ee12b3200bafdad2e5670
+size 371

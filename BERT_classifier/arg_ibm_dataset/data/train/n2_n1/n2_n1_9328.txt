@@ -1,1 +1,3 @@
-Children brought up by lone parents are more likely to start offending than those who live with two natural parents. It is also more likely that children of single parents may live in poverty, which is strongly associated with juvenile delinquency[REF causes of crime lie within the individual offender, rather than in their external environment
+version https://git-lfs.github.com/spec/v1
+oid sha256:9829dae9bf47516d18a86dcffd370030d22b7fec4cb8baac0d6e878e4d688894
+size 345

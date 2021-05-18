@@ -1,1 +1,3 @@
-Some commentators such as Ḥayim Gordon and Josie Sandercock describes Gaza as the "largest concentration camp in the world" [REF the world is furious over the blockade on Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa19d20a50bb0fdbf70c1e07ea2a55e7f5403cb6d02234c4271090e18b60d22e
+size 177

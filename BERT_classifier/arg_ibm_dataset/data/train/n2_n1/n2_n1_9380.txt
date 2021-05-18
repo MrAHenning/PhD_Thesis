@@ -1,1 +1,3 @@
-According to historian Garrett Fagan, office holding in the Roman Republic was based on "limited tenure of office" which ensured that "authority circulated frequently," helping to prevent corruption [REF contact with the affairs of state is one of the most corrupting of the influences to which men are exposed
+version https://git-lfs.github.com/spec/v1
+oid sha256:06d350a47e51bf22f1ab0fd8d8ad72103dd00a876c04bf1c509b1fca7307e410
+size 310

@@ -1,1 +1,3 @@
-Richard Cloward and Lloyd Ohlin suggested that delinquency can result from differential opportunity for lower class youth [REF]. Such youths may be tempted to take up criminal activities, choosing an illegitimate path that provides them more lucrative economic benefits than conventional, over legal options such as minimum wage-paying jobs available to them [REF delinquency can result from differential opportunity for lower class youth
+version https://git-lfs.github.com/spec/v1
+oid sha256:48c9b7f02f725920b316f49635588b5f9c10a96cd191030ba4e20af4b16183ea
+size 438

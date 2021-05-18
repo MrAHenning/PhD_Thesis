@@ -1,1 +1,3 @@
-studies of marathon runners found that their prolonged high-intensity exercise was associated with an increased risk of infection occurrence Too much exercise can be harmful
+version https://git-lfs.github.com/spec/v1
+oid sha256:04e9a029e89711945b51d8b6aa9aa88a660c1e5041cba96b065ede1ff89f2cad
+size 173

@@ -1,1 +1,3 @@
-The Center for Immigration Studies in a 2009 report argued that "New government data indicate that immigrants have high rates of criminality immigrants have high rates of criminality
+version https://git-lfs.github.com/spec/v1
+oid sha256:47b262310f8b8c57c472294b4fbabc809e353a57a4574a2825683dcc8afe7e24
+size 182

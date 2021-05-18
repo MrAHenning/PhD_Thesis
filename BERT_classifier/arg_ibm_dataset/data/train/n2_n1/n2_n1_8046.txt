@@ -1,1 +1,3 @@
-NATO believes its "nuclear forces continue to play an essential role in war prevention, but their role is now more fundamentally political" [REF nuclear forces continue to play an essential role in war prevention
+version https://git-lfs.github.com/spec/v1
+oid sha256:798a833cc599bcb51e055cf08b08a9ff05b22a746194ba45c1269caf0390fe8a
+size 212

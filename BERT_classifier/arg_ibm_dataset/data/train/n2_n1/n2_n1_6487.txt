@@ -1,1 +1,3 @@
-Axel Kleidon of the Max Planck Institute in Germany, did a "top down" calculation on how much wind energy there is, starting with the incoming solar radiation that drives the winds by creating temperature differences in the atmosphere. He concluded that somewhere between 18 TW and 68 TW could be extracted [REF Wind power, as an alternative to fossil fuels, is plentiful
+version https://git-lfs.github.com/spec/v1
+oid sha256:56d2584dee3f95a6ca74e057a7c7e32971e897c5228d21fab234da48f302d7ae
+size 371

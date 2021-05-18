@@ -1,1 +1,3 @@
-The Amazon is home to more species of plants and animals than any other terrestrial ecosystem on the planet—perhaps 30% of the world’s species are found there With the rapid process of deforestation the habitats of many animals and plants that live in the rainforests are under threat and species may face extinction
+version https://git-lfs.github.com/spec/v1
+oid sha256:71e1dd9d25cb0d629d1a895d2d6c722d225fc565af9d441467362036162683ca
+size 320

@@ -1,1 +1,3 @@
-Higher levels of economic inequality tend to intensify social hierarchies and generally degrade the quality of social relations—leading to greater levels of stress and stress-related diseases. Richard Wilkinson found this to be true not only for the poorest members of society, but also for the wealthiest Higher levels of economic inequality tend to intensify social hierarchies and generally degrade the quality of social relations
+version https://git-lfs.github.com/spec/v1
+oid sha256:06b72be60808bda505eec014ecf46055aa43666b9ae93b9b01b5f2edc8219e6f
+size 435

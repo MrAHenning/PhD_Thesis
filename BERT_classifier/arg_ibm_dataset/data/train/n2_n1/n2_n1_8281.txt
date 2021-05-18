@@ -1,1 +1,3 @@
-In 2011, Goldstone wrote that he no longer believed that Israel intentionally targeted civilians in Gaza [REF Israel intentionally targeted civilians in Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:22142bbe56d1013edfe83724afbd2cc253d4c110ca971693050365a3e26bbadb
+size 157

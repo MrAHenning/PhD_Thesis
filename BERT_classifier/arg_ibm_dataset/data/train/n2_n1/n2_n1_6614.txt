@@ -1,1 +1,3 @@
-The economist John Lott, in his book More Guns, Less Crime, states that laws which make it easier for law-abiding citizens to get a permit to carry a gun in public places, cause reductions in crime. Lott's results suggest that allowing law-abiding citizens to carry concealed firearms deters crime because potential criminals do not know who may or may not be carrying a firearm. Lott's data came from the FBI's crime statistics from all 3,054 US counties [REF allowing law-abiding citizens to carry concealed firearms deters crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:396a91815e291bd3306f700914183ed7282603f75696360fd2c7d38e1e80b414
+size 531

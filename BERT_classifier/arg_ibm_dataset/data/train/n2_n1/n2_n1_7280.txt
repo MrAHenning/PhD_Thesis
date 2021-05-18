@@ -1,1 +1,3 @@
-Countries with conservative attitudes towards sex education (including the UK and the U.S.) have a higher incidence of STIs and teenage pregnancy [REF Denying teens factual information leads to unwanted pregnancies and STIs
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcfb67a288488f2e20d05cfe3220821437230c78ed2b14a24dcf988ac3a8a4b9
+size 223

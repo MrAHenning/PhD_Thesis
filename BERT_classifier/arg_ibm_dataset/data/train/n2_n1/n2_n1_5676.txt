@@ -1,1 +1,3 @@
-In Jan 2012, in the run up to the London Olympics, TaBBOXX joined with Dame Kelly Holmes Legacy Trust to launch a lottery raising money to help disadvantaged young people through sport In charity gambling profits from the venture go to the charity or group of charities, rather than to a municipality or private casino
+version https://git-lfs.github.com/spec/v1
+oid sha256:a81cd51029edb4427658cd7e9ed48027bd4f733279560b7cfe1f5f98f8a30ba2
+size 318

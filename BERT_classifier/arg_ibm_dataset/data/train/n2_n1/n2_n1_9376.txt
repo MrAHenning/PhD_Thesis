@@ -1,1 +1,3 @@
-On October 2, 1789, the Continental Congress appointed a committee of thirteen to examine forms of government for the impending union of the states. Among the proposals was that from the State of Virginia, written by Thomas Jefferson, urging a limitation of tenure, "to prevent every danger which might arise to American freedom by continuing too long in office the members of the Continental Congress.."[REF The lack of mandatory limits to tenure is regarded as a dangerous defect
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4cb9d8cefffa736250592dd4d9f7e321a91f9ce3bb77ebe3da622d19e5865a5
+size 481

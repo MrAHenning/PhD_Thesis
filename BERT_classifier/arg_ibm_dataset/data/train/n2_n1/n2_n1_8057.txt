@@ -1,1 +1,3 @@
-Iran and many other nations without nuclear weapons have said that the present situation whereby Nuclear Weapon States monopolise the right to possess nuclear weapons is "highly discriminatory the present situation whereby Nuclear Weapon States monopolise the right to possess nuclear weapons is "highly discriminatory
+version https://git-lfs.github.com/spec/v1
+oid sha256:262e910ca4dc2d9558e2988e61354eadf2bbaf135d0bdfc79d97257a58e13b1d
+size 318

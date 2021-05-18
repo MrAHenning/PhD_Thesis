@@ -1,1 +1,3 @@
-According to a study by an international team of researchers, people under 40 are five times more likely to have a heart attack if they smoke [REF Tobacco is the single greatest cause of preventable death globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:a35065ccf21c3d71d83c74da1d73b34c8dc1c535b496526b150cbed7c1c4e99b
+size 213

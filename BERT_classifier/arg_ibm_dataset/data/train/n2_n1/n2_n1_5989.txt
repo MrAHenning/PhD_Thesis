@@ -1,1 +1,3 @@
-Mexican drug cartels and their Colombian suppliers generate, launder and remove $18 billion to $39 billion from the United States each year,[REF The root cause of the problem is U.S. demand
+version https://git-lfs.github.com/spec/v1
+oid sha256:35ebb731b197cb6a2c20306f6e015ed3b753e9dd52bc51b8938ce96e44a60fcf
+size 189

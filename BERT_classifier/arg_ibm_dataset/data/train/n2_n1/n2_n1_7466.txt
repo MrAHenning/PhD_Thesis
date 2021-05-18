@@ -1,1 +1,3 @@
-The British Medical Association (BMA) states that "it is now widely accepted, including by the BMA, that this surgical procedure has medical and psychological risks."[REF circumcision may result in psychological harm
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab407e4b7f158eb3dc6230c7f6f36338965eb524fa1a7e05cf39b5d264d64d3f
+size 216

@@ -1,1 +1,3 @@
-The most important way to deal with cultural influence in any nation, according to Rothkopf, is to promote tolerance and allow, or even promote, cultural diversities that are compatible with tolerance and to eliminate those cultural differences that cause violent conflict The greater public good warrants eliminating those cultural characteristics that promote conflict or prevent harmony
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3f13d1ede02f1c5e7a5512365aac8c765518ddaec9c404677e68a374bba39bb
+size 389

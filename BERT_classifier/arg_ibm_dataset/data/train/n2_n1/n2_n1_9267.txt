@@ -1,1 +1,3 @@
-In 2008, Utah and Boise State both went undefeated. However, the BCS rules only provide for one automatic at-large BCS berth from teams in the non-AQ conferences. Therefore, a two-loss Ohio State team was chosen over Boise State for the Fiesta Bowl, and Boise State ended up outside of the BCS games Unfair competition is inherent in the structure of the BCS
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ed543cd3615388dbc51c3ab7cadc98b792ae47dd0b0566822f8890e92f55065
+size 358

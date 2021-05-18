@@ -1,1 +1,3 @@
-in 1931, gambling was legalized throughout the state of Nevada, along with Las Vegas and Reno gambling in some form or another has been seen in almost every society in history
+version https://git-lfs.github.com/spec/v1
+oid sha256:154f4af5399dcbd2e421e8e50fbcd365dccb0b46c428b895a7a48eba181237d3
+size 175

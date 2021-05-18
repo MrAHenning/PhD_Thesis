@@ -1,1 +1,3 @@
-Classical economics, neoclassical economics and the Austrian School of economics argue that market mechanisms are reliable means of resolving unemployment. These theories argue against interventions imposed on the labour market from the outside, such as unionization, minimum wage laws, taxes, and other regulations that they claim discourage the hiring of workers unemployment increases the more the government intervenes into the economy to try to improve the conditions of those without jobs
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d3de97998b874c5a6c53ac059a545782d60f2ad9237e01af973b321e318185c
+size 494

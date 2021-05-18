@@ -1,1 +1,3 @@
-Pope Paul VI reaffirmed the Church's position in his 1968 encyclical Humanae Vitae (Human Life). In this encyclical, the Pope acknowledges the realities of modern life, scientific advances, as well as the questions and challenges these raise. Furthermore, he explains that the purpose of intercourse is both "unitive and procreative", that is to say it strengthens the relationship of the husband and wife as well as offering the chance of creating new life intercourse must at once be both the renewal of the consummation of marriage and open to procreation
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a7ca8da6a267e9c260e8d5bbd7a0b47d81ac4321d9d3421cf418f880c501464
+size 558

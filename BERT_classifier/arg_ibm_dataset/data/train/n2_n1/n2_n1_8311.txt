@@ -1,1 +1,3 @@
-At least 230 Palestinians were killed and more than 700 injured on the first day of air strikes. Civilians, including children, were among the casualties [REF]. Human rights groups critically note that the attacks began around the time children were leaving school [REF During Operation Cast Lead, the Israeli Defense Forces did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:5458b2575eef63a5dff9e8f2c405bfa5b9388f7f9e117d89c407a6bbea53abbb
+size 433

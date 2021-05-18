@@ -1,1 +1,3 @@
-Some copyright scholars believe that, regardless of contemporary advances in technology, copyright remains the fundamental way by which authors, sculptors, artists, musicians and others can fund the creation of new works, and that without a significant period of legal protection of their future income, many valuable books and artworks would not be created [REF Intellectual property is viewed as a necessary way of incentivising the creation of new creative works
+version https://git-lfs.github.com/spec/v1
+oid sha256:95414ec9070245ba986fe540d2df6fb4125e889c847adf4d2969637bf972f381
+size 465

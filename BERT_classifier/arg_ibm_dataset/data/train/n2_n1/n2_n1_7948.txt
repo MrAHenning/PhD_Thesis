@@ -1,1 +1,3 @@
-In 1940, Congress enacted the Smith Act, making it illegal to advocate "the propriety of overthrowing or destroying any government in the United States by force and violence."[REF liberty of expression 'is not absolute
+version https://git-lfs.github.com/spec/v1
+oid sha256:6047e3cabee517959ae1f2d8878ad86906398a67adbc5e09f861acbdeffed795
+size 218

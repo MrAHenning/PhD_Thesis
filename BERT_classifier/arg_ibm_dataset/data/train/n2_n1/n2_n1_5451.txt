@@ -1,1 +1,3 @@
-most White Americans supported principles of equality for Black Americans Racial prejudice and discrimination no longer exists
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffe6ff510689ce718b738d4cd91164f8f8480c153025b5cdd5691269a306fce1
+size 126

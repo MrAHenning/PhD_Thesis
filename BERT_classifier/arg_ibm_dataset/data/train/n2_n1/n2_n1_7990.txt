@@ -1,1 +1,3 @@
-Most economists have argued that unemployment increases the more the government intervenes into the economy to try to improve the conditions of those without jobs unemployment increases the more the government intervenes into the economy to try to improve the conditions of those without jobs
+version https://git-lfs.github.com/spec/v1
+oid sha256:cafed37d33b159258d01f0d443f059a8431c311043286ba964547200f45ccb4f
+size 292

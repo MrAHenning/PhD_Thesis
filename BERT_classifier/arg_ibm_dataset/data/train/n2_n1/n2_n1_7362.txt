@@ -1,1 +1,3 @@
-Research has found "a dramatic relationship" between sexual activity among adolescents and "multiple indicators of adolescent mental health. Compared to abstainers, membership in any of the risk clusters was associated with increased odds of depression, serious thoughts about suicide, and suicide attempts."[REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:a66cd9343451e85d3198959af99a668e2b789472c155d458ba42a637da216f3a
+size 412

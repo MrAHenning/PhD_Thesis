@@ -1,1 +1,3 @@
-Opponents of affirmative action such as George Sher believe that affirmative action devalues the accomplishments of people who are chosen based on the social group to which they belong rather than their qualifications [REF affirmative action devalues the accomplishments of people who are chosen based on the social group to which they belong rather than their qualifications
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2a516adc0e6c80eafb516c0b59e145d19c6beb1da7cf6ed77b4faffbeece273
+size 375

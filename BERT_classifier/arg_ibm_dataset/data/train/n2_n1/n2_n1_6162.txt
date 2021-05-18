@@ -1,1 +1,3 @@
-Lucretius, like Epicurus, felt that religion was born of fear and ignorance religion was born of fear and ignorance
+version https://git-lfs.github.com/spec/v1
+oid sha256:df8b9e60d18238ba06ecac570e22ffa68f8b8ad326b1bc16170ba485bd6f0ffe
+size 115

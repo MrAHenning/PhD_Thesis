@@ -1,1 +1,3 @@
-If schools are open for longer the operating and maintenance costs may increase up to 10 percent [REF]. These costs may add up and in turn interfere with budgets for other programs that are already struggling with funding such as the arts, sports and other extra-curricular activities that are state funded If schools are open for longer the operating and maintenance costs may increase
+version https://git-lfs.github.com/spec/v1
+oid sha256:35bfeec926873e6f622a396b4fcfacce83476324fc16d47702acfe7cd9f46a33
+size 386

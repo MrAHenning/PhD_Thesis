@@ -1,1 +1,3 @@
-Most business in Southern Israel stopped upon orders of the Home Front Command, with retailers losing an estimated $7 million in the first week alone. Numerous small businesses suffered in decreased sales, and were unable to pay employee salaries due to low revenues [REF]. Major industries remained open, but suffered heavy absence rates [REF]. The Manufacturers Association of Israel estimated the direct cost to business and industry to be 88 million NIS, and indirect financial losses at several tens of millions of shekels [REF life in much of southern Israel was paralyzed by Hamas rocket and mortar fire
+version https://git-lfs.github.com/spec/v1
+oid sha256:0652a5d569b4e95a8f53662d859f00d663d9c5f2f411a0242e8258fe3579bd16
+size 610

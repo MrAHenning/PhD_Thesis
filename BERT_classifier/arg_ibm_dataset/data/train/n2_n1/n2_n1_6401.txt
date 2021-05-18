@@ -1,1 +1,3 @@
-An empirical evidence that illustrates this point is shown by the Reality of Aid 2000 publication (Earthscan publication 2000,p.&nbsp;81) in their section of US Aid that "71.6% of US bilateral aid commitments were tied to the purchase of goods and services from the Us".This conditionality completely ignores the objective of aid to finance development because the prescribed purchase of goods and services from the US will be more expensive than the locally available alternatives.This strategy in effect ensures that the US gets back its money into its economy in many instances, aid is conditionally tied due to political motives, rather than notions of proper policy and implementation
+version https://git-lfs.github.com/spec/v1
+oid sha256:b60abda612e8ab96efb9849fd69aeba7c2e3df48cbc0a50899a80b04f9c92b40
+size 689

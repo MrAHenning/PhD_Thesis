@@ -1,1 +1,3 @@
-Canadian Daniel Stoffman's book "Who Gets In" questions the policy of Canadian multiculturalism. Stoffman points out that many cultural practices, such as allowing dog meat to be served in restaurants and street cockfighting, are simply incompatible with Canadian and Western culture [REF]. He also raises concern about the number of recent immigrants who are not being linguistically integrated into Canada (i.e., not learning either English or French) [REF]. He stresses that multiculturalism works better in theory than in practice multiculturalism works better in theory than in practice
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a7a01190cee521fb46e2bdd2e852d3291a336677f11981d5e2e2a2ffba5ed45
+size 591

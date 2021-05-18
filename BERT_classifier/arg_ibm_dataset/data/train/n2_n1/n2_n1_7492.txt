@@ -1,1 +1,3 @@
-Viens argues that, in a cultural or religious context, circumcision is of significant enough importance that parental consent is sufficient and that there is "an absence of sufficient evidence or persuasive argumentation" to support changing the present policy [REF in a cultural or religious context, circumcision is of significant enough importance that parental consent is sufficient
+version https://git-lfs.github.com/spec/v1
+oid sha256:20f5bcae307dba3f1ef1a627dd01b013d1fd7db647eeca6edd7a2f9a8302b42d
+size 386

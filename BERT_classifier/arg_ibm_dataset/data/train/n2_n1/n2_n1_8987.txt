@@ -1,1 +1,3 @@
-Khaled Diab argues that Muslims cannot impose their own values on people of other faiths. Freedom of expression should permit people to express whatever opinions they have, even if they are offensive, he argues The right to freedom of thought and expression, sanctioned by the Declaration of the Rights of Man, cannot imply the right to offend the religious sentiment of believers
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb82f391fc2f875216099e54d7362f3402e36db478cc298be6853a430737bb79
+size 380

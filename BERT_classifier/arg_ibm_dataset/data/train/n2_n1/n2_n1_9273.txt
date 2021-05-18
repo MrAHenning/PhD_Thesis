@@ -1,1 +1,3 @@
-In another controversial season, Nebraska was chosen as a national title game participant despite being ranked #4 in both human polls and not winning their conference. The Huskers went into their last regularly scheduled game at Colorado undefeated, but left Boulder with a 62&ndash;36 loss. The Buffaloes went on to win the Big 12 championship. However, the BCS computers did not take into account time of loss, so one-loss Nebraska came out ahead of two-loss Colorado and one-loss Oregon, the consensus #2 in both human polls (but 4th in the BCS the BCS routinely involves controversy about which two teams are the best in the nation
+version https://git-lfs.github.com/spec/v1
+oid sha256:f708c94441db48b53dbae4bad8088c458f0d4b06cfb493a3a9d821f2e3533ca8
+size 635

@@ -1,1 +1,3 @@
-In acknowledging the history of anti-Israel bias of the UN Human Rights Council, Goldstone added: "That comparatively few Israelis have been killed by the unlawful rocket and mortar attacks from Gaza in no way minimizes the criminality. The U.N. Human Rights Council should condemn these heinous acts in the strongest terms Palestinian armed groups committed war crimes and possibly crimes against humanity
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a052804dbf7fb1c80c073aadb1f13b80d55d85cf58bb112a3318593e5e5fc83
+size 406

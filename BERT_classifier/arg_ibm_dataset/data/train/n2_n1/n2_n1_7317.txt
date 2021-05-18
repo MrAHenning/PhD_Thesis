@@ -1,1 +1,3 @@
-Abstinence-only education has been criticized in official statements by the American Psychological Association,[REF] the American Medical Association,[REF] the National Association of School Psychologists,[REF] the Society for Adolescent Medicine,[REF] the American College Health Association,[REF] the American Academy of Pediatrics,[REF] and the American Public Health Association,[REF] which all maintain that sex education needs to be comprehensive to be effective sex education needs to be comprehensive to be effective
+version https://git-lfs.github.com/spec/v1
+oid sha256:03fb9237443b3670cd3a7447e0e796221f9a8ecbc3357fa60adb91ef4b840688
+size 524

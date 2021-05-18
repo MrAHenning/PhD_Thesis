@@ -1,1 +1,3 @@
-Höffner compared the economic effects copyright law had on authors and publishing in the United Kingdom to those in Germany in the first part of the nineteenth century when in Germany such laws had not been instituted, and found that more books were printed and read in Germany where authors, in general, also made more money [REF copyright has never been of net benefit to society
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcbeadab7abbf8ac9f2b0acfff9db2ca85239f5b26aef21400bfea684c08daf7
+size 382

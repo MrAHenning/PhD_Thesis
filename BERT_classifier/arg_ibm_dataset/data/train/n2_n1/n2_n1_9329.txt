@@ -1,1 +1,3 @@
-Many studies have found a strong correlation between a lack of supervision and offending, and it appears to be the most important family influence on offending[REF][REF causes of crime lie within the individual offender, rather than in their external environment
+version https://git-lfs.github.com/spec/v1
+oid sha256:28fb794a17ccfb84da6bc78ecf96124eaad7d3109c8928fd2895a0e2310a1e4f
+size 262

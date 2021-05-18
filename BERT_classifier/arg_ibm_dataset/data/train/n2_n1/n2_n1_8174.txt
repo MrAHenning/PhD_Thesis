@@ -1,1 +1,3 @@
-Shelley Berkley of Nevada and Eliot Engel of New York wrote in a joint statement: "Israel took every reasonable step to avoid civilian casualties .. It is ridiculous to claim that Israel did not take appropriate actions to protect civilian populations" [REF The government of Israel had a policy of deliberately targeting civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:0682cb986e89f295abd6a7f98d2bcd3487690f8d693f951242f108b9b831dcd1
+size 331

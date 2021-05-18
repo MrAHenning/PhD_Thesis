@@ -1,1 +1,3 @@
-Taylor states that:[REF][REF] .   Humans are members of a community of life along with all other species, and on equal terms.  This community consists of a system of interdependence between all members, both physically, and in terms of relationships with other species  Every organism is a "teleological centre of life", that is, each organism has a purpose and a reason for being, which is inherently "good" or "valuable each organism has a purpose and a reason for being
+version https://git-lfs.github.com/spec/v1
+oid sha256:f18a1ddfd4dfcbee5964df962207758d2a0e316d3d9516fa5d8115bc6ab65c11
+size 472

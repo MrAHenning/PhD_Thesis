@@ -1,1 +1,3 @@
-government agencies, including the Government Accountability Office and the National Drug Intelligence Center, have estimated that Mexico's cartels earn upwards of $23 billion per year in illicit drug revenue from the United States [REF The root cause of the problem is U.S. demand
+version https://git-lfs.github.com/spec/v1
+oid sha256:35dd9e450403574746f78785494e8133a4a7de7866bb5d0c659d299d6a31fee8
+size 281

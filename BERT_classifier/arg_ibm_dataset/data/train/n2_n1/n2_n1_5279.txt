@@ -1,1 +1,3 @@
-Studies have shown that exercising in middle age leads to better physical ability later in life [REF Physical exercise is important for maintaining physical fitness
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc4505596b604faa7b6bab2473eeb3ceb6959296136231ef5244358acc3aa302
+size 164

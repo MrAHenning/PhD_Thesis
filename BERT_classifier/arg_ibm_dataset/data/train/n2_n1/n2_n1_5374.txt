@@ -1,1 +1,3 @@
-John Roemer who used the term nondiscrimination principle to mean that "all individuals who possess the attributes relevant for the performance of the duties of the position in question be included in the pool of eligible candidates, and that an individual's possible occupancy of the position be judged only with respect to those relevant attributes."[REF race and sex shouldn't matter when getting a job
+version https://git-lfs.github.com/spec/v1
+oid sha256:69511dcbb6b0e47e6689368a79d1b6e669dccfb7832df5169b939a81a4da1717
+size 405

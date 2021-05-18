@@ -1,1 +1,3 @@
-In the Netherlands, the Royal Dutch Medical Association (KNMG) stated in 2010 that non-therapeutic male circumcision "conflicts with the child's right to autonomy and physical integrity." They called on doctors to inform caregivers seeking the intervention of the (in their assessment) medical and psychological risks and lack of convincing medical benefits this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f91394d01812f3224e3079ba0255fa805dc4020f1263ede4b4a1a43b2a050f5
+size 417

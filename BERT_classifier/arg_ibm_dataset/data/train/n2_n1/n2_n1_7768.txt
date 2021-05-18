@@ -1,1 +1,3 @@
-Early 20th century experiments by the American military concluded that providing condoms to soldiers significantly lowered rates of sexually transmitted diseases [REF Condoms are widely recommended for the prevention of sexually transmitted diseases
+version https://git-lfs.github.com/spec/v1
+oid sha256:80690b6f0ca7f2e5e2766252e951f23e0f4b353101b0b231a235f91150c5573e
+size 249

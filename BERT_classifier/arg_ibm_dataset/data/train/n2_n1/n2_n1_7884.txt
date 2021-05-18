@@ -1,1 +1,3 @@
-According to the results of a 50 year study of 34,486 male British doctors, at least half of all life-long smokers die earlier as a result of smoking [REF Tobacco is the single greatest cause of preventable death globally
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c9bc106c0f738b7dd92aed00914b98b22bbb8ae3454f10e74705ce81a967198
+size 221

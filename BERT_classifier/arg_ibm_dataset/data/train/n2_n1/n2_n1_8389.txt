@@ -1,1 +1,3 @@
-In July 2009, the Israeli NGO Breaking the Silence published testimony from 26 soldiers (two junior officers and the rest is enlisted personnel) who took part in the Gaza assault and which claimed that the IDF used Gazans as human shields, improperly fired incendiary white phosphorus shells over civilian areas and used overwhelming firepower that caused needless deaths and destruction [REF Israel targeted Palestinian civilians as a matter of policy
+version https://git-lfs.github.com/spec/v1
+oid sha256:206dd4ca068687063088226a67b7b3bd043db79bd577e5d983d9c2d40ef002a8
+size 452

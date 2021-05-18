@@ -1,1 +1,3 @@
-The World Health Organization said that 34 health facilities (8 hospitals and 26  primary health care clinics) were damaged over the course of the offensive the livelihoods and assets of tens of thousands of Gaza civilians have been affected
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2fd4ac65eeaace82fb417ad8640b5410dbb8b762fa5df9c1cb1143295fa559
+size 241

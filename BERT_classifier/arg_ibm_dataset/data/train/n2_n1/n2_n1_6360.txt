@@ -1,1 +1,3 @@
-A notable example of this is US aid to fund HIV/AIDS treatment in Africa. According to Thalif Deen's [REF] Tied Aid Strangling Nations,Washington conditioned African governments to purchase anti- HIV/AIDS drugs only from American companies which costs $15,000 annually to a patient who lives below a $1.00 a day compared to purchasing South African made generic drugs that would cost $350 annually. This ultimately makes the poor country worse off Aid to underdeveloped countries has sometimes been criticized as being more in the interest of the donor than the recipient
+version https://git-lfs.github.com/spec/v1
+oid sha256:781e87b0388e32bdc60b296fbb7d70226b2a94637ccaf47051725f7e87659a90
+size 571

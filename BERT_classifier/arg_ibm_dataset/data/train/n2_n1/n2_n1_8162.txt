@@ -1,1 +1,3 @@
-Moreover, Amnesty accused Israel of using civilians, including children, as human shields in Gaza, forcing them to remain in houses which its troops were using as military positions, and to inspect sites suspected of being booby trapped [REF during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e6296c10ad5775b81c0a1583ca43e6562c0d80c45fb13a016b53f6ee39dfcfa
+size 386

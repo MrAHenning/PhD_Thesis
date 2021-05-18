@@ -1,1 +1,3 @@
-Sociological positivism suggests that societal factors such as poverty, membership of subcultures, or low levels of education can predispose people to crime crime rates are associated with poverty
+version https://git-lfs.github.com/spec/v1
+oid sha256:d70b74584de0a08ab161a0de9db38a6f350e25473b4ace5901fbda9e09e14f0b
+size 196

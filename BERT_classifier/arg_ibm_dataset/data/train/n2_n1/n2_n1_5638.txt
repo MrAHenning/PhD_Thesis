@@ -1,1 +1,3 @@
-In a 2004 report by the US Department of Justice, researchers interviewed people who had been arrested in Las Vegas and Des Moines and found that the percentage of problem or pathological gamblers among the arrestees was three to five times higher than in the general population [REF One area of controversy surrounding casinos is their relationship to crime rates
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a41d9edd43b53d6e68961e0dce627266f8c29b4901ef44129d661673d82aa1d
+size 364

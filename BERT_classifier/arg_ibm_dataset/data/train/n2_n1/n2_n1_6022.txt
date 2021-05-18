@@ -1,1 +1,3 @@
-In seeking partnership with the United States, Mexican officials point out that the illicit drug trade is a shared problem in need of a shared solution, and remark that most of the financing for the Mexican traffickers comes from American drug consumers most of the financing for the Mexican traffickers comes from American drug consumers
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d30fd7ea47024009e6f8d37e7038ae28e8cfcdfd81e60e4bf81f9896e2c4fc3
+size 338

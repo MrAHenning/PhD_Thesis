@@ -1,1 +1,3 @@
-Boyle et al. suggest that "As we enter the 21st century, appropriate legal action must be taken to safeguard the physical genital integrity of male children."[REF the unnecessary removal of a functioning body organ in the name of tradition, custom or any other non-disease related cause should never be acceptable
+version https://git-lfs.github.com/spec/v1
+oid sha256:49decf7865b5e0ecd401f237fd2d2d958495bf9a59e6dd7387b72f58e32a9e25
+size 313

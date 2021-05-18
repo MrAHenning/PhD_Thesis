@@ -1,1 +1,3 @@
-According to Ravi Batra's book, The Myth of Free Trade, open trade in the US has resulted in replacement of manufacturing jobs for service jobs, which pay less on average Individuals can be made worse off by an opening of trade
+version https://git-lfs.github.com/spec/v1
+oid sha256:1511fbea8c9e47d05b596c401a3890ab37f1915a6c47ffc4209ca552f1d98144
+size 227

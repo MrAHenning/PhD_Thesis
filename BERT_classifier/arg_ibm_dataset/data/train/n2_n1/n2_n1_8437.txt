@@ -1,1 +1,3 @@
-Norway's Foreign Minister Jonas Gahr Støre has said that using warplanes against Gaza is unacceptable, as it is impossible to separate civilians from soldiers in this small area Israel's actions on the Gaza Strip must be characterised as war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:feee27f4918b89b751a214f2492610706c0d00ce335522caf85446daf538c8a8
+size 249

@@ -1,1 +1,3 @@
-Spanish Foreign Minister Miguel Ángel Moratinos "expressed his firm condemnation of the irresponsible provocation on the part of Hamas in launching rocket attacks it was Hamas that broke the truce
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbc42eb36d2178528fa44934ae427c3ecc90ffa3531b9f683f1c76e8052420b9
+size 197

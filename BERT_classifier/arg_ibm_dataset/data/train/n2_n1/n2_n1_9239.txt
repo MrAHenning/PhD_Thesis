@@ -1,1 +1,3 @@
-1931 Stromberg v. California (283 U.S. 359) – The Supreme Court found that a State statute prohibiting the display of a "red flag" as a sign of opposition to organized government unconstitutionally infringed on the defendant's First Amendment rights. Stromberg represented the Court's first declaration that "symbolic speech" was protected by the First Amendment Symbolic speech is protected by the First Amendment
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ccb07cf64522d6a0fe46af47d9e6126f0f88d596849633e17b5d40c8147f0a
+size 416

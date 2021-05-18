@@ -1,1 +1,3 @@
-On January 11, the Permanent Representative of Pakistan to the UN, Hussain Haroon, called for an immediate ceasefire and calm. He criticised Israel saying the unrestrained use of force, scale of destruction, killing of innocent civilians, including women and children, the violation of UN safe havens, and the collective punishment of an entire people were blatant breaches of international law. He said that those act, in their totality, constituted war crimes and crimes against humanity Israel's bombardment of Gaza "bears all the hallmarks of war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c471c0ac55a5c2ae7af46bdd18193b65aeede5fce4fb856bfd823ff892c249c
+size 557

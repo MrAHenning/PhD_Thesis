@@ -1,1 +1,3 @@
-According to Blainey, such a policy, with its "emphasis on what is different and on the rights of the new minority rather than the old majority," was unnecessarily creating division and threatened national cohesion. He argued that "the evidence is clear that many multicultural societies have failed and that the human cost of the failure has been high Multiculturalism is a perilous concept on which to found policy
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aefc761b903cf534fdf11f34972e6c7355d264e139bbd1c9d9e3a76ab6f57c3
+size 416

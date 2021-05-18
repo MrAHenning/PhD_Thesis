@@ -1,1 +1,3 @@
-Most biologists and sociologists see overpopulation as a serious threat to the quality of human life [REF rapid population growth damages the Earth's resources and diminishes human well-being
+version https://git-lfs.github.com/spec/v1
+oid sha256:94523387931e7b5afff7590ff43bd6176617fb142a5b88408c33405a264aa480
+size 191

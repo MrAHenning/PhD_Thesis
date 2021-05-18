@@ -1,1 +1,3 @@
-British conservative scholar R. J. White rejects egalitarianism, stating: "Men are equal before God and the laws, but unequal in all else; hierarchy is the order of nature, and privilege is the reward of honourable service" [REF Social traditions or hierarchies are essential for social order
+version https://git-lfs.github.com/spec/v1
+oid sha256:54664463ee1f7f7d61b6f9d47eee9e949f2c80402f9e81017938d9685d876f29
+size 292

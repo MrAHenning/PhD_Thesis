@@ -1,1 +1,3 @@
-A 2008 study by the CDC found that one in four teen girls, or an estimated 3 million girls, has an STI [REF Adolescents who begin having sexual intercourse need to understand the importance of using an effective contraceptive every time they have sex
+version https://git-lfs.github.com/spec/v1
+oid sha256:be7abc05c3a990753afbb7f9e0931662b21f261ca21680ab2c4733e0f3e44b9e
+size 250

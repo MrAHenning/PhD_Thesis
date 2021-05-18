@@ -1,1 +1,3 @@
-Praveen Attri claims genetic reasons to be largely responsible for social deviance some people are genetically predisposed to criminal behavior
+version https://git-lfs.github.com/spec/v1
+oid sha256:251b2d95ef4ad5b237d666f6622e9ace6b77db46a80ce04efb2714c6a9a97717
+size 143

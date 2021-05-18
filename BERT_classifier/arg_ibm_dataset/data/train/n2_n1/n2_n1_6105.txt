@@ -1,1 +1,3 @@
-denying the existence of a god leads to moral relativism, leaving one with no moral or ethical foundation,[REF] or renders life meaningless and miserable [REF]. Blaise Pascal argued this view in his Pensées [REF religions provide a net benefit to individuals and society
+version https://git-lfs.github.com/spec/v1
+oid sha256:65b0ecad8c41a65d5af48f32b166634d80577de83dd7956de165adcffc4041a2
+size 271

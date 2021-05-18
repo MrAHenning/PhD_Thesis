@@ -1,1 +1,3 @@
-The report disputes Israel's claim that the Gaza war would have been conducted as a response to rockets fired from the Gaza Strip, saying that at least in part the war was targeted against the "people of Gaza as a whole". Intimidation against the population was seen as an aim of the war. [REF the war was targeted against the "people of Gaza as a whole
+version https://git-lfs.github.com/spec/v1
+oid sha256:86774d114f8c0a97c3f2edb60535ded5e5c68d27ac145f6d70e898d120604586
+size 353

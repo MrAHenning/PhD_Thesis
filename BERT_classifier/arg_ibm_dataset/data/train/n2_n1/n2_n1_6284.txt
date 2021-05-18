@@ -1,1 +1,3 @@
-Religious scholars, such as Brown, Tacelli, and Kreeft, argue that agnosticism does not take into account the numerous evidence of his existence that God has placed in his creation [REF]. And for this, Peter Kreeft and Ronald Tacelli cite 20 arguments for God’s existence [REF God, the beginning and end of all, can, by the natural light of human reason, be known with certainty from the works of creation
+version https://git-lfs.github.com/spec/v1
+oid sha256:6302e22dc9064f621813185c1cf8e332ab12a2d39893573a3bad94b689a69a9a
+size 407

@@ -1,1 +1,3 @@
-Strain theory is associated mainly with the work of Robert Merton. He felt that there are institutionalized paths to success in society. Strain theory holds that crime is caused by the difficulty those in poverty have in achieving socially valued goals by legitimate means [REF crime is caused by the difficulty those in poverty have in achieving socially valued goals by legitimate means
+version https://git-lfs.github.com/spec/v1
+oid sha256:93c7ff50a3c51909f6d35d82d5e3d36e13b3c1aec007bddccf935587709e2cef
+size 388

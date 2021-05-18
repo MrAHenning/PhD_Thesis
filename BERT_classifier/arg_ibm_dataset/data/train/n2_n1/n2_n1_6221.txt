@@ -1,1 +1,3 @@
-According to Dawkins, faith − belief that is not based on evidence − is one of the world's great evils. He claims it to be analogous to the smallpox virus, though more difficult to eradicate [REF faith − belief that is not based on evidence − is one of the world's great evils
+version https://git-lfs.github.com/spec/v1
+oid sha256:99b1c284ffd42ee80917e4a6b7c757dc0668c568a0f76ab0bf76b23b6cbea477
+size 284

@@ -1,1 +1,3 @@
-According to a 2009 Amnesty International report, Scores [of rockets] have struck homes, businesses, schools, other public buildings and vehicles in and around towns and villages in southern Israel Life in the south under rocket barrages had become unbearable
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8fe69c048b8962e8a8dc0754ab3d4d3a02830e67ef0af11c4768422d7d3b607
+size 259

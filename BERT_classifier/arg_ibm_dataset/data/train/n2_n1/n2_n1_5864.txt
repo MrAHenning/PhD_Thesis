@@ -1,1 +1,3 @@
-Traditional sources, such as the Buddhist monastic code, hold that life begins at conception and that abortion, which would then involve the deliberate destruction of life, should be rejected [REF Abortion, which would involve the deliberate destruction of life, should be rejected
+version https://git-lfs.github.com/spec/v1
+oid sha256:75bc6fae2cce02a9817ff90e7d9b1044f7a766e466010882c0a7322d52b55664
+size 281

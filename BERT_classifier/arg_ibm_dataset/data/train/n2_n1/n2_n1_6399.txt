@@ -1,1 +1,3 @@
-Dollar/Collier showed that current allocations of aid are allocated inefficiently. They came to the conclusion that aid money is given in many cases as an incentive to change policy, and for political reasons, which in many cases can be less efficient than the optimal condition in many instances, aid is conditionally tied due to political motives, rather than notions of proper policy and implementation
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce3a984a47cb3f71ccde0144faa2a939f8c09d503dc30b3d48cad1fba1531ae2
+size 405

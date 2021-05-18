@@ -1,1 +1,3 @@
-In a January 2007 article in the Wall Street Journal, veteran cold-war policy makers Henry Kissinger, Bill Perry, George Shultz and Sam Nunn reversed their previous position and asserted that far from making the world safer, nuclear weapons had become a source of extreme risk [REF Nuclear weapons have become a source of extreme risk
+version https://git-lfs.github.com/spec/v1
+oid sha256:07d082e3c84c0490b856f75ecc28c7736a4a9e5e9979234c08469bba551f372a
+size 334

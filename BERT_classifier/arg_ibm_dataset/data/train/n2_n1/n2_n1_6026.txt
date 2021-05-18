@@ -1,1 +1,3 @@
-Since 1996, the ATF has traced more than 62,000 firearms smuggled into Mexico from the United States [REF firearms recovered in Mexico came from U.S. gun dealers
+version https://git-lfs.github.com/spec/v1
+oid sha256:be58360e33fb2aa51d3753dff26710b2a335b8a175b87134a4c0e76f5d600c58
+size 161

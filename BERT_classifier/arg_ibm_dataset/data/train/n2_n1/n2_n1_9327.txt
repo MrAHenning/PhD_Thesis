@@ -1,1 +1,3 @@
-The two largest predictors of juvenile delinquency are parenting style, particularly low parental monitoring, meaning parents don’t know for one reason or another what the child is doing and the child is often unsupervised, and peer groups, particularly associating with antisocial peer groups, which tends to happen when adolescents are left unsupervised[REF causes of crime lie within the individual offender, rather than in their external environment
+version https://git-lfs.github.com/spec/v1
+oid sha256:302ee07cdae6a4a98f4e1f63d7a281e9c608c8bdc1f65f8a6202e931d7e8f9ab
+size 455

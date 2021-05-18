@@ -1,1 +1,3 @@
-In June 2009, former President Jimmy Carter met with Hamas leaders in Gaza for three hours. Before his meeting with former Palestinian Prime Minister Ismail Haniyeh and other Hamas officials, President Carter spoke forcefully against the economic blockade of Gaza. "The responsibility for this terrible human rights crime lies in Jerusalem, Cairo, Washington, and throughout the international community. This abuse must cease the blockade on Gaza is neither sustainable nor tenable in its present form
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b49cd2b36012755d6c24538cc6482a81599b979142dd4be49ebd3d2ce9e0eb0
+size 501

@@ -1,1 +1,3 @@
-Ginsburg stated plainly that a state could not force physicians to use procedures other than what they felt in their own judgment to be the safest, that this was part of the "life and liberty" protected under the Constitution A state law banning certain forms of abortion is unconstitutional
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78ef71ecb25297613762828b3e611e1c4b012b15400b3881c21345fa31ffdc1
+size 291

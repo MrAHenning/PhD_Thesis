@@ -1,1 +1,3 @@
-This question would remain open until 1989, when in Texas v. Johnson, 491 U.S. 397, the Court invalidated a flag-burning statute laws against flag-burning are constitutional
+version https://git-lfs.github.com/spec/v1
+oid sha256:15331fe19ce3805b4feee01ec95a3b25347fb012c2f9858918b7e724e461afd8
+size 173

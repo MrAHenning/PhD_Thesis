@@ -1,1 +1,3 @@
-Terence Kealey suggested it was dangerous to have a university funded by private equity It is dangerous to have a university funded by private equity
+version https://git-lfs.github.com/spec/v1
+oid sha256:37723ba68dd3a24ca25196ccf0900ec70ab8a87e1a80070577ff0e240fa2e0b0
+size 149

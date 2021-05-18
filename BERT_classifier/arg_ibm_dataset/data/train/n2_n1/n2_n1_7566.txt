@@ -1,1 +1,3 @@
-Some studies indicate that the foreskin and frenulum perform certain physiological functions among the men tested,[REF][REF] which would be destroyed by excision Circumcision is a net harm
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e875bba69078ad8466ccad983979fcd19e2a495c49091960cdd4f0c3f734fbf
+size 188

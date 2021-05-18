@@ -1,1 +1,3 @@
-a recent systematic review of 850 research papers on the topic concluded that "the majority of well-conducted studies found that higher levels of religious involvement are positively associated with indicators of psychological well-being (life satisfaction, happiness, positive affect, and higher morale) and with less depression, suicidal thoughts and behavior, drug/alcohol use/abuse."[REF religion is a positive civilizing influence on society
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf4e917fb02ad6f88cd4ae6a6de7f166732f28060dbc9c43615077b18987e077
+size 446

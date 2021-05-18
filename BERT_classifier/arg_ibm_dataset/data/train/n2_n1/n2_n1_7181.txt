@@ -1,1 +1,3 @@
-Anthony D'Amato, a professor of international law at Northwestern University School of Law, said the raid was illegal and that a legitimate blockade would have required a state of war between Israel and Hamas, which he said was not the case [REF The Gaza blockade is illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:d45d919f2f54e7fee84b19a00d241063d3025c05f5e26bfe4f781a29cd4404f1
+size 274

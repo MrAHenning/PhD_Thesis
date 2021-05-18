@@ -1,1 +1,3 @@
-Patrick Diamond and Anthony Giddens (professors of Economics and Sociology, respectively) hold that pure meritocracy is incoherent because, without redistribution, one generation's successful individuals would become the next generation's embedded caste, hoarding the wealth they had accumulated a certain amount of redistribution would be justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0db47dcc2ecbdc28b29102e6f0c2805c5f0fbb04a5398135ecb9562f3a82186
+size 349

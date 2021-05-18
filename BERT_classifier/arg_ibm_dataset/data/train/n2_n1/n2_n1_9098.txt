@@ -1,1 +1,3 @@
-Jean-Claude Pressac, who initially shared Faurisson's views, later became convinced of the Holocaust's evidence while investigating documents at Auschwitz in 1979 The way of fighting Holocaust deniers is with history and with truth
+version https://git-lfs.github.com/spec/v1
+oid sha256:d45174a99fe19bc9d08157dcff25b93e7cf7cd456fd115a43659eacd3d0b1b58
+size 231

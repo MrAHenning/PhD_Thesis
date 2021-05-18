@@ -1,1 +1,3 @@
-Chris Gunness from UNRWA criticised Israel's move to ease the blockade as not being adequate, saying that "Even if the blockade is eased it remains illegal under international law as it is a collective form of punishment on a civilian population The blockade is possibly a crime against humanity
+version https://git-lfs.github.com/spec/v1
+oid sha256:73b2fc06eaf08edb26438f78fa82eec3ae5b1d4e41980825eaf079da9eeb88d6
+size 295

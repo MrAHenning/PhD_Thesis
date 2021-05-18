@@ -1,1 +1,3 @@
-In 1995, two Marines and a sailor kidnapped and raped a 12-year-old girl, and, under the SOFA with the U.S., local police and prosecutors were unable to get access to the troops until they were able to prepare an indictment the military bases disrupt the lives of the Okinawan people
+version https://git-lfs.github.com/spec/v1
+oid sha256:31476d44200a066349aeb4728a2c3ab835c824585d745341cc3039a9fc65638d
+size 283

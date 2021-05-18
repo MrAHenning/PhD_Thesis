@@ -1,1 +1,3 @@
-Shelley Berkley of Nevada and Eliot Engel of New York wrote in a joint statement: "Israel took every reasonable step to avoid civilian casualties .. It is ridiculous to claim that Israel did not take appropriate actions to protect civilian populations" [REF Israel violated the Fourth Geneva Convention by targeting civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dc433330668b21e4f0f75b3842c09f25d7d90c3051e1e984f8a4dda90c0c8d1
+size 325

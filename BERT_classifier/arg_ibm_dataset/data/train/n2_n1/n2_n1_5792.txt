@@ -1,1 +1,3 @@
-Congress declared that collective bargaining is "in the public interest" because, among other things, it "contributes to the effective conduct of public business" and "facilitates and encourages the amicable settlements of disputes between employees and their employers involving conditions of employment Collective bargaining facilitates and encourages the amicable settlements of disputes between employees and their employers
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3151c213c833ac20ce493bd65356491fbc409a625bf2b081a0e62818c64d072
+size 428

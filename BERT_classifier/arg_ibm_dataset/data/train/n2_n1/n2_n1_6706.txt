@@ -1,1 +1,3 @@
-There were sporadic protests against military rule during the Ne Win years and these were almost always violently suppressed. On 7 July 1962, the government broke up demonstrations at Rangoon University, killing 15 students [REF]. In 1974, the military violently suppressed anti-government protests at the funeral of U Thant. Student protests in 1975, 1976 and 1977 were quickly suppressed by overwhelming force [REF the military regime in Burma is one of the world's most repressive and abusive regimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eabdf85567b0d3495c9b85c296446d6610d0be6c85cfb506bc08f40d03f82a3
+size 503

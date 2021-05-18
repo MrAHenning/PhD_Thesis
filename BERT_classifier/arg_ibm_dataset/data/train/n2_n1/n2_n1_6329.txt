@@ -1,1 +1,3 @@
-Burnside and Dollar provide empirical evidence that the impact of aid on GDP growth is positive and significant in developing countries with "sound" institutions and economic policies (i.e. open trade, fiscal and monetary discipline); but aid has less or no significant impact in countries with "poor" institutions and policies aid has less or no significant impact in countries with "poor" institutions and policies
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fba5ed92874e027c7bcac92d7232ac94d080b78a0db458a781ddd4745365a93
+size 416

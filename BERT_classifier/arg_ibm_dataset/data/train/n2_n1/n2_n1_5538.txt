@@ -1,1 +1,3 @@
-In October 2010, Angela Merkel told a meeting of younger members of her conservative Christian Democratic Union (CDU) party at Potsdam, near Berlin, that attempts to build a multicultural society in Germany had "utterly failed",[REF many multicultural societies have failed
+version https://git-lfs.github.com/spec/v1
+oid sha256:da563697773fdba9a89fa9751bcc14087ba1e4ebe60088055603581e0e99b88a
+size 273

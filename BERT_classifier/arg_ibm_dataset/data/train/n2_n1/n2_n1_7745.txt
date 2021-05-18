@@ -1,1 +1,3 @@
-It is estimated that a quarter of the endangered vertebrates in the United States of America and half of the endangered mammals is attributed to overexploitation [REF Sustained overexploitation can lead to the destruction of the resource
+version https://git-lfs.github.com/spec/v1
+oid sha256:58e781f084d4255f99bf23a135ba431a9d006065c8128cf2cb2c1814cc4d92c5
+size 237

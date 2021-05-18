@@ -1,1 +1,3 @@
-In France, the Gayssot Act, voted for on July 13, 1990, makes it illegal to question the existence of crimes that fall in the category of crimes against humanity as defined in the London Charter of 1945, on the basis of which Nazi leaders were convicted by the International Military Tribunal at Nuremberg in 1945-46. When the act was challenged by Robert Faurisson, the Human Rights Committee upheld it as a necessary means to counter possible antisemitism [REF Courts consider Holocaust denial a form of spreading hatred and therefore an offence
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7387a5a8340c99d291be97744f3fa650ecbbcc929c0297ee91c469716975623
+size 547

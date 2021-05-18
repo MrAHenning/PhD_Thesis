@@ -1,1 +1,3 @@
-Amnesty stated that some attacks on homes of Hamas leaders have killed dozens of civilians, even though it should have been apparent to Israeli forces that the target of attack was not likely to be present or that civilians were likely to be killed in the attack. AI asserted that such conduct may amount to disproportionate attacks, a type of indiscriminate attack, that “may be expected to cause incidental loss of civilian life, injury to civilians, damage to civilian objects, or a combination thereof, which would be excessive in relation to the concrete and direct military advantage anticipated” (Article 51(5b) of Additional Protocol I) [REF the Israeli soldiers at best failed to protect civilians, and at worst deliberately shot at them
+version https://git-lfs.github.com/spec/v1
+oid sha256:6398f8b426d66cabba87cdd642c4693ab35f043d4a227d8a18ebd6162089be63
+size 750

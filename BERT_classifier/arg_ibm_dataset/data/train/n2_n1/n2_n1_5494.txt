@@ -1,1 +1,3 @@
-In 2007, one study of amateur boxers showed that protective headgear did not prevent brain damage,[REF] and another found that amateur boxers faced a high risk of brain damage [REF Amateur boxers face a high risk of brain damage
+version https://git-lfs.github.com/spec/v1
+oid sha256:0084f008d3531b040a3dec06ab73c9efc77b7a4d6d8c26351dbb20d484c7e386
+size 228

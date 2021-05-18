@@ -1,1 +1,3 @@
-In January 2010, Lawrence M. Krauss stated that "no issue carries more importance to the long-term health and security of humanity than the effort to reduce, and perhaps one day, rid the world of nuclear weapons" [REF no issue carries more importance to the long-term health and security of humanity than the effort to reduce, and perhaps one day, rid the world of nuclear weapons
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d106f0152fe78238f5349805da315e29256ae6bd08c6b0b5770c4eeb7dcf18e
+size 380

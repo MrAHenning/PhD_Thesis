@@ -1,1 +1,3 @@
-In 1950 Jacob Viner showed that a trading bloc mutually lowering tariffs would produce gains not merely on the demand side but also on the supply side free trade will make society more prosperous
+version https://git-lfs.github.com/spec/v1
+oid sha256:130af005f7052c736d89c19ae05ea59ec4c3175fb4f99443504a71c4f2c22973
+size 195

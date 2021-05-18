@@ -1,1 +1,3 @@
-Predictions have been made that more than 40% of the animal and plant species in Southeast Asia could be wiped out in the 21st century [REF as the forest declines species diversity will decline
+version https://git-lfs.github.com/spec/v1
+oid sha256:23b63914c4c2332f6013f3028a34cf7495b373a20f15eb838742e08c1a5b6345
+size 193

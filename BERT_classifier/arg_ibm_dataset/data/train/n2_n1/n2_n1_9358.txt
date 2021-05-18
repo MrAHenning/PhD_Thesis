@@ -1,1 +1,3 @@
-Marxist criminology, views crime as a natural response to the inequality arising from the competition inherent in capitalist society [REF]. Sociologists and criminologists emphasizing this aspect of social conflict argue that, in a competitive society in which there is an inequality in the distribution of goods, those groups with limited or restricted access to goods will be more likely to turn to crime In those segments of the population which experience the greatest relative deprivation, there is readiness to turn to crime to overcome inequality and eliminate relative deprivation
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c61e2bdd2dcb3ff2726d3af9ab6009563c5a6353e2fbc2d8f6c16309a97d2b5
+size 588

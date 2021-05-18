@@ -1,1 +1,3 @@
-A 2011 note for the International Monetary Fund by Andrew G. Berg and Jonathan D. Ostry found a strong association between lower levels of inequality in developing countries and sustained periods of economic growth inequality is harmful for economic development
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e8869c81ae63cfa4590143046a0d6d8a87bdc68a043c4de1b892d30a86b3385
+size 261

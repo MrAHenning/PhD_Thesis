@@ -1,1 +1,3 @@
-Hammond asserts that every person has a right to a whole and intact body and that, where minors are concerned, "the unnecessary removal of a functioning body organ in the name of tradition, custom or any other non-disease related cause should never be acceptable to the health profession." He says that such interventions are violations of individual bodily rights and "a breach of fundamental medical ethics principles" [REF every person has a right to a whole and intact body
+version https://git-lfs.github.com/spec/v1
+oid sha256:07516df8f68f78e4a0e217778d638604ca7c364f03f469d0677c6e17d1f16fb3
+size 477

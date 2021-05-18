@@ -1,1 +1,3 @@
-The poll sponsored by the National Abstinence Education Association and conducted by Zogby International found that: .   When parents become aware of what abstinence education vs. comprehensive sex education actually teaches, support for abstinence programs jumps from 40% to 60%, while support for comprehensive programs drops from 50% to 30%. This sharp increase in support of abstinence education is seen across all political and economic groups. The majority of parents reject the so-called "comprehensive" sex education approach The majority of parents reject the so-called "comprehensive" sex education approach
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ee7dc6b0f2da03f8d585254a53fb35c3b09364b2d2d4741a310a1f80d6b13a8
+size 617

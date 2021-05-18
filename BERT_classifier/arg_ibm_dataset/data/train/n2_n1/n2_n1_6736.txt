@@ -1,1 +1,3 @@
-In its March 2010 report, the NRDC stated that "the Keystone XL Pipeline undermines the U.S. commitment to a clean energy economy," instead "delivering dirty fuel at high costs" [REF the Keystone XL Pipeline undermines the U.S. commitment to a clean energy economy
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dc0291306cc42da203545ecdf7eb5ed8306e7b9e43ab9f118860e7ec2c9b90e
+size 264

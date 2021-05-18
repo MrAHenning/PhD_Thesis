@@ -1,1 +1,3 @@
-In 1977, New Jersey legalized gambling in Atlantic City. The city rapidly grew into a significant tourist destination, revitalizing what was previously largely a run-down slum community. In 1979, the Seminole tribe opened the first reservation-based commercial gambling beginning a trend that would be followed by other reservations [REF]. Gradually, lotteries and some types of parimutuel betting were legalized in other areas of the country the majority of the states run some type of lottery to raise funds for state operations
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb2514fafb2cb521df2c94113fddbdf37c3758eaba6b1ba8acddb70c195f0277
+size 530

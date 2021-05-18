@@ -1,1 +1,3 @@
-The UK's Foreign and Commonwealth Office wrote that "We supported the EU statement, which condemned Hamas rocket attacks and described Israeli military action as disproportionate."[REF the reaction of the armed forces of Israel was condemned as "disproportional
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3730fb420d4ca5c2367ff408006f9c391e703a3966096646563fcd4caae2e9e
+size 261

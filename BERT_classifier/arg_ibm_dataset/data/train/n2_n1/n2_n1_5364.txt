@@ -1,1 +1,3 @@
-Bhikhu Parekh in 2000 in Rethinking Multiculturalism who wrote that "all citizens should enjoy equal opportunities to acquire the capacities and skills needed to function in society and to pursue their self-chosen goals equally effectively all people should be treated similarly
+version https://git-lfs.github.com/spec/v1
+oid sha256:12f3e44c0d5fc7347db57215a9dd6e0463e96cb40b8897c5a1c0e918be325ffb
+size 278

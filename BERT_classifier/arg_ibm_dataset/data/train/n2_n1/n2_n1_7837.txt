@@ -1,1 +1,3 @@
-Murray N. Rothbard argues that the history of the drive for compulsory schooling is not guided by altruism, but by a desire to coerce the population into a mold desired by the Establishment the history of the drive for compulsory schooling is not guided by altruism, but by a desire to coerce the population into a mold desired by the Establishment
+version https://git-lfs.github.com/spec/v1
+oid sha256:d94c9cf2cce49ad730e9acb35d6ddc75b124438ccbddf21cade0d8e9cc623d51
+size 348

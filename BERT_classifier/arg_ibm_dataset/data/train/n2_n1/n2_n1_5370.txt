@@ -1,1 +1,3 @@
-This sense was also expressed by economists Milton and Rose Friedman in their 1980 book Free to Choose [REF]. The Friedmans explained that equality of opportunity was "not to be interpreted literally" since some children are born blind while others are born sighted, but that "its real meaning is .. a career open to the talents."[REF] This means that there should be "no arbitrary obstacles" blocking a person from realizing their ambitions, and that "Not birth, nationality, color, religion, sex, nor any other irrelevant characteristic should determine the opportunities that are open to a person – only his abilities."[REF jobs should go to those “most qualified
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4d73f67e1e3c6c52b4648d3d986de38f5adb67755da219fab1696b5c51145ab
+size 670

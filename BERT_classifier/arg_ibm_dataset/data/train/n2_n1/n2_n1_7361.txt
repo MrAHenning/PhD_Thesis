@@ -1,1 +1,3 @@
-In a broad analysis of data from the National Longitudinal Study of Adolescent Health, researchers found that engaging in sex leaves adolescents, and especially girls, with higher levels of stress and depression [REF]. "Depression, anxiety and increased stress accompany the abuse of alcohol and drugs also observed in sexually promiscuous teens."[REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9273c7a372458b49b667731abb7e5a293222197bc1cf47459f3ade590ed3eac
+size 451

@@ -1,1 +1,3 @@
-During the House of Lords appeal Lord Scarman said that "I do not subscribe to the view that the common-law offence of blasphemous libel serves no useful purpose in modern law. (..) The offence belongs to a group of criminal offences designed to safeguard the internal tranquillity of the kingdom the common-law offence of blasphemous libel serves no useful purpose in modern law
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c70a9bb97fe0fc892f8e11956e95507d2bad7ca79d6b1a8ebc9a8f6db7eb345
+size 379

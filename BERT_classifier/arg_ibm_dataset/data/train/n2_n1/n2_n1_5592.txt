@@ -1,1 +1,3 @@
-Blainey wrote "For the millions of Australians who have no other nation to fall back upon, multiculturalism is almost an insult. It is divisive. It threatens social cohesion Multiculturalism creates friction within society
+version https://git-lfs.github.com/spec/v1
+oid sha256:c07cb5a7884634229ad76e1f8ed3492de2e3f79165d8658f804c22cbbaff43e6
+size 222

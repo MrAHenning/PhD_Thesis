@@ -1,1 +1,3 @@
-The Relief and Works Agency also said "we are shocked by reports of killings and injuries of people on board boats carrying supplies for Gaza, apparently in international waters. Such tragedies are entirely avoidable if Israel heeds the repeated calls of the international community to end its counterproductive and unacceptable blockade of Gaza [REF Peace and stability will not come to the region as long as the blockade of Gaza persists
+version https://git-lfs.github.com/spec/v1
+oid sha256:87ec3135854118f0dfa4165a6610fc4cc6095bbcb2d929d28b5723b3e7295d81
+size 439

@@ -1,1 +1,3 @@
-government deficits are inflationary. Anything other than mild or moderate inflation is generally accepted in economics to be a bad thing government should always run a balanced budget
+version https://git-lfs.github.com/spec/v1
+oid sha256:5687757560a0a38b48876fe4bb1a57ec6b53d022c56fc340116cae63581a2e28
+size 184

@@ -1,1 +1,3 @@
-The Supreme Court ruled that the 1937 Constitution had extinguished the common law offence, stating "It is difficult to see how the common law crime of blasphemy, related as it was to an established Church and an established religion could survive in .. a Constitution guaranteeing freedom of conscience, and the free profession and practice of religion."[REF there is no place for the offence of blasphemous libel in a society which respects freedom of speech
+version https://git-lfs.github.com/spec/v1
+oid sha256:138056595a81a7f4f85479d0688ca2511dbc4bd9b3c11821cc1e8b87f259f856
+size 460

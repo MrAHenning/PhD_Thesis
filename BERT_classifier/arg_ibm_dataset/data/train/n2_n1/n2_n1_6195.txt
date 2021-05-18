@@ -1,1 +1,3 @@
-scientists tried to stimulate the temporal lobes with a rotating magnetic field. Michael Persinger, from Laurentian University in Ontario, found that he could artificially create the experience of religious feelings in 80% of volunteers [REF religious belief is a delusion
+version https://git-lfs.github.com/spec/v1
+oid sha256:a11107e518aca18b5ef233a637f6e5633de9157fcb319c5cec5a2cdb451a5b9e
+size 272

@@ -1,1 +1,3 @@
-Paul Draper:  Gratuitous evils exist.  The hypothesis of indifference, i.e., that if there are supernatural beings they are indifferent to gratuitous evils, is a better explanation for (1) than theism.  Therefore, evidence prefers that no god, as commonly understood by theists, exists [REF God cannot exist with, or would want to prevent, all evils
+version https://git-lfs.github.com/spec/v1
+oid sha256:a429d1e2f67f011f2e11d5c78b1f0adfb7cb578a0630b32fedd094b38d30a036
+size 349

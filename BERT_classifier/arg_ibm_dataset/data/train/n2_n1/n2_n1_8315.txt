@@ -1,1 +1,3 @@
-On January 7, Israel opened a humanitarian corridor to allow the shipment of aid into Gaza. The Israeli army agreed to interrupt fighting for three hours During Operation Cast Lead, the Israeli Defense Forces did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:56b056919f4d0cca546fdf26bc720f4df13df23e7e722039b2c7d3f39d2f8e8e
+size 317

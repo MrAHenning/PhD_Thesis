@@ -1,1 +1,3 @@
-Spanish Foreign Minister Miguel Ángel Moratinos "expressed his firm condemnation of the irresponsible provocation on the part of Hamas in launching rocket attacks Hamas started the conflict by firing rockets on Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69eae6613f925fa4732f6da6a203ad93d3f1d2fe67d035087e75f0380123358
+size 218

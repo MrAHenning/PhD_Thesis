@@ -1,1 +1,3 @@
-Lord Tweedsmuir the 15th Governor General of Canada was an early champion of multiculturalism;[REF] from his installation speech in 1935 onwards, he maintained in speeches and over the radio recited his ideas that ethnic groups "should retain their individuality and each make its contribution to the national character," and "the strongest nations are those that are made up of different racial elements the strongest nations are those that are made up of different racial elements
+version https://git-lfs.github.com/spec/v1
+oid sha256:d300eb0dfcaaa6cdcc9f624bc5b5d307e795018e210a86e00a52254cebb0e0b9
+size 482

@@ -1,1 +1,3 @@
-A Center for Strategic International Studies report notes that the IDF admits it did hit some purely civilian targets, including UN facilities the Israeli Defence Force breached laws of armed conflict by attacking indiscriminately civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:01e69777d140746a7c0dfb8f34c058e0dbdb4ced8757ae8e63ab447ef42a8612
+size 240

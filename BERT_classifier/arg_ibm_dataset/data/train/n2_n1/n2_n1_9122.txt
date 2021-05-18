@@ -1,1 +1,3 @@
-linguist and political activist Noam Chomsky stated "I see no antisemitic implications in denial of the existence of gas chambers, or even denial of the holocaust" [REF Holocaust denial is a convenient polemical substitute for anti-semitism
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9ae2f3fc4132ab416a2327605ae1858678e105edb0e2ebaf8632070abafec78
+size 240

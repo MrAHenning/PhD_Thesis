@@ -1,1 +1,3 @@
-Foreign minister Carlos Morales said "We reject the excessive use of force conducted since December 27 by the Israeli army Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:1feac8c359da9265a52a562dd51ca1033dcbf368bae3a83ca30fbf0d633030e6
+size 162

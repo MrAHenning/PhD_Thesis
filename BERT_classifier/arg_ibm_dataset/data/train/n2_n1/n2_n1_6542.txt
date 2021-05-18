@@ -1,1 +1,3 @@
-Coffee rust attacked coffee plantations in Sri Lanka, Brazil, and Central America in 1970. A resistant variety was found in Ethiopia [REF Earth's surviving biodiversity provides resources for increasing the range of food and other products suitable for human use
+version https://git-lfs.github.com/spec/v1
+oid sha256:08968666856426b0b9fb852c4d694d729eabf5adce4a609ebc75e8a3f46a588b
+size 262

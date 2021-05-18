@@ -1,1 +1,3 @@
-Benatar and Benatar argue that circumcision can be beneficial to a male before he would be able to otherwise provide consent the parents should determine what is in the best interest of the infant or child
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3a16e2c180087f08267bebb200021335f8cf137907fb1d661945e5a2e104cb3
+size 205

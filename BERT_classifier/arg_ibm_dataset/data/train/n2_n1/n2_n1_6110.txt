@@ -1,1 +1,3 @@
-Some prominent atheists—such as Bertrand Russell, Christopher Hitchens, Daniel Dennett, Sam Harris, and Richard Dawkins—have criticized religions, citing harmful aspects of religious practices and doctrines [REF religions can be harmful
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2fff00b33ef731511db4d63e290f3523c658be7ba800cd3c75de46b74b5bb45
+size 240

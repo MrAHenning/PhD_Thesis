@@ -1,1 +1,3 @@
-according to Article 13 of the Universal Declaration of Human Rights, everyone has the right to leave or enter a country, along with movement within it the freedom of movement both within and between countries is a basic human right
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0b3677bb490b07ae4b069883382c6c643a64e2022c11dcad6da5bf957408a28
+size 232

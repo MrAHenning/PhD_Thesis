@@ -1,1 +1,3 @@
-According to Adam Smith, the expectation of profit from "improving one's stock of capital" rests on private property rights property rights encourage their holders to develop their property or generate wealth
+version https://git-lfs.github.com/spec/v1
+oid sha256:050c09877c0a1fa68f1953dcd5b37ca33f60ef34d53202de835cee67b9f32d7c
+size 208

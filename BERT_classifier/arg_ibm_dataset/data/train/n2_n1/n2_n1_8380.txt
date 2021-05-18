@@ -1,1 +1,3 @@
-At least 230 Palestinians were killed and more than 700 injured on the first day of air strikes. Civilians, including children, were among the casualties [REF]. Human rights groups critically note that the attacks began around the time children were leaving school [REF Israel targeted Palestinian civilians as a matter of policy
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3fbc63a7978f14dd56df4347c6631fc9495ad55fd6eaa1e9f44e38f30687d33
+size 329

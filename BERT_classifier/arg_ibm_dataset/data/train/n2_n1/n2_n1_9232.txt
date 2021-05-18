@@ -1,1 +1,3 @@
-The Street court did not consider whether a prohibition on burning the flag, without also prohibiting words against the flag, would be constitutional or unconstitutional. This question would remain open until 1989, when in Texas v. Johnson, 491 U.S. 397, the Court invalidated a flag-burning statute it would be constitutional to ban flag-burning
+version https://git-lfs.github.com/spec/v1
+oid sha256:70ac1eebe5e99b1dc3bb39c3a11d56596dd608dcd1928578ba0a998604afcb3d
+size 346

@@ -1,1 +1,3 @@
-On 15 December 2008, following a statement in which he described the embargo on Gaza a crime against humanity, United Nations Special Rapporteur Richard A. Falk was prevented from entering the Palestinian territories by Israeli authorities and expelled from the region [REF The blockade is considered illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:b98e373a5d2d937765f969c00454c898d070e1b9aa8aa1a34d0ed599e2537e16
+size 308

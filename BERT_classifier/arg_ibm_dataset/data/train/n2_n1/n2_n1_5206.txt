@@ -1,1 +1,3 @@
-the 1994 Cairo Programme of Action: "reproductive rights embrace certain human rights that are already recognized in national laws, international human rights documents and other relevant United Nations consensus documents. These rights rest on the recognition of the basic right of all couples and individuals to decide freely and responsibly the number, spacing and timing of their children and to have the information and means to do so Parents have the exclusive right to determine freely and responsibly the number and spacing of their children
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb41998db53e9eea6278c35e0d8dc936e84b66624d56a1314023ce2f65671f85
+size 549

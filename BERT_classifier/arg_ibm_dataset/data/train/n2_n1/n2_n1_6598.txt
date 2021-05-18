@@ -1,1 +1,3 @@
-Mahatma Gandhi said "Among the many misdeeds of the British rule in India, history will look upon the Act depriving a whole nation of arms, as the blackest." in his autobiography The prohibition of an effective means of self defense is considered to be unethical
+version https://git-lfs.github.com/spec/v1
+oid sha256:612a409865221d6d66d624684b62a126b84624185c4ca690f9c92b365b6aecc7
+size 262

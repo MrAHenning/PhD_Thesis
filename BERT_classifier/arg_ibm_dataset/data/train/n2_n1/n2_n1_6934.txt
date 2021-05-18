@@ -1,1 +1,3 @@
-In May 2010, the UN Office for the Coordination of Humanitarian Affairs stated that the formal economy in Gaza has collapsed since the imposition of the blockade [REF the formal economy in Gaza has collapsed since the imposition of the blockade
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce2221e70fd9341b49e5f0962753c08d74925435fe6645bd987a877570044d49
+size 244

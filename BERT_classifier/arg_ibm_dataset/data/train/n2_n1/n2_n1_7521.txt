@@ -1,1 +1,3 @@
-In 2011, a meta-analysis of 23 studies (including both randomised controlled trials and observational studies) found reduced risk of prevalent HPV and (though the evidence was less strong) some evidence of reduced risk of new HPV infections [REF circumcision should be presented as an option for health benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:81564fcfdd5b9703313805c099eab696cb98854ee80c96e28617a1115871d077
+size 311

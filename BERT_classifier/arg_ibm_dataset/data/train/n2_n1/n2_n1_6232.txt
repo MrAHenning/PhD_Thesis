@@ -1,1 +1,3 @@
-Dawkins has argued against creationist explanations of life in his previous works on evolution. The theme of The Blind Watchmaker, published in 1986, is that evolution can explain the apparent design in nature evolution can explain the apparent design in nature
+version https://git-lfs.github.com/spec/v1
+oid sha256:79d64e640ef3f257eebd6a250299a555bc1744a5e7d3bf973769d53423727f4e
+size 261

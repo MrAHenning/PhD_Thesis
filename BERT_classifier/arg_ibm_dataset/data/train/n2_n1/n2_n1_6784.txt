@@ -1,1 +1,3 @@
-A US Congressional Research Service report claimed 'While there are differing views in Israel concerning the Gaza blockade [..] most Israelis equate security with survival and peace. Israel’s leaders appear to believe that the blockade of the Gaza Strip [among other security and deterrence measures], have brought about a quiet .. As of the date of the Gaza flotilla incident, no Israeli had been killed in a terrorist or in a cross-border rocket attack in more than a year. Therefore, the Israeli government is reluctant to abandon the blockade tactic worked .. from its perspective.'[REF the blockade is necessary to limit Palestinian rocket attacks from the Gaza Strip
+version https://git-lfs.github.com/spec/v1
+oid sha256:687c49b0c5f6f0097f968e7ad9426e81604d2c5925b7464b5fa49acf95ca7cf0
+size 674

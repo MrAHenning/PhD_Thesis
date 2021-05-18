@@ -1,1 +1,3 @@
-Many economists believe that, in the absence of intellectual property protections such as copyright and patents, various types of intangible assets would be under-produced, because there would be insufficient incentives for commercial organisations to produce them in the absence of intellectual property protections such as copyright and patents, various types of intangible assets would be under-produced
+version https://git-lfs.github.com/spec/v1
+oid sha256:35311edb270671a72966ad016747600d44d50d35550e3317c45356e54f9bd583
+size 406

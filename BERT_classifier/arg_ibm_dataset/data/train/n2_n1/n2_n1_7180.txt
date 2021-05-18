@@ -1,1 +1,3 @@
-The United Nations High Commissioner for Human Rights Navi Pillay condemned the Israeli raid, saying it involved disproportionate use of force and that the Gaza blockade was illegal [REF The Gaza blockade is illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:92b3fc864744462b420e6d735577d72ed9f1203a89c005ec837eb1b737901b2d
+size 215

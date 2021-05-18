@@ -1,1 +1,3 @@
-In a letter to Edward Livingston Madison further expanded, "We are teaching the world the great truth that Govts. do better without Kings & Nobles than with them. The merit will be doubled by the other lesson that Religion flourishes in greater purity, without than with the aid of Govt."[REF the government is not to interfere with religion
+version https://git-lfs.github.com/spec/v1
+oid sha256:a199de793b31f035cd0daa931aad3abe46fdbdbc85024484e924f61c70589bc2
+size 341

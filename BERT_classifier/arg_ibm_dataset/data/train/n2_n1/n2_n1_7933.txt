@@ -1,1 +1,3 @@
-Mill argued that an opinion only carries intrinsic value to the owner of that opinion, thus silencing the expression of that opinion is an injustice to a basic human right there must be no constraints on the free flow of information and ideas
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc1902a88d8d5792ddd5e189e5cc13bcc4baa216e815fc81187acd76821b6db7
+size 242

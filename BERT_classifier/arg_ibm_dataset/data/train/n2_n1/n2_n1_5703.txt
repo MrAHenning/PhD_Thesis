@@ -1,1 +1,3 @@
-After signing the 2009 amnesty bill into law, President Lula said, in a speech, that "repression and intolerance against immigrants will not solve the problems caused by the economic crisis", thereby also harshly criticizing the "policy of discrimination and prejudice" against immigrants in developed nations repression and intolerance against immigrants will not solve the problems caused by the economic crisis
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f7c71277af2e3fa9b364554c58013749ac5fce8f1018c8f632f4b20f34d3861
+size 413

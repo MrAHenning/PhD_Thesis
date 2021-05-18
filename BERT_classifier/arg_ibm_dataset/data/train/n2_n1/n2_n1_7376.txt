@@ -1,1 +1,3 @@
-For girls, even modest involvement in sexual experimentation elevates depression risk [REF]. Sexually active teenage girls are more than twice as likely to suffer depression compared to those who are not sexually active [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:241ba436d63af0ff421054e471473ef48b9478c22da451876fe5b8041463f5b0
+size 324

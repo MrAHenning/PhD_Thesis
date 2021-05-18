@@ -1,1 +1,3 @@
-According to Karl Marx, religion is a tool utilized by the ruling classes whereby the masses can shortly relieve their suffering via the act of experiencing religious emotions. It is in the interest of the ruling classes to instill in the masses the religious conviction that their current suffering will lead to eventual happiness religious belief is a delusion
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1a9b646128afa78397f85a7766903a940a8b9f6feaaf0eb4c60754eec301df3
+size 362

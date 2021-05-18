@@ -1,1 +1,3 @@
-According to a paper published by US Conservative Policy Research organisation, The Heritage Foundation, sexual abstinence in teenagers decreases the risk of contracting STDs and having children outside marriage sexual abstinence in teenagers decreases the risk of contracting STDs and having children outside marriage
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cb08f3dc9ce1a129f224d8487cd79940ec1f4d4d1bdbd510b7a2e53afc4d30b
+size 318

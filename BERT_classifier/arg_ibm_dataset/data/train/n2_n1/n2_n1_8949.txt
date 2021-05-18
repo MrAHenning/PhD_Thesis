@@ -1,1 +1,3 @@
-In the Ville (city) of Montreal, Canada's second most populous municipality, only 7.5% of the population lived in a single-detached house more and more people around the world move into multi-story apartment blocks
+version https://git-lfs.github.com/spec/v1
+oid sha256:328ee73043f2a5fdf5cc57b279477d9b06713faacebbe177253b30262520d6ca
+size 214

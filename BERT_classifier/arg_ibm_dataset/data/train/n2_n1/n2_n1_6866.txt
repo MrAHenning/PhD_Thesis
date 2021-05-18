@@ -1,1 +1,3 @@
-Amnesty International said that “The blockade constitutes collective punishment under international law and must be lifted immediately.” And that as the occupying power, Israel has a duty under international law to ensure the welfare of Gaza’s inhabitants, including their rights to health, education, food and adequate housing [REF The blockade amounts to a flagrant contravention of international human rights and humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e527d9bdc9c886c685a39f5d2e2fadb7d9b993f41d0faec4b319b7c617fa2e
+size 438

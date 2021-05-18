@@ -1,1 +1,3 @@
-a Socio-economic and Food Security Survey Report stated that 61% of Gazans are food insecure and reliant on humanitarian aid. Of those that are food insecure, 65% are children under 18 years What is going on in Gaza is a humanitarian catastrophe
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e7136e2bb44a42af40d90a3e93fd7a84c54c0e56ff3a52ad212fdaf158c467a
+size 245

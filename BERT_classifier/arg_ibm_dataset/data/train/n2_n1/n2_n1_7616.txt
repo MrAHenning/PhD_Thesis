@@ -1,1 +1,3 @@
-The Royal Dutch Medical Association issued a new policy in May 2010: "The official viewpoint of KNMG and other related medical/scientific organisations is that non-therapeutic circumcision of male minors is a violation of children’s rights to autonomy and physical integrity Circumcision is unethical when performed on newborns
+version https://git-lfs.github.com/spec/v1
+oid sha256:b12b5438c925ed2e85de7f2994411042ae1f92a349c2a0c3885b18864949ec62
+size 329

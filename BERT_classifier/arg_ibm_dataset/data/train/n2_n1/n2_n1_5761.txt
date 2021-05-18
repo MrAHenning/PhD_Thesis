@@ -1,1 +1,3 @@
-on Victoria Day 2001, Manley said on CBC Radio that he believed that hereditary succession was outdated monarchies are unfashionable
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7e199cf0aaa3e0722470fdebb15c77807ec1cf8d5d0d9b353f07a7f76df92b
+size 132

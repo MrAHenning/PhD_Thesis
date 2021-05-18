@@ -1,1 +1,3 @@
-Proponents of comprehensive sex education, which include the American Psychological Association,[REF] the American Medical Association,[REF] the National Association of School Psychologists,[REF] the American Academy of Pediatrics,[REF] the American Public Health Association,[REF] the Society for Adolescent Medicine[REF] and the American College Health Association,[REF] argue that sexual behavior after puberty is a given, and it is therefore crucial to provide information about the risks and how they can be minimized; they also claim that denying teens such factual information leads to unwanted pregnancies and STIs Adolescents who begin having sexual intercourse need to understand the importance of using an effective contraceptive every time they have sex
+version https://git-lfs.github.com/spec/v1
+oid sha256:a761f90ba562f3b425e6c0bf05e2c2d265a990b46fe0ad4f9efc5b744c977b6f
+size 765

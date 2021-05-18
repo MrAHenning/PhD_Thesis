@@ -1,1 +1,3 @@
-In March 2010, the Swiss Government announced that it was planning to promote smaller condoms intended for boys of 12–14 years old following concern about the pregnancy rate among adolescent girls, and also about the potential spread of AIDS among this age group Condoms are widely recommended for the prevention of sexually transmitted diseases
+version https://git-lfs.github.com/spec/v1
+oid sha256:33a31e3f1090023ee00da7a857c70f7ca992f65f54ff0095a56208f1b80763c5
+size 347

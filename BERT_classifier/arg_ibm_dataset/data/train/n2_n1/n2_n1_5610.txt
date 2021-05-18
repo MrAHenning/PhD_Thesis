@@ -1,1 +1,3 @@
-James Banks, a lifetime leader in multicultural education and a former president of both the National Council for the Social Studies and the American Educational Research Association, describes the balancing forces in [REF]( 4th. Edition, 2008)  “Citizenship education must be transformed in the 21st.century because of the deepening racial, ethnic, cultural, language and religious diversity in nation-states around the world. Citizens in a diverse democratic society should be able to maintain attachments to their cultural communities as well as participate effectively in the shared national culture. Unity without diversity results in cultural repression and hegemony Unity without diversity results in cultural repression
+version https://git-lfs.github.com/spec/v1
+oid sha256:f46dfdcb9368f2c7ad7f46528d448b93e908f68bdf7c775d7f76a06986e8a7b8
+size 729

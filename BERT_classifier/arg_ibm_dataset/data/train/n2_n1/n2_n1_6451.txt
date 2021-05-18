@@ -1,1 +1,3 @@
-According to Article 27 of the Universal Declaration of Human Rights, "everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author" [REF To violate intellectual property is no different morally than violating other property rights
+version https://git-lfs.github.com/spec/v1
+oid sha256:99fc05ec47b8aedc227d7b7dfdd42a3afd945e04a91d9028be6c58461348f84e
+size 336

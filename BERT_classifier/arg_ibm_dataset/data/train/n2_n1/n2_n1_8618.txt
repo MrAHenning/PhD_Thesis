@@ -1,1 +1,3 @@
-African Union released a press statement stating the following: "The Commission of the African Union (AU) is following with great concern the prevailing situation in the Gaza Strip. The Commission strongly condemns the ongoing air raids on the Gaza Strip by Israel, since 27 December 2008, which has resulted so far in the death of more than 300 Palestinians, while about 1,000 others, including women and children, have been injured."[REF Israel's response was "disproportionate
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5022437e26783bb4a96cd46f9e83b07900457ff21931ce1e37a0fb076b92dae
+size 479

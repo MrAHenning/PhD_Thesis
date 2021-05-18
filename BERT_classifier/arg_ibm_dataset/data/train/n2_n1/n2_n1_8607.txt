@@ -1,1 +1,3 @@
-Canada's foreign affairs minister, Lawrence Cannon, issued a statement in which he pointed to Israel's "clear right to defend itself" against continuing attacks by militants he accused of "deliberately" targeting civilians. "First and foremost, those rocket attacks must stop The escalation of tensions in the Gaza Strip […] has been triggered by rocket attacks launched by Hamas against innocent Israeli civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:812ea38e70d706ae26633ae97d1184e822fc56d90db0fbb091fd482886538e24
+size 416

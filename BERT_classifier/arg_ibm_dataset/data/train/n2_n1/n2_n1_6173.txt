@@ -1,1 +1,3 @@
-According to Karl Marx, religion is a tool utilized by the ruling classes whereby the masses can shortly relieve their suffering via the act of experiencing religious emotions. It is in the interest of the ruling classes to instill in the masses the religious conviction that their current suffering will lead to eventual happiness theist religions and their holy books are not divinely inspired, but instead are fabrications of non-divine human individuals
+version https://git-lfs.github.com/spec/v1
+oid sha256:40b6efbb0b468a8ace3e2919a81e3a112246a8162fb1a18b60d803fa9c16465a
+size 457

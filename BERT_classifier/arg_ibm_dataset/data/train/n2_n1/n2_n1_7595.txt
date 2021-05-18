@@ -1,1 +1,3 @@
-Lewis Sayre, a prominent New York orthopedic surgeon and vice president of the newly formed American Medical Association, examined a five-year-old boy who was unable to straighten his legs, and whose condition had so far defied treatment. Upon noting that the boy's genitals were inflamed, Sayre hypothesized that chronic irritation of the boy's foreskin had paralyzed his knees via reflex neurosis. Sayre circumcised the boy, and within a few weeks, he recovered from his paralysis. After several additional incidents in which circumcision also appeared effective in treating paralyzed joints, Sayre began to promote circumcision as a powerful orthopedic remedy Circumcision insures better health
+version https://git-lfs.github.com/spec/v1
+oid sha256:59eb8a149aca7e44a9aa08a6299908aeb9b293e2574344e020246d217141ff2e
+size 697

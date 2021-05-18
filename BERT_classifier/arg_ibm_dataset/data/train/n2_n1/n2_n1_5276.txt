@@ -1,1 +1,3 @@
-According to some nurse practitioners, stopping substance abuse can reduce the risk of dying early and also reduce some health risks like heart disease, lung disease, and strokes [REF Substance abuse can be harmful to your health and may even be deadly in certain scenarios
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d075ca0ac64c4f4a98fbd94ed758da52b976708f14a03bf843d13f549c869a7
+size 273

@@ -1,1 +1,3 @@
-Peter Singer argues that over the last three decades, “aid has added around one percentage point to the annual growth rate of the bottom billion.” He argues that this has made the difference between “stagnation and severe cumulative decline.”[REF foreign aid generally does boost growth
+version https://git-lfs.github.com/spec/v1
+oid sha256:f25e14b650831ab4ce45045bb6db4957d91b0710e2514454ab0c8ea5cab3525d
+size 294

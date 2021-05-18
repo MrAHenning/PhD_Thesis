@@ -1,1 +1,3 @@
-According to published academic studies in the United States and Europe, 165,000 people died in the Socialist Republic of Vietnam's re-education camps [REF]. Thousands were tortured or abused. Prisoners were incarcerated for as long as 17 years, with most terms ranging from three to 10 years [REF]. These factors, coupled with poverty and the total destruction of Vietnam, which happened during the Vietnam war, caused hundreds of thousands of Vietnamese to flee Political refugees may be fleeing for their lives
+version https://git-lfs.github.com/spec/v1
+oid sha256:08cf27a8ab42ce648909d6f6a982e59e8d716b435ce8676bb8b3f48d94eec22b
+size 513

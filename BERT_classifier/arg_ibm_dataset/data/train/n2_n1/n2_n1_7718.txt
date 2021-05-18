@@ -1,1 +1,3 @@
-Damage to forests and other aspects of nature could halve living standards for the world's poor and reduce global GDP by about 7% by 2050, a report concluded at the Convention on Biological Diversity (CBD) meeting in Bonn [REF Short-term economic gains made by conversion of forest to agriculture, or over-exploitation of wood products, typically leads to loss of long-term income
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5cff7eb05602734fb744b4b2e54d7170ec5a7309cb44c5d65e1e08f1c51ce5e
+size 380

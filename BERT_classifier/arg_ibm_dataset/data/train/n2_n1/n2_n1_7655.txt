@@ -1,1 +1,3 @@
-The British Medical Association (2006) stated that the "medical harms or benefits have not been unequivocally proven," and that "[..] it is now widely accepted, including by the BMA, that this surgical procedure has medical and psychological risks."[REF circumcision may result in psychological harm
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc2e9c8c81e17c96ef88bb510d183a4b3acc9dd6485b798af98f189e744f44c5
+size 299

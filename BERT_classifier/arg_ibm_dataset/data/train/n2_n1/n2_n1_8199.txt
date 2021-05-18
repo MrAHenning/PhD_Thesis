@@ -1,1 +1,3 @@
-The report focused on 36 cases that it said constituted a representative sample. In 11 of these episodes, it said the Israeli military carried out direct attacks against civilians, including some in which civilians were shot “while they were trying to leave their homes to walk to a safer place, waving white flags” [REF]. Talking to Bill Moyers Journal, Goldstone said that the committee chose 36 incidents that represented the highest death toll, where there seemed to be little or no military justification for what happened [REF the war was targeted against the "people of Gaza as a whole
+version https://git-lfs.github.com/spec/v1
+oid sha256:00136c8bfac75ca322c08de960f85cff0bf3c260899eef1b8ebe5fe54166ea2b
+size 596

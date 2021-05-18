@@ -1,1 +1,3 @@
-In May 2010, the UN Office for the Coordination of Humanitarian Affairs stated that the formal economy in Gaza has collapsed since the imposition of the blockade [REF]. They also stated that the "restrictions imposed on the civilian population by the continuing blockade of the Gaza Strip amount to collective punishment, a violation of international humanitarian law."[REF The blockade constitutes collective punishment under international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:32feee692376591774d91b593d6c703d936bad867d8612474fd0aa6c09e37f1f
+size 444

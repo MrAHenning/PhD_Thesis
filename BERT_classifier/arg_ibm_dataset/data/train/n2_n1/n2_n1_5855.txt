@@ -1,1 +1,3 @@
-In the standard code of Jewish law, the Shulchan Aruch, therapeutic abortion is permitted; Maimonides's language, speaking of the fetus as pursuer, is included verbatim [REF one must abort a fetus if the continuation of pregnancy might imperil the life of the woman
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ac206699bf01674bb7f1ad26f2b471ffdf6ba27f2841f2397451e9cf69a2b29
+size 265

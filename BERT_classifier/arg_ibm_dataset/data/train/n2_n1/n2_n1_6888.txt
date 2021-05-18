@@ -1,1 +1,3 @@
-Concerning the restrictions on goods reaching Gaza via the land crossings the Palmer report stated that they were the main reason for a unsustainable and unacceptable humanitarian situation in Gaza [REF the blockade of Gaza is causing "unacceptable suffering
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f9cdd017bd59530dea5c771249cf61266b9f74d44cfd1f5dd5d3682b53e9279
+size 258

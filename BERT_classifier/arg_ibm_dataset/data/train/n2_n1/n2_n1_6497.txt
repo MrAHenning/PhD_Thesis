@@ -1,1 +1,3 @@
-Surveys of public attitudes across Europe and in many other countries show strong public support for wind power [REF Wind power has gained very high social acceptance
+version https://git-lfs.github.com/spec/v1
+oid sha256:26fc94fc42a23b2606c5e7155e07e25d6a76024037314cbac1024f3e760550ff
+size 166

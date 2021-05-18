@@ -1,1 +1,3 @@
-a study titled "Military Experience &#38; CEOs: Is There a Link?" found that "leadership skills acquired during military training can absolutely enhance one’s chances for success in corporate life."[REF leadership skills acquired during military training can absolutely enhance one’s chances for success in corporate life
+version https://git-lfs.github.com/spec/v1
+oid sha256:21af9654ee36542bded97467a4cec96e628dec56488e7e08ca258f2021c88de9
+size 325

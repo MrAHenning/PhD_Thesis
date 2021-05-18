@@ -1,1 +1,3 @@
-Colonel Richard Kemp, former commander of British forces in Afghanistan, in his address to the UNHRC asserted that during the conflict, the Israel Defense Forces "did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare" and that Palestinian civilian casualties were a consequence of Hamas' way of fighting, which involved using human shields as a matter of policy, and deliberate attempts to sacrifice their own civilians. He added that Israel took extraordinary measures to give Gaza civilians notice of targeted areas and aborted potentially effective missions in order to prevent civilian casualties [REF Israel targeted Palestinian civilians as a matter of policy
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b5e4ea5b6f892fa3642d426d53b6ab04264143de32a51593f98ce61440e3a26
+size 720

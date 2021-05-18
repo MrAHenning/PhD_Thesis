@@ -1,1 +1,3 @@
-With wins over Clemson, BYU, and Utah, some journalists, including Football Writers Association of America Past-President Dennis Dodd, have cited the 2009 TCU team as an example of a non-AQ team, excluded from consideration for the national championship in spite of their performance against strong competition [REF due to the unique and often esoteric nature of the BCS format, there has been controversy as to which two teams should play for the national championship
+version https://git-lfs.github.com/spec/v1
+oid sha256:43fe0447d5760574ee7cb0ab503641dea99e552711712dea1697a94627048992
+size 469

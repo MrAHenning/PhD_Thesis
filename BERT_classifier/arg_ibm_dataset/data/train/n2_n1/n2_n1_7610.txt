@@ -1,1 +1,3 @@
-The World Health Organization (WHO; 2007), the Joint United Nations Programme on HIV/AIDS (UNAIDS; 2007), and the Centers for Disease Control and Prevention (CDC; 2008) state that evidence indicates male circumcision significantly reduces the risk of HIV acquisition by men during penile-vaginal sex Circumcision provides important health advantages that outweigh the risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:26646fd2d680723dbe1ba2cb8b6220577c3e3039b70322e0d3270e153a318199
+size 373

@@ -1,1 +1,3 @@
-Concerning the restrictions on goods reaching Gaza via the land crossings the Palmer report stated that they were the main reason for a unsustainable and unacceptable humanitarian situation in Gaza [REF the blockade on Gaza is neither sustainable nor tenable in its present form
+version https://git-lfs.github.com/spec/v1
+oid sha256:478bd2ecea4fe7726661ea5a43acdb762ea399f5371e0858c1aab19b72e05b1c
+size 278

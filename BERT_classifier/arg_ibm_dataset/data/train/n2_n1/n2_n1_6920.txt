@@ -1,1 +1,3 @@
-U.N. Undersecretary-General for Humanitarian Affairs, John Holmes, described the blockade as "collective punishment The blockade is possibly a crime against humanity
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ff59eb013a669a3931875e9eae6788f27af3c5f52f6c125a55360099af54411
+size 165

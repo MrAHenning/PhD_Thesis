@@ -1,1 +1,3 @@
-From the age of 16 onward, Krieger was systematically doped with anabolic steroids, which have significant androgenic effects on the body. She had already had doubts about her sexuality, and the chemical changes resulting from the steroids only exacerbated them. Eventually, she had many of the characteristics of a man former athletes bear the physical and mental scars of years of drug abuse
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2c094609875eb5aeedc7362d71e2cdeb6df9dd02942b951991524fd2f93181d
+size 393

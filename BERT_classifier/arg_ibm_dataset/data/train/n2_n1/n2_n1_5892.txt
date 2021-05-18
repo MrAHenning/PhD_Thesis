@@ -1,1 +1,3 @@
-Research shows that schools with students that perform lower than the norm are also those hiring least-qualified teachers as a result of new teachers generally working in the area that they grew up in. This leads to certain schools not producing many students that go on to college. Students from these schools that go on to be college graduates are not as skilled as they would be if they had gone to a school with higher-qualified instructors. This leads to education perpetuating a cycle of poverty poverty, once started, is likely to continue unless there is outside intervention
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f6ad8fb55e83ec84e8baf5dde4227a1c16e2bb3e33d56c6ff8ce399edfd370b
+size 583

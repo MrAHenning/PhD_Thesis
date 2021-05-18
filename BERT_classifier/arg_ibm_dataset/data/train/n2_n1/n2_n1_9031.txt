@@ -1,1 +1,3 @@
-Prime Minister Recep Tayyip Erdoğan, is quoted in the Turkish press saying: "Caricatures of prophet Muhammad are an attack against our spiritual values. There should be a limit of freedom of press."[REF The right to freedom of thought and expression, sanctioned by the Declaration of the Rights of Man, cannot imply the right to offend the religious sentiment of believers
+version https://git-lfs.github.com/spec/v1
+oid sha256:13726181de00dd3678a1c9dcfcc04433b2ba000a1fc9f913d56753046121179e
+size 373

@@ -1,1 +1,3 @@
-In a 2002 paper, Eric Uslaner and Mitchell Brown showed that there is a high correlation between the amount of trust in society and the amount of income equality Higher levels of economic inequality tend to intensify social hierarchies and generally degrade the quality of social relations
+version https://git-lfs.github.com/spec/v1
+oid sha256:67014df3a7d6c5ca1787a9e9b1b47fb478e6f3c9cbcd9b91f76afaf761f49e7d
+size 289

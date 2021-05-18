@@ -1,1 +1,3 @@
-David Cameron, the UK Prime Minister, during Prime Minister's Questions, stated that "Friends of Israel – and I count myself a friend of Israel – should be saying to the Israelis that the blockade actually strengthens Hamas's grip on the economy and on Gaza the blockade actually strengthens Hamas's grip on the economy and on Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1ad372c62e0d2647abf492687ac51a00071c4fd7b412a7f126c2fd4c5a30e8a
+size 335

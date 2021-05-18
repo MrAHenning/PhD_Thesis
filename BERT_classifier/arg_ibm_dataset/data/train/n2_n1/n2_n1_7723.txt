@@ -1,1 +1,3 @@
-Even as more anthropogenic carbon is produced, forests remove around three billion tons of anthropogenic carbon every year. This amounts to about 30% of all carbon dioxide emissions from fossil fuels Forests are an important part of the global carbon cycle
+version https://git-lfs.github.com/spec/v1
+oid sha256:373c3a4b0571507beb6145ce068f97e3a909e07ee8e4c416ac5e00d533565d6d
+size 256

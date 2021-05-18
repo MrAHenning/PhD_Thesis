@@ -1,1 +1,3 @@
-During each act of anal intercourse, the risk of the receptive partner acquiring HIV from HIV seropositive partners not using condoms is about 1 in 120. Among people using condoms, the receptive partner's risk declines to 1 in 550, a four- to fivefold reduction [REF Condoms (male or female) are used to protect against STIs
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f208ce33863a55148fd8814a11725fc10cca619780f6d558ac00f11aa61bed2
+size 324

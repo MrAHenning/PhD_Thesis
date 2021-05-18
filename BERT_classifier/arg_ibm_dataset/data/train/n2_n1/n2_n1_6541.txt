@@ -1,1 +1,3 @@
-according to the US Energy Information Agency, offshore wind power is the most expensive energy generating technology being considered for large scale deployment" [REF wind power is the most expensive energy generating technology being considered for large scale deployment
+version https://git-lfs.github.com/spec/v1
+oid sha256:f55b3039a9e58ca6eef0c9496a294563f0be2d90bdeabf6dc3baa50c38a93d28
+size 273

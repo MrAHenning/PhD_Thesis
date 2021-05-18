@@ -1,1 +1,3 @@
-According to John Hills, children of wealthy and well-connected parents usually have a decisive advantage over other types of children, and he notes that "advantage and disadvantage reinforce themselves over the life cycle, and often on to the next generation" so that successful parents pass along their wealth and education to succeeding generations, making it difficult for others to climb up a social ladder [REF The overall idea of affirmitive action is to give children from less fortunate backgrounds more of a chance
+version https://git-lfs.github.com/spec/v1
+oid sha256:95b40286c407d0d3159c9be29f8d123beec050f0394167042b1c5f42ee7dd0dd
+size 524

@@ -1,1 +1,3 @@
-After visiting Gaza in March 2010, Irish foreign minister Micheál Martin described the Israeli blockade of Palestinian-ruled Gaza as "inhumane and unacceptable The blockade amounts to a flagrant contravention of international human rights and humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:2042427c7db4345c2dd235d763cc5df91148d8b6a03b64e2573b35a0fe87707a
+size 260

@@ -1,1 +1,3 @@
-The Lebanese minister of foreign affairs criticised the drawings saying that freedom of speech ends when sacred values are offended [REF freedom of speech cannot be compromised
+version https://git-lfs.github.com/spec/v1
+oid sha256:baded22f5c5c281db080b17357aeefb1c81af33f62fa8086fe972c54a0e3885f
+size 176

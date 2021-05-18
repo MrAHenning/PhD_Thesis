@@ -1,1 +1,3 @@
-Every year, an estimated 1 in 4 sexually active teens contracts an STI,[REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:14882a93e258f80bef041df5bc65c6c245acfd738ce581ca79cae85f5a2c7580
+size 175

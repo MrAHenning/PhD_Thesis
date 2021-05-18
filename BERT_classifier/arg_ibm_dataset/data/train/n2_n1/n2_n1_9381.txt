@@ -1,1 +1,3 @@
-James Fenimore Cooper, the novelist, described the common view that "contact with the affairs of state is one of the most corrupting of the influences to which men are exposed."[REF contact with the affairs of state is one of the most corrupting of the influences to which men are exposed
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c727a90dbf942f093a5a529ced7cf21cc170f80fbb448d5bf8f18f3ce6c7cfb
+size 288

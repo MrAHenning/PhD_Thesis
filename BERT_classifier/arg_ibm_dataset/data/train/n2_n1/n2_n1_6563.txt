@@ -1,1 +1,3 @@
-There are also those like Nobel Prize laureate Paul Krugman, who argue that austerity measures tend to be counterproductive when applied to the populations and programs they are usually applied to [REF austerity measures tend to be counterproductive
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b08ce489c9dc57fb50403cd26a9dce22667bcb0f0e6d332be85349be0f98c51
+size 249

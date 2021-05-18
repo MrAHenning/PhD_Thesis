@@ -1,1 +1,3 @@
-The Chinese Imperial examination system seem started in 165 BC, when certain candidates for public office were called to the Chinese capital for examination of their moral excellence by the emperor. Over the following centuries the system grew until finally almost anyone who wished to become an official had to prove his worth by passing written government examinations Merit should be a primary consideration during evaluation
+version https://git-lfs.github.com/spec/v1
+oid sha256:e217af88728b51d955284fff7b27b6966d4876c8904762ebc2df9d1a18bd9f01
+size 428

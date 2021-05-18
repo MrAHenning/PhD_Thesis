@@ -1,1 +1,3 @@
-Albert K. Cohen tied anomie theory with Freud's reaction formation idea, suggesting that delinquency among lower class youths is a reaction against the social norms of the middle class [REF]. Some youth, especially from poorer areas where opportunities are scarce, might adopt social norms specific to those places which may include "toughness" and disrespect for authority. Criminal acts may result when youths conform to norms of the deviant subculture [REF crime rates are associated with poverty
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ee40347b8f8e0074f58ccd3392f5dd9774f66cd621e7f960e693bcafd0b1794
+size 499

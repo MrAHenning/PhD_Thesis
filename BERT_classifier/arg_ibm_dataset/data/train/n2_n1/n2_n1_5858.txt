@@ -1,1 +1,3 @@
-rabbinic law or halakhah sanctions abortion under some circumstances, namely for medical reason abortion is justifiable if a continuation of pregnancy might cause the woman severe physical or psychological harm
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba17d753528af55d91ae681f4075a1ee47c484131d6ad95e3da176cf6c8639ea
+size 210

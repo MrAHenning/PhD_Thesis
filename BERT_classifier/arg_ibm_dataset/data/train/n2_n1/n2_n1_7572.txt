@@ -1,1 +1,3 @@
-Povenmire argues that parents should not have the power to consent to neonatal non-therapeutic circumcision [REF the removal of healthy genital tissue from a minor should not be subject to parental discretion
+version https://git-lfs.github.com/spec/v1
+oid sha256:a573380850f668cd0241388b8d3cfed424cd882bf5aaa879ef6abd89798e0479
+size 208

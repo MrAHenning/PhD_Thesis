@@ -1,1 +1,3 @@
-President Mahmoud Abbas blamed Hamas for triggering Israel's deadly raids on Gaza by not extending a six-month truce with Israel [REF]. Speaking from Cairo on December 28, 2008, he said that 'we ask[ed] [Hamas] … not [to] end the truce. Let the truce continue and not stop so that we could have avoided what happened' [REF Hamas started the conflict by firing rockets on Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcb1e4a565c93d340a97a6e549a4e644ffdb40b489e4d5408ac1a9caabe6218d
+size 379

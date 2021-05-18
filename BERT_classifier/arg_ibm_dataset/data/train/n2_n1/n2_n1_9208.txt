@@ -1,1 +1,3 @@
-Rehnquist wrote, .   The American flag, then, throughout more than 200 years of our history, has come to be the visible symbol embodying our Nation. It does not represent the views of any particular political party, and it does not represent any particular political philosophy. The flag is not simply another "idea" or "point of view" competing for recognition in the marketplace of ideas. Millions and millions of Americans regard it with an almost mystical reverence regardless of what sort of social, political, or philosophical beliefs they may have States possess an interest in preserving the flag as a unique symbol of national identity and principles
+version https://git-lfs.github.com/spec/v1
+oid sha256:7617b465d1b0952c5cd60bb976d47b1b1301edad0aaf9b6a766761431d6137fc
+size 659

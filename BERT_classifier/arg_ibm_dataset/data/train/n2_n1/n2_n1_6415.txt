@@ -1,1 +1,3 @@
-in Net Food Importing Developing Countries (NFIDCs), there is a positive link between growing agricultural exports and increases in local food production trade, development, and poverty reduction are intimately linked
+version https://git-lfs.github.com/spec/v1
+oid sha256:8979ecce691437806b250aba3ec6d6b3d991d173078c4dd113be89fc8c561515
+size 217

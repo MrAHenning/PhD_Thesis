@@ -1,1 +1,3 @@
-a Gazan legal consultant for UNRWA called the blockade "an action outside of international law.”[REF The blockade was called an action outside of international law.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:20bd60ed7b33bb6722f9617bf4746027dfe422d44dd3847204aedc2fec4a52f2
+size 169

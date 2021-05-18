@@ -1,1 +1,3 @@
-A 2005 study estimated that over 90 million females were "missing" from the expected population in Afghanistan, Bangladesh, China, India, Pakistan, South Korea and Taiwan alone, and suggested that sex-selective abortion plays a role in this deficit [REF Son preference results in harmful and unethical practices
+version https://git-lfs.github.com/spec/v1
+oid sha256:9727a31b8afac0aacad7948a0f8176e60c8480450a4a9f3f94fbe35d24b2fbb3
+size 311

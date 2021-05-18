@@ -1,1 +1,3 @@
-Sex and relationship experts like Reid Mihalko of [REF] suggests that open dialogue about physical intimacy and health education can generate more self-esteem, self-confidence, humor, and general health [REF open dialogue about physical intimacy and health education can generate more self-esteem
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ecce1e30990c0506665daded3aa84ef9939aede51613026d49583342117a68e
+size 296

@@ -1,1 +1,3 @@
-In 1931, Nevada legalized most forms of gambling when Assembly Bill 98 was signed into law, providing a source of revenue for the state [REF the majority of the states run some type of lottery to raise funds for state operations
+version https://git-lfs.github.com/spec/v1
+oid sha256:659b2b261dd7d719c656966ee8f42d4762146ea21c92c7bbf4fa62abed8d020e
+size 228

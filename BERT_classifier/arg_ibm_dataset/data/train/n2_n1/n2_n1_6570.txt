@@ -1,1 +1,3 @@
-In a 2003 study that analyzed 133 IMF austerity programmes, the IMF's independent evaluation office found that policy makers consistently underestimated the disastrous effects of rigid spending cuts on economic growth [REF Some of the austerity measures are irrational
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c70c7f06f213b3f626a448706cead7efab5e92c0bafb276d9e5fd03946b58eb
+size 268

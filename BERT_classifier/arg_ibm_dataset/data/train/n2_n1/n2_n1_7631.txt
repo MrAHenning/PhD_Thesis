@@ -1,1 +1,3 @@
-By 8 years, circumcised children had a rate of 11.1 problems per 100 children, and uncircumcised children had a rate of 18.8 per 100. The majority of these problems were for penile inflammation including balanitis, meatitis, and inflammation of the prepuce Circumcision provides important health advantages which outweigh the risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab49513673b5fe8ded8d60fa97dfbf3594d30f23d860c08780379a59bae8cae2
+size 331

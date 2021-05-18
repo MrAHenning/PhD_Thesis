@@ -1,1 +1,3 @@
-A lower number of sexually active teens is "quite positive in terms of their health and their well-being," said Edward Sondik, director of the National Center for Health Statistics [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9b1b1fe6e2239ea589bba50aa374b3004ace2d0f8d8db151f34243845daf18f
+size 285

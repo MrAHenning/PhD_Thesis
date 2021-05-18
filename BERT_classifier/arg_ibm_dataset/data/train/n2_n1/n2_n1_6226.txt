@@ -1,1 +1,3 @@
-Dawkins writes: [Natural selection], as far as we know, is the only process ultimately capable of generating complexity out of simplicity. The theory of natural selection is genuinely simple. So is the origin from which it starts. That which it explains, on the other hand, is complex almost beyond telling: more complex than anything we can imagine, save a God capable of designing it [REF where design fails to explain complexity, evolution by natural selection succeeds
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f49378e9eeb49a76754855a958f1763bb372ab4653f63ae3f48d6415449b279
+size 472

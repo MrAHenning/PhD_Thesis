@@ -1,1 +1,3 @@
-Amnesty International said in their report, published in July 2009, that lives were lost because Israeli forces "frequently obstructed access to medical care during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3fa8a83515e3b8b98280787c10809ec3275b5b7638fbb06d2f6fa079c0581ca
+size 302

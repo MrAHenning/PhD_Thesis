@@ -1,1 +1,3 @@
-Empirical evidence suggests that taxes and transfers considerably reduce poverty in most countries whose welfare states commonly constitute at least a fifth of GDP Welfare reduces poverty
+version https://git-lfs.github.com/spec/v1
+oid sha256:78abcf98d47e3f46bfe6b9bd9b3a431b8dd57dde68f189a7aecfc1944747a816
+size 187

@@ -1,1 +1,3 @@
-Merton theorizes that anomie (normative breakdown) and some forms of deviant behavior derive largely from a disjunction between “culturally prescribed aspirations” of a society and “socially structured avenues for realizing those aspirations. In other words, a gap between people’s aspirations and their access to legitimate means of achieving them results in a breakdown of values, at both societal and individual levels a gap between people’s aspirations and their access to legitimate means of achieving them results in a breakdown of values
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b7b77661ff29dc18b3e4179f5fd37a330ef1b31e94cd6bdd353240b79c9a263
+size 554

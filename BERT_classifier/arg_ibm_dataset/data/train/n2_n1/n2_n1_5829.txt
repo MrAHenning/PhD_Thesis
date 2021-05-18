@@ -1,1 +1,3 @@
-Roe established that "the right of personal privacy includes the abortion decision the right of personal privacy includes the abortion decision
+version https://git-lfs.github.com/spec/v1
+oid sha256:44a1f160b98ce98869c141744deca3df2e7933c469ceb592ec53af360e95c6fa
+size 143

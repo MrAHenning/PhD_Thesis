@@ -1,1 +1,3 @@
-Since 1980, more than 200 amateur boxers, professional boxers and Toughman fighters have died as the result of ring or training injuries [REF Boxing is the only sport where the intention is to inflict serious injury on your opponent
+version https://git-lfs.github.com/spec/v1
+oid sha256:42267ded3c3cc576a40f85e949302007e5d0afd19478c68e744c9518a9b66db9
+size 232

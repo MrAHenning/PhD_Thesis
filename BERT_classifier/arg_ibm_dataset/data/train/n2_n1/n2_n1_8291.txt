@@ -1,1 +1,3 @@
-The UN fact finding mission analysed the police institutions in Gaza from the time Hamas gained control. They concluded that the Gaza police were a civilian law-enforcement agency and that Israel's blanket targeting of the Gaza police was therefore a violation of international humanitarian law [REF Israel intentionally targeted civilians in Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:abe8ee44dcbaa66a02b95ace98478d19a285ce5483bc4744c265eb5cd121c989
+size 347

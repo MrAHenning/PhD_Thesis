@@ -1,1 +1,3 @@
-Paley argued that, just as a watch is too complicated and too functional to have sprung into existence merely by accident, so too must all living things, with their far greater complexity, be purposefully designed life and the universe were created by a deity
+version https://git-lfs.github.com/spec/v1
+oid sha256:86c6d193b682cafe84ec0ec68e8eff8eb417059ac186da77ce326079507222b3
+size 259

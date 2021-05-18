@@ -1,1 +1,3 @@
-During the Vietnam War, some children of wealthy families wished to avoid a perception of avoiding military service. Those individuals often signed up for the National Guard, which at the time seldom sent troops overseas. The fact that some were able to use their family's connections to gain a position when spots in the Guard were limited also led to a perception that the wealthy were using the National Guard to ensure that their children were assigned low-risk duty in the U.S. the draft is fundamentally unfair
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e4a60083649fe0312e8b811073b3bea516a81c7c940e3c6693e6266176dc9c9
+size 516

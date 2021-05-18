@@ -1,1 +1,3 @@
-In a 2004 report by the US Department of Justice, researchers interviewed people who had been arrested in Las Vegas and Des Moines and found that the percentage of problem or pathological gamblers among the arrestees was three to five times higher than in the general population [REF There is a positive relationship between casinos and crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:6100a429feaae9cc22cf92aefd648fa167d8da8ef89ffab6cedc2fc9c5d932ca
+size 342

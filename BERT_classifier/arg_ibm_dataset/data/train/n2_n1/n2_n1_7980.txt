@@ -1,1 +1,3 @@
-In Romesh Thapar v. State of Madras,[REF] Patanjali Shastri, CJ observed: “ Freedom of speech and of the press lay at the foundation of all democratic organisations, for without free political discussion no public education, so essential for the proper functioning of the process of popular government, is possible Freedom of speech and of the press lay at the foundation of all democratic organisations
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbaa4176012dfd2810a71da82accb8b2f4827dd9a1cee470ae16c48298645c14
+size 405

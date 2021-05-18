@@ -1,1 +1,3 @@
-In a meta-analysis, DiCenso et al. have compared comprehensive sex education programs with abstinence-only programs [REF]. Their review of several studies shows that abstinence-only programs did not reduce the likelihood of pregnancy of women who participated in the programs, but rather increased it Denying teens factual information leads to unwanted pregnancies and STIs
+version https://git-lfs.github.com/spec/v1
+oid sha256:b908a4679dbbf534dfa8fca0022a3ea5bd0c6367e63bd418041b7b8d6bd689f1
+size 373

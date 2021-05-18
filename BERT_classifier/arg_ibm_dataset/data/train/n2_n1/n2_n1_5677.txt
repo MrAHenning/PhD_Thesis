@@ -1,1 +1,3 @@
-The Act begins with Congress’s findings and purpose. Findings include a recommendation from the National Gambling Impact Study Commission. One of the controversial findings asserted in the opening of the bill is the assertion that Internet gambling is a growing problem for banks and credit card companies [REF Internet gambling is a growing problem for banks and credit card companies
+version https://git-lfs.github.com/spec/v1
+oid sha256:66e41ebcbe3b467a2bc845d092eb0abfdf8fd5a4a5bdf864798b95d83d8b216b
+size 387

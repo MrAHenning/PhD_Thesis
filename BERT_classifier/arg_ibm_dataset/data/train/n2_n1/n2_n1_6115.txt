@@ -1,1 +1,3 @@
-One argument that religions can be harmful, made by atheists such as Sam Harris, is that Western religions' reliance on divine authority lends itself to authoritarianism and dogmatism [REF reliance on divine authority lends itself to authoritarianism and dogmatism
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa756d4e91b0aa979bfd6bbc0edf4fd7a894d9de6397bd4462f20130f83431c6
+size 264

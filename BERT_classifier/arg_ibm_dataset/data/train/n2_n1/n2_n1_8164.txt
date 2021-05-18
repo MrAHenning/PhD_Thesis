@@ -1,1 +1,3 @@
-The PHR report accused the IDF of failing to assist in the evacuation of wounded Palestinians from the battlefield, claiming that the army had "created countless obstacles for the rescue teams in the field who attempted to evacuate trapped and injured persons during Operation Cast Lead, the IDF did more to safeguard the rights of civilians in a combat zone than any other army in the history of warfare
+version https://git-lfs.github.com/spec/v1
+oid sha256:630d9a36e78b0d547d9d926af3ecf7c428d838090e3eab286d766386a36d06c5
+size 404

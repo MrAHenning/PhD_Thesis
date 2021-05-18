@@ -1,1 +1,3 @@
-Former athletes and officials came out against the USOC cover-up. "For so many years I lived it. I knew this was going on, but there's absolutely nothing you can do as an athlete. You have to believe governing bodies are doing what they are supposed to do. And it is obvious they did not", said former American sprinter and 1984 Olympic champion, Evelyn Ashford [REF drug testing can be wildly inconsistent and, in some instances, has gone unenforced
+version https://git-lfs.github.com/spec/v1
+oid sha256:063ec56b089b13482b7552c2183b3d833fdd2891ccc5750f5ea144052b3c165a
+size 450

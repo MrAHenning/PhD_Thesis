@@ -1,1 +1,3 @@
-In Emile, Jean-Jacques Rousseau asserted that when a person's understanding ponders over the existence of God it encounters nothing but contradictions the existence of some or all gods is logically impossible
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca5635bec1f374616001619c9e5dbf5e20e66f991fce329d4187fcfc7a6bfbdf
+size 208

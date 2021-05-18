@@ -1,1 +1,3 @@
-According to conflict theorists such as Marvin Wolfgang, Hubert Blalock and William Chambliss, the disproportionate representation of racial minorities in crime statistics and in the prison population is the result of race- and class-motivated disparities in arrests, prosecutions and sentencing rather than differences in actual participation in criminal activity, an approach which has also been taken by proponents of critical race theory [REF Criminal behavior is the product of biological factors
+version https://git-lfs.github.com/spec/v1
+oid sha256:eab967679b0f5d10db703f11df28a3716bb81f922a61f86f4121e0e0148526f6
+size 501

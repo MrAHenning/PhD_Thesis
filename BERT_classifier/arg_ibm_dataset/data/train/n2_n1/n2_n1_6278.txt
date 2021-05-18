@@ -1,1 +1,3 @@
-Epicurus is generally credited with first expounding the problem of evil, and it is sometimes called "the Epicurean paradox" or "the riddle of Epicurus": .   Either God wants to abolish evil, and cannot; or he can, but does not want to. If he wants to, but cannot, he is impotent. If he can, but does not want to, he is wicked. If God can abolish evil, and God really wants to do it, why is there evil in the world? – Epicurus, as quoted in 2000 Years of Disbelief God and evil are logically incompatible
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4aa5f77893e1133ddd11d6fe7c005a222e5f48fb92c0b4629b6a9b39345c671
+size 506

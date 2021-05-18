@@ -1,1 +1,3 @@
-Shelley Berkley of Nevada and Eliot Engel of New York wrote in a joint statement: "Israel took every reasonable step to avoid civilian casualties .. It is ridiculous to claim that Israel did not take appropriate actions to protect civilian populations" [REF the war was targeted against the "people of Gaza as a whole
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3746bc29b5d19e3dfcf9f03d65d2ace6feb257e34cd26fd4f21edc364fc5f51
+size 317

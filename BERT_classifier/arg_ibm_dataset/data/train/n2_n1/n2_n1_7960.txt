@@ -1,1 +1,3 @@
-The European Convention on Human Rights, for example, permits restrictions "in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or the rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary."[REF Reasonable restrictions upon free speech serve public order
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9adbb50f03c86e0e2eaf311dc1d783636af0b53bdf26fdae45f8ceb2313582b
+size 499

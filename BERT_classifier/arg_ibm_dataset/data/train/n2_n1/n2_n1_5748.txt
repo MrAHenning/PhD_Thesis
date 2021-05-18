@@ -1,1 +1,3 @@
-65% believed that the royals were simply celebrities who should not have any formal role in Canada [REF Royals are simply celebrities who should not have any formal role
+version https://git-lfs.github.com/spec/v1
+oid sha256:906e072719b859b57decf15e33d460e7e63240502228f8f6ef0980f3f3f6255e
+size 169

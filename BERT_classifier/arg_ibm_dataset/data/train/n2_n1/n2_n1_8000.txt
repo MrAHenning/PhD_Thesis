@@ -1,1 +1,3 @@
-Hoxby's research has found that both private and public schools improved through the use of vouchers [REF competition would improve schools and cost efficiency
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f2712e3b7ef201e760679f4d05ef809ee3dfdd1793d94083753a89c17cf4359
+size 159

@@ -1,1 +1,3 @@
-Milton Friedman, Nobel Prize winning economist and advocate of laissez-faire capitalism, believed that unionization (as well as the minimum wage) frequently produces higher wages at the expense of fewer jobs, and that, if some industries are unionized while others are not, wages will decline in non-unionized industries [REF unionized workers raise their own wages above their natural rate at the expense of their businesses or other workers
+version https://git-lfs.github.com/spec/v1
+oid sha256:2779494f515e9ea4fca46a031d0b4b7ed3ac6b4b61836c6485578f62b4c01812
+size 442

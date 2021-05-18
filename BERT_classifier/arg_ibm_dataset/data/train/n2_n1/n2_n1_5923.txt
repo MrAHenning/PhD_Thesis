@@ -1,1 +1,3 @@
-Economist Arthur Cecil Pigou discussed the impact of inequality in The Economics of Welfare. He wrote: Nevertheless, it is evident that any transference of income from a relatively rich man to a relatively poor man of similar temperament, since it enables more intense wants, to be satisfied at the expense of less intense wants, must increase the aggregate sum of satisfaction in societies where inequality is lower, population-wide satisfaction and happiness tend to be higher
+version https://git-lfs.github.com/spec/v1
+oid sha256:e64f64f8f28f30f0f8e83ca2057e4c0261ce1345f5155e971a47ffaedd068a0d
+size 478

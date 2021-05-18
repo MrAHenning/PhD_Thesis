@@ -1,1 +1,3 @@
-Catholic doctrine holds that God created sexual intercourse to be both unitive and procreative. [REF God created sexual intercourse to be both unitive and procreative
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f9735ee684c1ae9d89d0559d182ee728459167ec3dad636390a08bb0463fcab
+size 166

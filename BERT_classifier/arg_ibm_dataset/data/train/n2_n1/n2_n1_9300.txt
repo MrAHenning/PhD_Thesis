@@ -1,1 +1,3 @@
-Negative changes in the economy greatly affect all crime rates because people are more likely to find themselves in pressing situation like unemployment [REF external factors are not at play when it comes to crime
+version https://git-lfs.github.com/spec/v1
+oid sha256:a99f608b817fe59a4ace4f33f3a9848d99c098d21449d16399edfeaa9eb36dbd
+size 213

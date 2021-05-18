@@ -1,1 +1,3 @@
-Czech foreign affairs minister Karel Schwarzenberg said that "Israel has the right to take military action against attacks on locations where its civilians live" and that "no political dialogue is possible because of Hamas's attacks on Israeli settlements the disproportionate use of force by Israel, which causes suffering to the civilian population, can be neither understood nor justified
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a6337e1107c62ce4acaa6182d7d2ddcca65ab0747859f5236fb504df5c7f982
+size 391

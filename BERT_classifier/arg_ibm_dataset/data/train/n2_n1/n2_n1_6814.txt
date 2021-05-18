@@ -1,1 +1,3 @@
-Speaking in 2006, Dov Weisglass, an advisor to Israeli Prime Minister Ehud Olmert, allegedly said that, "The idea is to put the Palestinians on a diet, but not to make them die of hunger."[REF the Israeli blockade and closures had pushed the Palestinian economy into a stage of de-development
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3f0c82a0a2524bfc83f459057d8f397471aa209e44b5d43dc0127f39b91679a
+size 292

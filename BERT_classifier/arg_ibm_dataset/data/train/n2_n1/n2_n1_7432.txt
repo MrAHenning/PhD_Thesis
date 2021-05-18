@@ -1,1 +1,3 @@
-73.4% of Japanese citizens appreciate the mutual security treaty with the U.S. and the presence of the USFJ,[REF Japanese citizens appreciate the mutual security treaty with the U.S. and the presence of the USFJ
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a72249278d05655f51eb309587912d6d1464ec5fc7f54a519cfceb0ac0d40d2
+size 211

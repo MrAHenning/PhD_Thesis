@@ -1,1 +1,3 @@
-The United Nations Human Rights Council, in a resolution sponsored by Pakistan and Muslim countries, condemned Israeli military actions, expressing "shock at the bombardment of civilian homes in Gaza Israel's response was excessive
+version https://git-lfs.github.com/spec/v1
+oid sha256:31d761c4d38a279f5ed6095ebd0ad680014894dbe9f17b64387b2d7c947ee931
+size 231

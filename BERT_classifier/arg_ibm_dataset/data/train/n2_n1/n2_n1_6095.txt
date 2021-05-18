@@ -1,1 +1,3 @@
-Karl Marx and Friedrich Engels, influenced by the work of Feuerbach, argued that belief in God and religion are social functions, used by those in power to oppress the working class The idea of God necessarily ends in the enslavement of mankind
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf9e6b967a3093a7957f8da579f518ba1a16192386f23760aeb6d955e1fc308e
+size 244

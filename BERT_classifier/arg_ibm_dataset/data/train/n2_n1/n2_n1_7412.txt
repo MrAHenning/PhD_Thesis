@@ -1,1 +1,3 @@
-about 60 percent of teenagers who pledge virginity until marriage do engage in pre-marital sex and are then one-third less likely to use contraceptives than their peers who have received more conventional sex education [REF Evidence does not support the use of abstinence only sex education
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5b94757c3dfaafe34b8362ef915da975827de31fe6f1c3495f4f5bcf939eb0d
+size 290

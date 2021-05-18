@@ -1,1 +1,3 @@
-Following a July 30, 2010, Palestinian Grad missile attack on the heart of Ashkelon, United Nations Middle East envoy Robert Serry said that indiscriminate rocket fire against civilians was completely unacceptable, and constituted a terrorist attack [REF Hamas attacks are violations of basic humanitarian law
+version https://git-lfs.github.com/spec/v1
+oid sha256:da0b588d1b4ea329c074313c9e25bd7923205b853b0fc7017d102278da5d6a81
+size 309

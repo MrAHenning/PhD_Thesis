@@ -1,1 +1,3 @@
-An official statement by the Lithuanian government said that he "is aware of Israel's right to defend its citizens from the terrorist attacks of Hamas The right of the Israeli people to a life in peace and security without permanent threat from rocket attacks must be guaranteed
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b642c3fa23da6203dc8616155e35aaec376706191fbe3784dfe4e8a72e915aa
+size 278

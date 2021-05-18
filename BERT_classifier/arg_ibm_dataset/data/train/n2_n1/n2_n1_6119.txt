@@ -1,1 +1,3 @@
-In Emile, Jean-Jacques Rousseau asserted that when a person's understanding ponders over the existence of God it encounters nothing but contradictions when a person's understanding ponders over the existence of God it encounters nothing but contradictions
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6effe3ff1a16632a1d03a6311d7c7f9fe6b5ce022bbbd332e1830213d6cdc2e
+size 255

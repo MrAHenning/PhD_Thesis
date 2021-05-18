@@ -1,1 +1,3 @@
-On February 27, 2008, Hamas, the Popular Resistance Committees and the Palestinian Islamic Jihad fired a rocket barrage, in which they fired for the first time six Grad missiles at the industrial city of Ashkelon. While only a few people were lightly injured, the attack had a profound psychological impact. The Israeli Prime Minister and several other minister vowed a tough response. The next day, the IDF started an operation to halt, or at least decrease the rocket fire Israeli military attacks were launched in response to militants firing missiles
+version https://git-lfs.github.com/spec/v1
+oid sha256:39dde6569de853ce80d0890f48b634782b81b4c78a560fdcef3fd5e4d20305f2
+size 554

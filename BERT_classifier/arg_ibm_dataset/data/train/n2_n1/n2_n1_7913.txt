@@ -1,1 +1,3 @@
-Tobacco is also linked to susceptibility to infectious diseases, particularly in the lungs. Smoking more than 20 cigarettes a day increases the risk of tuberculosis by two to four times,[REF][REF] and being a current smoker has been linked to a fourfold increase in the risk of invasive pneumococcal disease [REF]. It is believed that smoking increases the risk of these and other pulmonary and respiratory tract infections both through structural damage and through effects on the immune system Tobacco use is described as the single most important preventable risk to human health
+version https://git-lfs.github.com/spec/v1
+oid sha256:8141e28d7429ca48562373af5e4d2afffdf5490b4edca6230083c96e4bdf24b0
+size 582

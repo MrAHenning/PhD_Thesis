@@ -1,1 +1,3 @@
-In 1773, Isaac Backus, a prominent Baptist minister in New England, observed that when "church and state are separate, the effects are happy, and they do not at all interfere with each other: but where they have been confounded together, no tongue nor pen can fully describe the mischiefs that have ensued practical distinction between Religion and Civil Government is essential to the purity of both
+version https://git-lfs.github.com/spec/v1
+oid sha256:23c987cd2e82ddc22469a1648eb1c5bf8824fe1f9ba63a2fe6ed771ab55c14a3
+size 400

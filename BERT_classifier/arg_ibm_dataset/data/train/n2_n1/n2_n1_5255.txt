@@ -1,1 +1,3 @@
-A medical research team in the United States attempted to set up extensive research into the effects of steroids on weightlifters and throwers, only to discover that there were so few who weren't taking them that they couldn't establish any worthwhile comparisons."[REF With no medical data to support the claimed health problems caused by performance-enhancing drugs, it is, at best, questionable
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc4250ae35776e41dd00c03df86c14d447aad637d38de57ec139f3c7b25fbc2c
+size 397

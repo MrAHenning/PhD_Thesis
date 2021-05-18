@@ -1,1 +1,3 @@
-A USA Today/Gallup Poll in June 2006 reached a different conclusion, with 56% supporting a constitutional amendment Americans support a flag desecration amendment
+version https://git-lfs.github.com/spec/v1
+oid sha256:6887acfda11afb2d687239de87a87d0f97c5632644cc33723e36642d18c82e02
+size 162

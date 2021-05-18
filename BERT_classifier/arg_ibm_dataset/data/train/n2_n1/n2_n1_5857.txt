@@ -1,1 +1,3 @@
-Orthodox organizations such as the Orthodox Union and Agudas Yisrael have occasionally partnered with pro-choice organizations when necessary to insure that abortions will be available to women whose lives are endangered by the fetus one must abort a fetus if the continuation of pregnancy might imperil the life of the woman
+version https://git-lfs.github.com/spec/v1
+oid sha256:9560507b6ff5d32dd450366e870c1ac56df9ecd3e9db79462f8e726e78e94fbb
+size 325

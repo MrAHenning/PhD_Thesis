@@ -1,1 +1,3 @@
-Goldman discussed the possible trauma of circumcision on children and parents, anxieties over the circumcised state, a tendency to repeat the trauma, and suggested a need on the part of circumcised doctors to find medical justifications for the procedure [REF this surgical procedure has medical and psychological risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:c30596164c3c5bdcf34a6413817b30af6369af7402c34de20c375d02e166b796
+size 319

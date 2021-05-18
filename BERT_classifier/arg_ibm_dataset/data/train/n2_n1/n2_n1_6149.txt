@@ -1,1 +1,3 @@
-One criticism of atheism is that godless nations have been responsible for aggressive campaigns against religions or religious people. Pope Benedict XVI, for example, stated in 2010: As we reflect on the sobering lessons of the atheist extremism of the 20th century, let us never forget how the exclusion of God, religion and virtue from public life leads ultimately to a truncated vision of man and of society and thus to a "reductive vision of the person and his destiny"[REF atheism systematically influences people to do bad things
+version https://git-lfs.github.com/spec/v1
+oid sha256:f891599829ebb40dcde10cd06f559af511a4c8f1eb59bff6bc891b4477ce8e08
+size 535

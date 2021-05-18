@@ -1,1 +1,3 @@
-On the floor of the UN General Assembly, Denmark "fully acknowledged the right of Israel to defend itself against rockets and terrorist attacks and its right, according to the Charter, to self-defence Israel's right to protect its citizens is recognised
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcbabedfc95787c6ce80b7b7bb4a8522134e00c916e79e803f12a1ff7c2e96da
+size 253

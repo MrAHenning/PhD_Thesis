@@ -1,1 +1,3 @@
-Syria criticized the "typical and expected Western silence" on "acts of religious discrimination." Syria said "in real terms defamation means targeting Muslims."[REF Defamation of religions is a modern expression of religious hatred and xenophobia
+version https://git-lfs.github.com/spec/v1
+oid sha256:16e816310efc0fd09517929739493c6340c84e4bfc24cd2f392908adaed40c9c
+size 247

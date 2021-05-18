@@ -1,1 +1,3 @@
-The right of free people to form militias to protect life, liberty, and property, Larry Pratt argues, has been shown historically to be essential for the preservation of freedom [REF the people have a right to "keep and bear arms" as a protection from the government
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff1cc954bff4a891641197dd70f265d81eb7276c8226e237372ef0d631eafad8
+size 266

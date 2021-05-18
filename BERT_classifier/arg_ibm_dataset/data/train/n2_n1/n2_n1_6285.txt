@@ -1,1 +1,3 @@
-One example of this view is demonstrated in Letters to a Young Contrarian (2001), in which Christopher Hitchens writes: "I'm not even an atheist so much as I am an antitheist; I not only maintain that all religions are versions of the same untruth, but I hold that the influence of churches, and the effect of religious belief, is positively harmful."[REF the effect of religious belief, is positively harmful
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f9c64ac85029d9124211295e074adf21b95896f4446c4b6064b1ffb5e6266a1
+size 409

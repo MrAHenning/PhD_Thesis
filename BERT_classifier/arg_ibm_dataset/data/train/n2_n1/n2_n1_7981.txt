@@ -1,1 +1,3 @@
-The Supreme Court observed in Union of India v. Assn. for Democratic Reforms:[REF] “Onesided information, disinformation, misinformation and non information, all equally create an uninformed citizenry which makes democracy a farce. Freedom of speech and expression includes right to impart and receive information which includes freedom to hold opinions Freedom of speech and of the press lay at the foundation of all democratic organisations
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee3fb32bb2a2c9bf45e961ace6f76d2eb7abb98a14c24e843b656c8a27ca800c
+size 444

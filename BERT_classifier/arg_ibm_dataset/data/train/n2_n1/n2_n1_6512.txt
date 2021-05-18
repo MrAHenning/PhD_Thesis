@@ -1,1 +1,3 @@
-South Australia had close to half of the nation's wind power capacity,[REF] accounting for almost twenty percent of that state's electricity needs of as October 2010. Victoria also had a substantial system, with about a quarter of the nation's capacity, and projects under construction forecast to more than double that capacity by the end of 2013 Wind power is a proven and reliable technology
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fcdcb0873ec5c4287300a38a88530fdc010c64cdac811e066f05ddd31273b72
+size 394

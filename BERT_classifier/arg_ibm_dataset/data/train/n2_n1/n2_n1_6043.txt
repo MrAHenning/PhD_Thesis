@@ -1,1 +1,3 @@
-In embryo, Waltz argues that the logic of mutually assured destruction (MAD) should work in all security environments, regardless of historical tensions or recent hostility. He sees the Cold War as the ultimate proof of MAD logicthe only occasion when enmity between two Great Powers did not result in military conflict. This was, he argues, because nuclear weapons promote caution in decision-makers. Neither Washington nor Moscow would risk nuclear Armageddon to advance territorial or power goals, hence a peaceful stalemate ensued (Waltz and Sagan (2003), p.&nbsp;24 nuclear weapons promote caution in decision-makers
+version https://git-lfs.github.com/spec/v1
+oid sha256:988e92fdf83898e79829a16d935b3dc38af9bf82c7b569ef12e3a1d5a51301b8
+size 621

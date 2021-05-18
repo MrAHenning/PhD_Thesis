@@ -1,1 +1,3 @@
-Studies have shown that the comprehensive programs work for youth population across the spectrum. Inexperienced, experienced, male, female, the majority of ethnic groups, and different communities all benefitted from this type of curriculum the comprehensive programs work for youth population across the spectrum
+version https://git-lfs.github.com/spec/v1
+oid sha256:da91f40dfb582dee23515974aee1efca778588025bd04bd047e3b30300d19687
+size 313

@@ -1,1 +1,3 @@
-Republicans view the Canadian monarchy as "outdated and irrelevant,"[REF monarchies are unfashionable
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ca3d24d62077e2a7950fc0da188ff9f01a31407ff83e5829fdb53c6f3a520bf
+size 101

@@ -1,1 +1,3 @@
-Richard Cloward and Lloyd Ohlin suggested that delinquency can result from differential opportunity for lower class youth [REF]. Such youths may be tempted to take up criminal activities, choosing an illegitimate path that provides them more lucrative economic benefits than conventional, over legal options such as minimum wage-paying jobs available to them [REF if the social structure of opportunities is unequal and prevents the majority from realizing the dream, some of them will turn to illegitimate means (crime) in order to realize it
+version https://git-lfs.github.com/spec/v1
+oid sha256:28a22dd1c63960ec993de09820b069054794b780467cd8d1275c565c701770b4
+size 543

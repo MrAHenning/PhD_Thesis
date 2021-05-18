@@ -1,1 +1,3 @@
-The Freedom in the World 2012 report notes improvement due to new reforms. Previously rated as a 7, the lowest rating, for both civil liberties and political rights, the release of political prisoners and a loosening of restriction has given Burma a 6 for civil liberties in the most recent Freedom in the World [REF since the transition to new government in August 2011, Burma's human rights record has been improving
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ad45b1cc21a375247a7e2ee0870d004401297faedd82f28bbeab6f732ef4946
+size 418

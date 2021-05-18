@@ -1,1 +1,3 @@
-In 2002, the legal scholar Afshin Ellian, a refugee from Iran, advocated a monocultural Rechtsstaat in the Netherlands [REF]. A liberal democracy cannot be multicultural, he argued, because multiculturalism is an ideology and a democracy has no official ideology Democracy and the rule of law can only be restored by abolishing multiculturalism
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e6f4ca9ea95b11b5eeb7df139f22e38651eb326f32b5f633d9d5bf2b73125c6
+size 344

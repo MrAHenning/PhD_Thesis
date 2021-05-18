@@ -1,1 +1,3 @@
-Some, such as law experts Harvard Law School Professor Alan Dershowitz, Chicago Law School Professor Eric Posner, and Johns Hopkins International Law and Diplomacy Professor Ruth Wedgwood, said that the naval blockade, the boarding in international waters, and the use of force were in accord with long-standing international law [REF the blockade is legal
+version https://git-lfs.github.com/spec/v1
+oid sha256:41ac85db59a53dc62f1826ab7350ecf9586308048964be399e8cf55db79e4848
+size 356

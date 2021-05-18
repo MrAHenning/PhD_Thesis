@@ -1,1 +1,3 @@
-Wiswell et al. obtained intraurethral and circumferential glans cultures from a total of 300 boys, concluding that the foreskin was associated with a "greater quantity of periurethral bacteria and a greater likelihood for the presence of, as well as higher concentrations of, potentially uropathogenic organisms."[REF Circumcision provides important health advantages which outweigh the risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:a34c411402579255e630b4fc73f1b832a9ee6bc3bf6eac9a85cabf0b816f8e5c
+size 392

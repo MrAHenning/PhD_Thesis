@@ -1,1 +1,3 @@
-the American Psychological Association,[REF] the American Medical Association,[REF] the National Association of School Psychologists,[REF] the American Academy of Pediatrics,[REF] the American Public Health Association,[REF] the Society for Adolescent Medicine[REF] and the American College Health Association,[REF] argue that sexual behavior after puberty is a given, and it is therefore crucial to provide information about the risks and how they can be minimized; they also claim that denying teens such factual information leads to unwanted pregnancies and STIs Denying teens factual information leads to unwanted pregnancies and STIs
+version https://git-lfs.github.com/spec/v1
+oid sha256:05fcfacf6b2e2cc4be11488c634f4bf64655bcc7a6338df8bbff11d4f77a9a60
+size 638

@@ -1,1 +1,3 @@
-A common position of Church leaders is that officially permitting condom use as a method of preventing disease could be interpreted as permitting fornication, which degrades and debases sex permitting condom use as a method of preventing disease could be interpreted as permitting fornication
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c079b20fd9c864e8429eca633915a85df15a265ca03fc55eb1dcac3d57a0727
+size 292

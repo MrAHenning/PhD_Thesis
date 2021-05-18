@@ -1,1 +1,3 @@
-In a 2009 preschool study 89% of a preschoolers' day was found to be sedentary while the same study also found that even when outside, 56 percent of activities were still sedentary Childhood inactivity is linked to obesity
+version https://git-lfs.github.com/spec/v1
+oid sha256:56ef7297e1d2492d4a6f465f6bfc499c6385ab9033416ceb9c59794fe00bcf32
+size 222

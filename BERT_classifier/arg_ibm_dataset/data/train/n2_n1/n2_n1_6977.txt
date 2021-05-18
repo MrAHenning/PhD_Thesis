@@ -1,1 +1,3 @@
-In March 2010, United Nations Secretary-General Ban Ki-Moon stated that the blockade of Gaza is causing "unacceptable suffering" and that families were living in "unacceptable, unsustainable conditions" [REF the blockade on Gaza is neither sustainable nor tenable in its present form
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb4127293ee5a66006fd97961926e8ceb07a1423d1d78311631150125b953f2
+size 283

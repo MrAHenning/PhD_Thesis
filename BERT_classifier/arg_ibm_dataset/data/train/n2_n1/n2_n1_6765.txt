@@ -1,1 +1,3 @@
-for instance, moose were found in a 2006 study to have as high as 453 times the acceptable levels of arsenic in their systems wildlife has been negatively affected by the oil sands
+version https://git-lfs.github.com/spec/v1
+oid sha256:df857601cd2dd7071b6bdb9909b815ed03e27e960697e1e4b492029e47dc3d27
+size 180

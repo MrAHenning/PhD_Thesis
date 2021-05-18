@@ -1,1 +1,3 @@
-most economists regard bribery as a bad thing because it encourages rent seeking behaviour Bribery encourages rent seeking behaviour
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1059ece27b3b82e7bbed3eb5531f7bd6edfead7e853d15607ec3e10c055c03c
+size 132

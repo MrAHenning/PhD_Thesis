@@ -1,1 +1,3 @@
-On 14 June 2010, the International Committee of the Red Cross noted that the increasing scarcity of items has led to rises in cost of goods while quality has fallen [REF]. There is also "an acute electricity crisis", where electricity supplies are "interrupted for seven hours a day on average". As a consequence, they note that public services, particularly health services, have suffered, posing "a serious risk to the treatment of patients the Israeli blockade and closures had pushed the Palestinian economy into a stage of de-development
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfcec1530b72bb6c2850ef604ff4649c5050eeb0446643861f79aa23d8d6c6b0
+size 542

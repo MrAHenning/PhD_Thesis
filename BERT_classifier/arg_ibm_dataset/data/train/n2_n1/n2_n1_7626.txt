@@ -1,1 +1,3 @@
-Schoen et al. (2000) studied the association between neonatal circumcision and invasive penile cancer, reporting that the relative risk for uncircumcised men was 22 times that of circumcised men [REF Circumcision provides important health advantages which outweigh the risks
+version https://git-lfs.github.com/spec/v1
+oid sha256:069a7df29cc8f6e548aa838dae408a1a2ea0456eec5e311af9a183efd507d63a
+size 274

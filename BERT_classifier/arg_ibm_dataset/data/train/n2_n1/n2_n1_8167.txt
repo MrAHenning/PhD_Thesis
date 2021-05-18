@@ -1,1 +1,3 @@
-HRW points out that primary purpose of the rocket attacks seems to be at least to spread terror among the Israeli civilian population. HRW adds that the rockets have created a pervasive climate of fear among people in the areas where they can reach [REF the psychological effect of the rocket strikes paralyzed life across Israel's south
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6fe3cd714f911b08305ce5c610e73d17e1a9af5c196758f5af252ba1ddf99d5
+size 337

@@ -1,1 +1,3 @@
-Latin Conservatism, founded by Joseph de Maistre, is uncompromising in its belief in the need for order. Maistre, like Thomas Hobbes before him, supported absolutism as the only means of avoiding violent disorder Social traditions or hierarchies are essential for social order
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd1848db2a437ba7951dffdd63ddd9a451c566513e6d844d96119459e55c646a
+size 276

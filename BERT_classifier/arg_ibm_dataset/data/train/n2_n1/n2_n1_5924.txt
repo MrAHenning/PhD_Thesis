@@ -1,1 +1,3 @@
-Alberto Alesina, Rafael Di Tella, and Robert MacCulloch find that inequality negatively affects happiness in Europe in societies where inequality is lower, population-wide satisfaction and happiness tend to be higher
+version https://git-lfs.github.com/spec/v1
+oid sha256:5063dcd4175bc48fede941bd4308bf10877977119be33c63df624d8be4a7cd82
+size 216

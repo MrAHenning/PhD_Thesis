@@ -1,1 +1,3 @@
-Based on the empirical observation of the strong, consistent connection between criminal behavior and age, Hirschi and Gottfredson theorizes that the single most important factor behind crime is individual lack of self-control the single most important factor behind crime is individual lack of self-control
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3db5c5fcb8fd06236f3c05cbfaa3700e26dd0fe656e39a2c428b70359b811cf
+size 307

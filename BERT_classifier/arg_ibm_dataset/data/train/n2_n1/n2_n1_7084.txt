@@ -1,1 +1,3 @@
-The United Nations High Commissioner for Human Rights, Navanethem Pillay, has condemned Israel's blockade of Gaza on numerous occasions, calling it "a direct contravention of international human rights and humanitarian law. It must end now” [REF Israel's blockade violates the Geneva Conventions
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed514f94337b4ba2282435100bb9b28dafe9bd28e1513ee1ab02d9ca66e1cbb0
+size 297

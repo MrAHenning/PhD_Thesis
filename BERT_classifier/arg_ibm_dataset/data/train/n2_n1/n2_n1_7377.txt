@@ -1,1 +1,3 @@
-Research has also found that adolescent sexual abstinence was associated with better mental health at age 29 [REF]. and that girls who were virgins at age 18 were less likely to have a mental illness at age 40 [REF early sexual activity - whether in or out of a romantic relationship - does far more harm than good
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d65c76b89fb528f209f30133fdbaf220fd93611c0a3b49cd43b17b5767ca281
+size 314

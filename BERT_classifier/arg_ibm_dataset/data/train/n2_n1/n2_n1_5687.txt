@@ -1,1 +1,3 @@
-In 1956–57 following the Hungarian Revolution of 1956 nearly 200,000 persons, about two percent of the population of Hungary, fled as refugees to Austria and West Germany [REF countries must be prepared to allow Open borders for people fleeing conflict
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca71093ea6012f6f65dce78a8f6b3c1e67918aa635582c771383805ad38724c9
+size 254

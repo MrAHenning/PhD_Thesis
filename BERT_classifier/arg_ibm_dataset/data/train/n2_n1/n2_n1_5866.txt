@@ -1,1 +1,3 @@
-The Dalai Lama has said that abortion is "negative," but there are exceptions. He said, "I think abortion should be approved or disapproved according to each circumstance."[REF abortion should be approved or disapproved according to each circumstance
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c2d590e8561ac0c229e0f33932a97b2b5a3042d2bbbbd5db4695dde585efef0
+size 250

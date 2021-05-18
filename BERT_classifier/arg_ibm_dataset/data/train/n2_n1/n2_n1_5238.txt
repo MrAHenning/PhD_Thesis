@@ -1,1 +1,3 @@
-A famous case of illicit AAS use in a competition was Canadian Ben Johnson's victory in the 100&nbsp;m at the 1988 Summer Olympics. He subsequently failed the drug test when stanozolol was found in his urine. He later admitted to using the steroid as well as Dianabol, Testosterone Cypionate, Furazabol, and human growth hormone amongst other things. Johnson was therefore stripped of his gold medal as well as recognition of what had been a world-record performance The use of anabolic steroids is now banned by all major sporting bodies
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d65af7afc7181dfdccb7bb926b9a259a6ad00e976bb0e81d89cba096c494cea
+size 538

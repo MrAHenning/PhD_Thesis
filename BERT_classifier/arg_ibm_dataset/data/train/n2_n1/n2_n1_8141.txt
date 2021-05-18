@@ -1,1 +1,3 @@
-The PHR report accused the IDF of failing to assist in the evacuation of wounded Palestinians from the battlefield, claiming that the army had "created countless obstacles for the rescue teams in the field who attempted to evacuate trapped and injured persons the Israeli soldiers at best failed to protect civilians, and at worst deliberately shot at them
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc0b0091cb3c6b61bf3854097cb2086fff7710568d322b53bba4cdccf0a631d1
+size 356

@@ -1,1 +1,3 @@
-Foreign Minister Dora Bakoyannis said Athens is aligned with the European Union presidency's statement over the worrisome developments. "A conflagration in the Middle East amid an international economic recession is a nightmare prospect that must be avoided at all costs .. The international community has a huge responsibility, it cannot remain idle; it must immediately assume initiatives for a de-escalation of tension" [REF]. The minister further condemned "all violence and terrorism", saying that Hamas had "sparked" the conflict it was Hamas that broke the truce
+version https://git-lfs.github.com/spec/v1
+oid sha256:1512a39781f76cb331c016670b869deca5bb5ef94b499ac63d974a7909ea7694
+size 569

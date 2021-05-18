@@ -1,1 +1,3 @@
-The court found that, "Under the circumstances, Johnson's burning of the flag constituted expressive conduct, permitting him to invoke the First Amendment Flag burning is protected speech under the First Amendment to the United States Constitution
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d7897fa0c63ad6feb65ba2f4f05a57a2389eebd2866aafe7ad073f6bd6bc134
+size 247

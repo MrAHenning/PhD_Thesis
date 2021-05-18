@@ -1,1 +1,3 @@
-Czech foreign affairs minister Karel Schwarzenberg said that "Israel has the right to take military action against attacks on locations where its civilians live The right of Israel to defend itself against rockets and terrorist attacks is acknowledged
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb283d8fc085f6bee1cf95757acd863de96b118688dcfb2aef38ad731f173b91
+size 251

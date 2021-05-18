@@ -1,1 +1,3 @@
-In India, there are many programs promoting sex education including information on AIDS in schools as well public education and advertising. AIDS clinics providing information and assistance are to be found in most cities and many small villages [REF]. “India has a strong prevention programme which goes hand in hand with care, support and treatment. We have been able to contain the epidemic with a prevalence of just 0.31 %. We have also brought about a decline of 50% in new infections annually.”Shri Gulam Nabi Azad, Hon’ble Minister of Health and Family Welfare, 2011 [REF broad sex education programs have global benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c4df6505cdb4601be0369f4d39fc534c9b251651f73f360e8a9801350180a1d
+size 634

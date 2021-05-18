@@ -1,1 +1,3 @@
-In 1988, unrest over economic mismanagement and political oppression by the government led to widespread pro-democracy demonstrations throughout the country known as the 8888 Uprising. Security forces killed thousands of demonstrators the military regime in Burma is one of the world's most repressive and abusive regimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a12c7a09bb6570c7ba4c57dab4e9fff9a95958455dca2929061a30fc2a85a94
+size 321

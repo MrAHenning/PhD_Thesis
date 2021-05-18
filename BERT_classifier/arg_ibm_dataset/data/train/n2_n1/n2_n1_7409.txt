@@ -1,1 +1,3 @@
-Many health educators have argued that comprehensive sex education would effectively reduce the number of teenage pregnancies The lack of education on safe sex, whether it’s from parents, schools, or otherwise, is a cause of teenage pregnancy
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d7223af02478fb308dca38913e6de5875d0d8ea88799e1e4193568e2eb80fbf
+size 244

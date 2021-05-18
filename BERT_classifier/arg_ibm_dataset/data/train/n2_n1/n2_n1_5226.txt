@@ -1,1 +1,3 @@
-In Africa, if current trends of soil degradation and population growth continue, the continent might be able to feed just 25% of its population by 2025, according to UNU's Ghana-based Institute for Natural Resources in Africa [REF rapid population growth damages the Earth's resources and diminishes human well-being
+version https://git-lfs.github.com/spec/v1
+oid sha256:fed7440b1e9335b7b515fb3cafa5348b0830c865ffb286ef18bbf7b0e56dd9e0
+size 316

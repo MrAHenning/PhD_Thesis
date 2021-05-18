@@ -1,1 +1,3 @@
-In October 2009, a suit was filed by the Natural Resources Defense Council that challenged the pipeline on the grounds that its permit was based on a deficient environmental impact statement The pipeline's permit was based on a deficient environmental impact statement
+version https://git-lfs.github.com/spec/v1
+oid sha256:efb308607705b55e28570c373c4345f52a42bd753a342e852505a78c397dda6f
+size 268

@@ -1,1 +1,3 @@
-Alan Dershowitz, professor of Law at Harvard Law School, wrote that the legality of blockades as a response to acts of war “is not subject to serious doubt.”[REF] He likened Israel’s maritime blockade of Gaza to U.S. naval actions in Cuba during the Cuban Missile Crisis, which the U.S. had deemed lawful though not part of an armed conflict [REF Blockades and other forms of economic sanction are permitted in international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:a02be3203ebe5324e6276168aeaea53be5425f6fae354a1adc06736e351bd7b2
+size 434

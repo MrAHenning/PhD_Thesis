@@ -1,1 +1,3 @@
-Turkey also established an inquiry into the events, which found, in contrast to the Israeli inquiry, the blockade and the Israeli raid to have been illegal The Gaza blockade is illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2e10df05f1c4c1dbc11a547f85cc0c1f697c560d4339459cbb9c4823f0a102e
+size 184

@@ -1,1 +1,3 @@
-Antonella Mularoni, Secretary of State for Foreign Affairs said "The San Marino Government hopes that a prompt solution will be found to guarantee peaceful coexistence to both Palestinians and Israelis who are entitled to peacefully live in that land. The ongoing crisis in the Gaza Strip is unfortunately the dramatic result of Hamas’ truce violation followed by Israeli retaliation The escalation of tensions in the Gaza Strip […] has been triggered by rocket attacks launched by Hamas against innocent Israeli civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e35c7c7d6f73546bd2be52391150d70742731673619fda8a88d4d4f375abc3f
+size 526

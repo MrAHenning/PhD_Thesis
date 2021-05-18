@@ -1,1 +1,3 @@
-the American Civil Rights Institute's Ward Connerly stated, "There is nothing positive, affirmative, or equal about 'affirmative action' programs that give preference to some groups based on race."[REF attempts at antidiscrimination have been criticized as reverse discrimination
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c81339cc6eb25f4f3801c4bb5197e41d546a60867f43ffdf4a22517201aade8
+size 279

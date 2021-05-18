@@ -1,1 +1,3 @@
-The average life-span of most species is 10 million years As long as species have been evolving, species have been going extinct
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a46213209858094b199137b1043c6acfe456656170cb79427017fd091734b50
+size 128

@@ -1,1 +1,3 @@
-In an interview in June 2006 with the Independent, Zarni stated that American efforts to sanction Burma were useless because Burma's neighbors, especially China, would never agree to them [REF efforts to sanction Burma were useless
+version https://git-lfs.github.com/spec/v1
+oid sha256:158d57484b3e956eea0bf6aed18f1a7ae98b0cd8815f8c8232a2bdb146a3c8e3
+size 231

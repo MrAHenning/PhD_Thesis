@@ -1,1 +1,3 @@
-The UN Human Rights Council as well as many non-governmental organizations and notable figures, such as Amnesty International and Human Rights Watch, have accused Israel of imposing collective punishment on the population of Gaza by the blockade, invasion and bombardment of Gaza [REF Israel's UAV attacks were a violation of International Humanitarian Law
+version https://git-lfs.github.com/spec/v1
+oid sha256:03b95cff6a30682135b90716e44e187b63f84cea578e435724d7f927f1844f73
+size 356

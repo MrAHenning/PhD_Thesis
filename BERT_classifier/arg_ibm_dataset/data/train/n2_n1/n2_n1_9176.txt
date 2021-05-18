@@ -1,1 +1,3 @@
-International observers view it as a "talk shop",[REF] which implies that the organisation is "big on words but small on action" [REF the organisation is "big on words but small on action
+version https://git-lfs.github.com/spec/v1
+oid sha256:012fe0b53928ae6ca8046eab52756fecffe75b91089426680c493d4a3999880c
+size 187

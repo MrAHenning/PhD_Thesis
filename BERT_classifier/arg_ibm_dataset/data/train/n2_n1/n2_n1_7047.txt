@@ -1,1 +1,3 @@
-Pravda argued in favour of the flotilla, stating And so the world was forgetting Gaza. It forgot that the blockade was deemed illegal by the UN The blockade is deemed illegal
+version https://git-lfs.github.com/spec/v1
+oid sha256:5850e14dfcfa5162437cbef976a844b4361cbc1b999ed7814201206357c4f7b5
+size 174

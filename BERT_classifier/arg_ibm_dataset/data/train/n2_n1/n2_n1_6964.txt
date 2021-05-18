@@ -1,1 +1,3 @@
-After visiting Gaza in March 2010, Irish foreign minister Micheál Martin described the Israeli blockade of Palestinian-ruled Gaza as "inhumane and unacceptable" and called on the European Union and other countries to increase pressure on Israel to lift the blockade Gaza cannot and must not be allowed to remain a prison camp
+version https://git-lfs.github.com/spec/v1
+oid sha256:78fdc55524e5600351c5e02e62f09636ae8e0bcea67eccb2afd39b0b40774496
+size 326

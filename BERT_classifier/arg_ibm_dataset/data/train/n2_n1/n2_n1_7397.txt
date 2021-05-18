@@ -1,1 +1,3 @@
-The National Association of School Psychologists,[REF] the American Academy of Pediatrics,[REF] the American Public Health Association,[REF] the Society for Adolescent Medicine[REF] and the American College Health Association,[REF] have all stated official support for comprehensive sex education. Comprehensive sex education curricula are intended to reduce sexually transmitted disease and out-of-wedlock or teenage pregnancies sexual behavior after puberty is a given, and it is therefore crucial to provide information about the risks and how they can be minimized
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b0d9a1179f07330062a37b1abf0874e34dbc6647787c627001d2b35ad7ff0a4
+size 568

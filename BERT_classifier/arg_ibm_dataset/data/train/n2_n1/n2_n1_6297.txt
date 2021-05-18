@@ -1,1 +1,3 @@
-The Conscription Act of 1917 was passed in June. Conscripts were court-martialed by the Army if they refused to wear uniforms, bear arms, perform basic duties or submit to military authority. Convicted objectors were often given long sentences of 20 years in Fort Leavenworth [REF conscription would not provide adequate protection for the rights of conscientious objectors
+version https://git-lfs.github.com/spec/v1
+oid sha256:952b00926de012eefa4c5d2f5f0ab09c729c765763cfa71e74c6c5cc205ce599
+size 373

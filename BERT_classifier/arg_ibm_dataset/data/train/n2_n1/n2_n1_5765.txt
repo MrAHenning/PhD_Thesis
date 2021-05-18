@@ -1,1 +1,3 @@
-on Victoria Day 2001, Manley said on CBC Radio that he believed that hereditary succession was outdated, and that the country's head of state should be elected. [REF the country's head of state should be elected
+version https://git-lfs.github.com/spec/v1
+oid sha256:7499c3bfbb8ea4c0626d94679b41921fb5b5bd6e124d27563525d9f5ad6e4b47
+size 211

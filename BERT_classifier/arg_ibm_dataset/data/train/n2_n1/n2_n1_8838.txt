@@ -1,1 +1,3 @@
-The Government of Chile reiterates its most absolute conviction that the military solution won't conduct to peace, to which Israelis as well as Palestinians have rights."[REF The attacks would not contribute to the security of Israel
+version https://git-lfs.github.com/spec/v1
+oid sha256:8586b48abfb87fd7a755e4cfdb27aae548f8939952f6dc267df30c230e2f77ca
+size 233

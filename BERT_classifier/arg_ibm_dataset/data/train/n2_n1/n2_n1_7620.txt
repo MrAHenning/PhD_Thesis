@@ -1,1 +1,3 @@
-Taddio et al. reported behavioural changes (heightened pain responses) during vaccinations in children circumcised with EMLA cream and with no anaethesia at the 99.9+% statistical confidence level (p<0.001) four to six months after their circumcision, suggesting a persistent effect on pain response [REF Circumcision is painful even when performed with anesthetic
+version https://git-lfs.github.com/spec/v1
+oid sha256:70bb73e412f67d1b7e2c00219441bc0d9fc11eb004e7a735d4bfb23e0c46ab74
+size 364

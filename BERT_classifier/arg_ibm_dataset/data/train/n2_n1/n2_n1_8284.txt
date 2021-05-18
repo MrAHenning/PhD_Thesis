@@ -1,1 +1,3 @@
-Senior Hamas official Mahmoud al-Zahar stated during the operation "they [Israeli forces] shelled everyone in Gaza.. They shelled children and hospitals and mosques Israel intentionally targeted civilians in Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2388f3f7267a589f094b891775109099cafd4a3774e26be754e8f85d32f1599
+size 212

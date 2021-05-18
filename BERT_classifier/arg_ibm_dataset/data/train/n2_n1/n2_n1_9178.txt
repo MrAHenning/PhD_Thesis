@@ -1,1 +1,3 @@
-The average economic growths of ASEAN's member nations during 1989–2009 was Singapore with 6.73 percent, Malaysia with 6.15 percent, Indonesia with 5.16 percent, Thailand with 5.02 percent, and the Philippines with 3.79 percent. This economic growth was greater than the average Asia-Pacific Economic Cooperation (APEC) economic growth, which was 2.83 percent [REF the agenda of economic integration would negatively affect industries
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e6cd6290d5284190b3ae070bd4f1177e699604eff8adae07d1b86c570c76d22
+size 436

@@ -1,1 +1,3 @@
-The Norwegian People's Aid issued the following statement: "Israel's actions on the Gaza Strip must be characterised as war crimes. The massive attacks affecting people who are not combatants, the disproportionate military use of violence and the blockade of an entire population are clear breaches of the international law for humanitarian concerns as laid down in the 4th Geneva Convention, both where the obligations of an occupying power and the rules of warfare are concerned."[REF Israel's actions were causing unjustifiable deaths among the civilians
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8fd160651d00e5fb97ac207e628458a32bfee23bbb9c259975813d147428da6
+size 557

@@ -1,1 +1,3 @@
-Various American government officials, who were in office during the Cold War period, are now advocating the elimination of nuclear weapons. These officials include Henry Kissinger, George Shultz, Sam Nunn, and William Perry [REF]. They believe that the doctrine of mutual Soviet-American deterrence is obsolete, and that reliance on nuclear weapons for deterrence is becoming increasingly hazardous and decreasingly effective [REF no issue carries more importance to the long-term health and security of humanity than the effort to reduce, and perhaps one day, rid the world of nuclear weapons
+version https://git-lfs.github.com/spec/v1
+oid sha256:35243bae7b15fbad71a5e3ca1d82ae40f37ee057ec7cc41788a87d7e013dae6e
+size 594

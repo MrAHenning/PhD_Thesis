@@ -1,1 +1,3 @@
-On June 26, 2008, the U.S. Supreme Court ruled for the first time in American history in District of Columbia v. Heller that the Second Amendment provides for an individual right to own a gun gun ownership is a civil liberty
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c0063329e392716a6d2b3ec46f0d798a5a970bb23cec40d743c14821c86e92
+size 224

@@ -1,1 +1,3 @@
-Cesare Lombroso, founder of the Italian school of criminology, argued that criminal behavior was the product of biological factors, including race Criminal behavior is the product of biological factors
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f34e60168f1892252ac82fe35e03925bcb06b840fdf85b2c042139d5b514654
+size 201

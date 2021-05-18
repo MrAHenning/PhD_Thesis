@@ -1,1 +1,3 @@
-International Committee of the Red Cross said that Israel's blockade violated the Geneva Conventions and stated that it constituted a collective punishment imposed in clear violation of Israel's obligations under international humanitarian law [REF The blockade action is a violation of international law
+version https://git-lfs.github.com/spec/v1
+oid sha256:981c2cfbcdc02160bfd30181240cac9ff15a7ee349dbabe36860352056c598d9
+size 304

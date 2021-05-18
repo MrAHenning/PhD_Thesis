@@ -1,1 +1,3 @@
-Strong evidence from Africa indicates that circumcision reduces the risk of HIV infection in heterosexual men by 38-66%,[REF circumcision should be presented as an option for health benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:516b693d4decbb6ea5a0ad08ca210c043a24887cbc7661339d346ef2133ecf26
+size 190

@@ -1,1 +1,3 @@
-In the United States, the Equal Employment Opportunity Commission sued a private test preparation firm, Kaplan, for unfairly using credit histories to discriminate against African Americans in terms of hiring decisions [REF race and sex shouldn't matter when getting a job
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb1d6549bf317b57523323dfa8751421d360be2d2ec6f32fa7c3815c59208be4
+size 272

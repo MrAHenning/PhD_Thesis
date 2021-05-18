@@ -1,1 +1,3 @@
-On October 1, 2007, the U.S. Court of Appeals for the Fourth Circuit ruled that the Virginia mandatory open primary statute was unconstitutional as applied to the Republicans because it imposed a burden on their freedom to associate under the First Amendment An open primary law is in general unconstitutional
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba92f5e4a1b06836bbc7e8345c5a9c03fef4e8de876e4e2f0c81ed11c3519a3
+size 309

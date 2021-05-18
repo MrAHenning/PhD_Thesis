@@ -1,1 +1,3 @@
-the link between physical health and exercise (or lack of it) was only discovered in 1949 and reported in 1953 by a team led by Jerry Morris [REF]. Dr. Morris noted that men of similar social class and occupation (bus conductors versus bus drivers) had markedly different rates of heart attacks, depending on the level of exercise they got: bus drivers had a sedentary occupation and a higher incidence of heart disease, while bus conductors were forced to move continually and had a lower incidence of heart disease [REF]. This link had not previously been noted and was later confirmed by other researchers Physical exercise is important for maintaining physical fitness
+version https://git-lfs.github.com/spec/v1
+oid sha256:db2ddca0a44f8a92651386a1f2278173d63a5f2e8076b794cf3c6c990ca64d5f
+size 672

@@ -1,1 +1,3 @@
-In 2008, Natal, the Israel Center for Victims of Terror and War, conducted a study on the city of Sderot based on representative sampling. The study found that between 75 percent and 94 percent of Sderot children aged 4–18 exhibited symptoms of post-traumatic stress. 28 percent of adults and 30 percent of children had post-traumatic stress disorder (PTSD Israeli citizens in the south have been suffering from rockets being fired at them
+version https://git-lfs.github.com/spec/v1
+oid sha256:59729d50fe07ad085a2101e8b043daf08a9df574297213c1c5b5845924644f82
+size 441

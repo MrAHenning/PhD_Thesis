@@ -1,1 +1,3 @@
-Additionally, some legal commentators believe that, owing to the long time since successful prosecution, blasphemy in Scotland is no longer a crime,[REF The blasphemy law is now a dead letter
+version https://git-lfs.github.com/spec/v1
+oid sha256:61bb43cb5f7274a29a35104a058b8a4fa52b6ea3b8e23dea0d0b086774fe419f
+size 191

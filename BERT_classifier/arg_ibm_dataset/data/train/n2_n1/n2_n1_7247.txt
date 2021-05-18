@@ -1,1 +1,3 @@
-The Internet is tailor-made for a populist, insurgent movement," says Joe Trippi,[REF] who managed the Howard Dean campaign. In his campaign memoir, The Revolution Will Not Be Televised, Trippi notes that the Internet's roots in the open-source ARPAnet, its hacker culture, and its decentralized, scattered architecture make it difficult for big, establishment candidates, companies and media to gain control of it The Internet is a key resource for independent activists or E-activists, particularly those whose message may run counter to the mainstream
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e6145f06cbb0484c10ad2f176945ed43bae2494b22ebab89e9d0f553dc2528d
+size 554

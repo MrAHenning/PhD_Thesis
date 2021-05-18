@@ -1,1 +1,3 @@
-The American Academy of Family Physicians states that death is rare. It estimates a death rate from circumcision of 1 infant in 500,000 [REF Circumcision remains a relatively safe procedure
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1ba048a8223b9c503d76c144fdedc29f597951b3c6a60b6d374c53b8f1d691c
+size 189

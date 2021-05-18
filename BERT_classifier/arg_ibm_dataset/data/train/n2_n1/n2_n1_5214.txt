@@ -1,1 +1,3 @@
-Collaborative research from the Institute of Development Studies states that "access to safe abortion is a matter of human rights, democracy and public health, and the denial of such access is a major cause of death and impairment, with significant costs to [international] development" [REF The human rights of women include their right to have control over and decide freely and responsibly on matters related to their sexuality
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fc59c04c4a73e245ba99b1b0d30f3668305761f8edf2aed8828fca26b6c9e58
+size 430

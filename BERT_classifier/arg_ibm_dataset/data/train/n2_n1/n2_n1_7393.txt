@@ -1,1 +1,3 @@
-Every year, an estimated 1 in 4 sexually active teens contracts an STI,[REF sexual behavior after puberty is a given, and it is therefore crucial to provide information about the risks and how they can be minimized
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e78968223f5d128243552659e599bff25d9acb295f44a47bed061db5e1f3164
+size 214

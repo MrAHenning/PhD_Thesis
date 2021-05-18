@@ -1,1 +1,3 @@
-French historian Valérie Igounet has written that "Holocaust denial is a convenient polemical substitute for anti-semitism."[REF Holocaust denial is a convenient polemical substitute for anti-semitism
+version https://git-lfs.github.com/spec/v1
+oid sha256:31720c19336ba81610f1ddd7f87219bb32f5ee3d631d83502dd9a2e43659f3ce
+size 201

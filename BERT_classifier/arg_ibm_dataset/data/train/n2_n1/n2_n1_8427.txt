@@ -1,1 +1,3 @@
-On January 12, the United Nations Human Rights Council adopted a resolution in which it strongly condemned the ongoing Israeli military operation in Gaza, which had according to the body "resulted in massive violations of human rights of the Palestinian people", and "demanded the occupying power, Israel, to immediately withdraw its military forces from Gaza."[REF Israel's actions on the Gaza Strip must be characterised as war crimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c18a398eb3c7bf5dc3a2ce4de1e5842241bac3a4995b7d4c812080448aa8cd3
+size 436

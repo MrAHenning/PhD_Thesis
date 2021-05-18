@@ -1,1 +1,3 @@
-The good society is one in which the greatest number of persons enjoy the greatest possible amount of happiness. Applying these general principles of liberty to freedom of expression, Mill states that if we silence an opinion, we may silence the truth. The individual freedom of expression is therefore essential to the well-being of society The individual freedom of expression is essential to the well-being of society
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea3b6d29886c051fa66236fb25dcca9f32d632651b45024c74754ec2a1fe5818
+size 420

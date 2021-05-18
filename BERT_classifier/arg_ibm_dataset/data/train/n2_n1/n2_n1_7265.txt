@@ -1,1 +1,3 @@
-The 2007 study found that, "No comprehensive program hastened the initiation of sex or increased the frequency of sex, results that many people fear." Further, the report showed "Comprehensive programs worked for both genders, for all major ethnic groups, for sexually inexperienced and experienced teens, in different settings, and in different communities broad sex education programs have global benefits
+version https://git-lfs.github.com/spec/v1
+oid sha256:eabfc8db59c1cb76dd78f9ad41d727d641fc5a152057610cba6b2c8ebee778ac
+size 407

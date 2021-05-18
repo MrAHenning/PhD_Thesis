@@ -1,1 +1,3 @@
-Philosophers Susan Neiman[REF] and Julian Baggini[REF] (among others) assert that behaving ethically only because of divine mandate is not true ethical behavior but merely blind obedience atheism is a superior basis for ethics
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f4c50e898ab113aff26162e95b9259633890835a97b3922992d3e11e697daef
+size 226

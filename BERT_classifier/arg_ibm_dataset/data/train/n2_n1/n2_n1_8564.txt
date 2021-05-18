@@ -1,1 +1,3 @@
-Dutch Prime Minister Jan Peter Balkenende said that he understands Israel's moves, given the scores of rockets that are being fired from Gaza onto Israeli targets by Hamas. He refused to condemn Israel for its military action No country can just passively accept being fired on
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef4f442f81392b3b43a6cd2614a13c9667490be3390a254f4b75cbe777b13cec
+size 277

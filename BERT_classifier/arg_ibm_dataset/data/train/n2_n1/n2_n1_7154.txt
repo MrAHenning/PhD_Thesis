@@ -1,1 +1,3 @@
-An Israeli government spokesman in June 2010 added that the blockade is intended to bring about a political goal and that Israel "could not lift the embargo altogether as long as Hamas remains in control" of Gaza [REF the purpose of the restrictions in import of goods into Gaza are to pressure Hamas, which does not recognise Israel and backs attacks on its citizens
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3c2c2b55910b48a3ee65ad29ce559537ab335b47f624387f4eb9b87e8911968
+size 367

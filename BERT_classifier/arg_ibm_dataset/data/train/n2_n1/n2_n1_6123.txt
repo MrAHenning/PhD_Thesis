@@ -1,1 +1,3 @@
-In Boyer's view, belief in supernatural entities spreads and becomes culturally fixed because of their memorability. The concept of 'minimally counterintuitive' beings that differ from the ordinary in a small number of ways (such as being invisible, able to fly, or having access to strategic and otherwise secret information) leave a lasting impression that spreads through word-of-mouth.   Scott Atran's "In Gods We Trust: The Evolutionary Landscape of Religion" (2002) makes a similar argument and adds examination of the socially coordinating aspects of shared belief natural (non-supernatural) theories adequately explain the development of religion and belief in gods
+version https://git-lfs.github.com/spec/v1
+oid sha256:131b78c0c46f5061ff6daa965c3e19edbb6d8d760153cc097e154e6e2b46edde
+size 673

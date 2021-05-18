@@ -1,1 +1,3 @@
-Milton's central argument was that the individual is capable of using reason and distinguishing right from wrong, good from bad. In order to be able to exercise this ration right, the individual must have unlimited access to the ideas of his fellow men in “a free and open encounter The individual freedom of expression is essential to the well-being of society
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a7f0a75b7621a873c83ec10ed235993b1a85cb1b83b5ac60ff7a4ef0aca44ce
+size 363

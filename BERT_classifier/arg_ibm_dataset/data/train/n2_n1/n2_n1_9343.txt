@@ -1,1 +1,3 @@
-Lombroso theorized that people were born criminals or in other words, less evolved humans who were biologically more related to our more primitive and animalistic urges some people are genetically predisposed to criminal behavior
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fc81d41b2a77bd957e26ef308bde63203c8cb9b45d549529163f86a49487f47
+size 229

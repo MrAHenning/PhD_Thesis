@@ -1,1 +1,3 @@
-Mitchell G. Bard states that Jean Ziegler (United Nations Special Rapporteur on the Right to Food) stated that Gaza Strip is "an immense concentration camp" and compared Israelis to Nazis [REF the world is furious over the blockade on Gaza
+version https://git-lfs.github.com/spec/v1
+oid sha256:058916e0c3c535d8595ec628607848491defe1ec697e755d2b0f0de63e06d2ba
+size 239

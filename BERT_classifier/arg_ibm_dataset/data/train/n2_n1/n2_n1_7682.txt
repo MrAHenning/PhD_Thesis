@@ -1,1 +1,3 @@
-Tropical deforestation is responsible for approximately 20% of world greenhouse gas emissions [REF The removal of trees without sufficient reforestation has adverse impacts on biosequestration of atmospheric carbon dioxide
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2c3c79e600614c944ca0af7a4cb7018c02c098ace1c4a64c1c89cf47303dc0a
+size 222

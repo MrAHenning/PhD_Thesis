@@ -1,1 +1,3 @@
-In May 2008, Cyclone Nargis caused extensive damage in the densely populated, rice-farming delta of the Irrawaddy Division [REF]. It was the worst natural disaster in Burmese history with reports of an estimated 200,000 people dead or missing, and damage totaled to 10&nbsp;billion dollars (USD), and as many as 1 million left homeless [REF]. In the critical days following this disaster, Burma's isolationist government hindered recovery efforts by delaying the entry of United Nations planes delivering medicine, food, and other supplies [REF the military regime in Burma is one of the world's most repressive and abusive regimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:b970aeee77cb59c05e12ba3e69bb8a4505f6dacbe81f7a3718cb42d5c6265370
+size 631

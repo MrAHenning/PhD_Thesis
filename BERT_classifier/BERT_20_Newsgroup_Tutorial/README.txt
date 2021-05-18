@@ -1,7 +1,3 @@
-# Found this tutorial on Kaggle.
-
-# Reference:
-	- Code: https://www.kaggle.com/sharmilaupadhyaya/20newsgroup-classification-using-keras-bert-in-gpu
-	- Article: https://www.linkedin.com/pulse/fine-tuning-bert-text-classification-20news-group-sharmila-upadhyaya
-	
-	
+version https://git-lfs.github.com/spec/v1
+oid sha256:b30ee1291f8f3ebeb90f46e8659485c5ed153b0023ba7f4f1f71c916b9c5f05f
+size 410
